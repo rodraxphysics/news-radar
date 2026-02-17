@@ -1,0 +1,19 @@
+{
+  "name": "news-radar-scripts",
+  "version": "1.0.0",
+  "description": "News fetcher and ranker for News Radar",
+  "main": "fetch-news.js",
+  "type": "module",
+  "scripts": {
+    "update": "node fetch-news.js",
+    "test": "node fetch-news.js --dry-run"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.28.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

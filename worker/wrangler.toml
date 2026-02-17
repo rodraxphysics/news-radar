@@ -1,0 +1,20 @@
+name = "news-radar-update"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# Account ID - will be auto-detected or set via CLOUDFLARE_ACCOUNT_ID env var
+# account_id = "your-account-id"
+
+# Workers route (optional - for custom domains)
+# routes = [
+#   { pattern = "api.yourdomain.com/update", zone_name = "yourdomain.com" }
+# ]
+
+# Environment variables (non-secret)
+[vars]
+ENVIRONMENT = "production"
+
+# Secrets are set via: wrangler secret put SECRET_NAME
+# Required secrets:
+# - GITHUB_TOKEN: GitHub PAT with Actions permissions
+# - GITHUB_REPO: owner/repo format

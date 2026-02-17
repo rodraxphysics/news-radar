@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Radar - AI & Fraud Intelligence</title>
+  <meta name="description" content="Curated news aggregator for Artificial Intelligence and Fraud/Cybersecurity from trusted sources">
+  <meta name="theme-color" content="#1a1a2e">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📡</text></svg>">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-content">
+        <div class="logo">
+          <span class="logo-icon">📡</span>
+          <h1>News Radar</h1>
+        </div>
+        <p class="tagline">AI & Fraud Intelligence from Trusted Sources</p>
+      </div>
+      <div class="header-actions">
+        <button id="theme-toggle" class="btn btn-icon" title="Toggle theme" aria-label="Toggle dark/light mode">
+          <span class="icon-sun">☀️</span>
+          <span class="icon-moon">🌙</span>
+        </button>
+        <button id="update-btn" class="btn btn-primary">
+          <span class="btn-text">UPDATE</span>
+          <span class="btn-loading" hidden>
+            <span class="spinner"></span>
+            Updating...
+          </span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Status Bar -->
+    <div class="status-bar">
+      <div class="status-info">
+        <span id="last-updated">Loading...</span>
+        <span class="separator">•</span>
+        <span id="article-count">0 articles</span>
+        <span class="separator">•</span>
+        <span id="source-count">0 sources</span>
+      </div>
+      <div id="update-status" class="update-status" hidden></div>
+    </div>
+
+    <!-- Filter Tabs -->
+    <nav class="filter-tabs" role="tablist">
+      <button class="tab active" data-filter="all" role="tab" aria-selected="true">
+        All
+        <span class="tab-count" id="count-all">0</span>
+      </button>
+      <button class="tab" data-filter="ai" role="tab" aria-selected="false">
+        🤖 AI
+        <span class="tab-count" id="count-ai">0</span>
+      </button>
+      <button class="tab" data-filter="fraud" role="tab" aria-selected="false">
+        🛡️ Fraud
+        <span class="tab-count" id="count-fraud">0</span>
+      </button>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+      <!-- Loading State -->
+      <div id="loading" class="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading news...</p>
+      </div>
+
+      <!-- Error State -->
+      <div id="error" class="error" hidden>
+        <span class="error-icon">⚠️</span>
+        <p id="error-message">Failed to load news</p>
+        <button class="btn btn-secondary" onclick="location.reload()">Retry</button>
+      </div>
+
+      <!-- Top Stories Section -->
+      <section id="top-stories" class="news-section" hidden>
+        <h2 class="section-title">
+          <span class="section-icon">⭐</span>
+          Top Stories
+        </h2>
+        <div id="top-stories-grid" class="news-grid"></div>
+      </section>
+
+      <!-- More News Section -->
+      <section id="more-news" class="news-section" hidden>
+        <h2 class="section-title">
+          <span class="section-icon">📰</span>
+          More News
+        </h2>
+        <div id="more-news-list" class="news-list"></div>
+      </section>
+
+      <!-- Executive Summary Section -->
+      <section id="summary-section" class="summary-section" hidden>
+        <h2 class="section-title">
+          <span class="section-icon">📋</span>
+          Executive Summary
+        </h2>
+        <div id="summary-content" class="summary-content"></div>
+        <div class="summary-meta">
+          <span id="summary-type"></span>
+          <span id="summary-generated"></span>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>
+        Data from trusted sources only • Updated every 4 hours
+      </p>
+      <p class="footer-disclaimer">
+        News Radar aggregates content from third-party sources. All articles link to original publishers.
+      </p>
+    </footer>
+  </div>
+
+  <!-- Scripts -->
+  <script src="app.js"></script>
+</body>
+</html>
