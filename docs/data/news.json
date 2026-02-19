@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-02-18T20:13:48.294Z",
+    "generated": "2026-02-19T00:26:59.533Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 87,
+    "totalArticles": 93,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 87 articles from 8 trusted sources, including 60 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Meta Begins $65 Million Election Push to Advance A.I. Agenda\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Supply Chain Attack Embeds Malware in Android Devices\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, TechCrunch, Dark Reading, SecurityWeek and others\n• **Fresh Content**: 47 articles published in the last 24 hours",
-    "generated": "2026-02-18T20:13:48.294Z",
+    "content": "Today's selection covers 93 articles from 8 trusted sources, including 63 on Artificial Intelligence and 20 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Meta Begins $65 Million Election Push to Advance A.I. Agenda\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, The Verge, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 45 articles published in the last 24 hours",
+    "generated": "2026-02-19T00:26:59.533Z",
     "stats": {
-      "totalArticles": 87,
-      "aiArticles": 60,
-      "fraudArticles": 17,
+      "totalArticles": 93,
+      "aiArticles": 63,
+      "fraudArticles": 20,
       "sources": 8,
-      "todayCount": 47
+      "todayCount": 45
     }
   },
   "top": [
@@ -27,9 +27,31 @@
       "description": "Meta’s biggest election investment aims to prevent state legislation that it fears could inhibit artificial intelligence development. Its spending starts this week in Texas and Illinois.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 19:02:27 +0000",
+      "pubDate": "Wed, 18 Feb 2026 19:02:28 +0000",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
+      "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+      "description": "How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 23:05:38 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto",
+      "link": "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto",
+      "description": "A convincing presale site for phony \"Google Coin\" features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 21:47:01 GMT",
+      "category": "ai",
+      "score": 95.5,
       "imageUrl": null
     },
     {
@@ -40,7 +62,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-18T16:00:00.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -51,7 +73,31 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 18 Feb 2026 14:32:42 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+      "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 21:07:00 +0000",
+      "category": "ai",
+      "score": 91,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+      "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+      "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 20:22:29 +0000",
+      "category": "ai",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -62,18 +108,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-18T11:02:22.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Supply Chain Attack Embeds Malware in Android Devices",
-      "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
-      "description": "Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 22:06:36 GMT",
-      "category": "fraud",
-      "score": 91.5,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -86,30 +121,6 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Google’s AI search results will make links more obvious",
-      "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-      "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now ap...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-17T22:38:24.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google announces dates for I/O 2026",
-      "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
-      "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company,...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-17T20:56:56.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
     },
     {
       "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
@@ -119,7 +130,18 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 18 Feb 2026 10:26:03 +0000",
       "category": "fraud",
-      "score": 89,
+      "score": 87,
+      "imageUrl": null
+    },
+    {
+      "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
+      "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
+      "description": "A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 20:49:36 GMT",
+      "category": "fraud",
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -141,38 +163,49 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 18 Feb 2026 11:27:38 -0500",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Supply Chain Attack Embeds Malware in Android Devices",
+      "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
+      "description": "Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 22:06:36 GMT",
+      "category": "fraud",
+      "score": 83.5,
       "imageUrl": null
     },
     {
       "title": "Zuckerberg defends Meta in landmark social media addiction trial",
       "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-      "description": "The billionaire chief executive faces is questioned over whether use of Instagram harms children.",
+      "description": "The billionaire boss said he \"always\" regretted not making faster progress to identify users under 13.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 18 Feb 2026 19:27:53 GMT",
+      "pubDate": "Wed, 18 Feb 2026 22:58:58 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
-      "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
-      "description": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
+      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
+      "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+      "description": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 14:35:12 +0000",
+      "pubDate": "Wed, 18 Feb 2026 23:08:27 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Mark Zuckerberg Says Instagram Is Valuable, Not Harmful, in Social Media Addiction Trial",
+      "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
       "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
-      "description": "Meta’s chief executive said users spent a lot of time on the app because of its value, as he was grilled about child safety issues in front of a jury.",
+      "description": "Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 19:22:46 +0000",
+      "pubDate": "Thu, 19 Feb 2026 00:19:14 +0000",
       "category": "both",
       "score": 83.5,
       "imageUrl": null
@@ -189,6 +222,28 @@
       "imageUrl": null
     },
     {
+      "title": "Google’s AI search results will make links more obvious",
+      "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+      "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now ap...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-17T22:38:24.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google announces dates for I/O 2026",
+      "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
+      "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company,...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-17T20:56:56.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Samsung is slopping AI ads all over its social channels",
       "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
       "description": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other device...",
@@ -200,36 +255,25 @@
       "imageUrl": null
     },
     {
-      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-      "description": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 15:15:03 -0500",
-      "category": "fraud",
-      "score": 81.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Call of Duty advert banned for trivialising sexual violence",
-      "link": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
-      "description": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 18 Feb 2026 11:58:27 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
-      "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
-      "description": "The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.",
+      "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
+      "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
+      "description": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 12:00:06 +0000",
+      "pubDate": "Wed, 18 Feb 2026 14:35:12 +0000",
       "category": "ai",
       "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
+      "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
+      "description": "CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 21:15:08 GMT",
+      "category": "fraud",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -244,78 +288,45 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
-      "description": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. [...]",
+      "title": "AI platforms can be abused for stealthy malware communication",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
+      "description": "AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 18 Feb 2026 11:26:53 -0500",
+      "pubDate": "Wed, 18 Feb 2026 15:18:24 -0500",
       "category": "both",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
-      "description": "We chat about a conversational AI that's almost human-like in its speech skills.",
+      "title": "Call of Duty advert banned for trivialising sexual violence",
+      "link": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
+      "description": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Feb 2026 20:30:00 GMT",
+      "pubDate": "Wed, 18 Feb 2026 11:58:27 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Amazon halts Blue Jay robotics project after less than six months",
+      "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
+      "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+      "description": "The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 12:00:06 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon halts Blue Jay robotics project after less than 6 months",
       "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
       "description": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 18 Feb 2026 18:27:10 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
-      "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-      "description": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 18:07:16 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Google adds music-generation capabilities to the Gemini app",
-      "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-      "description": "Users will be able to use text, images, and videos as a reference to generate music.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
-      "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
-      "description": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 15:08:40 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-      "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-      "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 14:44:28 +0000",
       "category": "ai",
       "score": 79,
       "imageUrl": null
@@ -332,25 +343,14 @@
       "imageUrl": null
     },
     {
-      "title": "New Keenadu Android Malware Found on Thousands of Devices",
-      "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
-      "description": "The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.\nThe post New Keenadu Android Malware Found on Thousands of Devices appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 18 Feb 2026 15:41:25 +0000",
-      "category": "fraud",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
-      "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
-      "description": "The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.\nThe post Cogent Security Raises $42 Million for AI-Driven Vulnerability Management appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 18 Feb 2026 14:47:07 +0000",
-      "category": "ai",
-      "score": 79,
+      "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
+      "description": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 18 Feb 2026 11:26:53 -0500",
+      "category": "both",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -365,25 +365,47 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "description": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 18 Feb 2026 07:03:05 -0500",
+      "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+      "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+      "description": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 18:07:16 +0000",
       "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
-      "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
-      "description": "​A Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 18 Feb 2026 05:50:50 -0500",
+      "title": "Google adds music-generation capabilities to the Gemini app",
+      "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+      "description": "Users will be able to use text, images, and videos as a reference to generate music.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 16:00:00 +0000",
       "category": "ai",
-      "score": 77.6,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+      "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
+      "description": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 15:08:40 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+      "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+      "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 14:44:28 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -409,58 +431,58 @@
       "imageUrl": null
     },
     {
-      "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
-      "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
-      "description": "Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:31:50 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "RMM Abuse Explodes as Hackers Ditch Malware",
-      "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
-      "description": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:26 GMT",
+      "title": "New Keenadu Android Malware Found on Thousands of Devices",
+      "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
+      "description": "The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.\nThe post New Keenadu Android Malware Found on Thousands of Devices appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Feb 2026 15:41:25 +0000",
       "category": "fraud",
-      "score": 76.5,
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
-      "description": "ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:02 GMT",
-      "category": "both",
-      "score": 76.5,
+      "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
+      "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
+      "description": "The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.\nThe post Cogent Security Raises $42 Million for AI-Driven Vulnerability Management appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Feb 2026 14:47:07 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
-      "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
-      "description": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
+      "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijackin...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 18:15:49 -0500",
+      "pubDate": "Wed, 18 Feb 2026 15:58:20 -0500",
+      "category": "fraud",
+      "score": 76.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+      "description": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 18 Feb 2026 07:03:05 -0500",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
     },
     {
-      "title": "Apple is reportedly cooking up a trio of AI wearables",
-      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-      "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Feb 2026 20:14:00 +0000",
+      "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
+      "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
+      "description": "​A Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 18 Feb 2026 05:50:50 -0500",
       "category": "ai",
-      "score": 75,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -482,6 +504,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-17T13:00:00.000Z",
       "category": "ai",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+      "description": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Feb 2026 15:15:03 -0500",
+      "category": "fraud",
       "score": 73.6,
       "imageUrl": null
     },
@@ -508,12 +541,12 @@
       "imageUrl": null
     },
     {
-      "title": "Reddit's human content wins amid the AI flood",
-      "link": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss",
-      "description": "Reddit says its human contributors are valued amid an internet awash with AI-generated content.",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
+      "description": "We chat about a conversational AI that's almost human-like in its speech skills.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Feb 2026 00:03:10 GMT",
+      "pubDate": "Tue, 17 Feb 2026 20:30:00 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -530,12 +563,45 @@
       "imageUrl": null
     },
     {
-      "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
-      "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
-      "description": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 18:20:50 +0000",
+      "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
+      "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
+      "description": "Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 21:31:50 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "RMM Abuse Explodes as Hackers Ditch Malware",
+      "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
+      "description": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 21:01:26 GMT",
+      "category": "fraud",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
+      "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
+      "description": "ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 21:01:02 GMT",
+      "category": "both",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech firms will have 48 hours to remove abusive images under new law",
+      "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss",
+      "description": "The government is proposing that intimate image abuse should be treated more severely.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Feb 2026 22:32:18 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -574,6 +640,17 @@
       "imageUrl": null
     },
     {
+      "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
+      "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
+      "description": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Feb 2026 18:15:49 -0500",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
       "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
       "description": "Notepad++ has adopted a \"double-lock\" design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise. [...]",
@@ -607,25 +684,14 @@
       "imageUrl": null
     },
     {
-      "title": "Ireland now also investigating X over Grok-made sexual images",
-      "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
-      "description": "Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to genera...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 05:02:21 -0500",
+      "title": "Apple is reportedly cooking up a trio of AI wearables",
+      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+      "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Feb 2026 20:14:00 +0000",
       "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Washington Hotel in Japan discloses ransomware infection incident",
-      "link": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
-      "description": "The Washington Hotel brand in Japan has announced that that its servers were compromised in a ransomware attack, exposing various business data. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Feb 2026 16:10:38 -0500",
-      "category": "fraud",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -695,28 +761,6 @@
       "imageUrl": null
     },
     {
-      "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
-      "link": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
-      "description": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
-      "link": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
-      "description": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesse...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
       "link": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
       "description": "The latest funding round was led by Sorenson Capital and brings the total investment to $45 million.\nThe post VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence appea...",
@@ -761,34 +805,23 @@
       "imageUrl": null
     },
     {
-      "title": "Flaws in popular VSCode extensions expose developers to attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-      "description": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local fi...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 16:27:12 -0500",
-      "category": "general",
-      "score": 66.6,
-      "imageUrl": null
-    },
-    {
-      "title": "V&A displays first YouTube video and watchpage",
-      "link": "https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss",
-      "description": "The original YouTube experience from 2005 has been recreated using internet archives.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 18 Feb 2026 11:23:53 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
       "title": "How to Watch Free Live Television on Your Phone or Tablet",
       "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
       "description": "Whether by app or old-school antennas, budget-friendly options abound.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 18 Feb 2026 14:00:12 +0000",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
+      "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+      "description": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 18:20:50 +0000",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
@@ -805,25 +838,14 @@
       "imageUrl": null
     },
     {
-      "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
-      "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
-      "description": "Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.\nThe post Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 18 Feb 2026 08:24:46 +0000",
+      "title": "V&A displays first YouTube video and watchpage",
+      "link": "https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss",
+      "description": "The original YouTube experience from 2005 has been recreated using internet archives.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Feb 2026 11:23:53 GMT",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Password managers' promise that they can't see your vaults isn't always true",
-      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-      "description": "Contrary to what password managers say, a server compromise can mean game over.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 17 Feb 2026 20:43:01 +0000",
-      "category": "general",
-      "score": 61.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -835,6 +857,28 @@
       "pubDate": "Wed, 18 Feb 2026 01:00:00 GMT",
       "category": "general",
       "score": 61.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
+      "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
+      "description": "Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.\nThe post Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Feb 2026 08:24:46 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Reddit's human content wins amid the AI flood",
+      "link": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss",
+      "description": "Reddit says its human contributors are valued amid an internet awash with AI-generated content.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Feb 2026 00:03:10 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -871,6 +915,17 @@
       "imageUrl": null
     },
     {
+      "title": "Flaws in popular VSCode extensions expose developers to attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
+      "description": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local fi...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Feb 2026 16:27:12 -0500",
+      "category": "general",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
       "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands",
       "description": "The GS7 cyber-threat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
@@ -893,17 +948,6 @@
       "imageUrl": null
     },
     {
-      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
-      "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
-      "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Chatbots Are the New Influencers Brands Must Woo",
       "link": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
       "description": "Companies are realizing they can no longer simply promote themselves to potential customers. They have to win over the robots, too.",
@@ -912,6 +956,17 @@
       "pubDate": "Tue, 17 Feb 2026 10:02:10 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Password managers' promise that they can't see your vaults isn't always true",
+      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+      "description": "Contrary to what password managers say, a server compromise can mean game over.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "category": "general",
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -956,6 +1011,17 @@
       "pubDate": "Tue, 17 Feb 2026 15:58:43 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
+      "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
+      "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -988,9 +1054,31 @@
       "description": "Meta’s biggest election investment aims to prevent state legislation that it fears could inhibit artificial intelligence development. Its spending starts this week in Texas and Illinois.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 19:02:27 +0000",
+      "pubDate": "Wed, 18 Feb 2026 19:02:28 +0000",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
+      "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+      "description": "How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 23:05:38 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto",
+      "link": "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto",
+      "description": "A convincing presale site for phony \"Google Coin\" features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 21:47:01 GMT",
+      "category": "ai",
+      "score": 95.5,
       "imageUrl": null
     },
     {
@@ -1001,7 +1089,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-18T16:00:00.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1012,7 +1100,29 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 18 Feb 2026 14:32:42 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+      "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 21:07:00 +0000",
+      "category": "ai",
+      "score": 91,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+      "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+      "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 20:22:29 +0000",
+      "category": "ai",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -1023,18 +1133,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-18T11:02:22.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Supply Chain Attack Embeds Malware in Android Devices",
-      "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
-      "description": "Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 22:06:36 GMT",
-      "category": "fraud",
-      "score": 91.5,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1049,28 +1148,6 @@
       "imageUrl": null
     },
     {
-      "title": "Google’s AI search results will make links more obvious",
-      "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-      "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now ap...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-17T22:38:24.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google announces dates for I/O 2026",
-      "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
-      "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company,...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-17T20:56:56.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
       "link": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
       "description": "The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.\nThe post CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5...",
@@ -1078,7 +1155,18 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 18 Feb 2026 10:26:03 +0000",
       "category": "fraud",
-      "score": 89,
+      "score": 87,
+      "imageUrl": null
+    },
+    {
+      "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
+      "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
+      "description": "A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 20:49:36 GMT",
+      "category": "fraud",
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -1100,38 +1188,49 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 18 Feb 2026 11:27:38 -0500",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Supply Chain Attack Embeds Malware in Android Devices",
+      "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
+      "description": "Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 22:06:36 GMT",
+      "category": "fraud",
+      "score": 83.5,
       "imageUrl": null
     },
     {
       "title": "Zuckerberg defends Meta in landmark social media addiction trial",
       "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-      "description": "The billionaire chief executive faces is questioned over whether use of Instagram harms children.",
+      "description": "The billionaire boss said he \"always\" regretted not making faster progress to identify users under 13.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 18 Feb 2026 19:27:53 GMT",
+      "pubDate": "Wed, 18 Feb 2026 22:58:58 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
-      "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
-      "description": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
+      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
+      "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+      "description": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 14:35:12 +0000",
+      "pubDate": "Wed, 18 Feb 2026 23:08:27 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Mark Zuckerberg Says Instagram Is Valuable, Not Harmful, in Social Media Addiction Trial",
+      "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
       "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
-      "description": "Meta’s chief executive said users spent a lot of time on the app because of its value, as he was grilled about child safety issues in front of a jury.",
+      "description": "Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 19:22:46 +0000",
+      "pubDate": "Thu, 19 Feb 2026 00:19:14 +0000",
       "category": "both",
       "score": 83.5,
       "imageUrl": null
@@ -1148,6 +1247,28 @@
       "imageUrl": null
     },
     {
+      "title": "Google’s AI search results will make links more obvious",
+      "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+      "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now ap...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-17T22:38:24.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google announces dates for I/O 2026",
+      "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
+      "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company,...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-17T20:56:56.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Samsung is slopping AI ads all over its social channels",
       "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
       "description": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other device...",
@@ -1159,36 +1280,25 @@
       "imageUrl": null
     },
     {
-      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-      "description": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 15:15:03 -0500",
-      "category": "fraud",
-      "score": 81.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Call of Duty advert banned for trivialising sexual violence",
-      "link": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
-      "description": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 18 Feb 2026 11:58:27 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
-      "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
-      "description": "The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.",
+      "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
+      "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
+      "description": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 12:00:06 +0000",
+      "pubDate": "Wed, 18 Feb 2026 14:35:12 +0000",
       "category": "ai",
       "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
+      "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
+      "description": "CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 21:15:08 GMT",
+      "category": "fraud",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -1203,78 +1313,45 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
-      "description": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. [...]",
+      "title": "AI platforms can be abused for stealthy malware communication",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
+      "description": "AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 18 Feb 2026 11:26:53 -0500",
+      "pubDate": "Wed, 18 Feb 2026 15:18:24 -0500",
       "category": "both",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
-      "description": "We chat about a conversational AI that's almost human-like in its speech skills.",
+      "title": "Call of Duty advert banned for trivialising sexual violence",
+      "link": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
+      "description": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Feb 2026 20:30:00 GMT",
+      "pubDate": "Wed, 18 Feb 2026 11:58:27 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Amazon halts Blue Jay robotics project after less than six months",
+      "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
+      "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+      "description": "The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 12:00:06 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon halts Blue Jay robotics project after less than 6 months",
       "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
       "description": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 18 Feb 2026 18:27:10 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
-      "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-      "description": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 18:07:16 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Google adds music-generation capabilities to the Gemini app",
-      "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-      "description": "Users will be able to use text, images, and videos as a reference to generate music.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
-      "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
-      "description": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 15:08:40 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-      "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-      "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 18 Feb 2026 14:44:28 +0000",
       "category": "ai",
       "score": 79,
       "imageUrl": null
@@ -1291,25 +1368,14 @@
       "imageUrl": null
     },
     {
-      "title": "New Keenadu Android Malware Found on Thousands of Devices",
-      "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
-      "description": "The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.\nThe post New Keenadu Android Malware Found on Thousands of Devices appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 18 Feb 2026 15:41:25 +0000",
-      "category": "fraud",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
-      "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
-      "description": "The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.\nThe post Cogent Security Raises $42 Million for AI-Driven Vulnerability Management appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 18 Feb 2026 14:47:07 +0000",
-      "category": "ai",
-      "score": 79,
+      "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
+      "description": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 18 Feb 2026 11:26:53 -0500",
+      "category": "both",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1324,25 +1390,47 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "description": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 18 Feb 2026 07:03:05 -0500",
+      "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+      "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+      "description": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 18:07:16 +0000",
       "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
-      "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
-      "description": "​A Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 18 Feb 2026 05:50:50 -0500",
+      "title": "Google adds music-generation capabilities to the Gemini app",
+      "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+      "description": "Users will be able to use text, images, and videos as a reference to generate music.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 16:00:00 +0000",
       "category": "ai",
-      "score": 77.6,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+      "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
+      "description": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 15:08:40 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+      "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+      "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Feb 2026 14:44:28 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1368,58 +1456,58 @@
       "imageUrl": null
     },
     {
-      "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
-      "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
-      "description": "Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:31:50 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "RMM Abuse Explodes as Hackers Ditch Malware",
-      "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
-      "description": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:26 GMT",
+      "title": "New Keenadu Android Malware Found on Thousands of Devices",
+      "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
+      "description": "The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.\nThe post New Keenadu Android Malware Found on Thousands of Devices appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Feb 2026 15:41:25 +0000",
       "category": "fraud",
-      "score": 76.5,
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
-      "description": "ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:02 GMT",
-      "category": "both",
-      "score": 76.5,
+      "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
+      "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
+      "description": "The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.\nThe post Cogent Security Raises $42 Million for AI-Driven Vulnerability Management appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Feb 2026 14:47:07 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
-      "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
-      "description": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
+      "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijackin...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 18:15:49 -0500",
+      "pubDate": "Wed, 18 Feb 2026 15:58:20 -0500",
+      "category": "fraud",
+      "score": 76.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+      "description": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 18 Feb 2026 07:03:05 -0500",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
     },
     {
-      "title": "Apple is reportedly cooking up a trio of AI wearables",
-      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-      "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Feb 2026 20:14:00 +0000",
+      "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
+      "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
+      "description": "​A Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 18 Feb 2026 05:50:50 -0500",
       "category": "ai",
-      "score": 75,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1441,6 +1529,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-17T13:00:00.000Z",
       "category": "ai",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+      "description": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Feb 2026 15:15:03 -0500",
+      "category": "fraud",
       "score": 73.6,
       "imageUrl": null
     },
@@ -1467,12 +1566,12 @@
       "imageUrl": null
     },
     {
-      "title": "Reddit's human content wins amid the AI flood",
-      "link": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss",
-      "description": "Reddit says its human contributors are valued amid an internet awash with AI-generated content.",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
+      "description": "We chat about a conversational AI that's almost human-like in its speech skills.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Feb 2026 00:03:10 GMT",
+      "pubDate": "Tue, 17 Feb 2026 20:30:00 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1489,12 +1588,45 @@
       "imageUrl": null
     },
     {
-      "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
-      "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
-      "description": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 18:20:50 +0000",
+      "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
+      "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
+      "description": "Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 21:31:50 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "RMM Abuse Explodes as Hackers Ditch Malware",
+      "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
+      "description": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 21:01:26 GMT",
+      "category": "fraud",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
+      "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
+      "description": "ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Feb 2026 21:01:02 GMT",
+      "category": "both",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech firms will have 48 hours to remove abusive images under new law",
+      "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss",
+      "description": "The government is proposing that intimate image abuse should be treated more severely.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Feb 2026 22:32:18 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -1533,6 +1665,17 @@
       "imageUrl": null
     },
     {
+      "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
+      "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
+      "description": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Feb 2026 18:15:49 -0500",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
       "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
       "description": "Notepad++ has adopted a \"double-lock\" design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise. [...]",
@@ -1566,25 +1709,14 @@
       "imageUrl": null
     },
     {
-      "title": "Ireland now also investigating X over Grok-made sexual images",
-      "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
-      "description": "Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to genera...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 05:02:21 -0500",
+      "title": "Apple is reportedly cooking up a trio of AI wearables",
+      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+      "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Feb 2026 20:14:00 +0000",
       "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Washington Hotel in Japan discloses ransomware infection incident",
-      "link": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
-      "description": "The Washington Hotel brand in Japan has announced that that its servers were compromised in a ransomware attack, exposing various business data. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Feb 2026 16:10:38 -0500",
-      "category": "fraud",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1654,28 +1786,6 @@
       "imageUrl": null
     },
     {
-      "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
-      "link": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
-      "description": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
-      "link": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
-      "description": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesse...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
       "link": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
       "description": "The latest funding round was led by Sorenson Capital and brings the total investment to $45 million.\nThe post VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence appea...",
@@ -1720,34 +1830,23 @@
       "imageUrl": null
     },
     {
-      "title": "Flaws in popular VSCode extensions expose developers to attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-      "description": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local fi...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Feb 2026 16:27:12 -0500",
-      "category": "general",
-      "score": 66.6,
-      "imageUrl": null
-    },
-    {
-      "title": "V&A displays first YouTube video and watchpage",
-      "link": "https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss",
-      "description": "The original YouTube experience from 2005 has been recreated using internet archives.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 18 Feb 2026 11:23:53 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
       "title": "How to Watch Free Live Television on Your Phone or Tablet",
       "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
       "description": "Whether by app or old-school antennas, budget-friendly options abound.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 18 Feb 2026 14:00:12 +0000",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
+      "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+      "description": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 18:20:50 +0000",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
@@ -1764,25 +1863,14 @@
       "imageUrl": null
     },
     {
-      "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
-      "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
-      "description": "Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.\nThe post Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 18 Feb 2026 08:24:46 +0000",
+      "title": "V&A displays first YouTube video and watchpage",
+      "link": "https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss",
+      "description": "The original YouTube experience from 2005 has been recreated using internet archives.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Feb 2026 11:23:53 GMT",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Password managers' promise that they can't see your vaults isn't always true",
-      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-      "description": "Contrary to what password managers say, a server compromise can mean game over.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 17 Feb 2026 20:43:01 +0000",
-      "category": "general",
-      "score": 61.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1794,6 +1882,28 @@
       "pubDate": "Wed, 18 Feb 2026 01:00:00 GMT",
       "category": "general",
       "score": 61.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
+      "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
+      "description": "Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.\nThe post Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Feb 2026 08:24:46 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Reddit's human content wins amid the AI flood",
+      "link": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss",
+      "description": "Reddit says its human contributors are valued amid an internet awash with AI-generated content.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Feb 2026 00:03:10 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1830,6 +1940,17 @@
       "imageUrl": null
     },
     {
+      "title": "Flaws in popular VSCode extensions expose developers to attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
+      "description": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local fi...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Feb 2026 16:27:12 -0500",
+      "category": "general",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
       "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands",
       "description": "The GS7 cyber-threat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
@@ -1852,17 +1973,6 @@
       "imageUrl": null
     },
     {
-      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
-      "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
-      "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Chatbots Are the New Influencers Brands Must Woo",
       "link": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
       "description": "Companies are realizing they can no longer simply promote themselves to potential customers. They have to win over the robots, too.",
@@ -1871,6 +1981,17 @@
       "pubDate": "Tue, 17 Feb 2026 10:02:10 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Password managers' promise that they can't see your vaults isn't always true",
+      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+      "description": "Contrary to what password managers say, a server compromise can mean game over.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "category": "general",
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -1915,6 +2036,17 @@
       "pubDate": "Tue, 17 Feb 2026 15:58:43 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
+      "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
+      "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
