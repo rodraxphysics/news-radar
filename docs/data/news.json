@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-02-20T20:08:09.928Z",
+    "generated": "2026-02-21T00:24:57.140Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 104,
-    "sources": 9,
+    "totalArticles": 99,
+    "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 104 articles from 9 trusted sources, including 62 on Artificial Intelligence and 29 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: CISA: BeyondTrust RCE flaw now exploited in ransomware attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, BleepingComputer, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
-    "generated": "2026-02-20T20:08:09.928Z",
+    "content": "Today's selection covers 99 articles from 8 trusted sources, including 58 on Artificial Intelligence and 28 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: CISA: BeyondTrust RCE flaw now exploited in ransomware attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, The Verge, BleepingComputer, SecurityWeek and others\n• **Fresh Content**: 44 articles published in the last 24 hours",
+    "generated": "2026-02-21T00:24:57.140Z",
     "stats": {
-      "totalArticles": 104,
-      "aiArticles": 62,
-      "fraudArticles": 29,
-      "sources": 9,
-      "todayCount": 49
+      "totalArticles": 99,
+      "aiArticles": 58,
+      "fraudArticles": 28,
+      "sources": 8,
+      "todayCount": 44
     }
   },
   "top": [
@@ -29,7 +29,18 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 20 Feb 2026 12:00:06 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 20:52:48 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -40,7 +51,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-20T16:52:03.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -51,7 +62,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 12:02:25 -0500",
       "category": "fraud",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -66,30 +77,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Pitt has a sharp take on AI",
-      "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
-      "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-19T23:15:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
-      "description": "Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 19 Feb 2026 17:36:25 -0500",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
       "title": "Google’s new Gemini Pro model has record benchmark scores — again",
       "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
       "description": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
@@ -99,7 +86,9 @@
       "category": "ai",
       "score": 90,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence",
       "link": "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
@@ -163,7 +152,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 11:20:40 -0500",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
       "imageUrl": null
     },
     {
@@ -174,40 +163,18 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 15:30:00 +0000",
       "category": "fraud",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
-      "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
-      "description": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 20 Feb 2026 05:08:49 -0500",
-      "category": "fraud",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto",
-      "link": "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto",
-      "description": "A convincing presale site for phony \"Google Coin\" features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 21:47:01 GMT",
+      "title": "The Pitt has a sharp take on AI",
+      "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+      "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-19T23:15:00.000Z",
       "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Asos co-founder dies after Thailand apartment block fall",
-      "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 20 Feb 2026 14:35:49 GMT",
-      "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -228,6 +195,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-02-19T15:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
+      "description": "Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 19 Feb 2026 17:36:25 -0500",
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
@@ -266,34 +244,23 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
-      "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
-      "description": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 14:45:29 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
+      "description": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 20 Feb 2026 05:08:49 -0500",
+      "category": "fraud",
+      "score": 81.6,
       "imageUrl": null
     },
     {
-      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
-      "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
-      "description": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\"",
+      "title": "Asos co-founder dies after Thailand apartment block fall",
+      "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Fri, 20 Feb 2026 10:32:40 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.",
-      "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
-      "description": "Tech workers are increasingly worried that the artificial intelligence they are building will replace them. But some are optimistic that it is just one more tool to work with.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 20 Feb 2026 10:01:01 +0000",
+      "pubDate": "Fri, 20 Feb 2026 14:35:49 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -310,23 +277,12 @@
       "imageUrl": null
     },
     {
-      "title": "Lessons From AI Hacking: Every Model, Every Layer Is Risky",
-      "link": "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky",
-      "description": "After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 20 Feb 2026 18:02:02 GMT",
-      "category": "both",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-      "description": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told...",
+      "title": "Trump is making coal plants even dirtier as AI demands more energy",
+      "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+      "description": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images\t\n\nThe Trump administration...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-02-20T16:52:48.000Z",
+      "pubDate": "2026-02-20T20:18:34.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -343,14 +299,14 @@
       "imageUrl": null
     },
     {
-      "title": "Why the shift left dream has become a nightmare for security and developers",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-      "description": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500",
-      "category": "both",
-      "score": 79.6,
+      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
+      "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
+      "description": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\"",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 20 Feb 2026 10:32:40 GMT",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -376,14 +332,25 @@
       "imageUrl": null
     },
     {
-      "title": "The Chinese AI app sending Hollywood into a panic",
-      "link": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
-      "description": "Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 19 Feb 2026 23:08:29 GMT",
+      "title": "A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.",
+      "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
+      "description": "Tech workers are increasingly worried that the artificial intelligence they are building will replace them. But some are optimistic that it is just one more tool to work with.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 20 Feb 2026 10:01:01 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+      "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 23:00:00 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -409,36 +376,14 @@
       "imageUrl": null
     },
     {
-      "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
-      "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-      "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 16:25:54 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
-      "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-      "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 15:30:00 +0000",
+      "title": "Lessons From AI Hacking: Every Model, Every Layer Is Risky",
+      "link": "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky",
+      "description": "After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 20 Feb 2026 18:02:02 GMT",
       "category": "both",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-      "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-      "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 15:10:40 +0000",
-      "category": "ai",
-      "score": 79,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -453,6 +398,28 @@
       "imageUrl": null
     },
     {
+      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+      "description": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-20T16:52:48.000Z",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Why the shift left dream has become a nightmare for security and developers",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
+      "description": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "description": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last ye...",
@@ -464,6 +431,50 @@
       "imageUrl": null
     },
     {
+      "title": "Attackers Use New Tool to Scan for React2Shell Exposure",
+      "link": "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure",
+      "description": "Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 20 Feb 2026 21:07:07 GMT",
+      "category": "fraud",
+      "score": 77.5,
+      "imageUrl": null
+    },
+    {
+      "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
+      "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+      "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 16:25:54 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
+      "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+      "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 15:30:00 +0000",
+      "category": "both",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+      "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
+      "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 15:10:40 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "Mississippi medical center closes all clinics after ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
       "description": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
@@ -471,7 +482,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 06:50:14 -0500",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -482,7 +493,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 04:00:15 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -493,7 +504,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 11:05:26 +0000",
       "category": "fraud",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -504,84 +515,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 09:31:29 +0000",
       "category": "fraud",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges",
-      "link": "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges",
-      "description": "As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 23:17:19 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Supply Chain Attack Secretly Installs OpenClaw for Cline Users",
-      "link": "https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users",
-      "description": "The malicious version of Cline's npm package — 2.3.0 — was downloaded more than 4,000 times before it was removed.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 22:33:59 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA",
-      "link": "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa",
-      "description": "A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 22:06:58 GMT",
-      "category": "fraud",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Abu Dhabi Finance Week Exposed VIP Passport Details",
-      "link": "https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details",
-      "description": "Unprotected cloud data sends the wrong signal at a time when the emirate's trying to attract investors and establish itself as a global financial center.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 20:50:14 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Why these startup CEOs don’t think AI will replace human roles",
-      "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
-      "description": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 20:47:22 +0000",
-      "category": "ai",
       "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
-      "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
-      "description": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 20:30:19 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
-      "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
-      "description": "A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 20:49:36 GMT",
-      "category": "fraud",
-      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -607,17 +541,6 @@
       "imageUrl": null
     },
     {
-      "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
-      "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
-      "description": "Mirai raised a $10 million seed round to improve how AI models run on devices like smartphones and laptops.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 14:43:58 +0000",
-      "category": "ai",
-      "score": 73,
-      "imageUrl": null
-    },
-    {
       "title": "Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025",
       "link": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
       "description": "Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.\nThe post Ivanti Exploitation Surges as Zero-Day Attacks Traced Back...",
@@ -629,13 +552,13 @@
       "imageUrl": null
     },
     {
-      "title": "Supply Chain Attack Embeds Malware in Android Devices",
-      "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
-      "description": "Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
+      "title": "Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto",
+      "link": "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto",
+      "description": "A convincing presale site for phony \"Google Coin\" features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 22:06:36 GMT",
-      "category": "fraud",
+      "pubDate": "Wed, 18 Feb 2026 21:47:01 GMT",
+      "category": "ai",
       "score": 71.5,
       "imageUrl": null
     },
@@ -657,6 +580,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 19 Feb 2026 18:16:43 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Chinese AI app sending Hollywood into a panic",
+      "link": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
+      "description": "Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 19 Feb 2026 23:08:29 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -695,17 +629,6 @@
       "imageUrl": null
     },
     {
-      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
-      "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
-      "description": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 23:08:28 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
       "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
       "description": "Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury.",
@@ -739,17 +662,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-      "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI prod...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-18T00:27:08.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
       "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under...",
@@ -761,23 +673,56 @@
       "imageUrl": null
     },
     {
+      "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges",
+      "link": "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges",
+      "description": "As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 23:17:19 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Supply Chain Attack Secretly Installs OpenClaw for Cline Users",
+      "link": "https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users",
+      "description": "The malicious version of Cline's npm package — 2.3.0 — was downloaded more than 4,000 times before it was removed.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 22:33:59 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA",
+      "link": "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa",
+      "description": "A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 22:06:58 GMT",
+      "category": "fraud",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Abu Dhabi Finance Week Exposed VIP Passport Details",
+      "link": "https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details",
+      "description": "Unprotected cloud data sends the wrong signal at a time when the emirate's trying to attract investors and establish itself as a global financial center.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 20:50:14 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "More Than 40% of South Africans Were Scammed in 2025",
       "link": "https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025",
       "description": "Survey underscores the reality that scammers follow \"scalable opportunities and low friction,\" rather than rich targets that tend to be better protected.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Thu, 19 Feb 2026 07:00:00 GMT",
-      "category": "fraud",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
-      "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
-      "description": "CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 21:15:08 GMT",
       "category": "fraud",
       "score": 68.5,
       "imageUrl": null
@@ -827,6 +772,28 @@
       "imageUrl": null
     },
     {
+      "title": "Why these startup CEOs don’t think AI will replace human roles",
+      "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
+      "description": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 19 Feb 2026 20:47:22 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
+      "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+      "description": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 19 Feb 2026 20:30:19 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "Reddit is testing a new AI search feature for shopping",
       "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
       "description": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
@@ -844,17 +811,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 19 Feb 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "For open source programs, AI coding tools are a mixed blessing",
-      "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
-      "description": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier, but maintaining them is just as hard.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 14:00:00 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -889,18 +845,29 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 20 Feb 2026 10:02:33 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
-      "title": "How do you modernise mango farming?",
-      "link": "https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss",
-      "description": "India's mango farmers are being urged to innovate as climate change makes cultivation \"unpredictable\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 20 Feb 2026 00:05:20 GMT",
+      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
+      "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
+      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 22:24:37 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
+      "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
+      "description": "A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 20:49:36 GMT",
+      "category": "fraud",
+      "score": 62.5,
       "imageUrl": null
     },
     {
@@ -911,7 +878,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 20 Feb 2026 15:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -922,7 +889,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 15:48:12 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -933,7 +900,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 20 Feb 2026 11:58:15 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -959,12 +926,12 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
-      "description": "We chat about a conversational AI that's almost human-like in its speech skills",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Feb 2026 20:30:00 GMT",
+      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
+      "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+      "description": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 23:08:28 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -981,6 +948,17 @@
       "imageUrl": null
     },
     {
+      "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
+      "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
+      "description": "CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 21:15:08 GMT",
+      "category": "fraud",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "A CISO's Playbook for Defending Data Assets Against AI Scraping",
       "link": "https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping",
       "description": "Discover a strategic approach to govern scraping risks, balance security with business growth, and safeguard intellectual capital from automated data harvesting.",
@@ -992,45 +970,23 @@
       "imageUrl": null
     },
     {
-      "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
-      "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
-      "description": "Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:31:50 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "RMM Abuse Explodes as Hackers Ditch Malware",
-      "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
-      "description": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:26 GMT",
-      "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
-      "description": "ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:02 GMT",
-      "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "SpaceX rocket fireball linked to plume of polluting lithium",
       "link": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
       "description": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 19 Feb 2026 16:00:42 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How do you modernise mango farming?",
+      "link": "https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss",
+      "description": "India's mango farmers are being urged to innovate as climate change makes cultivation \"unpredictable\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 20 Feb 2026 00:05:20 GMT",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -1064,17 +1020,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Thu, 19 Feb 2026 15:18:23 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Threat Intelligence Has a Human-Shaped Blind Spot",
-      "link": "https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot",
-      "description": "How I realized what I was taught to about threat intelligence was missing something crucial.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 20:56:22 GMT",
       "category": "general",
       "score": 53.5,
       "imageUrl": null
@@ -1146,12 +1091,12 @@
       "imageUrl": null
     },
     {
-      "title": "Password managers' promise that they can't see your vaults isn't always true",
-      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-      "description": "Contrary to what password managers say, a server compromise can mean game over.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "title": "Threat Intelligence Has a Human-Shaped Blind Spot",
+      "link": "https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot",
+      "description": "How I realized what I was taught to about threat intelligence was missing something crucial.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 20:56:22 GMT",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
@@ -1177,7 +1122,18 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 20 Feb 2026 12:00:06 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 20:52:48 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1188,7 +1144,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-20T16:52:03.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1199,7 +1155,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 12:02:25 -0500",
       "category": "fraud",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1211,28 +1167,6 @@
       "pubDate": "Fri, 20 Feb 2026 13:57:03 +0000",
       "category": "ai",
       "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "The Pitt has a sharp take on AI",
-      "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
-      "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-19T23:15:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
-      "description": "Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 19 Feb 2026 17:36:25 -0500",
-      "category": "ai",
-      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1309,7 +1243,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 11:20:40 -0500",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
       "imageUrl": null
     },
     {
@@ -1320,40 +1254,18 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 15:30:00 +0000",
       "category": "fraud",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
-      "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
-      "description": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 20 Feb 2026 05:08:49 -0500",
-      "category": "fraud",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto",
-      "link": "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto",
-      "description": "A convincing presale site for phony \"Google Coin\" features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 21:47:01 GMT",
+      "title": "The Pitt has a sharp take on AI",
+      "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+      "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-19T23:15:00.000Z",
       "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Asos co-founder dies after Thailand apartment block fall",
-      "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 20 Feb 2026 14:35:49 GMT",
-      "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1374,6 +1286,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-02-19T15:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
+      "description": "Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 19 Feb 2026 17:36:25 -0500",
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
@@ -1412,34 +1335,23 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
-      "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
-      "description": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 14:45:29 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
+      "description": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 20 Feb 2026 05:08:49 -0500",
+      "category": "fraud",
+      "score": 81.6,
       "imageUrl": null
     },
     {
-      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
-      "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
-      "description": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\"",
+      "title": "Asos co-founder dies after Thailand apartment block fall",
+      "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Fri, 20 Feb 2026 10:32:40 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.",
-      "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
-      "description": "Tech workers are increasingly worried that the artificial intelligence they are building will replace them. But some are optimistic that it is just one more tool to work with.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 20 Feb 2026 10:01:01 +0000",
+      "pubDate": "Fri, 20 Feb 2026 14:35:49 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -1456,23 +1368,12 @@
       "imageUrl": null
     },
     {
-      "title": "Lessons From AI Hacking: Every Model, Every Layer Is Risky",
-      "link": "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky",
-      "description": "After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 20 Feb 2026 18:02:02 GMT",
-      "category": "both",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-      "description": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told...",
+      "title": "Trump is making coal plants even dirtier as AI demands more energy",
+      "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+      "description": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images\t\n\nThe Trump administration...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-02-20T16:52:48.000Z",
+      "pubDate": "2026-02-20T20:18:34.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -1489,14 +1390,14 @@
       "imageUrl": null
     },
     {
-      "title": "Why the shift left dream has become a nightmare for security and developers",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-      "description": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500",
-      "category": "both",
-      "score": 79.6,
+      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
+      "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
+      "description": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\"",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 20 Feb 2026 10:32:40 GMT",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1522,14 +1423,25 @@
       "imageUrl": null
     },
     {
-      "title": "The Chinese AI app sending Hollywood into a panic",
-      "link": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
-      "description": "Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 19 Feb 2026 23:08:29 GMT",
+      "title": "A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.",
+      "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
+      "description": "Tech workers are increasingly worried that the artificial intelligence they are building will replace them. But some are optimistic that it is just one more tool to work with.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 20 Feb 2026 10:01:01 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+      "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 23:00:00 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1555,36 +1467,14 @@
       "imageUrl": null
     },
     {
-      "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
-      "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-      "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 16:25:54 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
-      "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-      "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 15:30:00 +0000",
+      "title": "Lessons From AI Hacking: Every Model, Every Layer Is Risky",
+      "link": "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky",
+      "description": "After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 20 Feb 2026 18:02:02 GMT",
       "category": "both",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-      "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-      "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 15:10:40 +0000",
-      "category": "ai",
-      "score": 79,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -1599,6 +1489,28 @@
       "imageUrl": null
     },
     {
+      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+      "description": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-20T16:52:48.000Z",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Why the shift left dream has become a nightmare for security and developers",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
+      "description": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "description": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last ye...",
@@ -1610,6 +1522,50 @@
       "imageUrl": null
     },
     {
+      "title": "Attackers Use New Tool to Scan for React2Shell Exposure",
+      "link": "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure",
+      "description": "Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 20 Feb 2026 21:07:07 GMT",
+      "category": "fraud",
+      "score": 77.5,
+      "imageUrl": null
+    },
+    {
+      "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
+      "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+      "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 16:25:54 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
+      "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+      "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 15:30:00 +0000",
+      "category": "both",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+      "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
+      "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 15:10:40 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "Mississippi medical center closes all clinics after ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
       "description": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
@@ -1617,7 +1573,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 06:50:14 -0500",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1628,7 +1584,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 20 Feb 2026 04:00:15 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1639,7 +1595,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 11:05:26 +0000",
       "category": "fraud",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1650,84 +1606,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 09:31:29 +0000",
       "category": "fraud",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges",
-      "link": "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges",
-      "description": "As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 23:17:19 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Supply Chain Attack Secretly Installs OpenClaw for Cline Users",
-      "link": "https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users",
-      "description": "The malicious version of Cline's npm package — 2.3.0 — was downloaded more than 4,000 times before it was removed.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 22:33:59 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA",
-      "link": "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa",
-      "description": "A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 22:06:58 GMT",
-      "category": "fraud",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Abu Dhabi Finance Week Exposed VIP Passport Details",
-      "link": "https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details",
-      "description": "Unprotected cloud data sends the wrong signal at a time when the emirate's trying to attract investors and establish itself as a global financial center.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 19 Feb 2026 20:50:14 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Why these startup CEOs don’t think AI will replace human roles",
-      "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
-      "description": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 20:47:22 +0000",
-      "category": "ai",
       "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
-      "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
-      "description": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 20:30:19 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
-      "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
-      "description": "A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 20:49:36 GMT",
-      "category": "fraud",
-      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1753,17 +1632,6 @@
       "imageUrl": null
     },
     {
-      "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
-      "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
-      "description": "Mirai raised a $10 million seed round to improve how AI models run on devices like smartphones and laptops.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 14:43:58 +0000",
-      "category": "ai",
-      "score": 73,
-      "imageUrl": null
-    },
-    {
       "title": "Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025",
       "link": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
       "description": "Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.\nThe post Ivanti Exploitation Surges as Zero-Day Attacks Traced Back...",
@@ -1775,13 +1643,13 @@
       "imageUrl": null
     },
     {
-      "title": "Supply Chain Attack Embeds Malware in Android Devices",
-      "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
-      "description": "Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
+      "title": "Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto",
+      "link": "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto",
+      "description": "A convincing presale site for phony \"Google Coin\" features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 22:06:36 GMT",
-      "category": "fraud",
+      "pubDate": "Wed, 18 Feb 2026 21:47:01 GMT",
+      "category": "ai",
       "score": 71.5,
       "imageUrl": null
     },
@@ -1803,6 +1671,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 19 Feb 2026 18:16:43 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Chinese AI app sending Hollywood into a panic",
+      "link": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
+      "description": "Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 19 Feb 2026 23:08:29 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1841,17 +1720,6 @@
       "imageUrl": null
     },
     {
-      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
-      "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
-      "description": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 18 Feb 2026 23:08:28 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
       "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
       "description": "Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury.",
@@ -1885,17 +1753,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-      "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI prod...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-18T00:27:08.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
       "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under...",
@@ -1907,23 +1764,56 @@
       "imageUrl": null
     },
     {
+      "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges",
+      "link": "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges",
+      "description": "As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 23:17:19 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Supply Chain Attack Secretly Installs OpenClaw for Cline Users",
+      "link": "https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users",
+      "description": "The malicious version of Cline's npm package — 2.3.0 — was downloaded more than 4,000 times before it was removed.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 22:33:59 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA",
+      "link": "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa",
+      "description": "A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 22:06:58 GMT",
+      "category": "fraud",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Abu Dhabi Finance Week Exposed VIP Passport Details",
+      "link": "https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details",
+      "description": "Unprotected cloud data sends the wrong signal at a time when the emirate's trying to attract investors and establish itself as a global financial center.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 19 Feb 2026 20:50:14 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "More Than 40% of South Africans Were Scammed in 2025",
       "link": "https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025",
       "description": "Survey underscores the reality that scammers follow \"scalable opportunities and low friction,\" rather than rich targets that tend to be better protected.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Thu, 19 Feb 2026 07:00:00 GMT",
-      "category": "fraud",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
-      "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
-      "description": "CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 21:15:08 GMT",
       "category": "fraud",
       "score": 68.5,
       "imageUrl": null
@@ -1973,6 +1863,28 @@
       "imageUrl": null
     },
     {
+      "title": "Why these startup CEOs don’t think AI will replace human roles",
+      "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
+      "description": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 19 Feb 2026 20:47:22 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
+      "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+      "description": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 19 Feb 2026 20:30:19 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "Reddit is testing a new AI search feature for shopping",
       "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
       "description": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
@@ -1990,17 +1902,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 19 Feb 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "For open source programs, AI coding tools are a mixed blessing",
-      "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
-      "description": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier, but maintaining them is just as hard.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 19 Feb 2026 14:00:00 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -2035,18 +1936,29 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 20 Feb 2026 10:02:33 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
-      "title": "How do you modernise mango farming?",
-      "link": "https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss",
-      "description": "India's mango farmers are being urged to innovate as climate change makes cultivation \"unpredictable\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 20 Feb 2026 00:05:20 GMT",
+      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
+      "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
+      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 20 Feb 2026 22:24:37 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
+      "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
+      "description": "A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 20:49:36 GMT",
+      "category": "fraud",
+      "score": 62.5,
       "imageUrl": null
     },
     {
@@ -2057,7 +1969,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 20 Feb 2026 15:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -2068,7 +1980,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 20 Feb 2026 15:48:12 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -2079,7 +1991,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 20 Feb 2026 11:58:15 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -2105,12 +2017,12 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
-      "description": "We chat about a conversational AI that's almost human-like in its speech skills",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Feb 2026 20:30:00 GMT",
+      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
+      "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+      "description": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 18 Feb 2026 23:08:28 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -2127,6 +2039,17 @@
       "imageUrl": null
     },
     {
+      "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
+      "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
+      "description": "CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 21:15:08 GMT",
+      "category": "fraud",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "A CISO's Playbook for Defending Data Assets Against AI Scraping",
       "link": "https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping",
       "description": "Discover a strategic approach to govern scraping risks, balance security with business growth, and safeguard intellectual capital from automated data harvesting.",
@@ -2138,45 +2061,23 @@
       "imageUrl": null
     },
     {
-      "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
-      "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
-      "description": "Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:31:50 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "RMM Abuse Explodes as Hackers Ditch Malware",
-      "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
-      "description": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:26 GMT",
-      "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
-      "description": "ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Feb 2026 21:01:02 GMT",
-      "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "SpaceX rocket fireball linked to plume of polluting lithium",
       "link": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
       "description": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 19 Feb 2026 16:00:42 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How do you modernise mango farming?",
+      "link": "https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss",
+      "description": "India's mango farmers are being urged to innovate as climate change makes cultivation \"unpredictable\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 20 Feb 2026 00:05:20 GMT",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -2210,17 +2111,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Thu, 19 Feb 2026 15:18:23 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Threat Intelligence Has a Human-Shaped Blind Spot",
-      "link": "https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot",
-      "description": "How I realized what I was taught to about threat intelligence was missing something crucial.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 18 Feb 2026 20:56:22 GMT",
       "category": "general",
       "score": 53.5,
       "imageUrl": null
@@ -2292,12 +2182,12 @@
       "imageUrl": null
     },
     {
-      "title": "Password managers' promise that they can't see your vaults isn't always true",
-      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-      "description": "Contrary to what password managers say, a server compromise can mean game over.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "title": "Threat Intelligence Has a Human-Shaped Blind Spot",
+      "link": "https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot",
+      "description": "How I realized what I was taught to about threat intelligence was missing something crucial.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 18 Feb 2026 20:56:22 GMT",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
