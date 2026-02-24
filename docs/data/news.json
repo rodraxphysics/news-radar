@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-02-23T20:14:15.155Z",
+    "generated": "2026-02-24T00:25:25.829Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 55,
+    "totalArticles": 61,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 55 articles from 7 trusted sources, including 38 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ad tech firm Optimizely confirms data breach after vishing attack\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, TechCrunch, SecurityWeek, The Verge and others\n• **Fresh Content**: 34 articles published in the last 24 hours",
-    "generated": "2026-02-23T20:14:15.155Z",
+    "content": "Today's selection covers 61 articles from 7 trusted sources, including 45 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ad tech firm Optimizely confirms data breach after vishing attack\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, The Verge, TechCrunch, BleepingComputer and others\n• **Fresh Content**: 44 articles published in the last 24 hours",
+    "generated": "2026-02-24T00:25:25.829Z",
     "stats": {
-      "totalArticles": 55,
-      "aiArticles": 38,
-      "fraudArticles": 11,
+      "totalArticles": 61,
+      "aiArticles": 45,
+      "fraudArticles": 10,
       "sources": 7,
-      "todayCount": 34
+      "todayCount": 44
     }
   },
   "top": [
@@ -33,16 +33,62 @@
       "imageUrl": null
     },
     {
-      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
-      "description": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 23 Feb 2026 13:04:01 -0500",
-      "category": "fraud",
+      "title": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data",
+      "link": "https://www.nytimes.com/2026/02/23/technology/anthropic-chinese-startups-distillation.html",
+      "description": "The San Francisco start-up claimed that DeepSeek, Moonshot and MiniMax used approximately 24,000 fraudulent accounts to train their own chatbots.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 22:31:54 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+      "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+      "description": "The artificial intelligence company has demanded that some guardrails be put in place as it negotiates a contract with the Defense Department.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 22:47:23 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "600+ FortiGate Devices Hacked by AI-Armed Amateur",
+      "link": "https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur",
+      "description": "A Russian-speaking hacker used generative AI to compromise the FortiGate firewalls, targeting credentials and backups for possible follow-on ransomware attacks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 23 Feb 2026 19:37:59 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-23T20:22:55.000Z",
+      "category": "ai",
       "score": 94.6,
       "imageUrl": null
     },
+    {
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "description": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 23 Feb 2026 21:46:41 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    }
+  ],
+  "more": [
     {
       "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
       "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
@@ -55,6 +101,17 @@
       "imageUrl": null
     },
     {
+      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+      "description": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 13:04:01 -0500",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI calls in the consultants for its enterprise push",
       "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
       "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
@@ -62,18 +119,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 18:11:08 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
       "title": "Guide Labs debuts a new kind of interpretable LLM",
       "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "description": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+      "description": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 17:53:28 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -84,11 +141,9 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 14:44:03 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
       "link": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
@@ -97,7 +152,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 14:19:10 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -108,7 +163,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 15:35:32 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -119,7 +174,18 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 09:13:25 +0000",
       "category": "fraud",
-      "score": 92,
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala",
+      "link": "https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html",
+      "description": "The news came tucked into the second page of a recent news release.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 21:26:34 +0000",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -130,40 +196,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-22T22:15:30.000Z",
       "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
-      "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
-      "description": "The executive shake-up has sparked online debate about new boss Asha Sharma's gaming credentials.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 23 Feb 2026 17:21:27 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
-      "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
-      "description": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 14:16:29 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
-      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
-      "description": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 15:00:14 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -178,35 +211,79 @@
       "imageUrl": null
     },
     {
-      "title": "Porn company fined £1.35m by Ofcom over age check failings",
-      "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far.",
+      "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
+      "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
+      "description": "The executive shake-up has sparked online debate about new boss Asha Sharma's gaming credentials.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 23 Feb 2026 11:27:13 GMT",
+      "pubDate": "Mon, 23 Feb 2026 17:21:27 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "‘A.I. Literacy’ Is Trending in Schools. Here’s Why.",
-      "link": "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
-      "description": "Artificial intelligence companies are urging teachers to prepare students for an “A.I.-driven future.” What that means varies from school to school.",
+      "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
+      "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+      "description": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 10:02:24 +0000",
+      "pubDate": "Mon, 23 Feb 2026 14:16:29 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Does Big Tech actually care about fighting AI slop?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
-      "description": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAs 2025 drew to a close, Instagram head Adam...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-23T16:00:00.000Z",
+      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
+      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "description": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 15:00:14 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount",
+      "link": "https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount",
+      "description": "The long-active Iranian threat group debuted various attack strains and payloads in attacks against organizations in the Middle East and Africa.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 23 Feb 2026 20:35:12 GMT",
       "category": "both",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Enigma Cipher Device Still Holds Secrets for Cyber Pros",
+      "link": "https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros",
+      "description": "The Nazi relic's history is riddled with resilience errors, and those lessons still apply to defending against modern cyber threats.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 23 Feb 2026 20:11:27 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Android mental health apps with 14.7M installs filled with security flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
+      "description": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 17:59:04 -0500",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
+      "description": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutio...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 16:59:42 -0500",
+      "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
@@ -222,18 +299,29 @@
       "imageUrl": null
     },
     {
-      "title": "When identity isn’t the weak link, access still is",
-      "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
-      "description": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification streng...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 23 Feb 2026 10:00:10 -0500",
+      "title": "Porn company fined £1.35m by Ofcom over age check failings",
+      "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
+      "description": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 23 Feb 2026 11:27:13 GMT",
       "category": "ai",
-      "score": 79.6,
+      "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+      "title": "‘A.I. Literacy’ Is Trending in Schools. Here’s Why.",
+      "link": "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
+      "description": "Artificial intelligence companies are urging teachers to prepare students for an “A.I.-driven future.” What that means varies from school to school.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 10:02:24 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
       "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
       "description": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
       "source": "TechCrunch",
@@ -244,6 +332,28 @@
       "imageUrl": null
     },
     {
+      "title": "Does Big Tech actually care about fighting AI slop?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+      "description": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAs 2025 drew to a close, Instagram head Adam...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-23T16:00:00.000Z",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "When identity isn’t the weak link, access still is",
+      "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
+      "description": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification streng...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 10:00:10 -0500",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
       "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
       "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
@@ -251,7 +361,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 16:55:40 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -262,29 +372,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 16:50:36 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "How many AIs does it take to read a PDF?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
-      "description": "Image: Kristen Radtke / The Verge\t\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were cli...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-23T11:00:00.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
-      "description": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 23 Feb 2026 06:44:21 -0500",
-      "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -310,6 +398,28 @@
       "imageUrl": null
     },
     {
+      "title": "How many AIs does it take to read a PDF?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+      "description": "Image: Kristen Radtke / The Verge\t\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were cli...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-23T11:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+      "description": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 06:44:21 -0500",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS",
       "link": "https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/",
       "description": "Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices.\nThe post Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS appeared...",
@@ -317,7 +427,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 11:34:35 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -328,7 +438,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 10:47:45 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -339,7 +449,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 10:29:13 +0000",
       "category": "fraud",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -354,12 +464,12 @@
       "imageUrl": null
     },
     {
-      "title": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses",
-      "link": "https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses",
-      "description": "",
+      "title": "Spitting Cash: ATM Jackpotting Attacks Surged in 2025",
+      "link": "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025",
+      "description": "The attacks cost banks more than $20 million in losses last year, as criminals used many of the same tools and tactics they have wielded for more than a decade.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "2026-03-19T15:00:00.000Z",
+      "pubDate": "Mon, 23 Feb 2026 22:20:08 GMT",
       "category": "general",
       "score": 71.5,
       "imageUrl": null
@@ -409,14 +519,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-      "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 20:52:48 +0000",
-      "category": "ai",
-      "score": 70,
+      "title": "Orbital space race heats up in Arctic north",
+      "link": "https://www.bbc.com/news/articles/c4g0201rj8go?at_medium=RSS&at_campaign=rss",
+      "description": "Europe lags far behind the US and China in orbital space launches, but new facilities are opening up.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 24 Feb 2026 00:10:05 GMT",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -425,7 +535,7 @@
       "description": "Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 19:38:08 +0000",
+      "pubDate": "Mon, 23 Feb 2026 20:15:13 +0000",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -442,17 +552,6 @@
       "imageUrl": null
     },
     {
-      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
-      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-      "description": "\"It also takes a lot of energy to train a human.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 21 Feb 2026 21:38:01 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.",
       "link": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
       "description": "Pickle, a new peer-to-peer apparel-rental app, helps users stay on trend without having to go into debt or rely on climate-unfriendly fast fashion.",
@@ -460,7 +559,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 23 Feb 2026 10:02:15 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -482,7 +581,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 15:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -493,7 +592,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 11:53:35 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -519,14 +618,14 @@
       "imageUrl": null
     },
     {
-      "title": "Trump is making coal plants even dirtier as AI demands more energy",
-      "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-      "description": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images\t\n\nThe Trump administration...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-20T20:18:34.000Z",
+      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
+      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "description": "\"It also takes a lot of energy to train a human.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 21 Feb 2026 21:38:01 +0000",
       "category": "ai",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -549,28 +648,6 @@
       "pubDate": "Sat, 21 Feb 2026 01:00:00 +0000",
       "category": "ai",
       "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-      "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 23:00:00 +0000",
-      "category": "both",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Attackers Use New Tool to Scan for React2Shell Exposure",
-      "link": "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure",
-      "description": "Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 20 Feb 2026 21:07:07 GMT",
-      "category": "fraud",
-      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -613,17 +690,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 21 Feb 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
-      "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
-      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 22:24:37 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
@@ -642,14 +708,58 @@
       "imageUrl": null
     },
     {
-      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
-      "description": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 23 Feb 2026 13:04:01 -0500",
-      "category": "fraud",
+      "title": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data",
+      "link": "https://www.nytimes.com/2026/02/23/technology/anthropic-chinese-startups-distillation.html",
+      "description": "The San Francisco start-up claimed that DeepSeek, Moonshot and MiniMax used approximately 24,000 fraudulent accounts to train their own chatbots.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 22:31:54 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+      "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+      "description": "The artificial intelligence company has demanded that some guardrails be put in place as it negotiates a contract with the Defense Department.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 22:47:23 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "600+ FortiGate Devices Hacked by AI-Armed Amateur",
+      "link": "https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur",
+      "description": "A Russian-speaking hacker used generative AI to compromise the FortiGate firewalls, targeting credentials and backups for possible follow-on ransomware attacks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 23 Feb 2026 19:37:59 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-23T20:22:55.000Z",
+      "category": "ai",
       "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "description": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 23 Feb 2026 21:46:41 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -664,6 +774,17 @@
       "imageUrl": null
     },
     {
+      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+      "description": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 13:04:01 -0500",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI calls in the consultants for its enterprise push",
       "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
       "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
@@ -671,18 +792,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 18:11:08 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
       "title": "Guide Labs debuts a new kind of interpretable LLM",
       "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "description": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+      "description": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 17:53:28 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -693,7 +814,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 14:44:03 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -704,7 +825,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 14:19:10 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -715,7 +836,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 15:35:32 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -726,7 +847,18 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 09:13:25 +0000",
       "category": "fraud",
-      "score": 92,
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala",
+      "link": "https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html",
+      "description": "The news came tucked into the second page of a recent news release.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 21:26:34 +0000",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -737,40 +869,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-22T22:15:30.000Z",
       "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
-      "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
-      "description": "The executive shake-up has sparked online debate about new boss Asha Sharma's gaming credentials.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 23 Feb 2026 17:21:27 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
-      "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
-      "description": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 14:16:29 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
-      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
-      "description": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 15:00:14 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -785,35 +884,79 @@
       "imageUrl": null
     },
     {
-      "title": "Porn company fined £1.35m by Ofcom over age check failings",
-      "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far.",
+      "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
+      "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
+      "description": "The executive shake-up has sparked online debate about new boss Asha Sharma's gaming credentials.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 23 Feb 2026 11:27:13 GMT",
+      "pubDate": "Mon, 23 Feb 2026 17:21:27 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "‘A.I. Literacy’ Is Trending in Schools. Here’s Why.",
-      "link": "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
-      "description": "Artificial intelligence companies are urging teachers to prepare students for an “A.I.-driven future.” What that means varies from school to school.",
+      "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
+      "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+      "description": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 10:02:24 +0000",
+      "pubDate": "Mon, 23 Feb 2026 14:16:29 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Does Big Tech actually care about fighting AI slop?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
-      "description": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAs 2025 drew to a close, Instagram head Adam...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-23T16:00:00.000Z",
+      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
+      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "description": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 15:00:14 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount",
+      "link": "https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount",
+      "description": "The long-active Iranian threat group debuted various attack strains and payloads in attacks against organizations in the Middle East and Africa.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 23 Feb 2026 20:35:12 GMT",
       "category": "both",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Enigma Cipher Device Still Holds Secrets for Cyber Pros",
+      "link": "https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros",
+      "description": "The Nazi relic's history is riddled with resilience errors, and those lessons still apply to defending against modern cyber threats.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 23 Feb 2026 20:11:27 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Android mental health apps with 14.7M installs filled with security flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
+      "description": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 17:59:04 -0500",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
+      "description": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutio...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 16:59:42 -0500",
+      "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
@@ -829,18 +972,29 @@
       "imageUrl": null
     },
     {
-      "title": "When identity isn’t the weak link, access still is",
-      "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
-      "description": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification streng...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 23 Feb 2026 10:00:10 -0500",
+      "title": "Porn company fined £1.35m by Ofcom over age check failings",
+      "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
+      "description": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 23 Feb 2026 11:27:13 GMT",
       "category": "ai",
-      "score": 79.6,
+      "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+      "title": "‘A.I. Literacy’ Is Trending in Schools. Here’s Why.",
+      "link": "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
+      "description": "Artificial intelligence companies are urging teachers to prepare students for an “A.I.-driven future.” What that means varies from school to school.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 23 Feb 2026 10:02:24 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
       "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
       "description": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
       "source": "TechCrunch",
@@ -851,6 +1005,28 @@
       "imageUrl": null
     },
     {
+      "title": "Does Big Tech actually care about fighting AI slop?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+      "description": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAs 2025 drew to a close, Instagram head Adam...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-23T16:00:00.000Z",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "When identity isn’t the weak link, access still is",
+      "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
+      "description": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification streng...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 10:00:10 -0500",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
       "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
       "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
@@ -858,7 +1034,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 16:55:40 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -869,29 +1045,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 16:50:36 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "How many AIs does it take to read a PDF?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
-      "description": "Image: Kristen Radtke / The Verge\t\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were cli...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-23T11:00:00.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
-      "description": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 23 Feb 2026 06:44:21 -0500",
-      "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -917,6 +1071,28 @@
       "imageUrl": null
     },
     {
+      "title": "How many AIs does it take to read a PDF?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+      "description": "Image: Kristen Radtke / The Verge\t\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were cli...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-23T11:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+      "description": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 23 Feb 2026 06:44:21 -0500",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS",
       "link": "https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/",
       "description": "Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices.\nThe post Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS appeared...",
@@ -924,7 +1100,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 11:34:35 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -935,7 +1111,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 10:47:45 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -946,7 +1122,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 10:29:13 +0000",
       "category": "fraud",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -961,12 +1137,12 @@
       "imageUrl": null
     },
     {
-      "title": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses",
-      "link": "https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses",
-      "description": "",
+      "title": "Spitting Cash: ATM Jackpotting Attacks Surged in 2025",
+      "link": "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025",
+      "description": "The attacks cost banks more than $20 million in losses last year, as criminals used many of the same tools and tactics they have wielded for more than a decade.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "2026-03-19T15:00:00.000Z",
+      "pubDate": "Mon, 23 Feb 2026 22:20:08 GMT",
       "category": "general",
       "score": 71.5,
       "imageUrl": null
@@ -1016,14 +1192,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-      "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 20:52:48 +0000",
-      "category": "ai",
-      "score": 70,
+      "title": "Orbital space race heats up in Arctic north",
+      "link": "https://www.bbc.com/news/articles/c4g0201rj8go?at_medium=RSS&at_campaign=rss",
+      "description": "Europe lags far behind the US and China in orbital space launches, but new facilities are opening up.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 24 Feb 2026 00:10:05 GMT",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1032,7 +1208,7 @@
       "description": "Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 19:38:08 +0000",
+      "pubDate": "Mon, 23 Feb 2026 20:15:13 +0000",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -1049,17 +1225,6 @@
       "imageUrl": null
     },
     {
-      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
-      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-      "description": "\"It also takes a lot of energy to train a human.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 21 Feb 2026 21:38:01 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.",
       "link": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
       "description": "Pickle, a new peer-to-peer apparel-rental app, helps users stay on trend without having to go into debt or rely on climate-unfriendly fast fashion.",
@@ -1067,7 +1232,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 23 Feb 2026 10:02:15 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1089,7 +1254,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 23 Feb 2026 15:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1100,7 +1265,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 23 Feb 2026 11:53:35 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1126,14 +1291,14 @@
       "imageUrl": null
     },
     {
-      "title": "Trump is making coal plants even dirtier as AI demands more energy",
-      "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-      "description": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images\t\n\nThe Trump administration...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-20T20:18:34.000Z",
+      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
+      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "description": "\"It also takes a lot of energy to train a human.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 21 Feb 2026 21:38:01 +0000",
       "category": "ai",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1156,28 +1321,6 @@
       "pubDate": "Sat, 21 Feb 2026 01:00:00 +0000",
       "category": "ai",
       "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-      "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 23:00:00 +0000",
-      "category": "both",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Attackers Use New Tool to Scan for React2Shell Exposure",
-      "link": "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure",
-      "description": "Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 20 Feb 2026 21:07:07 GMT",
-      "category": "fraud",
-      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -1220,17 +1363,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 21 Feb 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
-      "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
-      "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 20 Feb 2026 22:24:37 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
