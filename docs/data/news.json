@@ -1,26 +1,48 @@
 {
   "metadata": {
-    "generated": "2026-02-26T12:16:18.402Z",
+    "generated": "2026-02-26T16:21:03.267Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 106,
-    "sources": 7,
+    "totalArticles": 107,
+    "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 106 articles from 7 trusted sources, including 73 on Artificial Intelligence and 16 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Medical Device Maker UFP Technologies Hit by Cyberattack\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, The Verge, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 64 articles published in the last 24 hours",
-    "generated": "2026-02-26T12:16:18.402Z",
+    "content": "Today's selection covers 107 articles from 8 trusted sources, including 72 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Google’s Nano Banana 2 brings advanced AI image tools to free users\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ransomware payment rate drops to record low as attacks surge\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from The Verge, NY Times Tech, TechCrunch, SecurityWeek, BleepingComputer and others\n• **Fresh Content**: 55 articles published in the last 24 hours",
+    "generated": "2026-02-26T16:21:03.267Z",
     "stats": {
-      "totalArticles": 106,
-      "aiArticles": 73,
-      "fraudArticles": 16,
-      "sources": 7,
-      "todayCount": 64
+      "totalArticles": 107,
+      "aiArticles": 72,
+      "fraudArticles": 13,
+      "sources": 8,
+      "todayCount": 55
     }
   },
   "top": [
+    {
+      "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+      "link": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+      "description": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge\t\n\nGoogle is bringing a more powerful version of its Nano Banana AI image model to fre...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic gives its retired Claude AI a Substack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
+      "description": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack.\nThe newsletter, called Claude's Corner, will give...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T14:21:05.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
       "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
@@ -29,9 +51,44 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 26 Feb 2026 01:18:12 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
+    {
+      "title": "Figma partners with OpenAI to bake in support for Codex",
+      "link": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "description": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
+      "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
+      "description": "Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files.\nThe post Claude Code Flaws Exposed Developer Devices to Silent Hacking appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 26 Feb 2026 13:37:54 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
+      "description": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "category": "fraud",
+      "score": 91.6,
+      "imageUrl": null
+    }
+  ],
+  "more": [
     {
       "title": "Chinese Police Use ChatGPT to Smear Japan PM Takaichi",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi",
@@ -86,30 +143,6 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Amazon&#8217;s AGI lab leader is leaving",
-      "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
-      "description": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leavi...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T15:24:39.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
-      "link": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
-      "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T14:24:30.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
     },
     {
       "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
@@ -145,34 +178,12 @@
       "imageUrl": null
     },
     {
-      "title": "About 12% of US teens turn to AI for emotional support or advice",
-      "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
-      "description": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 15:52:03 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
-      "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
-      "description": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.\nThe post Medical Device Maker UFP Technologies Hit by Cyberattack appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 13:40:46 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "The A.I. Videos on Kids’ YouTube Feeds",
       "link": "https://www.nytimes.com/video/technology/100000010717886/the-ai-videos-on-kids-youtube-feeds.html",
       "description": "The YouTube algorithm is pushing bizarre, often nonsensical A.I.-generated videos targeting children. Our video journalist Arijeta Lajka explains why experts say that these videos could affect their c...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 11:11:20 +0000",
+      "pubDate": "Thu, 26 Feb 2026 15:02:28 +0000",
       "category": "ai",
       "score": 89.5,
       "imageUrl": null
@@ -189,23 +200,23 @@
       "imageUrl": null
     },
     {
-      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
-      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Wayve, an A.I. Driverless Car Start-Up in Europe, Raises $1.2 Billion",
       "link": "https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html",
       "description": "The London-based company is building a system that uses artificial intelligence to power autonomous vehicles.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 25 Feb 2026 00:01:06 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
+      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -235,12 +246,67 @@
     {
       "title": "Instagram to alert parents if teens search for self-harm and suicide content",
       "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
-      "description": "Meta says it will help parents support their children - but safety campaigners have accused them of \"passing the buck\".",
+      "description": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 26 Feb 2026 11:59:41 GMT",
+      "pubDate": "Thu, 26 Feb 2026 14:03:35 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
+      "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+      "description": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 15:52:31 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon&#8217;s AGI lab leader is leaving",
+      "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+      "description": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leavi...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-25T15:24:39.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
+      "link": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
+      "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-25T14:24:30.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "About 12% of US teens turn to AI for emotional support or advice",
+      "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+      "description": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 15:52:03 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
+      "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
+      "description": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.\nThe post Medical Device Maker UFP Technologies Hit by Cyberattack appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 13:40:46 +0000",
+      "category": "fraud",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -251,51 +317,7 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 26 Feb 2026 10:06:05 +0000",
       "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
-      "description": "U.S. Secretary of Defense Pete Hegseth (L) walks with Emil Michael (R), Under Secretary of Defense (Research & Engineering, while touring an exhibit of Multi-Domain Autonomous systems at the Pentagon...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T01:59:00.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
-      "description": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. \nThe former company's motion to dismiss the lawsuit was granted on...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-24T23:05:28.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
-      "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-      "description": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 02:00:00 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
-      "description": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting oper...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 25 Feb 2026 10:54:44 -0500",
-      "category": "fraud",
-      "score": 81.6,
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -310,12 +332,45 @@
       "imageUrl": null
     },
     {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 26 Feb 2026 15:45:18 +0000",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+      "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
       "link": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
       "description": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pul...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-02-26T11:06:33.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -329,6 +384,17 @@
       "pubDate": "Wed, 25 Feb 2026 18:07:54 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+      "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+      "description": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -350,7 +416,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 26 Feb 2026 09:56:46 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -360,17 +426,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Thu, 26 Feb 2026 09:18:43 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -398,17 +453,6 @@
       "imageUrl": null
     },
     {
-      "title": "Why 'Call This Number' TOAD Emails Beat Gateways",
-      "link": "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways",
-      "description": "Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
       "title": "Zyxel Patches Critical Vulnerability in Many Device Models",
       "link": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
       "description": "The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution.\nThe post Zyxel Patches Critical Vulnerability in Many Device Models appeared first on Se...",
@@ -417,28 +461,6 @@
       "pubDate": "Thu, 26 Feb 2026 12:09:29 +0000",
       "category": "fraud",
       "score": 76,
-      "imageUrl": null
-    },
-    {
-      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
-      "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
-      "description": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon\t\n\nAmazon is giving you more control over how Alexa behaves during conversations...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T14:00:00.000Z",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe’s new AI video editing tool stitches clips into a first draft",
-      "link": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
-      "description": "Quick Cut aims to help you spend less time staring at a blank editing timeline. | Image: Adobe\t\n\nAdobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a f...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T14:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -464,25 +486,14 @@
       "imageUrl": null
     },
     {
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "description": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 25 Feb 2026 10:01:11 -0500",
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
-      "description": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 25 Feb 2026 07:53:02 -0500",
-      "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -552,94 +563,6 @@
       "imageUrl": null
     },
     {
-      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
-      "link": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
-      "description": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:56:52 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Jira’s latest update allows AI agents and humans to work side by side",
-      "link": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
-      "description": "Atlassian is unveiling \"agents in Jira,\" which gives users the ability to assign and manage work given to AI agents the same as humans.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe Firefly’s video editor can now automatically create a first draft from footage",
-      "link": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
-      "description": "Adobe Firefly is getting a new feature called Quick Cut that uses AI to edit footage to create a first draft of the final video based on user instructions.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon’s AI-powered Alexa+ gets new personality options",
-      "link": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
-      "description": "Users will be able to choose from Alexa styles like Brief, Chill, or Sweet, Amazon says.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Khosla’s Keith Rabois backs Comp, which wants to bolster HR teams with AI",
-      "link": "https://techcrunch.com/2026/02/25/khoslas-keith-rabois-backs-comp-which-wants-to-bolster-hr-teams-with-ai/",
-      "description": "The HR tech startup, which currently operates in Brazil, has raised a $17.25 million Series A.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 13:30:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
-      "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
-      "description": "More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.\nThe post The Blast Radius Problem: Stolen Credentials Are Weaponizing Ag...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 16:16:40 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
-      "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
-      "description": "Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker.\nThe post Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 12:59:30 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "CarGurus Data Breach Impacts Over 12 Million Users",
-      "link": "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
-      "description": "Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.\nThe post CarGurus Data Breach Impacts Over 12 Million Users appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 12:30:00 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Operation Red Card 2.0 Leads to 651 Arrests in Africa",
       "link": "https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa",
       "description": "In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than $4.3 million.",
@@ -684,23 +607,23 @@
       "imageUrl": null
     },
     {
+      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
+      "description": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting oper...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 25 Feb 2026 10:54:44 -0500",
+      "category": "fraud",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
       "title": "US sanctions Russian broker for buying stolen zero-day exploits",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
       "description": "The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 25 Feb 2026 05:31:13 -0500",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "1Campaign platform helps malicious Google ads evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
-      "description": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 24 Feb 2026 16:45:05 -0500",
       "category": "fraud",
       "score": 73.6,
       "imageUrl": null
@@ -761,34 +684,12 @@
       "imageUrl": null
     },
     {
-      "title": "Reddit fined £14m for 'concerning' child age check failings",
-      "link": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
-      "description": "The UK's data watchdog said the failings meant children could be exposed to harmful material online.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 24 Feb 2026 13:33:47 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
       "link": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
       "description": "Artificial intelligence detectors are increasingly used to check the veracity of content online. We ran more than 1,000 tests and found several strengths and plenty of weaknesses.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 25 Feb 2026 10:00:09 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
-      "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
-      "description": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 24 Feb 2026 17:02:19 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -805,6 +706,17 @@
       "imageUrl": null
     },
     {
+      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+      "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
+      "description": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 24 Feb 2026 17:02:19 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
       "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
       "description": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
@@ -813,6 +725,17 @@
       "pubDate": "Tue, 24 Feb 2026 19:18:22 +0000",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Why 'Call This Number' TOAD Emails Beat Gateways",
+      "link": "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways",
+      "description": "Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 25 Feb 2026 14:00:00 GMT",
+      "category": "ai",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -838,17 +761,6 @@
       "imageUrl": null
     },
     {
-      "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
-      "description": "Investments in cybersecurity startups took off in 2025 as venture capital firms focused not just on AI-native tech but on talent as well.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 24 Feb 2026 13:04:04 GMT",
-      "category": "ai",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn?",
       "link": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
       "description": "People are revealing sensitive personal information to A.I. chatbots — including plans to commit violent acts.",
@@ -865,9 +777,53 @@
       "description": "Experts caution that low-quality, A.I.-generated videos on YouTube geared toward children often feature conflicting information, lack plot structure and can be cognitively overwhelming — all of which...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 10:00:09 +0000",
+      "pubDate": "Thu, 26 Feb 2026 14:16:16 +0000",
       "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 12:58:40 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+      "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+      "description": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon\t\n\nAmazon is giving you more control over how Alexa behaves during conversations...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-25T14:00:00.000Z",
+      "category": "both",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
+      "description": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 25 Feb 2026 10:01:11 -0500",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
+      "description": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 25 Feb 2026 07:53:02 -0500",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -893,25 +849,36 @@
       "imageUrl": null
     },
     {
-      "title": "Wynn Resorts confirms employee data breach after extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-      "description": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 24 Feb 2026 16:51:20 -0500",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
+      "link": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
+      "description": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 14:56:52 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "CarGurus data breach exposes information of 12.4 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
-      "description": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 24 Feb 2026 13:08:20 -0500",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "Jira’s latest update allows AI agents and humans to work side by side",
+      "link": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+      "description": "Atlassian is unveiling \"agents in Jira,\" which gives users the ability to assign and manage work given to AI agents the same as humans.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
+      "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
+      "description": "More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.\nThe post The Blast Radius Problem: Stolen Credentials Are Weaponizing Ag...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 16:16:40 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -926,47 +893,14 @@
       "imageUrl": null
     },
     {
-      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
-      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
-      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 05:00:07 +0000",
+      "title": "Microsoft expands Windows restore to more enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
+      "description": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500",
       "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
-      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
-      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 01:11:18 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
-      "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
-      "description": "The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. \nThe post Google Disrupts Chinese Hackers Targeting Telecoms, Governments appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 16:01:45 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
-      "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
-      "description": "The four security defects could be exploited for remote code execution but require administrative privileges.\nThe post SolarWinds Patches Four Critical Serv-U Vulnerabilities appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 15:30:00 +0000",
-      "category": "general",
-      "score": 66,
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -981,12 +915,12 @@
       "imageUrl": null
     },
     {
-      "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
-      "link": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
-      "description": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 25 Feb 2026 12:27:26 GMT",
+      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 01:11:18 +0000",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -1003,6 +937,39 @@
       "imageUrl": null
     },
     {
+      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+      "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+      "description": "On June 9, 1,000+ founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow. An exhibit table tur...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
+      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
+      "description": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.\nThe post Gambit Security Emerges From Stealth With $61 Million i...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "PCI Council Says Threats to Payments Systems Are Speeding Up",
       "link": "https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up",
       "description": "The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
@@ -1014,28 +981,6 @@
       "imageUrl": null
     },
     {
-      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
-      "description": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-gr...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 16:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
-      "description": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 2...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents",
       "link": "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents",
       "description": "ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
@@ -1043,6 +988,17 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 25 Feb 2026 12:00:00 GMT",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Reddit fined £14m for 'concerning' child age check failings",
+      "link": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK's data watchdog said the failings meant children could be exposed to harmful material online.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 24 Feb 2026 13:33:47 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -1069,14 +1025,36 @@
       "imageUrl": null
     },
     {
-      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
-      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
-      "description": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 15:00:14 +0000",
+      "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
+      "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
+      "description": "The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. \nThe post Google Disrupts Chinese Hackers Targeting Telecoms, Governments appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 16:01:45 +0000",
+      "category": "general",
+      "score": 58,
+      "imageUrl": null
+    },
+    {
+      "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
+      "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
+      "description": "The four security defects could be exploited for remote code execution but require administrative privileges.\nThe post SolarWinds Patches Four Critical Serv-U Vulnerabilities appeared first on Securit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 15:30:00 +0000",
+      "category": "general",
+      "score": 58,
+      "imageUrl": null
+    },
+    {
+      "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
+      "description": "Investments in cybersecurity startups took off in 2025 as venture capital firms focused not just on AI-native tech but on talent as well.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 24 Feb 2026 13:04:04 GMT",
       "category": "ai",
-      "score": 59.5,
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -1109,6 +1087,17 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 23 Feb 2026 20:11:27 GMT",
       "category": "ai",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
+      "link": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
+      "description": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 25 Feb 2026 12:27:26 GMT",
+      "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
@@ -1154,6 +1143,28 @@
       "pubDate": "Wed, 25 Feb 2026 02:51:51 -0500",
       "category": "general",
       "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
+      "description": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-gr...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 16:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
+      "description": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 2...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -1192,6 +1203,28 @@
   ],
   "all": [
     {
+      "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+      "link": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+      "description": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge\t\n\nGoogle is bringing a more powerful version of its Nano Banana AI image model to fre...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic gives its retired Claude AI a Substack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
+      "description": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack.\nThe newsletter, called Claude's Corner, will give...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T14:21:05.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
       "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
       "description": "This would be an unprecedented escalation against a U.S. company.",
@@ -1199,7 +1232,40 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 26 Feb 2026 01:18:12 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Figma partners with OpenAI to bake in support for Codex",
+      "link": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "description": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
+      "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
+      "description": "Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files.\nThe post Claude Code Flaws Exposed Developer Devices to Silent Hacking appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 26 Feb 2026 13:37:54 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
+      "description": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "category": "fraud",
+      "score": 91.6,
       "imageUrl": null
     },
     {
@@ -1258,28 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "Amazon&#8217;s AGI lab leader is leaving",
-      "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
-      "description": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leavi...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T15:24:39.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
-      "link": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
-      "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T14:24:30.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
       "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
       "description": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
@@ -1313,34 +1357,12 @@
       "imageUrl": null
     },
     {
-      "title": "About 12% of US teens turn to AI for emotional support or advice",
-      "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
-      "description": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 15:52:03 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
-      "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
-      "description": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.\nThe post Medical Device Maker UFP Technologies Hit by Cyberattack appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 13:40:46 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "The A.I. Videos on Kids’ YouTube Feeds",
       "link": "https://www.nytimes.com/video/technology/100000010717886/the-ai-videos-on-kids-youtube-feeds.html",
       "description": "The YouTube algorithm is pushing bizarre, often nonsensical A.I.-generated videos targeting children. Our video journalist Arijeta Lajka explains why experts say that these videos could affect their c...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 11:11:20 +0000",
+      "pubDate": "Thu, 26 Feb 2026 15:02:28 +0000",
       "category": "ai",
       "score": 89.5,
       "imageUrl": null
@@ -1357,23 +1379,23 @@
       "imageUrl": null
     },
     {
-      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
-      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Wayve, an A.I. Driverless Car Start-Up in Europe, Raises $1.2 Billion",
       "link": "https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html",
       "description": "The London-based company is building a system that uses artificial intelligence to power autonomous vehicles.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 25 Feb 2026 00:01:06 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
+      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -1403,12 +1425,67 @@
     {
       "title": "Instagram to alert parents if teens search for self-harm and suicide content",
       "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
-      "description": "Meta says it will help parents support their children - but safety campaigners have accused them of \"passing the buck\".",
+      "description": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 26 Feb 2026 11:59:41 GMT",
+      "pubDate": "Thu, 26 Feb 2026 14:03:35 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
+      "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+      "description": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 15:52:31 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon&#8217;s AGI lab leader is leaving",
+      "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+      "description": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leavi...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-25T15:24:39.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
+      "link": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
+      "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-25T14:24:30.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "About 12% of US teens turn to AI for emotional support or advice",
+      "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+      "description": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 15:52:03 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
+      "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
+      "description": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.\nThe post Medical Device Maker UFP Technologies Hit by Cyberattack appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 13:40:46 +0000",
+      "category": "fraud",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1419,51 +1496,7 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 26 Feb 2026 10:06:05 +0000",
       "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
-      "description": "U.S. Secretary of Defense Pete Hegseth (L) walks with Emil Michael (R), Under Secretary of Defense (Research & Engineering, while touring an exhibit of Multi-Domain Autonomous systems at the Pentagon...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T01:59:00.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
-      "description": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. \nThe former company's motion to dismiss the lawsuit was granted on...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-24T23:05:28.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
-      "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-      "description": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 02:00:00 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
-      "description": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting oper...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 25 Feb 2026 10:54:44 -0500",
-      "category": "fraud",
-      "score": 81.6,
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1478,12 +1511,45 @@
       "imageUrl": null
     },
     {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 26 Feb 2026 15:45:18 +0000",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+      "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
       "link": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
       "description": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pul...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-02-26T11:06:33.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -1497,6 +1563,17 @@
       "pubDate": "Wed, 25 Feb 2026 18:07:54 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+      "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+      "description": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1518,7 +1595,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 26 Feb 2026 09:56:46 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1528,17 +1605,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Thu, 26 Feb 2026 09:18:43 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -1566,17 +1632,6 @@
       "imageUrl": null
     },
     {
-      "title": "Why 'Call This Number' TOAD Emails Beat Gateways",
-      "link": "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways",
-      "description": "Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
       "title": "Zyxel Patches Critical Vulnerability in Many Device Models",
       "link": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
       "description": "The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution.\nThe post Zyxel Patches Critical Vulnerability in Many Device Models appeared first on Se...",
@@ -1585,28 +1640,6 @@
       "pubDate": "Thu, 26 Feb 2026 12:09:29 +0000",
       "category": "fraud",
       "score": 76,
-      "imageUrl": null
-    },
-    {
-      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
-      "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
-      "description": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon\t\n\nAmazon is giving you more control over how Alexa behaves during conversations...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T14:00:00.000Z",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe’s new AI video editing tool stitches clips into a first draft",
-      "link": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
-      "description": "Quick Cut aims to help you spend less time staring at a blank editing timeline. | Image: Adobe\t\n\nAdobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a f...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-25T14:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1632,25 +1665,14 @@
       "imageUrl": null
     },
     {
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "description": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 25 Feb 2026 10:01:11 -0500",
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
-      "description": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 25 Feb 2026 07:53:02 -0500",
-      "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1720,94 +1742,6 @@
       "imageUrl": null
     },
     {
-      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
-      "link": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
-      "description": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:56:52 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Jira’s latest update allows AI agents and humans to work side by side",
-      "link": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
-      "description": "Atlassian is unveiling \"agents in Jira,\" which gives users the ability to assign and manage work given to AI agents the same as humans.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe Firefly’s video editor can now automatically create a first draft from footage",
-      "link": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
-      "description": "Adobe Firefly is getting a new feature called Quick Cut that uses AI to edit footage to create a first draft of the final video based on user instructions.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon’s AI-powered Alexa+ gets new personality options",
-      "link": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
-      "description": "Users will be able to choose from Alexa styles like Brief, Chill, or Sweet, Amazon says.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Khosla’s Keith Rabois backs Comp, which wants to bolster HR teams with AI",
-      "link": "https://techcrunch.com/2026/02/25/khoslas-keith-rabois-backs-comp-which-wants-to-bolster-hr-teams-with-ai/",
-      "description": "The HR tech startup, which currently operates in Brazil, has raised a $17.25 million Series A.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 13:30:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
-      "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
-      "description": "More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.\nThe post The Blast Radius Problem: Stolen Credentials Are Weaponizing Ag...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 16:16:40 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
-      "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
-      "description": "Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker.\nThe post Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 12:59:30 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "CarGurus Data Breach Impacts Over 12 Million Users",
-      "link": "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
-      "description": "Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.\nThe post CarGurus Data Breach Impacts Over 12 Million Users appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 12:30:00 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Operation Red Card 2.0 Leads to 651 Arrests in Africa",
       "link": "https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa",
       "description": "In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than $4.3 million.",
@@ -1852,23 +1786,23 @@
       "imageUrl": null
     },
     {
+      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
+      "description": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting oper...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 25 Feb 2026 10:54:44 -0500",
+      "category": "fraud",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
       "title": "US sanctions Russian broker for buying stolen zero-day exploits",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
       "description": "The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 25 Feb 2026 05:31:13 -0500",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "1Campaign platform helps malicious Google ads evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
-      "description": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 24 Feb 2026 16:45:05 -0500",
       "category": "fraud",
       "score": 73.6,
       "imageUrl": null
@@ -1929,34 +1863,12 @@
       "imageUrl": null
     },
     {
-      "title": "Reddit fined £14m for 'concerning' child age check failings",
-      "link": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
-      "description": "The UK's data watchdog said the failings meant children could be exposed to harmful material online.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 24 Feb 2026 13:33:47 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
       "link": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
       "description": "Artificial intelligence detectors are increasingly used to check the veracity of content online. We ran more than 1,000 tests and found several strengths and plenty of weaknesses.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 25 Feb 2026 10:00:09 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
-      "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
-      "description": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 24 Feb 2026 17:02:19 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1973,6 +1885,17 @@
       "imageUrl": null
     },
     {
+      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+      "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
+      "description": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 24 Feb 2026 17:02:19 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
       "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
       "description": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
@@ -1981,6 +1904,17 @@
       "pubDate": "Tue, 24 Feb 2026 19:18:22 +0000",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Why 'Call This Number' TOAD Emails Beat Gateways",
+      "link": "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways",
+      "description": "Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 25 Feb 2026 14:00:00 GMT",
+      "category": "ai",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -2006,17 +1940,6 @@
       "imageUrl": null
     },
     {
-      "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
-      "description": "Investments in cybersecurity startups took off in 2025 as venture capital firms focused not just on AI-native tech but on talent as well.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 24 Feb 2026 13:04:04 GMT",
-      "category": "ai",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn?",
       "link": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
       "description": "People are revealing sensitive personal information to A.I. chatbots — including plans to commit violent acts.",
@@ -2033,9 +1956,53 @@
       "description": "Experts caution that low-quality, A.I.-generated videos on YouTube geared toward children often feature conflicting information, lack plot structure and can be cognitively overwhelming — all of which...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 10:00:09 +0000",
+      "pubDate": "Thu, 26 Feb 2026 14:16:16 +0000",
       "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 12:58:40 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+      "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+      "description": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon\t\n\nAmazon is giving you more control over how Alexa behaves during conversations...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-25T14:00:00.000Z",
+      "category": "both",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
+      "description": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 25 Feb 2026 10:01:11 -0500",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
+      "description": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 25 Feb 2026 07:53:02 -0500",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -2061,25 +2028,36 @@
       "imageUrl": null
     },
     {
-      "title": "Wynn Resorts confirms employee data breach after extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-      "description": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 24 Feb 2026 16:51:20 -0500",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
+      "link": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
+      "description": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 14:56:52 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "CarGurus data breach exposes information of 12.4 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
-      "description": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 24 Feb 2026 13:08:20 -0500",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "Jira’s latest update allows AI agents and humans to work side by side",
+      "link": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+      "description": "Atlassian is unveiling \"agents in Jira,\" which gives users the ability to assign and manage work given to AI agents the same as humans.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
+      "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
+      "description": "More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.\nThe post The Blast Radius Problem: Stolen Credentials Are Weaponizing Ag...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 16:16:40 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -2094,47 +2072,14 @@
       "imageUrl": null
     },
     {
-      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
-      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
-      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 05:00:07 +0000",
+      "title": "Microsoft expands Windows restore to more enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
+      "description": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500",
       "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
-      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
-      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 01:11:18 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
-      "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
-      "description": "The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. \nThe post Google Disrupts Chinese Hackers Targeting Telecoms, Governments appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 16:01:45 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
-      "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
-      "description": "The four security defects could be exploited for remote code execution but require administrative privileges.\nThe post SolarWinds Patches Four Critical Serv-U Vulnerabilities appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 25 Feb 2026 15:30:00 +0000",
-      "category": "general",
-      "score": 66,
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -2149,12 +2094,12 @@
       "imageUrl": null
     },
     {
-      "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
-      "link": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
-      "description": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 25 Feb 2026 12:27:26 GMT",
+      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 01:11:18 +0000",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -2171,6 +2116,39 @@
       "imageUrl": null
     },
     {
+      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+      "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+      "description": "On June 9, 1,000+ founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow. An exhibit table tur...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
+      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
+      "description": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.\nThe post Gambit Security Emerges From Stealth With $61 Million i...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "PCI Council Says Threats to Payments Systems Are Speeding Up",
       "link": "https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up",
       "description": "The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
@@ -2182,28 +2160,6 @@
       "imageUrl": null
     },
     {
-      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
-      "description": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-gr...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 16:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
-      "description": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 2...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 25 Feb 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents",
       "link": "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents",
       "description": "ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
@@ -2211,6 +2167,17 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 25 Feb 2026 12:00:00 GMT",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Reddit fined £14m for 'concerning' child age check failings",
+      "link": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK's data watchdog said the failings meant children could be exposed to harmful material online.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 24 Feb 2026 13:33:47 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -2237,14 +2204,36 @@
       "imageUrl": null
     },
     {
-      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
-      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
-      "description": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 23 Feb 2026 15:00:14 +0000",
+      "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
+      "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
+      "description": "The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. \nThe post Google Disrupts Chinese Hackers Targeting Telecoms, Governments appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 16:01:45 +0000",
+      "category": "general",
+      "score": 58,
+      "imageUrl": null
+    },
+    {
+      "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
+      "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
+      "description": "The four security defects could be exploited for remote code execution but require administrative privileges.\nThe post SolarWinds Patches Four Critical Serv-U Vulnerabilities appeared first on Securit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 25 Feb 2026 15:30:00 +0000",
+      "category": "general",
+      "score": 58,
+      "imageUrl": null
+    },
+    {
+      "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
+      "description": "Investments in cybersecurity startups took off in 2025 as venture capital firms focused not just on AI-native tech but on talent as well.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 24 Feb 2026 13:04:04 GMT",
       "category": "ai",
-      "score": 59.5,
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -2277,6 +2266,17 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 23 Feb 2026 20:11:27 GMT",
       "category": "ai",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
+      "link": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
+      "description": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 25 Feb 2026 12:27:26 GMT",
+      "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
@@ -2322,6 +2322,28 @@
       "pubDate": "Wed, 25 Feb 2026 02:51:51 -0500",
       "category": "general",
       "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
+      "description": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-gr...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 16:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
+      "description": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 2...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 25 Feb 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
