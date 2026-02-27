@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "generated": "2026-02-27T00:26:29.680Z",
+    "generated": "2026-02-27T04:35:29.420Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 105,
+    "totalArticles": 107,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 105 articles from 8 trusted sources, including 72 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Burger King rolls out AI headsets that track employee 'friendliness'\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ransomware payment rate drops to record low as attacks surge\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, BleepingComputer, TechCrunch and others\n• **Fresh Content**: 55 articles published in the last 24 hours",
-    "generated": "2026-02-27T00:26:29.680Z",
+    "content": "Today's selection covers 107 articles from 8 trusted sources, including 74 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic boss rejects Pentagon demand to drop AI safeguards\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ransomware payment rate drops to record low as attacks surge\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, TechCrunch, BleepingComputer and others\n• **Fresh Content**: 55 articles published in the last 24 hours",
+    "generated": "2026-02-27T04:35:29.420Z",
     "stats": {
-      "totalArticles": 105,
-      "aiArticles": 72,
+      "totalArticles": 107,
+      "aiArticles": 74,
       "fraudArticles": 11,
       "sources": 8,
       "todayCount": 55
@@ -22,23 +22,23 @@
   },
   "top": [
     {
-      "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
-      "link": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
-      "description": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.",
+      "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
+      "link": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
+      "description": "Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 26 Feb 2026 22:09:46 GMT",
+      "pubDate": "Fri, 27 Feb 2026 03:54:27 GMT",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
     },
     {
-      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-      "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-      "description": "The Twitter co-founder says artificial intelligence \"fundamentally changes what it means to build and run a company.\"",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 27 Feb 2026 00:06:40 GMT",
+      "title": "Google Workers Seek ‘Red Lines’ on Military A.I., Echoing Anthropic",
+      "link": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "description": "More than 100 Google A.I. employees sent a letter to Jeff Dean, a chief scientist, opposing Gemini’s use for U.S. surveillance and some autonomous weapons.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 27 Feb 2026 02:53:19 +0000",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
@@ -49,9 +49,31 @@
       "description": "About 4,000 workers will lose their jobs as the payments company does more work with new artificial intelligence tools, its top executive said.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 23:08:48 +0000",
+      "pubDate": "Fri, 27 Feb 2026 01:08:55 +0000",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
+      "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
+      "description": "Anthropic said it was standing firm on not having its A.I. used in certain scenarios by the Pentagon, which has imposed a Friday deadline on the company to give unfettered access to its technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 27 Feb 2026 01:03:49 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
+      "link": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
+      "description": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 26 Feb 2026 22:09:46 GMT",
+      "category": "ai",
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -63,28 +85,6 @@
       "pubDate": "2026-02-26T23:22:44.000Z",
       "category": "ai",
       "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "description": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
-      "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
-      "description": "This would be an unprecedented escalation against a U.S. company.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 01:18:12 +0000",
-      "category": "ai",
-      "score": 94.5,
       "imageUrl": null
     }
   ],
@@ -101,6 +101,17 @@
       "imageUrl": null
     },
     {
+      "title": "Previously harmless Google API keys now expose Gemini AI data",
+      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
+      "description": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "Mistral AI inks a deal with global consulting giant Accenture",
       "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
       "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
@@ -108,7 +119,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 26 Feb 2026 19:17:27 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -119,7 +130,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-26T16:00:00.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -130,7 +141,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-26T14:21:05.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -141,7 +152,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 26 Feb 2026 16:00:00 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -152,7 +163,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -163,18 +174,18 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 26 Feb 2026 13:37:54 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
-      "title": "Ransomware payment rate drops to record low as attacks surge",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
-      "description": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500",
-      "category": "fraud",
-      "score": 89.6,
+      "title": "Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
+      "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
+      "description": "Total profit for the fiscal year was $120 billion, the company said. Three years ago, it was just $4.4 billion.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 27 Feb 2026 02:00:16 +0000",
+      "category": "ai",
+      "score": 89.5,
       "imageUrl": null
     },
     {
@@ -189,25 +200,25 @@
       "imageUrl": null
     },
     {
-      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
-      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
-      "category": "ai",
-      "score": 86.5,
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
+      "description": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "category": "fraud",
+      "score": 87.6,
       "imageUrl": null
     },
     {
-      "title": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years",
-      "description": "The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 26 Feb 2026 21:45:56 GMT",
-      "category": "fraud",
-      "score": 83.5,
+      "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
+      "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
+      "description": "This would be an unprecedented escalation against a U.S. company.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 01:18:12 +0000",
+      "category": "ai",
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -244,12 +255,12 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic Says Little Progress Made With Pentagon in Talks Over A.I.",
-      "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
-      "description": "The Pentagon has imposed a Friday deadline over a demand that Anthropic provide unfettered access to its A.I. system without safeguards for military operations.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 23:53:00 +0000",
+      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+      "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
+      "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 27 Feb 2026 00:06:40 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -260,7 +271,7 @@
       "description": "The plaintiff, a 20-year-old identified only as K.G.M., took the stand to testify against Meta and Instagram in a bellwether case over tech addiction.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 22:21:31 +0000",
+      "pubDate": "Fri, 27 Feb 2026 00:56:55 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -321,23 +332,23 @@
       "imageUrl": null
     },
     {
+      "title": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years",
+      "description": "The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 26 Feb 2026 21:45:56 GMT",
+      "category": "fraud",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
       "title": "Instagram to alert parents if teens search for self-harm and suicide content",
       "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
       "description": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 26 Feb 2026 16:39:57 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
-      "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
-      "description": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 15:52:31 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -354,14 +365,14 @@
       "imageUrl": null
     },
     {
-      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
-      "link": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
-      "description": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-26T22:11:13.000Z",
-      "category": "both",
-      "score": 79.6,
+      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
+      "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+      "description": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 15:52:31 +0000",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -376,46 +387,13 @@
       "imageUrl": null
     },
     {
-      "title": "So, we’re getting Prada Meta AI glasses, right?",
-      "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
-      "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 20:11:55 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Sophia Space raises $10M seed to demo novel space computers",
-      "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
-      "description": "The company's modular computer tiles offer a new vision for space data centers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 19:55:20 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Thu, 26 Feb 2026 15:45:18 +0000",
-      "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
-      "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only a...",
+      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+      "link": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
+      "description": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-02-26T13:00:00.000Z",
-      "category": "ai",
+      "pubDate": "2026-02-26T22:11:13.000Z",
+      "category": "both",
       "score": 77.6,
       "imageUrl": null
     },
@@ -442,17 +420,6 @@
       "imageUrl": null
     },
     {
-      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
-      "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
       "title": "Chip giant Nvidia defies AI concerns with record $215bn revenue",
       "link": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss",
       "description": "Demand for Nvidia chips rose even as the company sets out to create AI products of its own.",
@@ -464,14 +431,25 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
-      "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
-      "description": "Total profit for the fiscal year was $120 billion, the company said. Three years ago, it was just $4.4 billion.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 23:28:10 +0000",
+      "title": "So, we’re getting Prada Meta AI glasses, right?",
+      "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+      "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 20:11:55 +0000",
       "category": "ai",
-      "score": 77.5,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Sophia Space raises $10M seed to demo novel space computers",
+      "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+      "description": "The company's modular computer tiles offer a new vision for space data centers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 19:55:20 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -497,14 +475,25 @@
       "imageUrl": null
     },
     {
-      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
-      "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
-      "description": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 26 Feb 2026 15:45:18 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+      "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T13:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -519,12 +508,23 @@
       "imageUrl": null
     },
     {
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+      "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+      "description": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -596,6 +596,17 @@
       "imageUrl": null
     },
     {
+      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
+      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
+      "category": "ai",
+      "score": 74.5,
+      "imageUrl": null
+    },
+    {
       "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
       "description": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting oper...",
@@ -635,17 +646,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 25 Feb 2026 10:55:39 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
-      "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
-      "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 25 Feb 2026 03:18:11 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -772,6 +772,17 @@
       "imageUrl": null
     },
     {
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
       "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
       "description": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
@@ -838,28 +849,6 @@
       "imageUrl": null
     },
     {
-      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
-      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
-      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 12:58:41 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
-      "link": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game",
-      "description": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 26 Feb 2026 22:02:41 GMT",
-      "category": "general",
-      "score": 65.5,
-      "imageUrl": null
-    },
-    {
       "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
       "description": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to co...",
@@ -882,12 +871,12 @@
       "imageUrl": null
     },
     {
-      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
-      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
-      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
+      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 01:11:19 +0000",
+      "pubDate": "Thu, 26 Feb 2026 12:58:41 +0000",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -904,36 +893,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft expands Windows restore to more enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
-      "description": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500",
+      "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
+      "link": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game",
+      "description": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 26 Feb 2026 22:02:41 GMT",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
-      "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
-      "description": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -959,14 +926,14 @@
       "imageUrl": null
     },
     {
-      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
-      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
-      "description": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.\nThe post Gambit Security Emerges From Stealth With $61 Million i...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "title": "Microsoft expands Windows restore to more enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
+      "description": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500",
       "category": "general",
-      "score": 62,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -981,6 +948,39 @@
       "imageUrl": null
     },
     {
+      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+      "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+      "description": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
+      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
+      "description": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.\nThe post Gambit Security Emerges From Stealth With $61 Million i...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
       "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents",
       "link": "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents",
       "description": "ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
@@ -988,6 +988,17 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 25 Feb 2026 12:00:00 GMT",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
+      "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
+      "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 25 Feb 2026 03:18:11 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -1124,23 +1135,23 @@
       "imageUrl": null
     },
     {
+      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 01:11:19 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "Podcasts? TV Talk Shows? Netflix Just Hopes They’re Hits.",
       "link": "https://www.nytimes.com/2026/02/25/arts/television/podcasts-netflix-pete-davidson.html",
       "description": "The podcasts in the streamer’s debut crop, including “The Pete Davidson Show,” have revived metaphysical questions about the definition of the medium.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 25 Feb 2026 20:18:42 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
-      "link": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
-      "description": "Senator Richard Blumenthal of Connecticut sent a letter to Binance asking about the flow of $1.7 billion from accounts on the crypto exchange to Iranian entities.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 01:00:23 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -1163,6 +1174,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 24 Feb 2026 22:43:26 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
+      "link": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
+      "description": "Senator Richard Blumenthal of Connecticut sent a letter to Binance asking about the flow of $1.7 billion from accounts on the crypto exchange to Iranian entities.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 25 Feb 2026 01:00:23 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1181,23 +1203,23 @@
   ],
   "all": [
     {
-      "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
-      "link": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
-      "description": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.",
+      "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
+      "link": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
+      "description": "Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 26 Feb 2026 22:09:46 GMT",
+      "pubDate": "Fri, 27 Feb 2026 03:54:27 GMT",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
     },
     {
-      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-      "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-      "description": "The Twitter co-founder says artificial intelligence \"fundamentally changes what it means to build and run a company.\"",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 27 Feb 2026 00:06:40 GMT",
+      "title": "Google Workers Seek ‘Red Lines’ on Military A.I., Echoing Anthropic",
+      "link": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "description": "More than 100 Google A.I. employees sent a letter to Jeff Dean, a chief scientist, opposing Gemini’s use for U.S. surveillance and some autonomous weapons.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 27 Feb 2026 02:53:19 +0000",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
@@ -1208,9 +1230,31 @@
       "description": "About 4,000 workers will lose their jobs as the payments company does more work with new artificial intelligence tools, its top executive said.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 23:08:48 +0000",
+      "pubDate": "Fri, 27 Feb 2026 01:08:55 +0000",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
+      "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
+      "description": "Anthropic said it was standing firm on not having its A.I. used in certain scenarios by the Pentagon, which has imposed a Friday deadline on the company to give unfettered access to its technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 27 Feb 2026 01:03:49 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
+      "link": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
+      "description": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 26 Feb 2026 22:09:46 GMT",
+      "category": "ai",
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1225,28 +1269,6 @@
       "imageUrl": null
     },
     {
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "description": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
-      "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
-      "description": "This would be an unprecedented escalation against a U.S. company.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 01:18:12 +0000",
-      "category": "ai",
-      "score": 94.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic CEO stands firm as Pentagon deadline looms",
       "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
       "description": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
@@ -1258,6 +1280,17 @@
       "imageUrl": null
     },
     {
+      "title": "Previously harmless Google API keys now expose Gemini AI data",
+      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
+      "description": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "Mistral AI inks a deal with global consulting giant Accenture",
       "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
       "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
@@ -1265,7 +1298,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 26 Feb 2026 19:17:27 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1276,7 +1309,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-26T16:00:00.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1287,7 +1320,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-02-26T14:21:05.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1298,7 +1331,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 26 Feb 2026 16:00:00 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1309,7 +1342,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1320,18 +1353,18 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 26 Feb 2026 13:37:54 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
-      "title": "Ransomware payment rate drops to record low as attacks surge",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
-      "description": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500",
-      "category": "fraud",
-      "score": 89.6,
+      "title": "Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
+      "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
+      "description": "Total profit for the fiscal year was $120 billion, the company said. Three years ago, it was just $4.4 billion.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 27 Feb 2026 02:00:16 +0000",
+      "category": "ai",
+      "score": 89.5,
       "imageUrl": null
     },
     {
@@ -1346,25 +1379,25 @@
       "imageUrl": null
     },
     {
-      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
-      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
-      "category": "ai",
-      "score": 86.5,
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
+      "description": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "category": "fraud",
+      "score": 87.6,
       "imageUrl": null
     },
     {
-      "title": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years",
-      "description": "The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 26 Feb 2026 21:45:56 GMT",
-      "category": "fraud",
-      "score": 83.5,
+      "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
+      "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
+      "description": "This would be an unprecedented escalation against a U.S. company.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 01:18:12 +0000",
+      "category": "ai",
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -1401,12 +1434,12 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic Says Little Progress Made With Pentagon in Talks Over A.I.",
-      "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
-      "description": "The Pentagon has imposed a Friday deadline over a demand that Anthropic provide unfettered access to its A.I. system without safeguards for military operations.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 23:53:00 +0000",
+      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+      "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
+      "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 27 Feb 2026 00:06:40 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -1417,7 +1450,7 @@
       "description": "The plaintiff, a 20-year-old identified only as K.G.M., took the stand to testify against Meta and Instagram in a bellwether case over tech addiction.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 22:21:31 +0000",
+      "pubDate": "Fri, 27 Feb 2026 00:56:55 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -1478,23 +1511,23 @@
       "imageUrl": null
     },
     {
+      "title": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years",
+      "description": "The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 26 Feb 2026 21:45:56 GMT",
+      "category": "fraud",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
       "title": "Instagram to alert parents if teens search for self-harm and suicide content",
       "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
       "description": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 26 Feb 2026 16:39:57 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
-      "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
-      "description": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 15:52:31 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -1511,14 +1544,14 @@
       "imageUrl": null
     },
     {
-      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
-      "link": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
-      "description": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-26T22:11:13.000Z",
-      "category": "both",
-      "score": 79.6,
+      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
+      "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+      "description": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 15:52:31 +0000",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1533,46 +1566,13 @@
       "imageUrl": null
     },
     {
-      "title": "So, we’re getting Prada Meta AI glasses, right?",
-      "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
-      "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 20:11:55 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Sophia Space raises $10M seed to demo novel space computers",
-      "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
-      "description": "The company's modular computer tiles offer a new vision for space data centers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 19:55:20 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Thu, 26 Feb 2026 15:45:18 +0000",
-      "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
-      "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only a...",
+      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+      "link": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
+      "description": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-02-26T13:00:00.000Z",
-      "category": "ai",
+      "pubDate": "2026-02-26T22:11:13.000Z",
+      "category": "both",
       "score": 77.6,
       "imageUrl": null
     },
@@ -1599,17 +1599,6 @@
       "imageUrl": null
     },
     {
-      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
-      "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
       "title": "Chip giant Nvidia defies AI concerns with record $215bn revenue",
       "link": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss",
       "description": "Demand for Nvidia chips rose even as the company sets out to create AI products of its own.",
@@ -1621,14 +1610,25 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
-      "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
-      "description": "Total profit for the fiscal year was $120 billion, the company said. Three years ago, it was just $4.4 billion.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 23:28:10 +0000",
+      "title": "So, we’re getting Prada Meta AI glasses, right?",
+      "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+      "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 20:11:55 +0000",
       "category": "ai",
-      "score": 77.5,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Sophia Space raises $10M seed to demo novel space computers",
+      "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+      "description": "The company's modular computer tiles offer a new vision for space data centers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 19:55:20 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1654,14 +1654,25 @@
       "imageUrl": null
     },
     {
-      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
-      "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
-      "description": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 26 Feb 2026 15:45:18 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+      "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-02-26T13:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1676,12 +1687,23 @@
       "imageUrl": null
     },
     {
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+      "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+      "description": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1753,6 +1775,17 @@
       "imageUrl": null
     },
     {
+      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
+      "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+      "description": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 25 Feb 2026 03:08:08 +0000",
+      "category": "ai",
+      "score": 74.5,
+      "imageUrl": null
+    },
+    {
       "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
       "description": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting oper...",
@@ -1792,17 +1825,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 25 Feb 2026 10:55:39 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
-      "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
-      "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 25 Feb 2026 03:18:11 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1929,6 +1951,17 @@
       "imageUrl": null
     },
     {
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "description": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
       "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
       "description": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
@@ -1995,28 +2028,6 @@
       "imageUrl": null
     },
     {
-      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
-      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
-      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 12:58:41 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
-      "link": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game",
-      "description": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 26 Feb 2026 22:02:41 GMT",
-      "category": "general",
-      "score": 65.5,
-      "imageUrl": null
-    },
-    {
       "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
       "description": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to co...",
@@ -2039,12 +2050,12 @@
       "imageUrl": null
     },
     {
-      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
-      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
-      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
+      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+      "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+      "description": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 26 Feb 2026 01:11:19 +0000",
+      "pubDate": "Thu, 26 Feb 2026 12:58:41 +0000",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -2061,36 +2072,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft expands Windows restore to more enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
-      "description": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500",
+      "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
+      "link": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game",
+      "description": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 26 Feb 2026 22:02:41 GMT",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
-      "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
-      "description": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -2116,14 +2105,14 @@
       "imageUrl": null
     },
     {
-      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
-      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
-      "description": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.\nThe post Gambit Security Emerges From Stealth With $61 Million i...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "title": "Microsoft expands Windows restore to more enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
+      "description": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500",
       "category": "general",
-      "score": 62,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -2138,6 +2127,39 @@
       "imageUrl": null
     },
     {
+      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+      "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+      "description": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 26 Feb 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
+      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
+      "description": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.\nThe post Gambit Security Emerges From Stealth With $61 Million i...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
       "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents",
       "link": "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents",
       "description": "ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
@@ -2145,6 +2167,17 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 25 Feb 2026 12:00:00 GMT",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
+      "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
+      "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 25 Feb 2026 03:18:11 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -2281,23 +2314,23 @@
       "imageUrl": null
     },
     {
+      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+      "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+      "description": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 26 Feb 2026 01:11:19 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "Podcasts? TV Talk Shows? Netflix Just Hopes They’re Hits.",
       "link": "https://www.nytimes.com/2026/02/25/arts/television/podcasts-netflix-pete-davidson.html",
       "description": "The podcasts in the streamer’s debut crop, including “The Pete Davidson Show,” have revived metaphysical questions about the definition of the medium.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Wed, 25 Feb 2026 20:18:42 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
-      "link": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
-      "description": "Senator Richard Blumenthal of Connecticut sent a letter to Binance asking about the flow of $1.7 billion from accounts on the crypto exchange to Iranian entities.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 25 Feb 2026 01:00:23 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -2320,6 +2353,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 24 Feb 2026 22:43:26 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
+      "link": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
+      "description": "Senator Richard Blumenthal of Connecticut sent a letter to Binance asking about the flow of $1.7 billion from accounts on the crypto exchange to Iranian entities.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 25 Feb 2026 01:00:23 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
