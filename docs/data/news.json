@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-03-03T08:13:06.095Z",
+    "generated": "2026-03-03T12:13:02.758Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 59,
-    "sources": 8,
+    "totalArticles": 64,
+    "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 59 articles from 8 trusted sources, including 42 on Artificial Intelligence and 8 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Amends A.I. Deal With the Pentagon\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Alabama man pleads guilty to hacking, extorting hundreds of women\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, TechCrunch, Dark Reading, BleepingComputer and others\n• **Fresh Content**: 37 articles published in the last 24 hours",
-    "generated": "2026-03-03T08:13:06.095Z",
+    "content": "Today's selection covers 64 articles from 7 trusted sources, including 42 on Artificial Intelligence and 9 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI changes deal with US military after backlash\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: UH Cancer Center data breach affects nearly 1.2 million people\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, BleepingComputer, The Verge, TechCrunch and others\n• **Fresh Content**: 41 articles published in the last 24 hours",
+    "generated": "2026-03-03T12:13:02.758Z",
     "stats": {
-      "totalArticles": 59,
+      "totalArticles": 64,
       "aiArticles": 42,
-      "fraudArticles": 8,
-      "sources": 8,
-      "todayCount": 37
+      "fraudArticles": 9,
+      "sources": 7,
+      "todayCount": 41
     }
   },
   "top": [
+    {
+      "title": "OpenAI changes deal with US military after backlash",
+      "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+      "description": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Mar 2026 11:51:31 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
     {
       "title": "OpenAI Amends A.I. Deal With the Pentagon",
       "link": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
@@ -29,7 +40,18 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 03 Mar 2026 03:57:04 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "UH Cancer Center data breach affects nearly 1.2 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/",
+      "description": "The University of Hawaii confirmed that a ransomware gang stole the data of nearly 1.2 million individuals in August 2025 after breaching its Cancer Center's Epidemiology Division. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 04:48:51 -0500",
+      "category": "fraud",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -40,7 +62,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 21:16:51 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -51,7 +73,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-02T22:29:46.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -62,44 +84,11 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-02T20:22:33.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-      "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 03 Mar 2026 00:03:37 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "No one has a good plan for how AI companies should work with the government",
-      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 02 Mar 2026 22:59:10 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     }
   ],
   "more": [
-    {
-      "title": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
-      "link": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
-      "description": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 10:27:15 GMT",
-      "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
     {
       "title": "How OpenAI caved to the Pentagon on AI surveillance",
       "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
@@ -131,6 +120,28 @@
       "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 03 Mar 2026 00:03:37 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 02 Mar 2026 22:59:10 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -189,17 +200,6 @@
       "imageUrl": null
     },
     {
-      "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
-      "link": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
-      "description": "Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. \nThe post US-Israel and Iran Trade Cyberattacks: Pro-West Hac...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 11:04:32 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
       "link": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
       "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches,...",
@@ -211,35 +211,24 @@
       "imageUrl": null
     },
     {
-      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
-      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
-      "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "title": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
+      "link": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
+      "description": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "pubDate": "Mon, 02 Mar 2026 10:27:15 GMT",
       "category": "ai",
-      "score": 84.5,
+      "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
-      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
+      "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
+      "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
+      "description": "General Motors, Ford and other established automakers risk becoming relics if they don’t catch up to Chinese carmakers and technology companies in electric vehicles and self-driving cars.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 03 Mar 2026 10:06:58 +0000",
       "category": "fraud",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
-      "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
-      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 03 Mar 2026 03:59:26 GMT",
-      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -252,6 +241,17 @@
       "pubDate": "2026-03-01T23:01:00.000Z",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+      "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "category": "ai",
+      "score": 82.5,
       "imageUrl": null
     },
     {
@@ -277,13 +277,13 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
-      "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
-      "description": "The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.\nThe post Hackers Weaponize Claude Code in Mexican Government Cyberattack appeared first on SecurityW...",
+      "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
+      "link": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
+      "description": "Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. \nThe post US-Israel and Iran Trade Cyberattacks: Pro-West Hac...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Sun, 01 Mar 2026 12:30:00 +0000",
-      "category": "ai",
+      "pubDate": "Mon, 02 Mar 2026 11:04:32 +0000",
+      "category": "fraud",
       "score": 82,
       "imageUrl": null
     },
@@ -299,6 +299,17 @@
       "imageUrl": null
     },
     {
+      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
+      "category": "fraud",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
       "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
       "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
       "description": "A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels. [...]",
@@ -310,6 +321,39 @@
       "imageUrl": null
     },
     {
+      "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
+      "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
+      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Mar 2026 03:59:26 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
+      "description": "Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is stil...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 06:44:44 -0500",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Star Citizen game dev discloses breach affecting user data",
+      "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
+      "description": "Cloud Imperium Games (CIG), the game developer behind Star Citizen and Squadron 42, says attackers breached systems containing some users' personal information in January. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 05:50:26 -0500",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
       "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
       "description": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons.",
@@ -317,7 +361,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 23:40:11 +0000",
       "category": "both",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -343,6 +387,17 @@
       "imageUrl": null
     },
     {
+      "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
+      "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
+      "description": "Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.\nThe post Vulnerability in MS-Agent AI Framework Can Allo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 03 Mar 2026 10:43:20 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
       "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
       "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
@@ -350,7 +405,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 02 Mar 2026 22:34:36 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -361,7 +416,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 02 Mar 2026 19:06:39 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -409,17 +464,6 @@
       "imageUrl": null
     },
     {
-      "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
-      "link": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
-      "description": "Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.\nThe post North Korean APT Targets Air-Gapped Systems in Recent Campaign appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 11:46:29 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
       "link": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
       "description": "It’s been a crazy 48 hours in the A.I. industry.",
@@ -439,6 +483,17 @@
       "pubDate": "Sat, 28 Feb 2026 15:53:58 +0000",
       "category": "ai",
       "score": 74.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
+      "description": "Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 03:19:53 -0500",
+      "category": "general",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -475,17 +530,6 @@
       "imageUrl": null
     },
     {
-      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
-      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
-      "category": "general",
-      "score": 69.5,
-      "imageUrl": null
-    },
-    {
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
       "description": "Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally runni...",
@@ -494,6 +538,17 @@
       "pubDate": "Sun, 01 Mar 2026 16:44:55 -0500",
       "category": "ai",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
+      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
+      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
@@ -516,6 +571,28 @@
       "pubDate": "Sun, 01 Mar 2026 17:00:00 +0000",
       "category": "ai",
       "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
+      "link": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
+      "description": "Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.\nThe post North Korean APT Targets Air-Gapped Systems in Recent Campaign appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 11:46:29 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
+      "link": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
+      "description": "Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.\nThe post Researchers Uncover Method to Track Cars via Tire Sensors appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 03 Mar 2026 09:40:03 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -552,36 +629,14 @@
       "imageUrl": null
     },
     {
-      "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
-      "link": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
-      "description": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).\nThe post Google Working Towards Quantum-Safe Chrome HTTPS Certificates  appeared first on Se...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 11:33:34 +0000",
+      "title": "Deepfake attack: 'Many people could have been cheated'",
+      "link": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
+      "description": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 02 Mar 2026 06:47:00 GMT",
       "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
-      "link": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
-      "description": "The tech-focused leaders of the British brand Apiar aim to stretch beyond watchmaking’s traditional material and manufacturing constraints.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 28 Feb 2026 10:00:09 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Who is the Kimwolf Botmaster “Dort”?",
-      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "description": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the p...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Sat, 28 Feb 2026 12:01:57 +0000",
-      "category": "ai",
-      "score": 58.6,
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -596,28 +651,6 @@
       "imageUrl": null
     },
     {
-      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-      "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
-      "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 01 Mar 2026 09:25:25 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
-      "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
-      "description": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 01 Mar 2026 10:01:10 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
       "description": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of...",
@@ -626,17 +659,6 @@
       "pubDate": "Sat, 28 Feb 2026 14:18:52 -0500",
       "category": "fraud",
       "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
-      "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
-      "description": "Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.\nThe post Canadian Tire Data Breach Impacts 38 Million Accounts appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 28 Feb 2026 11:50:00 +0000",
-      "category": "both",
-      "score": 55,
       "imageUrl": null
     },
     {
@@ -659,6 +681,39 @@
       "pubDate": "Sun, 01 Mar 2026 14:00:00 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+      "link": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
+      "description": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).\nThe post Google Working Towards Quantum-Safe Chrome HTTPS Certificates  appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 11:33:34 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
+      "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
+      "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 01 Mar 2026 09:25:25 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
+      "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
+      "description": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 01 Mar 2026 10:01:10 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -675,6 +730,17 @@
   ],
   "all": [
     {
+      "title": "OpenAI changes deal with US military after backlash",
+      "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+      "description": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Mar 2026 11:51:31 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI Amends A.I. Deal With the Pentagon",
       "link": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
       "description": "The new pact includes additional protections to prevent the use of the company’s technology for mass surveillance of Americans.",
@@ -682,7 +748,18 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 03 Mar 2026 03:57:04 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "UH Cancer Center data breach affects nearly 1.2 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/",
+      "description": "The University of Hawaii confirmed that a ransomware gang stole the data of nearly 1.2 million individuals in August 2025 after breaching its Cancer Center's Epidemiology Division. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 04:48:51 -0500",
+      "category": "fraud",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -693,7 +770,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 21:16:51 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -704,7 +781,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-02T22:29:46.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -715,40 +792,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-02T20:22:33.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-      "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 03 Mar 2026 00:03:37 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "No one has a good plan for how AI companies should work with the government",
-      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 02 Mar 2026 22:59:10 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
-      "link": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
-      "description": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 10:27:15 GMT",
-      "category": "ai",
-      "score": 91.5,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -782,6 +826,28 @@
       "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 03 Mar 2026 00:03:37 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 02 Mar 2026 22:59:10 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -840,17 +906,6 @@
       "imageUrl": null
     },
     {
-      "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
-      "link": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
-      "description": "Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. \nThe post US-Israel and Iran Trade Cyberattacks: Pro-West Hac...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 11:04:32 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
       "link": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
       "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches,...",
@@ -862,35 +917,24 @@
       "imageUrl": null
     },
     {
-      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
-      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
-      "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "title": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
+      "link": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
+      "description": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "pubDate": "Mon, 02 Mar 2026 10:27:15 GMT",
       "category": "ai",
-      "score": 84.5,
+      "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
-      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
+      "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
+      "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
+      "description": "General Motors, Ford and other established automakers risk becoming relics if they don’t catch up to Chinese carmakers and technology companies in electric vehicles and self-driving cars.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 03 Mar 2026 10:06:58 +0000",
       "category": "fraud",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
-      "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
-      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 03 Mar 2026 03:59:26 GMT",
-      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -903,6 +947,17 @@
       "pubDate": "2026-03-01T23:01:00.000Z",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+      "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "category": "ai",
+      "score": 82.5,
       "imageUrl": null
     },
     {
@@ -928,13 +983,13 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
-      "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
-      "description": "The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.\nThe post Hackers Weaponize Claude Code in Mexican Government Cyberattack appeared first on SecurityW...",
+      "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
+      "link": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
+      "description": "Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. \nThe post US-Israel and Iran Trade Cyberattacks: Pro-West Hac...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Sun, 01 Mar 2026 12:30:00 +0000",
-      "category": "ai",
+      "pubDate": "Mon, 02 Mar 2026 11:04:32 +0000",
+      "category": "fraud",
       "score": 82,
       "imageUrl": null
     },
@@ -950,6 +1005,17 @@
       "imageUrl": null
     },
     {
+      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
+      "category": "fraud",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
       "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
       "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
       "description": "A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels. [...]",
@@ -961,6 +1027,39 @@
       "imageUrl": null
     },
     {
+      "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
+      "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
+      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Mar 2026 03:59:26 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
+      "description": "Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is stil...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 06:44:44 -0500",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Star Citizen game dev discloses breach affecting user data",
+      "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
+      "description": "Cloud Imperium Games (CIG), the game developer behind Star Citizen and Squadron 42, says attackers breached systems containing some users' personal information in January. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 05:50:26 -0500",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
       "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
       "description": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons.",
@@ -968,7 +1067,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 23:40:11 +0000",
       "category": "both",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -994,6 +1093,17 @@
       "imageUrl": null
     },
     {
+      "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
+      "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
+      "description": "Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.\nThe post Vulnerability in MS-Agent AI Framework Can Allo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 03 Mar 2026 10:43:20 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
       "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
       "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
@@ -1001,7 +1111,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 02 Mar 2026 22:34:36 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1012,7 +1122,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 02 Mar 2026 19:06:39 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1060,17 +1170,6 @@
       "imageUrl": null
     },
     {
-      "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
-      "link": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
-      "description": "Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.\nThe post North Korean APT Targets Air-Gapped Systems in Recent Campaign appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 11:46:29 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
       "link": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
       "description": "It’s been a crazy 48 hours in the A.I. industry.",
@@ -1090,6 +1189,17 @@
       "pubDate": "Sat, 28 Feb 2026 15:53:58 +0000",
       "category": "ai",
       "score": 74.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
+      "description": "Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 03 Mar 2026 03:19:53 -0500",
+      "category": "general",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -1126,17 +1236,6 @@
       "imageUrl": null
     },
     {
-      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
-      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
-      "category": "general",
-      "score": 69.5,
-      "imageUrl": null
-    },
-    {
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
       "description": "Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally runni...",
@@ -1145,6 +1244,17 @@
       "pubDate": "Sun, 01 Mar 2026 16:44:55 -0500",
       "category": "ai",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
+      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
+      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
@@ -1167,6 +1277,28 @@
       "pubDate": "Sun, 01 Mar 2026 17:00:00 +0000",
       "category": "ai",
       "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
+      "link": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
+      "description": "Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.\nThe post North Korean APT Targets Air-Gapped Systems in Recent Campaign appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 11:46:29 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
+      "link": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
+      "description": "Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.\nThe post Researchers Uncover Method to Track Cars via Tire Sensors appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 03 Mar 2026 09:40:03 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1203,36 +1335,14 @@
       "imageUrl": null
     },
     {
-      "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
-      "link": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
-      "description": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).\nThe post Google Working Towards Quantum-Safe Chrome HTTPS Certificates  appeared first on Se...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 11:33:34 +0000",
+      "title": "Deepfake attack: 'Many people could have been cheated'",
+      "link": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
+      "description": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 02 Mar 2026 06:47:00 GMT",
       "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
-      "link": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
-      "description": "The tech-focused leaders of the British brand Apiar aim to stretch beyond watchmaking’s traditional material and manufacturing constraints.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 28 Feb 2026 10:00:09 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Who is the Kimwolf Botmaster “Dort”?",
-      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "description": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the p...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Sat, 28 Feb 2026 12:01:57 +0000",
-      "category": "ai",
-      "score": 58.6,
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -1247,28 +1357,6 @@
       "imageUrl": null
     },
     {
-      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-      "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
-      "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 01 Mar 2026 09:25:25 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
-      "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
-      "description": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 01 Mar 2026 10:01:10 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
       "description": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of...",
@@ -1277,17 +1365,6 @@
       "pubDate": "Sat, 28 Feb 2026 14:18:52 -0500",
       "category": "fraud",
       "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
-      "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
-      "description": "Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.\nThe post Canadian Tire Data Breach Impacts 38 Million Accounts appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 28 Feb 2026 11:50:00 +0000",
-      "category": "both",
-      "score": 55,
       "imageUrl": null
     },
     {
@@ -1310,6 +1387,39 @@
       "pubDate": "Sun, 01 Mar 2026 14:00:00 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+      "link": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
+      "description": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).\nThe post Google Working Towards Quantum-Safe Chrome HTTPS Certificates  appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 11:33:34 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
+      "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
+      "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 01 Mar 2026 09:25:25 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
+      "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
+      "description": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 01 Mar 2026 10:01:10 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
