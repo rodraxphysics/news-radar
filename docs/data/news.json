@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-03-03T00:26:07.058Z",
+    "generated": "2026-03-03T04:35:47.098Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 61,
-    "sources": 9,
+    "totalArticles": 60,
+    "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 61 articles from 9 trusted sources, including 43 on Artificial Intelligence and 8 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: How Talks Between Anthropic and the Defense Dept. Fell Apart\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Alabama man pleads guilty to hacking, extorting hundreds of women\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, BleepingComputer, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 33 articles published in the last 24 hours",
-    "generated": "2026-03-03T00:26:07.058Z",
+    "content": "Today's selection covers 60 articles from 8 trusted sources, including 43 on Artificial Intelligence and 8 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Amends A.I. Deal With the Pentagon\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Alabama man pleads guilty to hacking, extorting hundreds of women\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, The Verge, BleepingComputer, Dark Reading and others\n• **Fresh Content**: 37 articles published in the last 24 hours",
+    "generated": "2026-03-03T04:35:47.098Z",
     "stats": {
-      "totalArticles": 61,
+      "totalArticles": 60,
       "aiArticles": 43,
       "fraudArticles": 8,
-      "sources": 9,
-      "todayCount": 33
+      "sources": 8,
+      "todayCount": 37
     }
   },
   "top": [
+    {
+      "title": "OpenAI Amends A.I. Deal With the Pentagon",
+      "link": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+      "description": "The new pact includes additional protections to prevent the use of the company’s technology for mass surveillance of Americans.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 03 Mar 2026 03:57:04 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
     {
       "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
       "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
@@ -29,40 +40,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 21:16:51 +0000",
       "category": "ai",
-      "score": 98.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
-      "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool fo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-02T22:29:46.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
-      "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
-      "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-02T20:22:33.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
-      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
-      "description": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 02 Mar 2026 13:54:34 -0500",
-      "category": "fraud",
-      "score": 94.6,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -86,9 +64,42 @@
       "category": "ai",
       "score": 94,
       "imageUrl": null
+    },
+    {
+      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool fo...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-02T22:29:46.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+      "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+      "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-02T20:22:33.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
     }
   ],
   "more": [
+    {
+      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+      "description": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 02 Mar 2026 13:54:34 -0500",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
     {
       "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
       "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
@@ -97,18 +108,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 02 Mar 2026 18:42:11 +0000",
       "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "How OpenAI caved to the Pentagon on AI surveillance",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-      "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the P...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-02T14:22:18.000Z",
-      "category": "ai",
-      "score": 92.6,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -119,39 +119,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 02 Mar 2026 17:18:34 +0000",
       "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic’s Claude reports widespread outage",
-      "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-      "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 02 Mar 2026 13:31:49 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
-      "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
-      "description": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.\nThe post Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 15:26:45 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
-      "link": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
-      "description": "The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.\nThe post Madison Square Garden Data Breach Confirmed Months After Hacker Attack appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 13:53:26 +0000",
-      "category": "fraud",
       "score": 92,
       "imageUrl": null
     },
@@ -167,6 +134,17 @@
       "imageUrl": null
     },
     {
+      "title": "How OpenAI caved to the Pentagon on AI surveillance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+      "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the P...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-02T14:22:18.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic confirms Claude is down in a worldwide outage",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
       "description": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
@@ -175,6 +153,39 @@
       "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s Claude reports widespread outage",
+      "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 02 Mar 2026 13:31:49 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
+      "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
+      "description": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.\nThe post Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 15:26:45 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
+      "link": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
+      "description": "The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.\nThe post Madison Square Garden Data Breach Confirmed Months After Hacker Attack appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 13:53:26 +0000",
+      "category": "fraud",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -200,14 +211,14 @@
       "imageUrl": null
     },
     {
-      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
-      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
-      "category": "fraud",
-      "score": 85.6,
+      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+      "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "category": "ai",
+      "score": 84.5,
       "imageUrl": null
     },
     {
@@ -218,6 +229,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-02T17:58:05.000Z",
       "category": "ai",
+      "score": 83.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
+      "category": "fraud",
       "score": 83.6,
       "imageUrl": null
     },
@@ -233,6 +255,17 @@
       "imageUrl": null
     },
     {
+      "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
+      "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
+      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Mar 2026 03:59:26 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
       "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
       "description": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons.",
@@ -240,17 +273,6 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 23:40:11 +0000",
       "category": "both",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
-      "link": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
-      "description": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 02 Mar 2026 19:16:46 +0000",
-      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -310,14 +332,14 @@
       "imageUrl": null
     },
     {
-      "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
-      "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
-      "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 22:34:36 GMT",
+      "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
+      "link": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
+      "description": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 02 Mar 2026 19:16:46 +0000",
       "category": "ai",
-      "score": 80.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -332,6 +354,17 @@
       "imageUrl": null
     },
     {
+      "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
+      "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
+      "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 22:34:36 GMT",
+      "category": "ai",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
       "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
       "description": "Deepfakes and injection attacks are targeting identity verification moments, from onboarding to account recovery. Incode explains why enterprises must validate the full session—media, device integrity...",
@@ -339,7 +372,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 02 Mar 2026 10:01:11 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -350,7 +383,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 02 Mar 2026 15:14:36 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -361,7 +394,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 02 Mar 2026 14:26:03 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -372,7 +405,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 02 Mar 2026 12:30:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -384,17 +417,6 @@
       "pubDate": "Mon, 02 Mar 2026 11:46:29 +0000",
       "category": "ai",
       "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 28 Feb 2026 03:50:05 GMT",
-      "category": "ai",
-      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -417,28 +439,6 @@
       "pubDate": "Sat, 28 Feb 2026 15:53:58 +0000",
       "category": "ai",
       "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
-      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-      "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-      "description": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\t\n\nNearly two hours after President...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-28T02:19:16.000Z",
-      "category": "ai",
-      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -475,6 +475,17 @@
       "imageUrl": null
     },
     {
+      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
+      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
+      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
       "description": "Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally runni...",
@@ -508,6 +519,17 @@
       "imageUrl": null
     },
     {
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "description": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
       "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
       "description": "The United Kingdom's National Cyber Security Centre (NCSC) alerted British organizations to a heightened risk of Iranian cyberattacks amid the ongoing conflict in the Middle East. [...]",
@@ -515,7 +537,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 02 Mar 2026 10:54:33 -0500",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -526,7 +548,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 02 Mar 2026 12:53:44 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -538,17 +560,6 @@
       "pubDate": "Mon, 02 Mar 2026 11:33:34 +0000",
       "category": "general",
       "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "In a Memoir Draft, Changpeng Zhao of Binance Details the Talks Leading to His Prison Time",
-      "link": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
-      "description": "In a draft of his memoir, Changpeng Zhao, the founder of Binance, laid out the secret negotiations that led to his imprisonment and a run-in with ICE.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 28 Feb 2026 02:26:38 +0000",
-      "category": "ai",
-      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -659,28 +670,6 @@
       "pubDate": "Sun, 01 Mar 2026 14:00:00 +0000",
       "category": "general",
       "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Instagram to Alert Parents to Teens’ Self-Harm Searches",
-      "link": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
-      "description": "Parents will receive notifications if a child has used the platform repeatedly to search for terms related to suicide or self-harm, but users must opt in to get them.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 28 Feb 2026 02:39:28 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-      "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-      "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Sat, 28 Feb 2026 01:26:41 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -697,6 +686,17 @@
   ],
   "all": [
     {
+      "title": "OpenAI Amends A.I. Deal With the Pentagon",
+      "link": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+      "description": "The new pact includes additional protections to prevent the use of the company’s technology for mass surveillance of Americans.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 03 Mar 2026 03:57:04 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
       "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
       "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
       "description": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal.",
@@ -704,40 +704,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 21:16:51 +0000",
       "category": "ai",
-      "score": 98.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
-      "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool fo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-02T22:29:46.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
-      "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
-      "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-02T20:22:33.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
-      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
-      "description": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 02 Mar 2026 13:54:34 -0500",
-      "category": "fraud",
-      "score": 94.6,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -763,6 +730,39 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool fo...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-02T22:29:46.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+      "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+      "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-02T20:22:33.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+      "description": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 02 Mar 2026 13:54:34 -0500",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
       "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
       "description": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
@@ -770,18 +770,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 02 Mar 2026 18:42:11 +0000",
       "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "How OpenAI caved to the Pentagon on AI surveillance",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-      "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the P...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-02T14:22:18.000Z",
-      "category": "ai",
-      "score": 92.6,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -792,39 +781,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 02 Mar 2026 17:18:34 +0000",
       "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic’s Claude reports widespread outage",
-      "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-      "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 02 Mar 2026 13:31:49 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
-      "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
-      "description": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.\nThe post Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 15:26:45 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
-      "link": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
-      "description": "The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.\nThe post Madison Square Garden Data Breach Confirmed Months After Hacker Attack appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 02 Mar 2026 13:53:26 +0000",
-      "category": "fraud",
       "score": 92,
       "imageUrl": null
     },
@@ -840,6 +796,17 @@
       "imageUrl": null
     },
     {
+      "title": "How OpenAI caved to the Pentagon on AI surveillance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+      "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the P...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-02T14:22:18.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic confirms Claude is down in a worldwide outage",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
       "description": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
@@ -848,6 +815,39 @@
       "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s Claude reports widespread outage",
+      "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 02 Mar 2026 13:31:49 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
+      "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
+      "description": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.\nThe post Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 15:26:45 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
+      "link": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
+      "description": "The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.\nThe post Madison Square Garden Data Breach Confirmed Months After Hacker Attack appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 02 Mar 2026 13:53:26 +0000",
+      "category": "fraud",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -873,14 +873,14 @@
       "imageUrl": null
     },
     {
-      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
-      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
-      "category": "fraud",
-      "score": 85.6,
+      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+      "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "category": "ai",
+      "score": 84.5,
       "imageUrl": null
     },
     {
@@ -891,6 +891,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-02T17:58:05.000Z",
       "category": "ai",
+      "score": 83.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+      "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker tr...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500",
+      "category": "fraud",
       "score": 83.6,
       "imageUrl": null
     },
@@ -906,6 +917,17 @@
       "imageUrl": null
     },
     {
+      "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
+      "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
+      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Mar 2026 03:59:26 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
       "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
       "description": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons.",
@@ -913,17 +935,6 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Mar 2026 23:40:11 +0000",
       "category": "both",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
-      "link": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
-      "description": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 02 Mar 2026 19:16:46 +0000",
-      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -983,14 +994,14 @@
       "imageUrl": null
     },
     {
-      "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
-      "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
-      "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 22:34:36 GMT",
+      "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
+      "link": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
+      "description": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 02 Mar 2026 19:16:46 +0000",
       "category": "ai",
-      "score": 80.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1005,6 +1016,17 @@
       "imageUrl": null
     },
     {
+      "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
+      "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
+      "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 22:34:36 GMT",
+      "category": "ai",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
       "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
       "description": "Deepfakes and injection attacks are targeting identity verification moments, from onboarding to account recovery. Incode explains why enterprises must validate the full session—media, device integrity...",
@@ -1012,7 +1034,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 02 Mar 2026 10:01:11 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1023,7 +1045,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 02 Mar 2026 15:14:36 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1034,7 +1056,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 02 Mar 2026 14:26:03 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1045,7 +1067,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 02 Mar 2026 12:30:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1057,17 +1079,6 @@
       "pubDate": "Mon, 02 Mar 2026 11:46:29 +0000",
       "category": "ai",
       "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 28 Feb 2026 03:50:05 GMT",
-      "category": "ai",
-      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1090,28 +1101,6 @@
       "pubDate": "Sat, 28 Feb 2026 15:53:58 +0000",
       "category": "ai",
       "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
-      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-      "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-      "description": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\t\n\nNearly two hours after President...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-02-28T02:19:16.000Z",
-      "category": "ai",
-      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -1148,6 +1137,17 @@
       "imageUrl": null
     },
     {
+      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
+      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
+      "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 02 Mar 2026 20:32:09 GMT",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
       "description": "Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally runni...",
@@ -1181,6 +1181,17 @@
       "imageUrl": null
     },
     {
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "description": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
       "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
       "description": "The United Kingdom's National Cyber Security Centre (NCSC) alerted British organizations to a heightened risk of Iranian cyberattacks amid the ongoing conflict in the Middle East. [...]",
@@ -1188,7 +1199,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 02 Mar 2026 10:54:33 -0500",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1199,7 +1210,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 02 Mar 2026 12:53:44 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1211,17 +1222,6 @@
       "pubDate": "Mon, 02 Mar 2026 11:33:34 +0000",
       "category": "general",
       "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "In a Memoir Draft, Changpeng Zhao of Binance Details the Talks Leading to His Prison Time",
-      "link": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
-      "description": "In a draft of his memoir, Changpeng Zhao, the founder of Binance, laid out the secret negotiations that led to his imprisonment and a run-in with ICE.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 28 Feb 2026 02:26:38 +0000",
-      "category": "ai",
-      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1332,28 +1332,6 @@
       "pubDate": "Sun, 01 Mar 2026 14:00:00 +0000",
       "category": "general",
       "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Instagram to Alert Parents to Teens’ Self-Harm Searches",
-      "link": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
-      "description": "Parents will receive notifications if a child has used the platform repeatedly to search for terms related to suicide or self-harm, but users must opt in to get them.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 28 Feb 2026 02:39:28 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-      "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-      "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Sat, 28 Feb 2026 01:26:41 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     },
     {
