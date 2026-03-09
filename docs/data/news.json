@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-03-09T08:15:03.685Z",
+    "generated": "2026-03-09T12:13:36.940Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 54,
+    "totalArticles": 49,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 54 articles from 9 trusted sources, including 29 on Artificial Intelligence and 14 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: For OpenAI and Anthropic, the Competition Is Deeply Personal\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Termite ransomware breaches linked to ClickFix CastleRAT attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, TechCrunch, SecurityWeek, Krebs on Security and others\n• **Fresh Content**: 7 articles published in the last 24 hours",
-    "generated": "2026-03-09T08:15:03.685Z",
+    "content": "Today's selection covers 49 articles from 9 trusted sources, including 28 on Artificial Intelligence and 14 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: For OpenAI and Anthropic, the Competition Is Deeply Personal\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Internet Infrastructure TLD .arpa Abused in Phishing Attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, BleepingComputer, TechCrunch, Krebs on Security and others\n• **Fresh Content**: 8 articles published in the last 24 hours",
+    "generated": "2026-03-09T12:13:36.940Z",
     "stats": {
-      "totalArticles": 54,
-      "aiArticles": 29,
+      "totalArticles": 49,
+      "aiArticles": 28,
       "fraudArticles": 14,
       "sources": 9,
-      "todayCount": 7
+      "todayCount": 8
     }
   },
   "top": [
@@ -44,6 +44,28 @@
       "imageUrl": null
     },
     {
+      "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
+      "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
+      "description": "Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.\nThe post Internet Infrastructure TLD .arpa Abused in Phishing Attacks appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 09 Mar 2026 12:06:25 +0000",
+      "category": "fraud",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
+      "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
+      "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
+      "description": "Threat actors replace legitimate commands on the cloned installation webpages with malicious commands.\nThe post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 09 Mar 2026 11:42:07 +0000",
+      "category": "fraud",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
       "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
       "description": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
@@ -64,7 +86,9 @@
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "A roadmap for AI, if anyone will listen",
       "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
@@ -86,9 +110,7 @@
       "category": "ai",
       "score": 82,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
       "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
@@ -96,17 +118,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 07 Mar 2026 17:28:41 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
-      "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
-      "description": "Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.\nThe post Pentagon’s Chief Tech Officer Says He Cl...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 07 Mar 2026 11:51:16 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
@@ -141,7 +152,7 @@
       "domain": "krebsonsecurity.com",
       "pubDate": "Sun, 08 Mar 2026 23:35:42 +0000",
       "category": "ai",
-      "score": 80.6,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -173,17 +184,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Fri, 06 Mar 2026 21:49:18 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-      "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
-      "description": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 06 Mar 2026 12:00:08 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -222,17 +222,6 @@
       "imageUrl": null
     },
     {
-      "title": "Are A.I.-Generated Videos Changing How We See Animals?",
-      "link": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
-      "description": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 07 Mar 2026 10:00:56 +0000",
-      "category": "fraud",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
       "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
       "description": "Co-director Daniel Roher. | Image: Focus Features\t\n\nWe are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about...",
@@ -240,17 +229,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-06T19:05:00.000Z",
       "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
-      "description": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 06 Mar 2026 05:08:00 -0500",
-      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -310,6 +288,17 @@
       "imageUrl": null
     },
     {
+      "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
+      "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
+      "description": "Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.\nThe post Pentagon’s Chief Tech Officer Says He Cl...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 07 Mar 2026 11:51:16 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "The OpenClaw superfan meetup serves optimism and lobster",
       "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
       "description": "The woman at the door wore a plush lobster headdress. \nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCo...",
@@ -354,28 +343,6 @@
       "imageUrl": null
     },
     {
-      "title": "Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks",
-      "link": "https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/",
-      "description": "The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.\nThe post Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks appe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 06 Mar 2026 12:32:09 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-      "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-      "description": "The facial recognition question is where things get more tangled.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 09 Mar 2026 04:35:06 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
       "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
       "description": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate...",
@@ -384,6 +351,17 @@
       "pubDate": "Fri, 06 Mar 2026 10:00:00 -0500",
       "category": "fraud",
       "score": 61.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Are A.I.-Generated Videos Changing How We See Animals?",
+      "link": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
+      "description": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 07 Mar 2026 10:00:56 +0000",
+      "category": "fraud",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -541,17 +519,6 @@
       "imageUrl": null
     },
     {
-      "title": "FBI investigates breach of surveillance and wiretap systems",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
-      "description": "The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 06 Mar 2026 03:44:53 -0500",
-      "category": "general",
-      "score": 46.6,
-      "imageUrl": null
-    },
-    {
       "title": "CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List",
       "link": "https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/",
       "description": "The nation-state-grade iOS exploit kit targets 23 vulnerabilities affecting iOS 13 to 17.2.1.\nThe post CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List appeared first on SecurityWeek.",
@@ -560,17 +527,6 @@
       "pubDate": "Fri, 06 Mar 2026 13:18:12 +0000",
       "category": "general",
       "score": 46,
-      "imageUrl": null
-    },
-    {
-      "title": "Xbox confirms new console is coming - but can it revive the brand?",
-      "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
-      "description": "Microsoft is the first big company out of the gates with Project Helix - a \"next-generation\" console.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 06 Mar 2026 11:56:02 GMT",
-      "category": "general",
-      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -602,17 +558,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Sat, 07 Mar 2026 01:01:54 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO",
-      "link": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
-      "description": "Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. \nThe post James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 06 Mar 2026 11:44:15 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
@@ -642,6 +587,28 @@
       "imageUrl": null
     },
     {
+      "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
+      "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
+      "description": "Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.\nThe post Internet Infrastructure TLD .arpa Abused in Phishing Attacks appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 09 Mar 2026 12:06:25 +0000",
+      "category": "fraud",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
+      "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
+      "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
+      "description": "Threat actors replace legitimate commands on the cloned installation webpages with malicious commands.\nThe post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 09 Mar 2026 11:42:07 +0000",
+      "category": "fraud",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
       "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
       "description": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
@@ -697,17 +664,6 @@
       "imageUrl": null
     },
     {
-      "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
-      "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
-      "description": "Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.\nThe post Pentagon’s Chief Tech Officer Says He Cl...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 07 Mar 2026 11:51:16 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
       "title": "EU court adviser says banks must immediately refund phishing victims",
       "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
       "description": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized tra...",
@@ -737,7 +693,7 @@
       "domain": "krebsonsecurity.com",
       "pubDate": "Sun, 08 Mar 2026 23:35:42 +0000",
       "category": "ai",
-      "score": 80.6,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -769,17 +725,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Fri, 06 Mar 2026 21:49:18 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-      "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
-      "description": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 06 Mar 2026 12:00:08 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -818,17 +763,6 @@
       "imageUrl": null
     },
     {
-      "title": "Are A.I.-Generated Videos Changing How We See Animals?",
-      "link": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
-      "description": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 07 Mar 2026 10:00:56 +0000",
-      "category": "fraud",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
       "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
       "description": "Co-director Daniel Roher. | Image: Focus Features\t\n\nWe are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about...",
@@ -836,17 +770,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-03-06T19:05:00.000Z",
       "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
-      "description": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 06 Mar 2026 05:08:00 -0500",
-      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -906,6 +829,17 @@
       "imageUrl": null
     },
     {
+      "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
+      "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
+      "description": "Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.\nThe post Pentagon’s Chief Tech Officer Says He Cl...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 07 Mar 2026 11:51:16 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "The OpenClaw superfan meetup serves optimism and lobster",
       "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
       "description": "The woman at the door wore a plush lobster headdress. \nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCo...",
@@ -950,28 +884,6 @@
       "imageUrl": null
     },
     {
-      "title": "Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks",
-      "link": "https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/",
-      "description": "The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.\nThe post Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks appe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 06 Mar 2026 12:32:09 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-      "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-      "description": "The facial recognition question is where things get more tangled.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 09 Mar 2026 04:35:06 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
       "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
       "description": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate...",
@@ -980,6 +892,17 @@
       "pubDate": "Fri, 06 Mar 2026 10:00:00 -0500",
       "category": "fraud",
       "score": 61.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Are A.I.-Generated Videos Changing How We See Animals?",
+      "link": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
+      "description": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 07 Mar 2026 10:00:56 +0000",
+      "category": "fraud",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1137,17 +1060,6 @@
       "imageUrl": null
     },
     {
-      "title": "FBI investigates breach of surveillance and wiretap systems",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
-      "description": "The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 06 Mar 2026 03:44:53 -0500",
-      "category": "general",
-      "score": 46.6,
-      "imageUrl": null
-    },
-    {
       "title": "CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List",
       "link": "https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/",
       "description": "The nation-state-grade iOS exploit kit targets 23 vulnerabilities affecting iOS 13 to 17.2.1.\nThe post CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List appeared first on SecurityWeek.",
@@ -1156,17 +1068,6 @@
       "pubDate": "Fri, 06 Mar 2026 13:18:12 +0000",
       "category": "general",
       "score": 46,
-      "imageUrl": null
-    },
-    {
-      "title": "Xbox confirms new console is coming - but can it revive the brand?",
-      "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
-      "description": "Microsoft is the first big company out of the gates with Project Helix - a \"next-generation\" console.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 06 Mar 2026 11:56:02 GMT",
-      "category": "general",
-      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1198,17 +1099,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Sat, 07 Mar 2026 01:01:54 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO",
-      "link": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
-      "description": "Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. \nThe post James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 06 Mar 2026 11:44:15 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
