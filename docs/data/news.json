@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-03-10T12:13:20.541Z",
+    "generated": "2026-03-10T16:23:50.023Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 61,
+    "totalArticles": 74,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 61 articles from 8 trusted sources, including 37 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Family of child injured in Canada school shooting sues OpenAI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: You Could Be Next\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, The Verge, NY Times Tech, Dark Reading, BleepingComputer and others\n• **Fresh Content**: 41 articles published in the last 24 hours",
-    "generated": "2026-03-10T12:13:20.541Z",
+    "content": "Today's selection covers 74 articles from 8 trusted sources, including 50 on Artificial Intelligence and 16 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Family of child injured in Canada school shooting sues OpenAI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, BleepingComputer, SecurityWeek and others\n• **Fresh Content**: 61 articles published in the last 24 hours",
+    "generated": "2026-03-10T16:23:50.023Z",
     "stats": {
-      "totalArticles": 61,
-      "aiArticles": 37,
-      "fraudArticles": 15,
+      "totalArticles": 74,
+      "aiArticles": 50,
+      "fraudArticles": 16,
       "sources": 8,
-      "todayCount": 41
+      "todayCount": 61
     }
   },
   "top": [
@@ -33,13 +33,35 @@
       "imageUrl": null
     },
     {
-      "title": "You Could Be Next",
-      "link": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
-      "description": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then...",
+      "title": "How Do You Use A.I. for Daily Life?",
+      "link": "https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html",
+      "description": "We want to hear how artificial intelligence helps you with tasks like meal prep, translation and planning a trip.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 14:59:45 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
+      "description": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps. The changes, which are rolling out to Google Workspace and AI plan subscribers, include a new Gemini chat window...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-03-10T09:00:01.000Z",
-      "category": "both",
+      "pubDate": "2026-03-10T13:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network",
+      "link": "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/",
+      "description": "A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 11:01:57 -0400",
+      "category": "fraud",
       "score": 94.6,
       "imageUrl": null
     },
@@ -64,6 +86,30 @@
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "OpenAI Rolls Out Codex Security Vulnerability Scanner",
+      "link": "https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/",
+      "description": "Codex Security, formerly Aardvark⁠, has found hundreds of critical vulnerabilities in tested software in the past month.\nThe post OpenAI Rolls Out Codex Security Vulnerability Scanner appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 13:23:05 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "You Could Be Next",
+      "link": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
+      "description": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T09:00:01.000Z",
+      "category": "both",
+      "score": 92.6,
+      "imageUrl": null
     },
     {
       "title": "'InstallFix' Attacks Spread Fake Claude Code Sites",
@@ -83,19 +129,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-03-09T20:45:24.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Anthropic is suing the Department of Defense",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-      "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI te...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-09T16:37:42.000Z",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -167,14 +200,14 @@
       "imageUrl": null
     },
     {
-      "title": "FBI warns of phishing attacks impersonating US city, county officials",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
-      "description": "The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 09 Mar 2026 11:30:50 -0400",
+      "title": "Signal issues scam warning to users after hackers target officials",
+      "link": "https://www.bbc.com/news/articles/cp85rpm0lq8o?at_medium=RSS&at_campaign=rss",
+      "description": "Signal says its systems are secure but it is taking reports of targeted attempts to hack some officials \"very seriously\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 10 Mar 2026 13:04:20 GMT",
       "category": "fraud",
-      "score": 87.6,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -183,42 +216,262 @@
       "description": "Advanced Machine Intelligence Labs, founded by Yann LeCun and other ex-Meta researchers, has raised more than $1 billion from investors.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 10 Mar 2026 05:00:10 +0000",
+      "pubDate": "Tue, 10 Mar 2026 14:36:12 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
-      "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
-      "description": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 09 Mar 2026 15:09:35 +0000",
-      "category": "ai",
-      "score": 81,
+      "title": "'BlackSanta' EDR Killer Targets HR Workflows",
+      "link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+      "description": "A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 10 Mar 2026 13:30:00 GMT",
+      "category": "both",
+      "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
-      "link": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
-      "description": "Meta’s Oversight Board wants the company to start taking AI labeling seriously to protect its users from online misinformation. | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta's methods for id...",
+      "title": "Grammarly will keep using authors’ identities without permission unless they opt out",
+      "link": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email",
+      "description": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my col...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-03-10T10:01:33.000Z",
+      "pubDate": "2026-03-10T15:54:42.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
-      "link": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
-      "description": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 09 Mar 2026 14:41:41 +0000",
+      "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
+      "description": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the M...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T15:22:17.000Z",
       "category": "ai",
-      "score": 79.5,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The twist in the Ticketmaster antitrust fight",
+      "link": "https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast",
+      "description": "A lot of people are mad at Ticketmaster, and have been for a long time. (Did Swifties directly create an antitrust trial? Discuss.) The US government's case against Live Nation-Ticketmaster appeared p...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T14:01:10.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists",
+      "description": "Public officials and journalists will soon be able to keep track of AI-generated deepfakes of themselves on YouTube through the platform's likeness detection feature. \nThe tool is already available to...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T14:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch",
+      "description": "You can ask Adobe’s AI assistant to edit images in Photoshop for web by describing conversationally how you want it to change. | Image: Adobe\t\n\nAdobe announced more agentic AI features for its Creativ...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
+      "description": "Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 11:27:58 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
+      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
+      "description": "Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, includ...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 10:02:12 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI warns of phishing attacks impersonating US city, county officials",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
+      "description": "The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 09 Mar 2026 11:30:50 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+      "description": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 16:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+      "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+      "description": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:58:29 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "description": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:34:24 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+      "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "description": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:32:05 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+      "link": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
+      "description": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:00:00 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe is debuting an AI assistant for Photoshop",
+      "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+      "description": "Adobe is also adding new AI-powered image editing features to Firefly.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 13:06:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+      "description": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+      "description": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+      "description": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 12:40:37 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security",
+      "link": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
+      "description": "The company was created by a Claroty founder and is backed by Evolution Equity Partners, N47, and other investors. \nThe post Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 15:13:03 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Webinar Today: Securing Fragile OT in an Exposed World",
+      "link": "https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/",
+      "description": "Join the webinar as we examine the current OT threat landscape and move past the \"doom and gloom\" to discuss the mechanics of modern OT exposure.\nThe post Webinar Today: Securing Fragile OT in an Expo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 15:04:28 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Thousands Affected by Ericsson Data Breach",
+      "link": "https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/",
+      "description": "The telecommunications equipment and services giant has blamed the incident on a third-party vendor.\nThe post Thousands Affected by Ericsson Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 14:23:34 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Kevin Mandia’s Armadin Launches With $190 Million in Funding",
+      "link": "https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/",
+      "description": "Armadin uses AI-powered red teaming to find and exploit weaknesses in the same way that attackers attack them.\nThe post Kevin Mandia’s Armadin Launches With $190 Million in Funding appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 13:21:05 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign",
+      "link": "https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/",
+      "description": "Salesforce has confirmed that customers are being targeted via poorly secured instances.\nThe post Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 12:37:17 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -233,14 +486,14 @@
       "imageUrl": null
     },
     {
-      "title": "Cylake Raises $45 Million to Secure Organizations Barred From Cloud",
-      "link": "https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/",
-      "description": "The company, founded by Palo Alto Networks’ Nir Zuk, has developed a platform that focuses on data sovereignty. \nThe post Cylake Raises $45 Million to Secure Organizations Barred From Cloud appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 10 Mar 2026 07:10:22 +0000",
+      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
+      "link": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
+      "description": "Meta’s Oversight Board wants the company to start taking AI labeling seriously to protect its users from online misinformation. | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta's methods for id...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T10:01:33.000Z",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -299,17 +552,6 @@
       "imageUrl": null
     },
     {
-      "title": "X says you can block Grok from editing your photos",
-      "link": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
-      "description": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\t\n\nX has introduced a new feature that makes it slightly harder for othe...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-09T15:24:03.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Google: Cloud attacks exploit flaws more than weak credentials",
       "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
       "description": "Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the window for attacks shrinking from weeks to just days....",
@@ -343,17 +585,6 @@
       "imageUrl": null
     },
     {
-      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
-      "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-      "description": "Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organi...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 09 Mar 2026 10:10:20 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
       "link": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
       "description": "A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry.",
@@ -376,46 +607,13 @@
       "imageUrl": null
     },
     {
-      "title": "EU court adviser says banks must immediately refund phishing victims",
-      "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
-      "description": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized tra...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 08 Mar 2026 11:25:37 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
-      "description": "Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 08 Mar 2026 10:12:22 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
-      "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
-      "description": "Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.\nThe post Internet Infrastructure TLD .arpa Abused in Phishing Attacks appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 12:06:25 +0000",
-      "category": "fraud",
-      "score": 73,
-      "imageUrl": null
-    },
-    {
-      "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
-      "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
-      "description": "Threat actors replace legitimate commands on the cloned installation webpages with malicious commands.\nThe post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 11:42:07 +0000",
-      "category": "fraud",
+      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
+      "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "description": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 09 Mar 2026 15:09:35 +0000",
+      "category": "ai",
       "score": 73,
       "imageUrl": null
     },
@@ -431,25 +629,14 @@
       "imageUrl": null
     },
     {
-      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
-      "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
-      "description": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 10 Mar 2026 06:00:00 -0400",
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+      "description": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 15:08:39 +0000",
       "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
-      "description": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 07 Mar 2026 11:14:32 -0500",
-      "category": "fraud",
-      "score": 70.6,
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -459,28 +646,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 08 Mar 2026 06:05:26 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 07 Mar 2026 20:44:25 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 07 Mar 2026 17:28:41 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
@@ -497,6 +662,17 @@
       "imageUrl": null
     },
     {
+      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
+      "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
+      "description": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 06:00:00 -0400",
+      "category": "general",
+      "score": 68.6,
+      "imageUrl": null
+    },
+    {
       "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
       "link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
       "description": "An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.",
@@ -505,6 +681,39 @@
       "pubDate": "Mon, 09 Mar 2026 12:05:06 GMT",
       "category": "both",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+      "link": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+      "description": "Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 14:00:06 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
+      "link": "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
+      "description": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 15:28:22 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
+      "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
+      "description": "Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organi...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 09 Mar 2026 10:10:20 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -530,39 +739,6 @@
       "imageUrl": null
     },
     {
-      "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
-      "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
-      "description": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 10 Mar 2026 04:01:04 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cybersecurity M&A Roundup: 42 Deals Announced in February 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/",
-      "description": "Significant cybersecurity M&A deals announced by Check Point, Booz Allen, Proofpoint, Sophos, Palo Alto Networks, and Zscaler.\nThe post Cybersecurity M&A Roundup: 42 Deals Announced in February 2026 a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 15:54:43 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix Attack Uses Windows Terminal to Evade Detection",
-      "link": "https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/",
-      "description": "Fake CAPTCHA pages instruct victims to paste malicious commands in the Windows Terminal instead of the Run dialog.\nThe post ClickFix Attack Uses Windows Terminal to Evade Detection appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 12:51:29 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
       "description": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security...",
@@ -585,13 +761,24 @@
       "imageUrl": null
     },
     {
-      "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
-      "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
-      "description": "WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.\nThe post Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited appeared first on Security...",
+      "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
+      "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+      "description": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 04:01:04 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/",
+      "description": "A code injection bug in FS-QUO and an insecure deserialization flaw in NetWeaver could lead to arbitrary code execution.\nThe post SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities appeared first...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Sun, 08 Mar 2026 12:15:00 +0000",
-      "category": "fraud",
+      "pubDate": "Tue, 10 Mar 2026 14:31:36 +0000",
+      "category": "general",
       "score": 64,
       "imageUrl": null
     },
@@ -625,7 +812,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 09 Mar 2026 10:10:17 -0400",
       "category": "general",
-      "score": 60.6,
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -636,40 +823,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 09 Mar 2026 15:58:11 +0000",
       "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "The OpenClaw superfan meetup serves optimism and lobster",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-      "description": "The woman at the door wore a plush lobster headdress. \nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-07T14:00:00.000Z",
-      "category": "both",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-      "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 08 Mar 2026 00:20:10 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
-      "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
-      "description": "Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 07 Mar 2026 15:57:23 +0000",
-      "category": "ai",
-      "score": 55,
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -681,17 +835,6 @@
       "pubDate": "Sat, 07 Mar 2026 18:35:56 +0000",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "description": "A recently added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 07 Mar 2026 22:56:31 +0000",
-      "category": "general",
-      "score": 40,
       "imageUrl": null
     }
   ],
@@ -708,13 +851,35 @@
       "imageUrl": null
     },
     {
-      "title": "You Could Be Next",
-      "link": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
-      "description": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then...",
+      "title": "How Do You Use A.I. for Daily Life?",
+      "link": "https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html",
+      "description": "We want to hear how artificial intelligence helps you with tasks like meal prep, translation and planning a trip.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 14:59:45 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
+      "description": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps. The changes, which are rolling out to Google Workspace and AI plan subscribers, include a new Gemini chat window...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-03-10T09:00:01.000Z",
-      "category": "both",
+      "pubDate": "2026-03-10T13:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network",
+      "link": "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/",
+      "description": "A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 11:01:57 -0400",
+      "category": "fraud",
       "score": 94.6,
       "imageUrl": null
     },
@@ -741,6 +906,28 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI Rolls Out Codex Security Vulnerability Scanner",
+      "link": "https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/",
+      "description": "Codex Security, formerly Aardvark⁠, has found hundreds of critical vulnerabilities in tested software in the past month.\nThe post OpenAI Rolls Out Codex Security Vulnerability Scanner appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 13:23:05 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "You Could Be Next",
+      "link": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
+      "description": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T09:00:01.000Z",
+      "category": "both",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "'InstallFix' Attacks Spread Fake Claude Code Sites",
       "link": "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code",
       "description": "A fresh cyberattack campaign blends malvertising with a ClickFix-style technique that highlights risky behavior with AI coding assistants and command-line interfaces.",
@@ -758,17 +945,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-03-09T20:45:24.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is suing the Department of Defense",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-      "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI te...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-09T16:37:42.000Z",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -840,14 +1016,14 @@
       "imageUrl": null
     },
     {
-      "title": "FBI warns of phishing attacks impersonating US city, county officials",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
-      "description": "The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 09 Mar 2026 11:30:50 -0400",
+      "title": "Signal issues scam warning to users after hackers target officials",
+      "link": "https://www.bbc.com/news/articles/cp85rpm0lq8o?at_medium=RSS&at_campaign=rss",
+      "description": "Signal says its systems are secure but it is taking reports of targeted attempts to hack some officials \"very seriously\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 10 Mar 2026 13:04:20 GMT",
       "category": "fraud",
-      "score": 87.6,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -856,42 +1032,262 @@
       "description": "Advanced Machine Intelligence Labs, founded by Yann LeCun and other ex-Meta researchers, has raised more than $1 billion from investors.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 10 Mar 2026 05:00:10 +0000",
+      "pubDate": "Tue, 10 Mar 2026 14:36:12 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
-      "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
-      "description": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 09 Mar 2026 15:09:35 +0000",
-      "category": "ai",
-      "score": 81,
+      "title": "'BlackSanta' EDR Killer Targets HR Workflows",
+      "link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+      "description": "A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 10 Mar 2026 13:30:00 GMT",
+      "category": "both",
+      "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
-      "link": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
-      "description": "Meta’s Oversight Board wants the company to start taking AI labeling seriously to protect its users from online misinformation. | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta's methods for id...",
+      "title": "Grammarly will keep using authors’ identities without permission unless they opt out",
+      "link": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email",
+      "description": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my col...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-03-10T10:01:33.000Z",
+      "pubDate": "2026-03-10T15:54:42.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
-      "link": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
-      "description": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 09 Mar 2026 14:41:41 +0000",
+      "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
+      "description": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the M...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T15:22:17.000Z",
       "category": "ai",
-      "score": 79.5,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The twist in the Ticketmaster antitrust fight",
+      "link": "https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast",
+      "description": "A lot of people are mad at Ticketmaster, and have been for a long time. (Did Swifties directly create an antitrust trial? Discuss.) The US government's case against Live Nation-Ticketmaster appeared p...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T14:01:10.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists",
+      "description": "Public officials and journalists will soon be able to keep track of AI-generated deepfakes of themselves on YouTube through the platform's likeness detection feature. \nThe tool is already available to...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T14:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch",
+      "description": "You can ask Adobe’s AI assistant to edit images in Photoshop for web by describing conversationally how you want it to change. | Image: Adobe\t\n\nAdobe announced more agentic AI features for its Creativ...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
+      "description": "Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 11:27:58 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
+      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
+      "description": "Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, includ...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 10:02:12 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI warns of phishing attacks impersonating US city, county officials",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
+      "description": "The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 09 Mar 2026 11:30:50 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+      "description": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 16:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+      "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+      "description": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:58:29 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "description": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:34:24 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+      "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "description": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:32:05 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+      "link": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
+      "description": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 14:00:00 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe is debuting an AI assistant for Photoshop",
+      "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+      "description": "Adobe is also adding new AI-powered image editing features to Firefly.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 13:06:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+      "description": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+      "description": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+      "description": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 12:40:37 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security",
+      "link": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
+      "description": "The company was created by a Claroty founder and is backed by Evolution Equity Partners, N47, and other investors. \nThe post Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 15:13:03 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Webinar Today: Securing Fragile OT in an Exposed World",
+      "link": "https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/",
+      "description": "Join the webinar as we examine the current OT threat landscape and move past the \"doom and gloom\" to discuss the mechanics of modern OT exposure.\nThe post Webinar Today: Securing Fragile OT in an Expo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 15:04:28 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Thousands Affected by Ericsson Data Breach",
+      "link": "https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/",
+      "description": "The telecommunications equipment and services giant has blamed the incident on a third-party vendor.\nThe post Thousands Affected by Ericsson Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 14:23:34 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Kevin Mandia’s Armadin Launches With $190 Million in Funding",
+      "link": "https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/",
+      "description": "Armadin uses AI-powered red teaming to find and exploit weaknesses in the same way that attackers attack them.\nThe post Kevin Mandia’s Armadin Launches With $190 Million in Funding appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 13:21:05 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign",
+      "link": "https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/",
+      "description": "Salesforce has confirmed that customers are being targeted via poorly secured instances.\nThe post Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 10 Mar 2026 12:37:17 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -906,14 +1302,14 @@
       "imageUrl": null
     },
     {
-      "title": "Cylake Raises $45 Million to Secure Organizations Barred From Cloud",
-      "link": "https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/",
-      "description": "The company, founded by Palo Alto Networks’ Nir Zuk, has developed a platform that focuses on data sovereignty. \nThe post Cylake Raises $45 Million to Secure Organizations Barred From Cloud appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 10 Mar 2026 07:10:22 +0000",
+      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
+      "link": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
+      "description": "Meta’s Oversight Board wants the company to start taking AI labeling seriously to protect its users from online misinformation. | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta's methods for id...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-10T10:01:33.000Z",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -972,17 +1368,6 @@
       "imageUrl": null
     },
     {
-      "title": "X says you can block Grok from editing your photos",
-      "link": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
-      "description": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\t\n\nX has introduced a new feature that makes it slightly harder for othe...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-09T15:24:03.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Google: Cloud attacks exploit flaws more than weak credentials",
       "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
       "description": "Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the window for attacks shrinking from weeks to just days....",
@@ -1016,17 +1401,6 @@
       "imageUrl": null
     },
     {
-      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
-      "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-      "description": "Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organi...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 09 Mar 2026 10:10:20 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
       "link": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
       "description": "A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry.",
@@ -1049,46 +1423,13 @@
       "imageUrl": null
     },
     {
-      "title": "EU court adviser says banks must immediately refund phishing victims",
-      "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
-      "description": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized tra...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 08 Mar 2026 11:25:37 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
-      "description": "Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 08 Mar 2026 10:12:22 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
-      "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
-      "description": "Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.\nThe post Internet Infrastructure TLD .arpa Abused in Phishing Attacks appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 12:06:25 +0000",
-      "category": "fraud",
-      "score": 73,
-      "imageUrl": null
-    },
-    {
-      "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
-      "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
-      "description": "Threat actors replace legitimate commands on the cloned installation webpages with malicious commands.\nThe post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 11:42:07 +0000",
-      "category": "fraud",
+      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
+      "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "description": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 09 Mar 2026 15:09:35 +0000",
+      "category": "ai",
       "score": 73,
       "imageUrl": null
     },
@@ -1104,25 +1445,14 @@
       "imageUrl": null
     },
     {
-      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
-      "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
-      "description": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 10 Mar 2026 06:00:00 -0400",
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+      "description": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 10 Mar 2026 15:08:39 +0000",
       "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
-      "description": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 07 Mar 2026 11:14:32 -0500",
-      "category": "fraud",
-      "score": 70.6,
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -1132,28 +1462,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 08 Mar 2026 06:05:26 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 07 Mar 2026 20:44:25 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 07 Mar 2026 17:28:41 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
@@ -1170,6 +1478,17 @@
       "imageUrl": null
     },
     {
+      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
+      "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
+      "description": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 10 Mar 2026 06:00:00 -0400",
+      "category": "general",
+      "score": 68.6,
+      "imageUrl": null
+    },
+    {
       "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
       "link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
       "description": "An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.",
@@ -1178,6 +1497,39 @@
       "pubDate": "Mon, 09 Mar 2026 12:05:06 GMT",
       "category": "both",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+      "link": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+      "description": "Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 14:00:06 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
+      "link": "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
+      "description": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 15:28:22 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
+      "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
+      "description": "Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organi...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 09 Mar 2026 10:10:20 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1203,39 +1555,6 @@
       "imageUrl": null
     },
     {
-      "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
-      "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
-      "description": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 10 Mar 2026 04:01:04 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cybersecurity M&A Roundup: 42 Deals Announced in February 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/",
-      "description": "Significant cybersecurity M&A deals announced by Check Point, Booz Allen, Proofpoint, Sophos, Palo Alto Networks, and Zscaler.\nThe post Cybersecurity M&A Roundup: 42 Deals Announced in February 2026 a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 15:54:43 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix Attack Uses Windows Terminal to Evade Detection",
-      "link": "https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/",
-      "description": "Fake CAPTCHA pages instruct victims to paste malicious commands in the Windows Terminal instead of the Run dialog.\nThe post ClickFix Attack Uses Windows Terminal to Evade Detection appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 09 Mar 2026 12:51:29 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
       "description": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security...",
@@ -1258,13 +1577,24 @@
       "imageUrl": null
     },
     {
-      "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
-      "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
-      "description": "WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.\nThe post Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited appeared first on Security...",
+      "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
+      "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+      "description": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 10 Mar 2026 04:01:04 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/",
+      "description": "A code injection bug in FS-QUO and an insecure deserialization flaw in NetWeaver could lead to arbitrary code execution.\nThe post SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities appeared first...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Sun, 08 Mar 2026 12:15:00 +0000",
-      "category": "fraud",
+      "pubDate": "Tue, 10 Mar 2026 14:31:36 +0000",
+      "category": "general",
       "score": 64,
       "imageUrl": null
     },
@@ -1298,7 +1628,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 09 Mar 2026 10:10:17 -0400",
       "category": "general",
-      "score": 60.6,
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -1309,40 +1639,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 09 Mar 2026 15:58:11 +0000",
       "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "The OpenClaw superfan meetup serves optimism and lobster",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-      "description": "The woman at the door wore a plush lobster headdress. \nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-07T14:00:00.000Z",
-      "category": "both",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-      "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 08 Mar 2026 00:20:10 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
-      "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
-      "description": "Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 07 Mar 2026 15:57:23 +0000",
-      "category": "ai",
-      "score": 55,
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -1354,17 +1651,6 @@
       "pubDate": "Sat, 07 Mar 2026 18:35:56 +0000",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "description": "A recently added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 07 Mar 2026 22:56:31 +0000",
-      "category": "general",
-      "score": 40,
       "imageUrl": null
     }
   ]
