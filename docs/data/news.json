@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "generated": "2026-03-15T08:11:52.640Z",
+    "generated": "2026-03-15T12:10:48.825Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 85,
+    "totalArticles": 80,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 85 articles from 8 trusted sources, including 48 on Artificial Intelligence and 16 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Starbucks Data Breach Impacts Employees\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from TechCrunch, SecurityWeek, BleepingComputer, NY Times Tech, BBC Technology and others\n• **Fresh Content**: 6 articles published in the last 24 hours",
-    "generated": "2026-03-15T08:11:52.640Z",
+    "content": "Today's selection covers 80 articles from 8 trusted sources, including 47 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Starbucks Data Breach Impacts Employees\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from TechCrunch, SecurityWeek, BleepingComputer, NY Times Tech, The Verge and others\n• **Fresh Content**: 6 articles published in the last 24 hours",
+    "generated": "2026-03-15T12:10:48.825Z",
     "stats": {
-      "totalArticles": 85,
-      "aiArticles": 48,
-      "fraudArticles": 16,
+      "totalArticles": 80,
+      "aiArticles": 47,
+      "fraudArticles": 17,
       "sources": 8,
       "todayCount": 6
     }
@@ -66,6 +66,17 @@
       "imageUrl": null
     },
     {
+      "title": "Loblaw Data Breach Impacts Customer Information",
+      "link": "https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/",
+      "description": "Personal information such as names, email addresses, and phone numbers was accessed by hackers.\nThe post Loblaw Data Breach Impacts Customer Information appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sun, 15 Mar 2026 10:00:00 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "description": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
@@ -75,7 +86,9 @@
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Meta reportedly considering layoffs that could affect 20% of the company",
       "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
@@ -86,9 +99,7 @@
       "category": "ai",
       "score": 75,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
       "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
@@ -98,17 +109,6 @@
       "pubDate": "Thu, 12 Mar 2026 14:21:20 +0000",
       "category": "ai",
       "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Starbucks discloses data breach affecting hundreds of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-      "description": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 13 Mar 2026 04:16:55 -0400",
-      "category": "fraud",
-      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -123,45 +123,12 @@
       "imageUrl": null
     },
     {
-      "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
-      "link": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
-      "description": "The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.\nThe post Critical HPE AOS-CX Vulnerability Allows Admin Password Resets appeared fi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 14 Mar 2026 10:50:00 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
-      "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
-      "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
-      "description": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 13 Mar 2026 09:10:53 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "U.S. Tech Giants Flocked to the Persian Gulf. Now They Are Targets.",
       "link": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
       "description": "Amazon, Google and others struck deals in the Persian Gulf to foot the bill for A.I. development. Iran has now threatened attacks against the companies’ infrastructure in the region.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 13 Mar 2026 17:24:29 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity",
-      "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
-      "description": "“When there is an attack that kills civilians or doesn’t hit its intended target, people are going to be asking, Oh, was that a human who made that mistake or was that an A.I. system?”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 13 Mar 2026 11:00:03 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -453,80 +420,25 @@
       "imageUrl": null
     },
     {
-      "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
-      "link": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
-      "description": "The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time.\nThe post Bold Security Emerges From Stealth With $40 Million in Funding...",
+      "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
+      "link": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
+      "description": "The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.\nThe post Critical HPE AOS-CX Vulnerability Allows Admin Password Resets appeared fi...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 11:36:32 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Paid Out $17 Million in Bug Bounty Rewards in 2025",
-      "link": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
-      "description": "Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.\nThe post Google Paid Out $17 Million in Bug Bounty Rewards in 2025 appeared first on Se...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 11:04:54 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
-      "link": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
-      "description": "Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.\nThe post Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 10:38:47 +0000",
+      "pubDate": "Sat, 14 Mar 2026 10:50:00 +0000",
       "category": "fraud",
-      "score": 67,
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "Onyx Security Launches With $40 Million in Funding",
-      "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
-      "description": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.\nThe post Onyx Security Launches With $40 Million in Funding appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 09:25:51 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
-      "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
-      "description": "Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.\nThe post Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Bo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 08:27:34 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
-      "description": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulati...",
+      "title": "Starbucks discloses data breach affecting hundreds of employees",
+      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
+      "description": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 14 Mar 2026 17:48:14 -0400",
-      "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "US Army announces contract with Anduril worth up to $20B",
-      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-      "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000",
-      "category": "general",
-      "score": 62,
+      "pubDate": "Fri, 13 Mar 2026 04:16:55 -0400",
+      "category": "fraud",
+      "score": 61.6,
       "imageUrl": null
     },
     {
@@ -552,6 +464,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+      "description": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulati...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 14 Mar 2026 17:48:14 -0400",
+      "category": "general",
+      "score": 60.6,
+      "imageUrl": null
+    },
+    {
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
       "title": "The Data Gap: Why Nonprofit Cyber Incidents Go Underreported",
       "link": "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported",
       "description": "Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.",
@@ -570,6 +504,17 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 13 Mar 2026 17:15:17 GMT",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
+      "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
+      "description": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 13 Mar 2026 09:10:53 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -596,12 +541,12 @@
       "imageUrl": null
     },
     {
-      "title": "Silicon Valley’s Image Takes a Dark Turn in Pop Culture",
-      "link": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
-      "description": "In television and movies, depictions of nihilistic billionaires and amoral opportunists are replacing the quirky strivers of older shows like HBO’s “Silicon Valley.”",
+      "title": "A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity",
+      "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
+      "description": "“When there is an attack that kills civilians or doesn’t hit its intended target, people are going to be asking, Oh, was that a human who made that mistake or was that an A.I. system?”",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 12 Mar 2026 09:02:48 +0000",
+      "pubDate": "Fri, 13 Mar 2026 11:00:03 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -717,17 +662,6 @@
       "imageUrl": null
     },
     {
-      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
-      "description": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digit...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-12T12:00:34.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "Canadian retail giant Loblaw notifies customers of data breach",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
       "description": "Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log...",
@@ -779,6 +713,61 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 12 Mar 2026 16:52:17 +0000",
       "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
+      "link": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
+      "description": "The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time.\nThe post Bold Security Emerges From Stealth With $40 Million in Funding...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 11:36:32 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Paid Out $17 Million in Bug Bounty Rewards in 2025",
+      "link": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
+      "description": "Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.\nThe post Google Paid Out $17 Million in Bug Bounty Rewards in 2025 appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 11:04:54 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
+      "link": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
+      "description": "Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.\nThe post Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 10:38:47 +0000",
+      "category": "fraud",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Onyx Security Launches With $40 Million in Funding",
+      "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
+      "description": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.\nThe post Onyx Security Launches With $40 Million in Funding appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 09:25:51 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
+      "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
+      "description": "Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.\nThe post Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Bo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 08:27:34 +0000",
+      "category": "fraud",
       "score": 55,
       "imageUrl": null
     },
@@ -838,17 +827,6 @@
       "imageUrl": null
     },
     {
-      "title": "Chrome 146 Update Patches Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/",
-      "description": "The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution.\nThe post Chrome 146 Update Patches Two Exploited Zero-Days appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 07:47:19 +0000",
-      "category": "general",
-      "score": 46,
-      "imageUrl": null
-    },
-    {
       "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
       "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
       "description": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
@@ -860,45 +838,12 @@
       "imageUrl": null
     },
     {
-      "title": "What role has cyber warfare played in Iran?",
-      "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
-      "description": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 12 Mar 2026 10:20:08 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Social media firms asked to toughen up age checks for under-13s",
-      "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss",
-      "description": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 12 Mar 2026 09:26:09 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.",
       "link": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
       "description": "Closing arguments began Thursday in a landmark trial that put online behavior under a microscope. In many ways, it has already been decided.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Thu, 12 Mar 2026 18:32:48 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
-      "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
-      "description": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 12 Mar 2026 09:03:58 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1005,6 +950,17 @@
       "imageUrl": null
     },
     {
+      "title": "Loblaw Data Breach Impacts Customer Information",
+      "link": "https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/",
+      "description": "Personal information such as names, email addresses, and phone numbers was accessed by hackers.\nThe post Loblaw Data Breach Impacts Customer Information appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sun, 15 Mar 2026 10:00:00 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "description": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
@@ -1038,17 +994,6 @@
       "imageUrl": null
     },
     {
-      "title": "Starbucks discloses data breach affecting hundreds of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-      "description": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 13 Mar 2026 04:16:55 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
       "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
       "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
       "description": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest...",
@@ -1060,45 +1005,12 @@
       "imageUrl": null
     },
     {
-      "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
-      "link": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
-      "description": "The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.\nThe post Critical HPE AOS-CX Vulnerability Allows Admin Password Resets appeared fi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 14 Mar 2026 10:50:00 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
-      "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
-      "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
-      "description": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 13 Mar 2026 09:10:53 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "U.S. Tech Giants Flocked to the Persian Gulf. Now They Are Targets.",
       "link": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
       "description": "Amazon, Google and others struck deals in the Persian Gulf to foot the bill for A.I. development. Iran has now threatened attacks against the companies’ infrastructure in the region.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 13 Mar 2026 17:24:29 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity",
-      "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
-      "description": "“When there is an attack that kills civilians or doesn’t hit its intended target, people are going to be asking, Oh, was that a human who made that mistake or was that an A.I. system?”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 13 Mar 2026 11:00:03 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1390,80 +1302,25 @@
       "imageUrl": null
     },
     {
-      "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
-      "link": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
-      "description": "The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time.\nThe post Bold Security Emerges From Stealth With $40 Million in Funding...",
+      "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
+      "link": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
+      "description": "The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.\nThe post Critical HPE AOS-CX Vulnerability Allows Admin Password Resets appeared fi...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 11:36:32 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Paid Out $17 Million in Bug Bounty Rewards in 2025",
-      "link": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
-      "description": "Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.\nThe post Google Paid Out $17 Million in Bug Bounty Rewards in 2025 appeared first on Se...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 11:04:54 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
-      "link": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
-      "description": "Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.\nThe post Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 10:38:47 +0000",
+      "pubDate": "Sat, 14 Mar 2026 10:50:00 +0000",
       "category": "fraud",
-      "score": 67,
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "Onyx Security Launches With $40 Million in Funding",
-      "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
-      "description": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.\nThe post Onyx Security Launches With $40 Million in Funding appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 09:25:51 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
-      "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
-      "description": "Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.\nThe post Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Bo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 08:27:34 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
-      "description": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulati...",
+      "title": "Starbucks discloses data breach affecting hundreds of employees",
+      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
+      "description": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 14 Mar 2026 17:48:14 -0400",
-      "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "US Army announces contract with Anduril worth up to $20B",
-      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-      "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000",
-      "category": "general",
-      "score": 62,
+      "pubDate": "Fri, 13 Mar 2026 04:16:55 -0400",
+      "category": "fraud",
+      "score": 61.6,
       "imageUrl": null
     },
     {
@@ -1489,6 +1346,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+      "description": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulati...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 14 Mar 2026 17:48:14 -0400",
+      "category": "general",
+      "score": 60.6,
+      "imageUrl": null
+    },
+    {
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
       "title": "The Data Gap: Why Nonprofit Cyber Incidents Go Underreported",
       "link": "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported",
       "description": "Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.",
@@ -1507,6 +1386,17 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 13 Mar 2026 17:15:17 GMT",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
+      "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
+      "description": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 13 Mar 2026 09:10:53 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -1533,12 +1423,12 @@
       "imageUrl": null
     },
     {
-      "title": "Silicon Valley’s Image Takes a Dark Turn in Pop Culture",
-      "link": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
-      "description": "In television and movies, depictions of nihilistic billionaires and amoral opportunists are replacing the quirky strivers of older shows like HBO’s “Silicon Valley.”",
+      "title": "A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity",
+      "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
+      "description": "“When there is an attack that kills civilians or doesn’t hit its intended target, people are going to be asking, Oh, was that a human who made that mistake or was that an A.I. system?”",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 12 Mar 2026 09:02:48 +0000",
+      "pubDate": "Fri, 13 Mar 2026 11:00:03 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1654,17 +1544,6 @@
       "imageUrl": null
     },
     {
-      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
-      "description": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digit...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-12T12:00:34.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "Canadian retail giant Loblaw notifies customers of data breach",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
       "description": "Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log...",
@@ -1716,6 +1595,61 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 12 Mar 2026 16:52:17 +0000",
       "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
+      "link": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
+      "description": "The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time.\nThe post Bold Security Emerges From Stealth With $40 Million in Funding...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 11:36:32 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Paid Out $17 Million in Bug Bounty Rewards in 2025",
+      "link": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
+      "description": "Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.\nThe post Google Paid Out $17 Million in Bug Bounty Rewards in 2025 appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 11:04:54 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
+      "link": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
+      "description": "Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.\nThe post Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 10:38:47 +0000",
+      "category": "fraud",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Onyx Security Launches With $40 Million in Funding",
+      "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
+      "description": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.\nThe post Onyx Security Launches With $40 Million in Funding appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 09:25:51 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
+      "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
+      "description": "Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.\nThe post Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Bo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 13 Mar 2026 08:27:34 +0000",
+      "category": "fraud",
       "score": 55,
       "imageUrl": null
     },
@@ -1775,17 +1709,6 @@
       "imageUrl": null
     },
     {
-      "title": "Chrome 146 Update Patches Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/",
-      "description": "The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution.\nThe post Chrome 146 Update Patches Two Exploited Zero-Days appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 13 Mar 2026 07:47:19 +0000",
-      "category": "general",
-      "score": 46,
-      "imageUrl": null
-    },
-    {
       "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
       "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
       "description": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
@@ -1797,45 +1720,12 @@
       "imageUrl": null
     },
     {
-      "title": "What role has cyber warfare played in Iran?",
-      "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
-      "description": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 12 Mar 2026 10:20:08 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Social media firms asked to toughen up age checks for under-13s",
-      "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss",
-      "description": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 12 Mar 2026 09:26:09 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.",
       "link": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
       "description": "Closing arguments began Thursday in a landmark trial that put online behavior under a microscope. In many ways, it has already been decided.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Thu, 12 Mar 2026 18:32:48 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
-      "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
-      "description": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 12 Mar 2026 09:03:58 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
