@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-03-17T16:26:52.068Z",
+    "generated": "2026-03-17T20:12:58.207Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 69,
-    "sources": 7,
+    "totalArticles": 73,
+    "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 69 articles from 7 trusted sources, including 52 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: The future of code is exciting and terrifying\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, BBC Technology, NY Times Tech, TechCrunch and others\n• **Fresh Content**: 53 articles published in the last 24 hours",
-    "generated": "2026-03-17T16:26:52.068Z",
+    "content": "Today's selection covers 73 articles from 8 trusted sources, including 56 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Now everyone in the US is getting Google&#8217;s personalized Gemini AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from The Verge, BBC Technology, TechCrunch, SecurityWeek, BleepingComputer and others\n• **Fresh Content**: 51 articles published in the last 24 hours",
+    "generated": "2026-03-17T20:12:58.207Z",
     "stats": {
-      "totalArticles": 69,
-      "aiArticles": 52,
+      "totalArticles": 73,
+      "aiArticles": 56,
       "fraudArticles": 10,
-      "sources": 7,
-      "todayCount": 53
+      "sources": 8,
+      "todayCount": 51
     }
   },
   "top": [
+    {
+      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "description": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-17T16:33:41.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "The future of code is exciting and terrifying",
       "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
@@ -33,34 +44,12 @@
       "imageUrl": null
     },
     {
-      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-      "description": "The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and Typ...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "category": "fraud",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
       "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
       "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
       "description": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 17 Mar 2026 00:08:32 GMT",
-      "category": "ai",
-      "score": 94.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
-      "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
-      "description": "A Florida bill that would have regulated artificial intelligence, backed by Gov. Ron DeSantis, failed to gain traction after President Trump made it clear he did not want states to rein in the technol...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 16 Mar 2026 20:05:47 +0000",
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
@@ -77,27 +66,38 @@
       "imageUrl": null
     },
     {
-      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
-      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-      "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, a...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
+      "title": "Tech Giants Invest $12.5 Million in Open Source Security",
+      "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
+      "description": "Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.\nThe post Tech Giants Invest $12.5 Million in Open Source Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Mar 2026 16:01:00 +0000",
       "category": "ai",
       "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
+      "description": "The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and Typ...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 08:09:35 -0400",
+      "category": "fraud",
+      "score": 92.6,
       "imageUrl": null
     }
   ],
   "more": [
     {
-      "title": "Tech Giants Invest $12.5 Million in Open Source Security",
-      "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
-      "description": "Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.\nThe post Tech Giants Invest $12.5 Million in Open Source Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Mar 2026 16:01:00 +0000",
+      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, a...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -108,7 +108,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 12:10:52 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -123,50 +123,6 @@
       "imageUrl": null
     },
     {
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-      "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses tha...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-16T17:04:06.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-      "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 19:12:19 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
-      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-      "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:43:27 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "description": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:38:34 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
       "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
       "description": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.",
@@ -174,7 +130,7 @@
       "domain": "bbc.com",
       "pubDate": "Tue, 17 Mar 2026 14:12:13 GMT",
       "category": "ai",
-      "score": 89.5,
+      "score": 87.5,
       "imageUrl": null
     },
     {
@@ -189,6 +145,28 @@
       "imageUrl": null
     },
     {
+      "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
+      "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
+      "description": "A Florida bill that would have regulated artificial intelligence, backed by Gov. Ron DeSantis, failed to gain traction after President Trump made it clear he did not want states to rein in the technol...",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 16 Mar 2026 20:05:48 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+      "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+      "description": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-17T18:00:00.000Z",
+      "category": "ai",
+      "score": 85.6,
+      "imageUrl": null
+    },
+    {
       "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
       "link": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
       "description": "At the opening of the company’s annual conference, Jensen Huang leaned on technology from a recent deal to show how artificial intelligence is changing.",
@@ -200,6 +178,28 @@
       "imageUrl": null
     },
     {
+      "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
+      "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
+      "description": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 17:52:47 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
+      "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
+      "description": "The state accused Kalshi on Tuesday of operating an illegal gambling business, escalating the legal battle between states and prediction markets.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 19:18:52 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
       "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
       "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
@@ -207,7 +207,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -218,18 +218,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 13:28:20 +0000",
       "category": "fraud",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
-      "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
-      "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
-      "description": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Mar 2026 16:01:44 +0000",
+      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+      "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses tha...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-16T17:04:06.000Z",
       "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -244,17 +244,6 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
-      "description": "So when exactly is smut considered porn? | Cath Virginia / The Verge | Photos from Getty Images\t\n\nOpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, b...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-16T11:18:20.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
       "description": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [....",
@@ -263,6 +252,39 @@
       "pubDate": "Sun, 15 Mar 2026 19:13:28 -0400",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+      "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 19:12:19 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 17:43:27 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "The dictionary sues OpenAI",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "description": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 17:38:34 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -288,25 +310,14 @@
       "imageUrl": null
     },
     {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-      "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:51:46 +0000",
+      "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
+      "link": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+      "description": "The cyberattackers leveraged trusted brands and domains in an attempt to redirect a C-suite executive at Outpost24 to give up his credentials.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Mar 2026 19:41:24 GMT",
       "category": "ai",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:47:32 +0000",
-      "category": "ai",
-      "score": 81,
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -321,45 +332,12 @@
       "imageUrl": null
     },
     {
-      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-      "description": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [......",
+      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "description": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New font-rendering trick hides malicious commands from AI tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
-      "description": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 09:59:12 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-      "description": "Microsoft has shared guidance to fix C:\\ drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 08:03:38 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
-      "description": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 06:37:19 -0400",
+      "pubDate": "Tue, 17 Mar 2026 14:41:59 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -373,6 +351,28 @@
       "pubDate": "Mon, 16 Mar 2026 21:06:51 GMT",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Mar 2026 18:20:15 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+      "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Mar 2026 17:17:15 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -431,6 +431,50 @@
       "imageUrl": null
     },
     {
+      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
+      "description": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New font-rendering trick hides malicious commands from AI tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
+      "description": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 09:59:12 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
+      "description": "Microsoft has shared guidance to fix C:\\ drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 08:03:38 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+      "description": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 06:37:19 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Tracebit Raises $20M for Cloud-Native Deception Technology",
       "link": "https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/",
       "description": "The company plans to scale its products, expand to new markets, and grow its marketing and engineering teams.\nThe post Tracebit Raises $20M for Cloud-Native Deception Technology appeared first on Secu...",
@@ -438,7 +482,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 11:52:34 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -449,7 +493,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 10:30:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -475,17 +519,6 @@
       "imageUrl": null
     },
     {
-      "title": "CISA Flags Year-Old Wing FTP Vulnerability as Exploited",
-      "link": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
-      "description": "Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.\nThe post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Mar 2026 10:55:55 +0000",
-      "category": "fraud",
-      "score": 76,
-      "imageUrl": null
-    },
-    {
       "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
       "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
       "description": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Pos...",
@@ -503,28 +536,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-03-16T20:41:55.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-      "description": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Mar 2026 15:17:20 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-      "description": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -563,14 +574,36 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-      "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "title": "CISA Flags Year-Old Wing FTP Vulnerability as Exploited",
+      "link": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
+      "description": "Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.\nThe post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Mar 2026 10:55:55 +0000",
+      "category": "fraud",
+      "score": 74,
+      "imageUrl": null
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 19:18:44 +0000",
+      "pubDate": "Mon, 16 Mar 2026 17:51:46 +0000",
       "category": "ai",
-      "score": 75,
+      "score": 73,
+      "imageUrl": null
+    },
+    {
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 17:47:32 +0000",
+      "category": "ai",
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -607,28 +640,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
-      "description": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-15T14:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
-      "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
-      "description": "The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.\nThe post 174 Vulnerabilities Targeted by RondoDox Botnet appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Mar 2026 12:37:45 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Attackers Abuse LiveChat to Phish Credit Card, Personal Data",
       "link": "https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data",
       "description": "A social engineering campaign impersonating PayPal and Amazon uses customer support interactions to acquire sensitive info.",
@@ -640,12 +651,67 @@
       "imageUrl": null
     },
     {
+      "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
+      "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
+      "description": "The country appears to be cracking down on people linked to the acquisition of Manus, a Singapore company with Chinese roots, as President Trump prepares to visit Beijing.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 19:38:25 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
+      "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+      "description": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 17:22:57 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
+      "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
+      "description": "The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.\nThe post 174 Vulnerabilities Targeted by RondoDox Botnet appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Mar 2026 12:37:45 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
       "title": "This is not a fly uploaded to a computer",
       "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
       "description": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.\nTh...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-03-16T12:49:07.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
+      "description": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 16 Mar 2026 15:17:20 -0400",
+      "category": "fraud",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "description": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -695,12 +761,12 @@
       "imageUrl": null
     },
     {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sun, 15 Mar 2026 18:49:32 +0000",
+      "pubDate": "Mon, 16 Mar 2026 19:18:44 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -717,25 +783,25 @@
       "imageUrl": null
     },
     {
-      "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
-      "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
-      "description": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Mar 2026 09:01:35 +0000",
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+      "description": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 17 Mar 2026 17:07:12 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 65.5,
       "imageUrl": null
     },
     {
       "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
-      "description": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices outside the European Economic Area (EEA) that have the Microsoft 365 desktop client apps. [...]",
+      "description": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Mar 2026 09:54:37 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -746,7 +812,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Mar 2026 07:07:05 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -757,33 +823,22 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 16 Mar 2026 13:07:25 -0400",
       "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
-      "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 15 Mar 2026 21:01:51 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
-      "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
-      "description": "A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 15 Mar 2026 10:17:23 -0400",
-      "category": "general",
-      "score": 40.6,
+      "score": 52.6,
       "imageUrl": null
     }
   ],
   "all": [
+    {
+      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "description": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-17T16:33:41.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "The future of code is exciting and terrifying",
       "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
@@ -796,34 +851,12 @@
       "imageUrl": null
     },
     {
-      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-      "description": "The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and Typ...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "category": "fraud",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
       "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
       "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
       "description": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 17 Mar 2026 00:08:32 GMT",
-      "category": "ai",
-      "score": 94.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
-      "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
-      "description": "A Florida bill that would have regulated artificial intelligence, backed by Gov. Ron DeSantis, failed to gain traction after President Trump made it clear he did not want states to rein in the technol...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 16 Mar 2026 20:05:47 +0000",
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
@@ -840,17 +873,6 @@
       "imageUrl": null
     },
     {
-      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
-      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-      "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, a...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Giants Invest $12.5 Million in Open Source Security",
       "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
       "description": "Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.\nThe post Tech Giants Invest $12.5 Million in Open Source Secur...",
@@ -862,6 +884,28 @@
       "imageUrl": null
     },
     {
+      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
+      "description": "The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and Typ...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 08:09:35 -0400",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, a...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 92,
+      "imageUrl": null
+    },
+    {
       "title": "Google, Meta, Microsoft Among Signatories of Pact to Combat Scams",
       "link": "https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/",
       "description": "Several major tech and retail companies have signed an industry accord against online scams and fraud.\nThe post Google, Meta, Microsoft Among Signatories of Pact to Combat Scams appeared first on Secu...",
@@ -869,7 +913,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 12:10:52 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -884,50 +928,6 @@
       "imageUrl": null
     },
     {
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-      "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses tha...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-16T17:04:06.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-      "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 19:12:19 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
-      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-      "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:43:27 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "description": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:38:34 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
       "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
       "description": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.",
@@ -935,7 +935,7 @@
       "domain": "bbc.com",
       "pubDate": "Tue, 17 Mar 2026 14:12:13 GMT",
       "category": "ai",
-      "score": 89.5,
+      "score": 87.5,
       "imageUrl": null
     },
     {
@@ -950,6 +950,28 @@
       "imageUrl": null
     },
     {
+      "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
+      "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
+      "description": "A Florida bill that would have regulated artificial intelligence, backed by Gov. Ron DeSantis, failed to gain traction after President Trump made it clear he did not want states to rein in the technol...",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 16 Mar 2026 20:05:48 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+      "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+      "description": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-17T18:00:00.000Z",
+      "category": "ai",
+      "score": 85.6,
+      "imageUrl": null
+    },
+    {
       "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
       "link": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
       "description": "At the opening of the company’s annual conference, Jensen Huang leaned on technology from a recent deal to show how artificial intelligence is changing.",
@@ -961,6 +983,28 @@
       "imageUrl": null
     },
     {
+      "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
+      "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
+      "description": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 17:52:47 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
+      "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
+      "description": "The state accused Kalshi on Tuesday of operating an illegal gambling business, escalating the legal battle between states and prediction markets.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 19:18:52 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
       "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
       "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
@@ -968,7 +1012,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -979,18 +1023,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 13:28:20 +0000",
       "category": "fraud",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
-      "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
-      "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
-      "description": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Mar 2026 16:01:44 +0000",
+      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+      "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses tha...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-16T17:04:06.000Z",
       "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1005,17 +1049,6 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
-      "description": "So when exactly is smut considered porn? | Cath Virginia / The Verge | Photos from Getty Images\t\n\nOpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, b...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-16T11:18:20.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
       "description": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [....",
@@ -1024,6 +1057,39 @@
       "pubDate": "Sun, 15 Mar 2026 19:13:28 -0400",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+      "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 19:12:19 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 17:43:27 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "The dictionary sues OpenAI",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "description": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 17:38:34 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1049,25 +1115,14 @@
       "imageUrl": null
     },
     {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-      "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:51:46 +0000",
+      "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
+      "link": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+      "description": "The cyberattackers leveraged trusted brands and domains in an attempt to redirect a C-suite executive at Outpost24 to give up his credentials.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Mar 2026 19:41:24 GMT",
       "category": "ai",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 17:47:32 +0000",
-      "category": "ai",
-      "score": 81,
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -1082,45 +1137,12 @@
       "imageUrl": null
     },
     {
-      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-      "description": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [......",
+      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "description": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New font-rendering trick hides malicious commands from AI tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
-      "description": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 09:59:12 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-      "description": "Microsoft has shared guidance to fix C:\\ drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 08:03:38 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
-      "description": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Mar 2026 06:37:19 -0400",
+      "pubDate": "Tue, 17 Mar 2026 14:41:59 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -1134,6 +1156,28 @@
       "pubDate": "Mon, 16 Mar 2026 21:06:51 GMT",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Mar 2026 18:20:15 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+      "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Mar 2026 17:17:15 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1192,6 +1236,50 @@
       "imageUrl": null
     },
     {
+      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
+      "description": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New font-rendering trick hides malicious commands from AI tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
+      "description": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 09:59:12 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
+      "description": "Microsoft has shared guidance to fix C:\\ drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 08:03:38 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+      "description": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Mar 2026 06:37:19 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Tracebit Raises $20M for Cloud-Native Deception Technology",
       "link": "https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/",
       "description": "The company plans to scale its products, expand to new markets, and grow its marketing and engineering teams.\nThe post Tracebit Raises $20M for Cloud-Native Deception Technology appeared first on Secu...",
@@ -1199,7 +1287,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 11:52:34 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1210,7 +1298,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Mar 2026 10:30:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1236,17 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "CISA Flags Year-Old Wing FTP Vulnerability as Exploited",
-      "link": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
-      "description": "Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.\nThe post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Mar 2026 10:55:55 +0000",
-      "category": "fraud",
-      "score": 76,
-      "imageUrl": null
-    },
-    {
       "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
       "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
       "description": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Pos...",
@@ -1264,28 +1341,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-03-16T20:41:55.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-      "description": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Mar 2026 15:17:20 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-      "description": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -1324,14 +1379,36 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-      "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "title": "CISA Flags Year-Old Wing FTP Vulnerability as Exploited",
+      "link": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
+      "description": "Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.\nThe post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Mar 2026 10:55:55 +0000",
+      "category": "fraud",
+      "score": 74,
+      "imageUrl": null
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Mar 2026 19:18:44 +0000",
+      "pubDate": "Mon, 16 Mar 2026 17:51:46 +0000",
       "category": "ai",
-      "score": 75,
+      "score": 73,
+      "imageUrl": null
+    },
+    {
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 16 Mar 2026 17:47:32 +0000",
+      "category": "ai",
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -1368,28 +1445,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
-      "description": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-15T14:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
-      "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
-      "description": "The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.\nThe post 174 Vulnerabilities Targeted by RondoDox Botnet appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Mar 2026 12:37:45 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Attackers Abuse LiveChat to Phish Credit Card, Personal Data",
       "link": "https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data",
       "description": "A social engineering campaign impersonating PayPal and Amazon uses customer support interactions to acquire sensitive info.",
@@ -1401,12 +1456,67 @@
       "imageUrl": null
     },
     {
+      "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
+      "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
+      "description": "The country appears to be cracking down on people linked to the acquisition of Manus, a Singapore company with Chinese roots, as President Trump prepares to visit Beijing.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 19:38:25 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
+      "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+      "description": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Mar 2026 17:22:57 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
+      "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
+      "description": "The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.\nThe post 174 Vulnerabilities Targeted by RondoDox Botnet appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Mar 2026 12:37:45 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
       "title": "This is not a fly uploaded to a computer",
       "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
       "description": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.\nTh...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-03-16T12:49:07.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
+      "description": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 16 Mar 2026 15:17:20 -0400",
+      "category": "fraud",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "description": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -1456,12 +1566,12 @@
       "imageUrl": null
     },
     {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sun, 15 Mar 2026 18:49:32 +0000",
+      "pubDate": "Mon, 16 Mar 2026 19:18:44 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -1478,25 +1588,25 @@
       "imageUrl": null
     },
     {
-      "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
-      "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
-      "description": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Mar 2026 09:01:35 +0000",
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+      "description": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 17 Mar 2026 17:07:12 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 65.5,
       "imageUrl": null
     },
     {
       "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
-      "description": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices outside the European Economic Area (EEA) that have the Microsoft 365 desktop client apps. [...]",
+      "description": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Mar 2026 09:54:37 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1507,7 +1617,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Mar 2026 07:07:05 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1518,29 +1628,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 16 Mar 2026 13:07:25 -0400",
       "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
-      "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 15 Mar 2026 21:01:51 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
-      "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
-      "description": "A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 15 Mar 2026 10:17:23 -0400",
-      "category": "general",
-      "score": 40.6,
+      "score": 52.6,
       "imageUrl": null
     }
   ]
