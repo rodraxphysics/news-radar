@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "generated": "2026-04-01T08:30:14.740Z",
+    "generated": "2026-04-01T12:21:55.031Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 81,
+    "totalArticles": 85,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 81 articles from 8 trusted sources, including 51 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Adds Another $12 Billion to Latest Funding Round\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Okta&#8217;s CEO is betting big on AI agent identity\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, BleepingComputer, TechCrunch, Dark Reading and others\n• **Fresh Content**: 50 articles published in the last 24 hours",
-    "generated": "2026-04-01T08:30:14.740Z",
+    "content": "Today's selection covers 85 articles from 8 trusted sources, including 56 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Adds Another $12 Billion to Latest Funding Round\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Okta&#8217;s CEO is betting big on AI agent identity\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, TechCrunch, The Verge, BBC Technology and others\n• **Fresh Content**: 50 articles published in the last 24 hours",
+    "generated": "2026-04-01T12:21:55.031Z",
     "stats": {
-      "totalArticles": 81,
-      "aiArticles": 51,
-      "fraudArticles": 17,
+      "totalArticles": 85,
+      "aiArticles": 56,
+      "fraudArticles": 15,
       "sources": 8,
       "todayCount": 50
     }
@@ -29,29 +29,7 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 31 Mar 2026 21:38:20 +0000",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-31T22:24:19.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-31T21:03:18.000Z",
-      "category": "ai",
-      "score": 92.6,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -66,17 +44,6 @@
       "imageUrl": null
     },
     {
-      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
-      "description": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
       "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
@@ -86,18 +53,27 @@
       "category": "ai",
       "score": 92,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 31 Mar 2026 21:25:04 +0000",
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-31T22:24:19.000Z",
       "category": "ai",
-      "score": 92,
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-31T21:03:18.000Z",
+      "category": "ai",
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -109,6 +85,30 @@
       "pubDate": "2026-03-31T15:00:00.000Z",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "description": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 31 Mar 2026 21:25:04 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -131,6 +131,17 @@
       "pubDate": "Tue, 31 Mar 2026 00:39:16 +0000",
       "category": "ai",
       "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "description": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 01 Apr 2026 11:34:31 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -211,6 +222,39 @@
       "imageUrl": null
     },
     {
+      "title": "Are We Training AI Too Late?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
+      "description": "Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 01 Apr 2026 10:40:13 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "description": "A Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\t\n\nNumerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-01T10:39:52.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "description": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 01 Apr 2026 07:39:10 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Google Drive ransomware detection now on by default for paying users",
       "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
       "description": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
@@ -233,14 +277,14 @@
       "imageUrl": null
     },
     {
-      "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
-      "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
-      "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 31 Mar 2026 09:06:56 +0000",
+      "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
+      "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
+      "description": "A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions.\nThe post Axios NPM Package Breached in North Korean Suppl...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 01 Apr 2026 08:45:47 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -255,47 +299,14 @@
       "imageUrl": null
     },
     {
-      "title": "Google now allows you to change your @gmail.com address",
-      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "description": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+      "description": "Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 19:13:56 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-      "description": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 18:42:07 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is having a month",
-      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "description": "A human really borks things at Anthropic for the second time this week.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 31 Mar 2026 23:58:26 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "description": "Slack just got a whole lot more useful.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 31 Mar 2026 22:46:25 +0000",
-      "category": "ai",
-      "score": 77,
+      "pubDate": "Wed, 01 Apr 2026 06:25:36 -0400",
+      "category": "fraud",
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -343,6 +354,28 @@
       "imageUrl": null
     },
     {
+      "title": "Google now allows you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+      "description": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 19:13:56 -0400",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "description": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 18:42:07 -0400",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Cisco source code stolen in Trivy-linked dev environment breach",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
       "description": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to...",
@@ -376,25 +409,25 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "description": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 08:04:15 -0400",
+      "title": "Anthropic is having a month",
+      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "description": "A human really borks things at Anthropic for the second time this week.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 31 Mar 2026 23:58:26 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
-      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
-      "description": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [.....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400",
-      "category": "fraud",
-      "score": 75.6,
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "description": "Slack just got a whole lot more useful.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 31 Mar 2026 22:46:25 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -475,34 +508,23 @@
       "imageUrl": null
     },
     {
-      "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
-      "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
-      "description": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.\nThe post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 31 Mar 2026 11:39:45 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
-      "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
-      "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
-      "description": "Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years.\nThe post StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 31 Mar 2026 10:21:05 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
       "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
       "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
       "description": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 30 Mar 2026 22:03:23 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
+      "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+      "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 31 Mar 2026 09:06:56 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -530,17 +552,6 @@
       "imageUrl": null
     },
     {
-      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 03:05:25 -0400",
-      "category": "fraud",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
       "title": "Why OpenAI really shut down Sora",
       "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
       "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow...",
@@ -549,17 +560,6 @@
       "pubDate": "Mon, 30 Mar 2026 03:09:38 +0000",
       "category": "ai",
       "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Axios NPM Package Compromised in Precision Attack",
-      "link": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
-      "description": "The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 31 Mar 2026 20:55:13 GMT",
-      "category": "general",
-      "score": 69.5,
       "imageUrl": null
     },
     {
@@ -596,7 +596,7 @@
       "imageUrl": null
     },
     {
-      "title": "Tech giant Oracle makes 'significant' job cuts",
+      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
       "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
       "description": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
       "source": "BBC Technology",
@@ -607,14 +607,47 @@
       "imageUrl": null
     },
     {
-      "title": "Healthcare tech firm CareCloud says hackers stole patient data",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
-      "description": "Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
+      "title": "One of Apple’s First Employees Looks Back at 50 Years",
+      "link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
+      "description": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed a bit since then.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 01 Apr 2026 09:02:40 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "description": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 30 Mar 2026 17:44:31 -0400",
+      "pubDate": "Tue, 31 Mar 2026 08:04:15 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
+      "description": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [.....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Axios NPM Package Compromised in Precision Attack",
+      "link": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
+      "description": "The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 31 Mar 2026 20:55:13 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
@@ -684,17 +717,6 @@
       "imageUrl": null
     },
     {
-      "title": "Starcloud raises $170 million Series A to build data centers in space",
-      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "description": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 30 Mar 2026 11:00:00 +0000",
-      "category": "both",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust",
       "link": "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/",
       "description": "Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. \nThe post The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust appeared...",
@@ -728,17 +750,6 @@
       "imageUrl": null
     },
     {
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "description": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 01 Apr 2026 01:33:43 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
       "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
       "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
       "description": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
@@ -750,23 +761,23 @@
       "imageUrl": null
     },
     {
-      "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
-      "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
-      "description": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 31 Mar 2026 10:36:33 +0000",
-      "category": "general",
-      "score": 64.5,
+      "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
+      "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
+      "description": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.\nThe post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 31 Mar 2026 11:39:45 +0000",
+      "category": "fraud",
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
-      "description": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+      "title": "New Windows 11 emergency update fixes preview update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
+      "description": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 18:28:02 -0400",
+      "pubDate": "Wed, 01 Apr 2026 01:33:43 -0400",
       "category": "general",
       "score": 62.6,
       "imageUrl": null
@@ -794,14 +805,14 @@
       "imageUrl": null
     },
     {
-      "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
-      "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
-      "description": "Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. \nThe post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encrypt...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 31 Mar 2026 11:51:43 +0000",
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "description": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 18:28:02 -0400",
       "category": "general",
-      "score": 60,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -860,6 +871,17 @@
       "imageUrl": null
     },
     {
+      "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
+      "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+      "description": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 31 Mar 2026 10:36:33 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
       "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
       "description": "The embrace of crypto by financial regulators under President Trump has entered a new, cozier phase.",
@@ -868,6 +890,17 @@
       "pubDate": "Mon, 30 Mar 2026 15:28:31 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "description": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 30 Mar 2026 11:00:00 +0000",
+      "category": "both",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -901,6 +934,17 @@
       "pubDate": "Tue, 31 Mar 2026 03:52:15 -0400",
       "category": "general",
       "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
+      "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
+      "description": "Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. \nThe post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encrypt...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 31 Mar 2026 11:51:43 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -924,29 +968,7 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 31 Mar 2026 21:38:20 +0000",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-31T22:24:19.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-03-31T21:03:18.000Z",
-      "category": "ai",
-      "score": 92.6,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -956,17 +978,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 31 Mar 2026 20:32:25 -0400",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
-      "description": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400",
       "category": "ai",
       "score": 92.6,
       "imageUrl": null
@@ -983,14 +994,25 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 31 Mar 2026 21:25:04 +0000",
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-31T22:24:19.000Z",
       "category": "ai",
-      "score": 92,
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-03-31T21:03:18.000Z",
+      "category": "ai",
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1002,6 +1024,28 @@
       "pubDate": "2026-03-31T15:00:00.000Z",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "description": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 31 Mar 2026 21:25:04 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1024,6 +1068,17 @@
       "pubDate": "Tue, 31 Mar 2026 00:39:16 +0000",
       "category": "ai",
       "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "description": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 01 Apr 2026 11:34:31 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -1104,6 +1159,39 @@
       "imageUrl": null
     },
     {
+      "title": "Are We Training AI Too Late?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
+      "description": "Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 01 Apr 2026 10:40:13 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "description": "A Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\t\n\nNumerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-01T10:39:52.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "description": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 01 Apr 2026 07:39:10 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Google Drive ransomware detection now on by default for paying users",
       "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
       "description": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
@@ -1126,14 +1214,14 @@
       "imageUrl": null
     },
     {
-      "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
-      "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
-      "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 31 Mar 2026 09:06:56 +0000",
+      "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
+      "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
+      "description": "A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions.\nThe post Axios NPM Package Breached in North Korean Suppl...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 01 Apr 2026 08:45:47 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1148,47 +1236,14 @@
       "imageUrl": null
     },
     {
-      "title": "Google now allows you to change your @gmail.com address",
-      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "description": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+      "description": "Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 19:13:56 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-      "description": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 18:42:07 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is having a month",
-      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "description": "A human really borks things at Anthropic for the second time this week.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 31 Mar 2026 23:58:26 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "description": "Slack just got a whole lot more useful.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 31 Mar 2026 22:46:25 +0000",
-      "category": "ai",
-      "score": 77,
+      "pubDate": "Wed, 01 Apr 2026 06:25:36 -0400",
+      "category": "fraud",
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -1236,6 +1291,28 @@
       "imageUrl": null
     },
     {
+      "title": "Google now allows you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+      "description": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 19:13:56 -0400",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "description": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 18:42:07 -0400",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Cisco source code stolen in Trivy-linked dev environment breach",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
       "description": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to...",
@@ -1269,25 +1346,25 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "description": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 08:04:15 -0400",
+      "title": "Anthropic is having a month",
+      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "description": "A human really borks things at Anthropic for the second time this week.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 31 Mar 2026 23:58:26 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
-      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
-      "description": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [.....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400",
-      "category": "fraud",
-      "score": 75.6,
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "description": "Slack just got a whole lot more useful.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 31 Mar 2026 22:46:25 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1368,34 +1445,23 @@
       "imageUrl": null
     },
     {
-      "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
-      "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
-      "description": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.\nThe post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 31 Mar 2026 11:39:45 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
-      "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
-      "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
-      "description": "Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years.\nThe post StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 31 Mar 2026 10:21:05 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
       "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
       "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
       "description": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 30 Mar 2026 22:03:23 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
+      "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+      "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 31 Mar 2026 09:06:56 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1423,17 +1489,6 @@
       "imageUrl": null
     },
     {
-      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 03:05:25 -0400",
-      "category": "fraud",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
       "title": "Why OpenAI really shut down Sora",
       "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
       "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow...",
@@ -1442,17 +1497,6 @@
       "pubDate": "Mon, 30 Mar 2026 03:09:38 +0000",
       "category": "ai",
       "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Axios NPM Package Compromised in Precision Attack",
-      "link": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
-      "description": "The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 31 Mar 2026 20:55:13 GMT",
-      "category": "general",
-      "score": 69.5,
       "imageUrl": null
     },
     {
@@ -1489,7 +1533,7 @@
       "imageUrl": null
     },
     {
-      "title": "Tech giant Oracle makes 'significant' job cuts",
+      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
       "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
       "description": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
       "source": "BBC Technology",
@@ -1500,14 +1544,47 @@
       "imageUrl": null
     },
     {
-      "title": "Healthcare tech firm CareCloud says hackers stole patient data",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
-      "description": "Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
+      "title": "One of Apple’s First Employees Looks Back at 50 Years",
+      "link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
+      "description": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed a bit since then.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 01 Apr 2026 09:02:40 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "description": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 30 Mar 2026 17:44:31 -0400",
+      "pubDate": "Tue, 31 Mar 2026 08:04:15 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
+      "description": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [.....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Axios NPM Package Compromised in Precision Attack",
+      "link": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
+      "description": "The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 31 Mar 2026 20:55:13 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
@@ -1577,17 +1654,6 @@
       "imageUrl": null
     },
     {
-      "title": "Starcloud raises $170 million Series A to build data centers in space",
-      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "description": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 30 Mar 2026 11:00:00 +0000",
-      "category": "both",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust",
       "link": "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/",
       "description": "Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. \nThe post The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust appeared...",
@@ -1621,17 +1687,6 @@
       "imageUrl": null
     },
     {
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "description": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 01 Apr 2026 01:33:43 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
       "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
       "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
       "description": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
@@ -1643,23 +1698,23 @@
       "imageUrl": null
     },
     {
-      "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
-      "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
-      "description": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 31 Mar 2026 10:36:33 +0000",
-      "category": "general",
-      "score": 64.5,
+      "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
+      "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
+      "description": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.\nThe post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 31 Mar 2026 11:39:45 +0000",
+      "category": "fraud",
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
-      "description": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+      "title": "New Windows 11 emergency update fixes preview update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
+      "description": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 31 Mar 2026 18:28:02 -0400",
+      "pubDate": "Wed, 01 Apr 2026 01:33:43 -0400",
       "category": "general",
       "score": 62.6,
       "imageUrl": null
@@ -1687,14 +1742,14 @@
       "imageUrl": null
     },
     {
-      "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
-      "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
-      "description": "Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. \nThe post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encrypt...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 31 Mar 2026 11:51:43 +0000",
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "description": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 31 Mar 2026 18:28:02 -0400",
       "category": "general",
-      "score": 60,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1753,6 +1808,17 @@
       "imageUrl": null
     },
     {
+      "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
+      "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+      "description": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 31 Mar 2026 10:36:33 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
       "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
       "description": "The embrace of crypto by financial regulators under President Trump has entered a new, cozier phase.",
@@ -1761,6 +1827,17 @@
       "pubDate": "Mon, 30 Mar 2026 15:28:31 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "description": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 30 Mar 2026 11:00:00 +0000",
+      "category": "both",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1794,6 +1871,17 @@
       "pubDate": "Tue, 31 Mar 2026 03:52:15 -0400",
       "category": "general",
       "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
+      "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
+      "description": "Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. \nThe post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encrypt...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 31 Mar 2026 11:51:43 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
