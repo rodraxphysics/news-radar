@@ -1,33 +1,55 @@
 {
   "metadata": {
-    "generated": "2026-04-13T16:29:09.076Z",
+    "generated": "2026-04-13T20:21:37.529Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 44,
+    "totalArticles": 45,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 44 articles from 7 trusted sources, including 30 on Artificial Intelligence and 5 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI executive sends internal memo: ‘The market is as competitive as I have ever seen it’\n• **Companies in Focus**: Coverage includes developments from OpenAI, Anthropic, Microsoft\n• **Security Alert**: CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads\n• **Threat Landscape**: Today's coverage highlights malware\n• **Source Diversity**: Articles sourced from The Verge, SecurityWeek, TechCrunch, BBC Technology, NY Times Tech and others\n• **Fresh Content**: 22 articles published in the last 24 hours",
-    "generated": "2026-04-13T16:29:09.076Z",
+    "content": "Today's selection covers 45 articles from 7 trusted sources, including 28 on Artificial Intelligence and 8 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: AI influencers are ‘everywhere’ at Coachella\n• **Companies in Focus**: Coverage includes developments from OpenAI, Anthropic, Microsoft\n• **Security Alert**: CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, SecurityWeek, TechCrunch, BBC Technology and others\n• **Fresh Content**: 29 articles published in the last 24 hours",
+    "generated": "2026-04-13T20:21:37.529Z",
     "stats": {
-      "totalArticles": 44,
-      "aiArticles": 30,
-      "fraudArticles": 5,
+      "totalArticles": 45,
+      "aiArticles": 28,
+      "fraudArticles": 8,
       "sources": 7,
-      "todayCount": 22
+      "todayCount": 29
     }
   },
   "top": [
     {
-      "title": "OpenAI executive sends internal memo: ‘The market is as competitive as I have ever seen it’",
+      "title": "AI influencers are ‘everywhere’ at Coachella",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-13T19:53:46.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
       "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-13T16:21:08.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "description": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 13:39:10 -0400",
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
@@ -40,7 +62,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Apr 2026 12:34:06 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -63,28 +85,6 @@
       "pubDate": "Sun, 12 Apr 2026 21:14:38 +0000",
       "category": "ai",
       "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
-      "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
-      "description": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.\nThe post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 13 Apr 2026 10:52:57 +0000",
-      "category": "fraud",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
-      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
-      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
-      "category": "ai",
-      "score": 83.5,
       "imageUrl": null
     }
   ],
@@ -106,9 +106,20 @@
       "description": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Apr 2026 11:09:57 +0000",
+      "pubDate": "Mon, 13 Apr 2026 17:54:38 +0000",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+      "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+      "description": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.\nThe post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Apr 2026 10:52:57 +0000",
+      "category": "fraud",
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -145,20 +156,20 @@
       "imageUrl": null
     },
     {
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
+      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
+      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
       "category": "ai",
-      "score": 82,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
       "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copil...",
+      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-13T15:41:09.000Z",
@@ -167,20 +178,53 @@
       "imageUrl": null
     },
     {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T13:40:03.000Z",
-      "category": "ai",
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "description": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 16:08:10 -0400",
+      "category": "fraud",
       "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "description": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the firs...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New Booking.com data breach forces reservation PIN resets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+      "description": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 13:30:10 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
       "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
       "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+      "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
@@ -200,14 +244,14 @@
       "imageUrl": null
     },
     {
-      "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
-      "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
-      "description": "Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing\nThe post BrowserGate: C...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 13 Apr 2026 14:00:00 +0000",
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-13T13:40:03.000Z",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -219,6 +263,17 @@
       "pubDate": "2026-04-13T09:25:57.000Z",
       "category": "ai",
       "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
+      "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
+      "description": "Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing\nThe post BrowserGate: C...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Apr 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -277,13 +332,13 @@
       "imageUrl": null
     },
     {
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "description": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-10T20:16:57.000Z",
-      "category": "ai",
+      "title": "Critical flaw in wolfSSL library enables forged certificate use",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "description": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA)...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 15:56:03 -0400",
+      "category": "general",
       "score": 70.6,
       "imageUrl": null
     },
@@ -299,23 +354,23 @@
       "imageUrl": null
     },
     {
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
       "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
       "description": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 10 Apr 2026 20:27:52 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "description": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Apr 2026 16:41:34 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
@@ -328,7 +383,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Apr 2026 11:34:35 +0000",
       "category": "general",
-      "score": 70,
+      "score": 68,
       "imageUrl": null
     },
     {
@@ -339,7 +394,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 13 Apr 2026 07:01:00 +0000",
       "category": "general",
-      "score": 68,
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness",
+      "link": "https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness",
+      "description": "OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Apr 2026 19:10:55 GMT",
+      "category": "general",
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -354,17 +420,6 @@
       "imageUrl": null
     },
     {
-      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
-      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-      "description": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 10:05:15 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
       "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
       "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
       "description": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
@@ -376,14 +431,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Escalating Global A.I. Arms Race",
-      "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-      "description": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 12 Apr 2026 18:24:26 +0000",
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "description": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Apr 2026 19:05:19 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -398,6 +453,17 @@
       "imageUrl": null
     },
     {
+      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
+      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+      "description": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 10:05:15 -0400",
+      "category": "general",
+      "score": 62.6,
+      "imageUrl": null
+    },
+    {
       "title": "Over 20,000 crypto fraud victims identified in international crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
       "description": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United State...",
@@ -409,24 +475,13 @@
       "imageUrl": null
     },
     {
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "title": "The Escalating Global A.I. Arms Race",
+      "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
+      "description": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 12 Apr 2026 18:24:26 +0000",
       "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-      "description": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Apr 2026 20:02:30 GMT",
-      "category": "ai",
       "score": 56.5,
       "imageUrl": null
     },
@@ -453,69 +508,47 @@
       "imageUrl": null
     },
     {
-      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-      "description": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-10T17:30:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-      "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-      "description": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Apr 2026 16:38:43 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Your Next Breach Will Look Like Business as Usual",
-      "link": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
-      "description": "These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Apr 2026 19:21:55 GMT",
+      "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000",
       "category": "general",
-      "score": 47.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Have You Used A.I. Chatbots for Nutrition Advice?",
-      "link": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
-      "description": "Whether you’re looking to manage a health condition, lose weight or simply eat better, we want to hear from you.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Apr 2026 16:41:15 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Volkswagen to End E.V. Production at Tennessee Plant",
-      "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
-      "description": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Apr 2026 19:00:23 +0000",
-      "category": "general",
-      "score": 44.5,
+      "score": 52,
       "imageUrl": null
     }
   ],
   "all": [
     {
-      "title": "OpenAI executive sends internal memo: ‘The market is as competitive as I have ever seen it’",
+      "title": "AI influencers are ‘everywhere’ at Coachella",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-13T19:53:46.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
       "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-13T16:21:08.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "description": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 13:39:10 -0400",
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
@@ -528,7 +561,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Apr 2026 12:34:06 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -554,28 +587,6 @@
       "imageUrl": null
     },
     {
-      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
-      "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
-      "description": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.\nThe post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 13 Apr 2026 10:52:57 +0000",
-      "category": "fraud",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
-      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
-      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "GTA-maker Rockstar Games hacked again but downplays impact",
       "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
       "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
@@ -592,9 +603,20 @@
       "description": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Apr 2026 11:09:57 +0000",
+      "pubDate": "Mon, 13 Apr 2026 17:54:38 +0000",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+      "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+      "description": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.\nThe post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Apr 2026 10:52:57 +0000",
+      "category": "fraud",
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -631,20 +653,20 @@
       "imageUrl": null
     },
     {
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
+      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
+      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
       "category": "ai",
-      "score": 82,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
       "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copil...",
+      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-13T15:41:09.000Z",
@@ -653,20 +675,53 @@
       "imageUrl": null
     },
     {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T13:40:03.000Z",
-      "category": "ai",
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "description": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 16:08:10 -0400",
+      "category": "fraud",
       "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "description": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the firs...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New Booking.com data breach forces reservation PIN resets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+      "description": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 13:30:10 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
       "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
       "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+      "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
@@ -686,14 +741,14 @@
       "imageUrl": null
     },
     {
-      "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
-      "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
-      "description": "Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing\nThe post BrowserGate: C...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 13 Apr 2026 14:00:00 +0000",
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-13T13:40:03.000Z",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -705,6 +760,17 @@
       "pubDate": "2026-04-13T09:25:57.000Z",
       "category": "ai",
       "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
+      "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
+      "description": "Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing\nThe post BrowserGate: C...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Apr 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -763,13 +829,13 @@
       "imageUrl": null
     },
     {
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "description": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-10T20:16:57.000Z",
-      "category": "ai",
+      "title": "Critical flaw in wolfSSL library enables forged certificate use",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "description": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA)...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 15:56:03 -0400",
+      "category": "general",
       "score": 70.6,
       "imageUrl": null
     },
@@ -785,23 +851,23 @@
       "imageUrl": null
     },
     {
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
       "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
       "description": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 10 Apr 2026 20:27:52 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "description": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Apr 2026 16:41:34 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
@@ -814,7 +880,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Apr 2026 11:34:35 +0000",
       "category": "general",
-      "score": 70,
+      "score": 68,
       "imageUrl": null
     },
     {
@@ -825,7 +891,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 13 Apr 2026 07:01:00 +0000",
       "category": "general",
-      "score": 68,
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness",
+      "link": "https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness",
+      "description": "OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Apr 2026 19:10:55 GMT",
+      "category": "general",
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -840,17 +917,6 @@
       "imageUrl": null
     },
     {
-      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
-      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-      "description": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 10:05:15 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
       "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
       "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
       "description": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
@@ -862,14 +928,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Escalating Global A.I. Arms Race",
-      "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-      "description": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 12 Apr 2026 18:24:26 +0000",
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "description": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Apr 2026 19:05:19 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -884,6 +950,17 @@
       "imageUrl": null
     },
     {
+      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
+      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+      "description": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Apr 2026 10:05:15 -0400",
+      "category": "general",
+      "score": 62.6,
+      "imageUrl": null
+    },
+    {
       "title": "Over 20,000 crypto fraud victims identified in international crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
       "description": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United State...",
@@ -895,24 +972,13 @@
       "imageUrl": null
     },
     {
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "title": "The Escalating Global A.I. Arms Race",
+      "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
+      "description": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 12 Apr 2026 18:24:26 +0000",
       "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-      "description": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Apr 2026 20:02:30 GMT",
-      "category": "ai",
       "score": 56.5,
       "imageUrl": null
     },
@@ -939,58 +1005,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-      "description": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-10T17:30:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-      "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-      "description": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Apr 2026 16:38:43 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Your Next Breach Will Look Like Business as Usual",
-      "link": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
-      "description": "These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Apr 2026 19:21:55 GMT",
+      "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000",
       "category": "general",
-      "score": 47.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Have You Used A.I. Chatbots for Nutrition Advice?",
-      "link": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
-      "description": "Whether you’re looking to manage a health condition, lose weight or simply eat better, we want to hear from you.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Apr 2026 16:41:15 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Volkswagen to End E.V. Production at Tennessee Plant",
-      "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
-      "description": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Apr 2026 19:00:23 +0000",
-      "category": "general",
-      "score": 44.5,
+      "score": 52,
       "imageUrl": null
     }
   ]
