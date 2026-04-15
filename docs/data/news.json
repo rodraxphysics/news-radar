@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-04-15T08:36:19.479Z",
+    "generated": "2026-04-15T16:25:04.679Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 74,
+    "totalArticles": 89,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 74 articles from 8 trusted sources, including 40 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: McGraw-Hill confirms data breach following extortion threat\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, The Verge, BBC Technology, Dark Reading and others\n• **Fresh Content**: 41 articles published in the last 24 hours",
-    "generated": "2026-04-15T08:36:19.479Z",
+    "content": "Today's selection covers 89 articles from 8 trusted sources, including 59 on Artificial Intelligence and 7 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Exploited Vulnerability Exposes Nginx Servers to Hacking\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, The Verge, TechCrunch, BBC Technology and others\n• **Fresh Content**: 58 articles published in the last 24 hours",
+    "generated": "2026-04-15T16:25:04.679Z",
     "stats": {
-      "totalArticles": 74,
-      "aiArticles": 40,
-      "fraudArticles": 10,
+      "totalArticles": 89,
+      "aiArticles": 59,
+      "fraudArticles": 7,
       "sources": 8,
-      "todayCount": 41
+      "todayCount": 58
     }
   },
   "top": [
@@ -29,18 +29,29 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 15 Apr 2026 00:25:41 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Apr 2026 02:31:04 +0000",
+      "title": "‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks",
+      "link": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
+      "description": "Researchers warn that a flaw in Anthropic’s Model Context Protocol allows unsanitized commands to execute silently, enabling full system compromise across widely used AI environments.\nThe post ‘By Des...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:34:48 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Exploited Vulnerability Exposes Nginx Servers to Hacking",
+      "link": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
+      "description": "Hackers are exploiting CVE-2026-33032, a critical remote takeover vulnerability in the Nginx UI management tool. \nThe post Exploited Vulnerability Exposes Nginx Servers to Hacking appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 14:45:58 +0000",
+      "category": "fraud",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -66,16 +77,18 @@
       "imageUrl": null
     },
     {
-      "title": "Has Google’s AI watermarking system been reverse-engineered?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-14T13:53:53.000Z",
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 02:31:04 +0000",
       "category": "ai",
-      "score": 90.6,
+      "score": 90,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
       "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
@@ -86,9 +99,7 @@
       "category": "ai",
       "score": 90,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
       "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
@@ -96,17 +107,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 14 Apr 2026 17:00:00 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Apr 2026 14:48:34 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -134,6 +134,17 @@
       "imageUrl": null
     },
     {
+      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+      "description": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The compa...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-15T16:13:30.000Z",
+      "category": "ai",
+      "score": 85.6,
+      "imageUrl": null
+    },
+    {
       "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
       "link": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
       "description": "In a new report from the Cloud Security Alliance (CSA), experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos.",
@@ -142,6 +153,72 @@
       "pubDate": "Mon, 13 Apr 2026 21:29:31 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+      "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+      "description": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 15 Apr 2026 12:05:58 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
+      "link": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
+      "description": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 15 Apr 2026 15:15:13 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
+      "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+      "description": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 15:19:41 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
+      "link": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
+      "description": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 15:20:07 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "We Don’t Really Know How A.I. Works. That’s a Problem.",
+      "link": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
+      "description": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 15:27:27 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-14T13:53:53.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -167,25 +244,14 @@
       "imageUrl": null
     },
     {
-      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-      "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T16:21:08.000Z",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Apr 2026 14:48:34 +0000",
       "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "description": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 13:39:10 -0400",
-      "category": "ai",
-      "score": 82.6,
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -195,17 +261,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 14 Apr 2026 00:23:33 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
@@ -222,14 +277,102 @@
       "imageUrl": null
     },
     {
-      "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
-      "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
-      "description": "The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.\nThe post Nightclub Giant RCI Hospitality Reports Data Breach appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 09:35:06 +0000",
-      "category": "fraud",
-      "score": 81,
+      "title": "Google to punish sites that trap people in with back button tricks",
+      "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
+      "description": "The tech giant said it will punish sites that block back button navigation from June.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 15 Apr 2026 10:02:19 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Spice Up Your Cooking Skills With Help From Your Phone",
+      "link": "https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html",
+      "description": "Recipe apps and artificial intelligence can give you a boost, but free tools already on your device can also assist with meal planning and preparation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 09:04:06 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+      "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+      "description": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 09:00:48 +0000",
+      "category": "both",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How Older Adults Are Using VR to Counter Social Isolation",
+      "link": "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html",
+      "description": "New tools tailored for use in senior living communities allow for shared experiences and social bonding.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 09:00:11 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
+      "link": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+      "description": "Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Apr 2026 12:00:00 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+      "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
+      "description": "You don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\t\n\nAdobe is fully embracing AI tools that enable creators to edit their work using des...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-15T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "description": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-15T10:55:22.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "description": "Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 12:20:21 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "description": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 10:51:05 -0400",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -244,14 +387,146 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 14:24:31 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:06:54 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:01:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "This startup is betting tokenmaxxing will create the next compute giant",
+      "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Capsule Security Emerges From Stealth With $7 Million in Funding",
+      "link": "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/",
+      "description": "The Israeli startup aims to secure AI agents at runtime, continuously monitoring their behavior to prevent unsafe actions.\nThe post Capsule Security Emerges From Stealth With $7 Million in Funding app...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:56:50 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
+      "link": "https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/",
+      "description": "Published through five accounts, the extensions appear part of a coordinated campaign based on shared C&C infrastructure.\nThe post 100 Chrome Extensions Steal User Data, Create Backdoor appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:24:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
+      "link": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
+      "description": "Sophos’ Ross McKerchar discusses leadership at scale, retaining talent, defending against AI-enabled threats, and the industry’s growing trust problem.\nThe post CISO Conversations: Ross McKerchar, CIS...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Mirax RAT Targeting Android Users in Europe",
+      "link": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
+      "description": "Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes.\nThe post Mirax RAT Targeting Android Users in Europe appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 12:10:08 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
+      "link": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
+      "description": "The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions.\nThe post Two Vulnerabilities Patched in Ivanti Neur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 11:38:21 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
+      "link": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
+      "description": "Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems.\nThe post $10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 10:58:12 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
+      "link": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
+      "description": "Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails.\nThe post Trump Urges Extending Foreign Surveillance Prog...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 10:25:56 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Bets $10B to Boost Japan's AI, Cybersecurity",
       "link": "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity",
       "description": "The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships — the latest move by a hyperscaler to compete for sovereign AI and data centers.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Wed, 15 Apr 2026 00:00:08 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -262,7 +537,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Apr 2026 18:23:33 -0400",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -273,7 +548,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Apr 2026 17:58:31 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -299,28 +574,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
-      "description": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked o...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Apr 2026 11:53:50 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "5 Ways Zero Trust Maximizes Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-      "description": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Apr 2026 10:02:12 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
       "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
       "description": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura...",
@@ -329,94 +582,6 @@
       "pubDate": "Tue, 14 Apr 2026 17:13:03 +0000",
       "category": "ai",
       "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "description": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Apr 2026 15:30:49 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "description": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Apr 2026 14:22:44 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
-      "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
-      "description": "CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks.\nThe post ‘Mythos-R...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 12:53:55 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
-      "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
-      "description": "Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. \nThe post Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 12:43:30 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
-      "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
-      "description": "The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.\nThe post Triad Nexus Evades Sanctions to Fuel Cybercrime appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 10:53:32 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "description": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly di...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "general",
-      "score": 71.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
-      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
-      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
-      "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
-      "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 13 Apr 2026 15:10:38 GMT",
-      "category": "ai",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -431,14 +596,36 @@
       "imageUrl": null
     },
     {
-      "title": "The AI code wars are heating up",
-      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subsc...",
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-04-12T12:00:00.000Z",
+      "pubDate": "2026-04-13T16:21:08.000Z",
       "category": "ai",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Rolling Networks: Securing the Transportation Sector",
+      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+      "description": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emergin...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 10:00:10 -0400",
+      "category": "general",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
+      "category": "ai",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -453,102 +640,58 @@
       "imageUrl": null
     },
     {
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 12 Apr 2026 15:07:08 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
-      "description": "Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities.\nThe post ICS Patch Tuesday: 8 Industrial Giants Publish New Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 15 Apr 2026 07:14:08 +0000",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "description": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly di...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "general",
-      "score": 70,
+      "score": 69.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T15:41:09.000Z",
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "description": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked o...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Apr 2026 11:53:50 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T13:40:03.000Z",
+      "title": "5 Ways Zero Trust Maximizes Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "description": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Apr 2026 10:02:12 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "Sam Altman reportedly targeted in second attack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-      "description": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T09:25:57.000Z",
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "description": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Apr 2026 15:30:49 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-      "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-      "description": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 17:50:01 -0400",
-      "category": "both",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
-      "description": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 16:08:10 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "description": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the firs...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "description": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Apr 2026 14:22:44 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -563,58 +706,36 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
-      "description": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 14 Apr 2026 21:30:00 GMT",
+      "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now",
+      "link": "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management",
+      "description": "Quantum computers are coming and may impact systems in unexpected ways, and it will \"take years to be fully quantum-safe, if ever,\" cryptography expert warns.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Apr 2026 15:12:01 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 65.5,
       "imageUrl": null
     },
     {
-      "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
-      "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
-      "description": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count.\nThe post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 18:14:37 +0000",
+      "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
+      "link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
+      "description": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Apr 2026 14:38:53 GMT",
       "category": "general",
-      "score": 66,
+      "score": 65.5,
       "imageUrl": null
     },
     {
-      "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
-      "link": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
-      "description": "Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant.\nThe post Adobe Patches 55 Vulnerabilities Across 11 Products appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 16:48:03 +0000",
+      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+      "description": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 07:41:35 -0400",
       "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "SAP Patches Critical ABAP Vulnerability",
-      "link": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
-      "description": "The company has released 19 new security notes addressing flaws in over a dozen enterprise products.\nThe post SAP Patches Critical ABAP Vulnerability appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 11:21:12 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
-      "description": "The security defects allow attackers to escalate privileges and execute arbitrary code remotely.\nThe post Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 08:57:18 +0000",
-      "category": "general",
-      "score": 66,
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -629,12 +750,12 @@
       "imageUrl": null
     },
     {
-      "title": "Rolls-Royce launches new two-seater electric car",
-      "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
-      "description": "The company says it will create only 100 of its Project Nightingale in its Goodwood headquarters.",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
+      "description": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 14 Apr 2026 12:06:48 GMT",
+      "pubDate": "Tue, 14 Apr 2026 21:30:00 GMT",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -651,6 +772,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+      "description": "Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 2025. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 06:24:53 -0400",
+      "category": "general",
+      "score": 62.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
+      "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+      "description": "The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests.\nThe post Fortinet Patches Critical FortiSandbox Vulnerabilities appeared first on Secu...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 09:37:24 +0000",
+      "category": "general",
+      "score": 62,
+      "imageUrl": null
+    },
+    {
       "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
       "link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
       "description": "Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
@@ -658,7 +801,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 14 Apr 2026 21:22:07 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -668,17 +811,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 14 Apr 2026 20:20:34 GMT",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
-      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
-      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
-      "description": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Apr 2026 16:06:14 GMT",
       "category": "general",
       "score": 61.5,
       "imageUrl": null
@@ -717,17 +849,6 @@
       "imageUrl": null
     },
     {
-      "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
-      "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
-      "description": "The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.\nThe post Google Adds Rust DNS Parser to Pixel Phones for Better Security appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 10:21:33 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
       "link": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
       "description": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
@@ -739,14 +860,25 @@
       "imageUrl": null
     },
     {
-      "title": "Critical flaw in wolfSSL library enables forged certificate use",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-      "description": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA)...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 15:56:03 -0400",
-      "category": "general",
-      "score": 58.6,
+      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
+      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
+      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+      "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 13 Apr 2026 15:10:38 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -758,6 +890,39 @@
       "pubDate": "Mon, 13 Apr 2026 23:35:56 GMT",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rolls-Royce launches new two-seater electric car",
+      "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
+      "description": "The company says it will create only 100 of its Project Nightingale in its Goodwood headquarters.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 14 Apr 2026 12:06:48 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-13T15:41:09.000Z",
+      "category": "ai",
+      "score": 55.6,
+      "imageUrl": null
+    },
+    {
+      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
+      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
+      "description": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Apr 2026 16:06:14 GMT",
+      "category": "general",
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -778,17 +943,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Mon, 13 Apr 2026 19:10:55 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
-      "link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
-      "description": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 13 Apr 2026 15:08:12 GMT",
       "category": "general",
       "score": 53.5,
       "imageUrl": null
@@ -824,6 +978,17 @@
       "pubDate": "Sun, 12 Apr 2026 18:24:26 +0000",
       "category": "general",
       "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
+      "link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
+      "description": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Apr 2026 15:08:12 GMT",
+      "category": "general",
+      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -847,18 +1012,29 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 15 Apr 2026 00:25:41 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Apr 2026 02:31:04 +0000",
+      "title": "‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks",
+      "link": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
+      "description": "Researchers warn that a flaw in Anthropic’s Model Context Protocol allows unsanitized commands to execute silently, enabling full system compromise across widely used AI environments.\nThe post ‘By Des...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:34:48 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Exploited Vulnerability Exposes Nginx Servers to Hacking",
+      "link": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
+      "description": "Hackers are exploiting CVE-2026-33032, a critical remote takeover vulnerability in the Nginx UI management tool. \nThe post Exploited Vulnerability Exposes Nginx Servers to Hacking appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 14:45:58 +0000",
+      "category": "fraud",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -884,14 +1060,14 @@
       "imageUrl": null
     },
     {
-      "title": "Has Google’s AI watermarking system been reverse-engineered?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-14T13:53:53.000Z",
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 02:31:04 +0000",
       "category": "ai",
-      "score": 90.6,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -912,17 +1088,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 14 Apr 2026 17:00:00 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Apr 2026 14:48:34 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -950,6 +1115,17 @@
       "imageUrl": null
     },
     {
+      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+      "description": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The compa...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-15T16:13:30.000Z",
+      "category": "ai",
+      "score": 85.6,
+      "imageUrl": null
+    },
+    {
       "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
       "link": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
       "description": "In a new report from the Cloud Security Alliance (CSA), experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos.",
@@ -958,6 +1134,72 @@
       "pubDate": "Mon, 13 Apr 2026 21:29:31 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+      "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+      "description": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 15 Apr 2026 12:05:58 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
+      "link": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
+      "description": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 15 Apr 2026 15:15:13 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
+      "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+      "description": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 15:19:41 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
+      "link": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
+      "description": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 15:20:07 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "We Don’t Really Know How A.I. Works. That’s a Problem.",
+      "link": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
+      "description": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 15:27:27 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-14T13:53:53.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -983,25 +1225,14 @@
       "imageUrl": null
     },
     {
-      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-      "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T16:21:08.000Z",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Apr 2026 14:48:34 +0000",
       "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "description": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 13:39:10 -0400",
-      "category": "ai",
-      "score": 82.6,
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1011,17 +1242,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 14 Apr 2026 00:23:33 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
@@ -1038,14 +1258,102 @@
       "imageUrl": null
     },
     {
-      "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
-      "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
-      "description": "The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.\nThe post Nightclub Giant RCI Hospitality Reports Data Breach appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 09:35:06 +0000",
-      "category": "fraud",
-      "score": 81,
+      "title": "Google to punish sites that trap people in with back button tricks",
+      "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
+      "description": "The tech giant said it will punish sites that block back button navigation from June.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 15 Apr 2026 10:02:19 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Spice Up Your Cooking Skills With Help From Your Phone",
+      "link": "https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html",
+      "description": "Recipe apps and artificial intelligence can give you a boost, but free tools already on your device can also assist with meal planning and preparation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 09:04:06 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+      "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+      "description": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 09:00:48 +0000",
+      "category": "both",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How Older Adults Are Using VR to Counter Social Isolation",
+      "link": "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html",
+      "description": "New tools tailored for use in senior living communities allow for shared experiences and social bonding.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Apr 2026 09:00:11 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
+      "link": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+      "description": "Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Apr 2026 12:00:00 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+      "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
+      "description": "You don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\t\n\nAdobe is fully embracing AI tools that enable creators to edit their work using des...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-15T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "description": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-15T10:55:22.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "description": "Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 12:20:21 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "description": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 10:51:05 -0400",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -1060,14 +1368,146 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 14:24:31 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:06:54 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:01:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "This startup is betting tokenmaxxing will create the next compute giant",
+      "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Capsule Security Emerges From Stealth With $7 Million in Funding",
+      "link": "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/",
+      "description": "The Israeli startup aims to secure AI agents at runtime, continuously monitoring their behavior to prevent unsafe actions.\nThe post Capsule Security Emerges From Stealth With $7 Million in Funding app...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:56:50 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
+      "link": "https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/",
+      "description": "Published through five accounts, the extensions appear part of a coordinated campaign based on shared C&C infrastructure.\nThe post 100 Chrome Extensions Steal User Data, Create Backdoor appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:24:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
+      "link": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
+      "description": "Sophos’ Ross McKerchar discusses leadership at scale, retaining talent, defending against AI-enabled threats, and the industry’s growing trust problem.\nThe post CISO Conversations: Ross McKerchar, CIS...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Mirax RAT Targeting Android Users in Europe",
+      "link": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
+      "description": "Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes.\nThe post Mirax RAT Targeting Android Users in Europe appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 12:10:08 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
+      "link": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
+      "description": "The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions.\nThe post Two Vulnerabilities Patched in Ivanti Neur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 11:38:21 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
+      "link": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
+      "description": "Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems.\nThe post $10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 10:58:12 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
+      "link": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
+      "description": "Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails.\nThe post Trump Urges Extending Foreign Surveillance Prog...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 10:25:56 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Bets $10B to Boost Japan's AI, Cybersecurity",
       "link": "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity",
       "description": "The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships — the latest move by a hyperscaler to compete for sovereign AI and data centers.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Wed, 15 Apr 2026 00:00:08 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1078,7 +1518,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Apr 2026 18:23:33 -0400",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1089,7 +1529,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Apr 2026 17:58:31 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1115,28 +1555,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
-      "description": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked o...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Apr 2026 11:53:50 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "5 Ways Zero Trust Maximizes Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-      "description": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Apr 2026 10:02:12 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
       "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
       "description": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura...",
@@ -1145,94 +1563,6 @@
       "pubDate": "Tue, 14 Apr 2026 17:13:03 +0000",
       "category": "ai",
       "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "description": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Apr 2026 15:30:49 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "description": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Apr 2026 14:22:44 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
-      "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
-      "description": "CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks.\nThe post ‘Mythos-R...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 12:53:55 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
-      "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
-      "description": "Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. \nThe post Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 12:43:30 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
-      "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
-      "description": "The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.\nThe post Triad Nexus Evades Sanctions to Fuel Cybercrime appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 10:53:32 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "description": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly di...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "general",
-      "score": 71.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
-      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
-      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
-      "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
-      "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 13 Apr 2026 15:10:38 GMT",
-      "category": "ai",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -1247,14 +1577,36 @@
       "imageUrl": null
     },
     {
-      "title": "The AI code wars are heating up",
-      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subsc...",
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-04-12T12:00:00.000Z",
+      "pubDate": "2026-04-13T16:21:08.000Z",
       "category": "ai",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Rolling Networks: Securing the Transportation Sector",
+      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+      "description": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emergin...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 10:00:10 -0400",
+      "category": "general",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
+      "category": "ai",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -1269,102 +1621,58 @@
       "imageUrl": null
     },
     {
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 12 Apr 2026 15:07:08 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
-      "description": "Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities.\nThe post ICS Patch Tuesday: 8 Industrial Giants Publish New Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 15 Apr 2026 07:14:08 +0000",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "description": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly di...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "general",
-      "score": 70,
+      "score": 69.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T15:41:09.000Z",
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "description": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked o...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Apr 2026 11:53:50 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T13:40:03.000Z",
+      "title": "5 Ways Zero Trust Maximizes Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "description": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Apr 2026 10:02:12 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "Sam Altman reportedly targeted in second attack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-      "description": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-13T09:25:57.000Z",
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "description": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Apr 2026 15:30:49 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-      "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-      "description": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 17:50:01 -0400",
-      "category": "both",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
-      "description": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 16:08:10 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "description": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the firs...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "description": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Apr 2026 14:22:44 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1379,58 +1687,36 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
-      "description": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 14 Apr 2026 21:30:00 GMT",
+      "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now",
+      "link": "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management",
+      "description": "Quantum computers are coming and may impact systems in unexpected ways, and it will \"take years to be fully quantum-safe, if ever,\" cryptography expert warns.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Apr 2026 15:12:01 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 65.5,
       "imageUrl": null
     },
     {
-      "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
-      "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
-      "description": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count.\nThe post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 18:14:37 +0000",
+      "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
+      "link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
+      "description": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Apr 2026 14:38:53 GMT",
       "category": "general",
-      "score": 66,
+      "score": 65.5,
       "imageUrl": null
     },
     {
-      "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
-      "link": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
-      "description": "Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant.\nThe post Adobe Patches 55 Vulnerabilities Across 11 Products appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 16:48:03 +0000",
+      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+      "description": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 07:41:35 -0400",
       "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "SAP Patches Critical ABAP Vulnerability",
-      "link": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
-      "description": "The company has released 19 new security notes addressing flaws in over a dozen enterprise products.\nThe post SAP Patches Critical ABAP Vulnerability appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 11:21:12 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
-      "description": "The security defects allow attackers to escalate privileges and execute arbitrary code remotely.\nThe post Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 08:57:18 +0000",
-      "category": "general",
-      "score": 66,
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1445,12 +1731,12 @@
       "imageUrl": null
     },
     {
-      "title": "Rolls-Royce launches new two-seater electric car",
-      "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
-      "description": "The company says it will create only 100 of its Project Nightingale in its Goodwood headquarters.",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
+      "description": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 14 Apr 2026 12:06:48 GMT",
+      "pubDate": "Tue, 14 Apr 2026 21:30:00 GMT",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -1467,6 +1753,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+      "description": "Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 2025. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Apr 2026 06:24:53 -0400",
+      "category": "general",
+      "score": 62.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
+      "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+      "description": "The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests.\nThe post Fortinet Patches Critical FortiSandbox Vulnerabilities appeared first on Secu...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Apr 2026 09:37:24 +0000",
+      "category": "general",
+      "score": 62,
+      "imageUrl": null
+    },
+    {
       "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
       "link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
       "description": "Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
@@ -1474,7 +1782,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 14 Apr 2026 21:22:07 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1484,17 +1792,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 14 Apr 2026 20:20:34 GMT",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
-      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
-      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
-      "description": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Apr 2026 16:06:14 GMT",
       "category": "general",
       "score": 61.5,
       "imageUrl": null
@@ -1533,17 +1830,6 @@
       "imageUrl": null
     },
     {
-      "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
-      "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
-      "description": "The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.\nThe post Google Adds Rust DNS Parser to Pixel Phones for Better Security appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Apr 2026 10:21:33 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
       "link": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
       "description": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
@@ -1555,14 +1841,25 @@
       "imageUrl": null
     },
     {
-      "title": "Critical flaw in wolfSSL library enables forged certificate use",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-      "description": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA)...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 13 Apr 2026 15:56:03 -0400",
-      "category": "general",
-      "score": 58.6,
+      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
+      "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
+      "description": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+      "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 13 Apr 2026 15:10:38 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1574,6 +1871,39 @@
       "pubDate": "Mon, 13 Apr 2026 23:35:56 GMT",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rolls-Royce launches new two-seater electric car",
+      "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
+      "description": "The company says it will create only 100 of its Project Nightingale in its Goodwood headquarters.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 14 Apr 2026 12:06:48 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-13T15:41:09.000Z",
+      "category": "ai",
+      "score": 55.6,
+      "imageUrl": null
+    },
+    {
+      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
+      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
+      "description": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Apr 2026 16:06:14 GMT",
+      "category": "general",
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -1594,17 +1924,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Mon, 13 Apr 2026 19:10:55 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
-      "link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
-      "description": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 13 Apr 2026 15:08:12 GMT",
       "category": "general",
       "score": 53.5,
       "imageUrl": null
@@ -1640,6 +1959,17 @@
       "pubDate": "Sun, 12 Apr 2026 18:24:26 +0000",
       "category": "general",
       "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
+      "link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
+      "description": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Apr 2026 15:08:12 GMT",
+      "category": "general",
+      "score": 41.5,
       "imageUrl": null
     },
     {
