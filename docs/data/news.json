@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-04-20T05:05:11.025Z",
+    "generated": "2026-04-20T12:28:05.043Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 62,
+    "totalArticles": 59,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 62 articles from 8 trusted sources, including 36 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up\n• **Companies in Focus**: Coverage includes developments from OpenAI, Anthropic, Microsoft\n• **Security Alert**: Apple account change alerts abused to send phishing emails\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, BleepingComputer, The Verge, BBC Technology and others\n• **Fresh Content**: 10 articles published in the last 24 hours",
-    "generated": "2026-04-20T05:05:11.025Z",
+    "content": "Today's selection covers 59 articles from 8 trusted sources, including 36 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up\n• **Companies in Focus**: Coverage includes developments from OpenAI, Anthropic, Microsoft\n• **Security Alert**: British Scattered Spider Hacker Pleads Guilty in the US\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, BleepingComputer, TechCrunch, BBC Technology and others\n• **Fresh Content**: 21 articles published in the last 24 hours",
+    "generated": "2026-04-20T12:28:05.043Z",
     "stats": {
-      "totalArticles": 62,
+      "totalArticles": 59,
       "aiArticles": 36,
-      "fraudArticles": 15,
+      "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 10
+      "todayCount": 21
     }
   },
   "top": [
@@ -29,18 +29,18 @@
       "domain": "nytimes.com",
       "pubDate": "Sun, 19 Apr 2026 18:00:42 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s existential questions",
-      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000",
-      "category": "ai",
-      "score": 92,
+      "title": "British Scattered Spider Hacker Pleads Guilty in the US",
+      "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
+      "description": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals.\nThe post British Scattered Spider Hacker Pleads Guilty in th...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 12:21:16 +0000",
+      "category": "fraud",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -55,6 +55,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "The 12-month window",
       "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
@@ -62,9 +73,22 @@
       "domain": "techcrunch.com",
       "pubDate": "Sun, 19 Apr 2026 19:30:00 +0000",
       "category": "ai",
-      "score": 89,
+      "score": 87,
       "imageUrl": null
     },
+    {
+      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
+      "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "description": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 12:03:16 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    }
+  ],
+  "more": [
     {
       "title": "AI chip startup Cerebras files for IPO",
       "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
@@ -86,9 +110,51 @@
       "category": "ai",
       "score": 82,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
+    {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers Abuse QEMU for Defense Evasion",
+      "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
+      "description": "The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools.\nThe post Hackers Abuse QEMU for Defense Evasion appeared first on SecurityWeek...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 11:35:29 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Next.js Creator Vercel Hacked",
+      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
+      "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
+      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
+      "description": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.\nThe post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
     {
       "title": "Cloud development platform Vercel was hacked",
       "link": "https://www.theverge.com/tech/914723/vercel-hacked",
@@ -97,7 +163,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-04-19T19:54:52.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -108,7 +174,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sun, 19 Apr 2026 13:32:45 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -156,17 +222,6 @@
       "imageUrl": null
     },
     {
-      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-      "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-      "description": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption.\nThe post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
-      "category": "fraud",
-      "score": 73,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI’s former Sora boss is leaving",
       "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
       "description": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as...",
@@ -196,17 +251,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-04-17T20:14:21.000Z",
       "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-      "description": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and reco...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 08:20:28 -0400",
-      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -299,6 +343,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft tests Windows Explorer speed, performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "description": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
       "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
       "description": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
@@ -306,7 +372,40 @@
       "domain": "nytimes.com",
       "pubDate": "Sun, 19 Apr 2026 20:32:16 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
+      "link": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
+      "description": "A pro-Iran hacker group has taken credit for the attack on Bluesky, which appears to have lasted 24 hours. \nThe post Bluesky Disrupted by Sophisticated DDoS Attack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 11:06:59 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
+      "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
+      "description": "The Senate approved a short-term renewal until April 30 of a controversial surveillance program used by U.S. spy agencies.\nThe post Senate Extends Surveillance Powers Until April 30 After Chaotic Vote...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 10:32:13 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
+      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
+      "description": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.\nThe post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -329,6 +428,17 @@
       "pubDate": "Fri, 17 Apr 2026 10:01:11 -0400",
       "category": "fraud",
       "score": 61.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
+      "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
+      "description": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption.\nThe post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
+      "category": "fraud",
+      "score": 61,
       "imageUrl": null
     },
     {
@@ -384,17 +494,6 @@
       "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
-      "link": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
-      "description": "Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 12:00:00 +0000",
-      "category": "fraud",
-      "score": 58,
       "imageUrl": null
     },
     {
@@ -475,28 +574,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "description": "Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 03:59:47 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Recently leaked Windows zero-days now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "description": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 02:14:52 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
       "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
@@ -530,50 +607,6 @@
       "imageUrl": null
     },
     {
-      "title": "Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed",
-      "link": "https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/",
-      "description": "Thursday’s discussion comes as leaders on Capitol Hill grapple with the dizzying pace of global developments in which technology plays a central role.\nThe post Lawmakers Gathered Quietly to Talk About...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 10:15:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
-      "link": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
-      "description": "Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies.\nThe post Two North Korean IT Worker Scheme Facilitators Jailed in the US appear...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 09:21:02 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "ZionSiphon Malware Targets ICS in Water Facilities",
-      "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
-      "description": "The malware is configured to operate on systems associated with Israeli water treatment and desalination plants.\nThe post ZionSiphon Malware Targets ICS in Water Facilities appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 08:30:00 +0000",
-      "category": "fraud",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Cursor AI Vulnerability Exposed Developer Devices",
-      "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
-      "description": "An indirect prompt injection could be chained with a sandbox bypass and Cursor’s remote tunnel feature for shell access to machines.\nThe post Cursor AI Vulnerability Exposed Developer Devices appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 07:29:16 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft Teams right-click paste broken by Edge update bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
       "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
@@ -581,17 +614,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400",
       "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "description": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 05:30:15 -0400",
-      "category": "fraud",
       "score": 52.6,
       "imageUrl": null
     },
@@ -607,17 +629,6 @@
       "imageUrl": null
     },
     {
-      "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
-      "link": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
-      "description": "The remote code execution vulnerability tracked as CVE-2026-34197 came to light in early April.\nThe post Recent Apache ActiveMQ Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 09:50:22 +0000",
-      "category": "fraud",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
       "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
       "description": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
@@ -626,28 +637,6 @@
       "pubDate": "Fri, 17 Apr 2026 13:00:00 GMT",
       "category": "general",
       "score": 47.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
-      "link": "https://www.nytimes.com/2026/04/17/podcasts/hardfork-ai-backlash.html",
-      "description": "Is anti-A.I. radicalization a growing trend?",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 17 Apr 2026 11:00:03 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-      "description": "Here's which players are winning the race to transition to post-quantum crypto.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 17 Apr 2026 11:00:50 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -673,34 +662,12 @@
       "imageUrl": null
     },
     {
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "description": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 03:10:32 -0400",
-      "category": "general",
-      "score": 40.6,
-      "imageUrl": null
-    },
-    {
       "title": "‘Tokenmaxxing’ is making developers less productive than they think",
       "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
       "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Another DraftKings Hacker Sentenced to Prison",
-      "link": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
-      "description": "Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack. \nThe post Another DraftKings Hacker Sentenced to Prison appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 10:45:13 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
@@ -715,18 +682,18 @@
       "domain": "nytimes.com",
       "pubDate": "Sun, 19 Apr 2026 18:00:42 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s existential questions",
-      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000",
-      "category": "ai",
-      "score": 92,
+      "title": "British Scattered Spider Hacker Pleads Guilty in the US",
+      "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
+      "description": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals.\nThe post British Scattered Spider Hacker Pleads Guilty in th...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 12:21:16 +0000",
+      "category": "fraud",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -741,6 +708,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "The 12-month window",
       "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
@@ -748,7 +726,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Sun, 19 Apr 2026 19:30:00 +0000",
       "category": "ai",
-      "score": 89,
+      "score": 87,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
+      "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "description": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 12:03:16 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -774,6 +763,50 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers Abuse QEMU for Defense Evasion",
+      "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
+      "description": "The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools.\nThe post Hackers Abuse QEMU for Defense Evasion appeared first on SecurityWeek...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 11:35:29 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Next.js Creator Vercel Hacked",
+      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
+      "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
+      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
+      "description": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.\nThe post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Cloud development platform Vercel was hacked",
       "link": "https://www.theverge.com/tech/914723/vercel-hacked",
       "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b...",
@@ -781,7 +814,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-04-19T19:54:52.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -792,7 +825,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sun, 19 Apr 2026 13:32:45 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -840,17 +873,6 @@
       "imageUrl": null
     },
     {
-      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-      "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-      "description": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption.\nThe post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
-      "category": "fraud",
-      "score": 73,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI’s former Sora boss is leaving",
       "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
       "description": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as...",
@@ -880,17 +902,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-04-17T20:14:21.000Z",
       "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-      "description": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and reco...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 08:20:28 -0400",
-      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -983,6 +994,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft tests Windows Explorer speed, performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "description": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
       "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
       "description": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
@@ -990,7 +1023,40 @@
       "domain": "nytimes.com",
       "pubDate": "Sun, 19 Apr 2026 20:32:16 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
+      "link": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
+      "description": "A pro-Iran hacker group has taken credit for the attack on Bluesky, which appears to have lasted 24 hours. \nThe post Bluesky Disrupted by Sophisticated DDoS Attack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 11:06:59 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
+      "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
+      "description": "The Senate approved a short-term renewal until April 30 of a controversial surveillance program used by U.S. spy agencies.\nThe post Senate Extends Surveillance Powers Until April 30 After Chaotic Vote...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 10:32:13 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
+      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
+      "description": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.\nThe post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1013,6 +1079,17 @@
       "pubDate": "Fri, 17 Apr 2026 10:01:11 -0400",
       "category": "fraud",
       "score": 61.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
+      "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
+      "description": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption.\nThe post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
+      "category": "fraud",
+      "score": 61,
       "imageUrl": null
     },
     {
@@ -1068,17 +1145,6 @@
       "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
-      "link": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
-      "description": "Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 12:00:00 +0000",
-      "category": "fraud",
-      "score": 58,
       "imageUrl": null
     },
     {
@@ -1159,28 +1225,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "description": "Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 03:59:47 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Recently leaked Windows zero-days now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "description": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 02:14:52 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
       "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
@@ -1214,50 +1258,6 @@
       "imageUrl": null
     },
     {
-      "title": "Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed",
-      "link": "https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/",
-      "description": "Thursday’s discussion comes as leaders on Capitol Hill grapple with the dizzying pace of global developments in which technology plays a central role.\nThe post Lawmakers Gathered Quietly to Talk About...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 10:15:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
-      "link": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
-      "description": "Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies.\nThe post Two North Korean IT Worker Scheme Facilitators Jailed in the US appear...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 09:21:02 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "ZionSiphon Malware Targets ICS in Water Facilities",
-      "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
-      "description": "The malware is configured to operate on systems associated with Israeli water treatment and desalination plants.\nThe post ZionSiphon Malware Targets ICS in Water Facilities appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 08:30:00 +0000",
-      "category": "fraud",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Cursor AI Vulnerability Exposed Developer Devices",
-      "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
-      "description": "An indirect prompt injection could be chained with a sandbox bypass and Cursor’s remote tunnel feature for shell access to machines.\nThe post Cursor AI Vulnerability Exposed Developer Devices appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 07:29:16 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft Teams right-click paste broken by Edge update bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
       "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
@@ -1265,17 +1265,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400",
       "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "description": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 05:30:15 -0400",
-      "category": "fraud",
       "score": 52.6,
       "imageUrl": null
     },
@@ -1291,17 +1280,6 @@
       "imageUrl": null
     },
     {
-      "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
-      "link": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
-      "description": "The remote code execution vulnerability tracked as CVE-2026-34197 came to light in early April.\nThe post Recent Apache ActiveMQ Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 09:50:22 +0000",
-      "category": "fraud",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
       "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
       "description": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
@@ -1310,28 +1288,6 @@
       "pubDate": "Fri, 17 Apr 2026 13:00:00 GMT",
       "category": "general",
       "score": 47.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
-      "link": "https://www.nytimes.com/2026/04/17/podcasts/hardfork-ai-backlash.html",
-      "description": "Is anti-A.I. radicalization a growing trend?",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 17 Apr 2026 11:00:03 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-      "description": "Here's which players are winning the race to transition to post-quantum crypto.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 17 Apr 2026 11:00:50 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -1357,34 +1313,12 @@
       "imageUrl": null
     },
     {
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "description": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 03:10:32 -0400",
-      "category": "general",
-      "score": 40.6,
-      "imageUrl": null
-    },
-    {
       "title": "‘Tokenmaxxing’ is making developers less productive than they think",
       "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
       "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Another DraftKings Hacker Sentenced to Prison",
-      "link": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
-      "description": "Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack. \nThe post Another DraftKings Hacker Sentenced to Prison appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 10:45:13 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
