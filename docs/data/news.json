@@ -1,26 +1,48 @@
 {
   "metadata": {
-    "generated": "2026-04-20T12:28:05.043Z",
+    "generated": "2026-04-20T16:28:20.884Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 59,
+    "totalArticles": 54,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 59 articles from 8 trusted sources, including 36 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up\n• **Companies in Focus**: Coverage includes developments from OpenAI, Anthropic, Microsoft\n• **Security Alert**: British Scattered Spider Hacker Pleads Guilty in the US\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, BleepingComputer, TechCrunch, BBC Technology and others\n• **Fresh Content**: 21 articles published in the last 24 hours",
-    "generated": "2026-04-20T12:28:05.043Z",
+    "content": "Today's selection covers 54 articles from 8 trusted sources, including 30 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: WhatsApp Leaks User Metadata to Attackers\n• **Companies in Focus**: Coverage includes developments from OpenAI, Anthropic, Microsoft\n• **Security Alert**: British Scattered Spider hacker pleads guilty to crypto theft charges\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from Dark Reading, BleepingComputer, NY Times Tech, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 25 articles published in the last 24 hours",
+    "generated": "2026-04-20T16:28:20.884Z",
     "stats": {
-      "totalArticles": 59,
-      "aiArticles": 36,
+      "totalArticles": 54,
+      "aiArticles": 30,
       "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 21
+      "todayCount": 25
     }
   },
   "top": [
+    {
+      "title": "WhatsApp Leaks User Metadata to Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+      "description": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 14:33:35 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "description": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 09:33:42 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
       "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
@@ -30,6 +52,17 @@
       "pubDate": "Sun, 19 Apr 2026 18:00:42 +0000",
       "category": "ai",
       "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Apr 2026 16:06:21 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -44,17 +77,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple account change alerts abused to send phishing emails",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "description": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 19 Apr 2026 12:03:01 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI’s existential questions",
       "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
       "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
@@ -64,7 +86,9 @@
       "category": "ai",
       "score": 90,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "The 12-month window",
       "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
@@ -77,18 +101,16 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
-      "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-      "description": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 12:03:16 GMT",
-      "category": "ai",
-      "score": 83.5,
+      "title": "Apple account change alerts abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "description": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 19 Apr 2026 12:03:01 -0400",
+      "category": "fraud",
+      "score": 82.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "AI chip startup Cerebras files for IPO",
       "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
@@ -101,25 +123,36 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "The backup myth that is putting businesses at risk",
+      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
+      "description": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 10:01:11 -0400",
+      "category": "fraud",
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft pulls service update causing Teams launch failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Apr 2026 15:30:19 +0000",
       "category": "ai",
-      "score": 79.6,
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
+      "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
+      "description": "Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios.\nThe post Serial-to-IP Converter Flaws Expose OT and Healthcare Syste...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 15:42:22 +0000",
+      "category": "fraud",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -134,6 +167,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Next.js Creator Vercel Hacked",
       "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
       "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
@@ -141,7 +185,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -152,7 +196,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -178,34 +222,12 @@
       "imageUrl": null
     },
     {
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 19 Apr 2026 16:01:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
       "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
       "description": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 18 Apr 2026 00:37:06 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "What is Claude Mythos and what risks does it pose?",
-      "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
-      "description": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 17 Apr 2026 13:41:01 GMT",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -255,45 +277,34 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+      "description": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 11:11:24 -0400",
+      "category": "general",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
       "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 17 Apr 2026 20:38:17 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Apr 2026 15:57:40 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Apr 2026 13:00:00 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
@@ -310,6 +321,17 @@
       "imageUrl": null
     },
     {
+      "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
+      "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 15:44:44 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "The RAM shortage could last years",
       "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
       "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou...",
@@ -321,23 +343,12 @@
       "imageUrl": null
     },
     {
-      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-      "description": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Apr 2026 09:45:54 -0400",
-      "category": "both",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The App Store is booming again, and AI may be why",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "pubDate": "Sun, 19 Apr 2026 16:01:00 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -349,17 +360,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
       "category": "general",
       "score": 64.6,
       "imageUrl": null
@@ -398,14 +398,14 @@
       "imageUrl": null
     },
     {
-      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
-      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
-      "description": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.\nThe post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared fi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
       "category": "general",
-      "score": 64,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -420,14 +420,14 @@
       "imageUrl": null
     },
     {
-      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
-      "description": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 10:01:11 -0400",
-      "category": "fraud",
-      "score": 61.6,
+      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
+      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
+      "description": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.\nThe post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "category": "general",
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -439,17 +439,6 @@
       "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
       "category": "fraud",
       "score": 61,
-      "imageUrl": null
-    },
-    {
-      "title": "NIST to stop rating non-priority flaws due to volume increase",
-      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "description": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 19 Apr 2026 10:17:43 -0400",
-      "category": "general",
-      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -475,57 +464,13 @@
       "imageUrl": null
     },
     {
-      "title": "How Do You Measure an A.I. Boom?",
-      "link": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
-      "description": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 17 Apr 2026 16:00:43 +0000",
-      "category": "fraud",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "description": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400",
-      "category": "general",
-      "score": 58.6,
-      "imageUrl": null
-    },
-    {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
       "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-      "description": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "description": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Fri, 17 Apr 2026 21:28:35 +0000",
       "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Every Old Vulnerability Is Now an AI Vulnerability",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
-      "description": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 17 Apr 2026 14:47:18 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
-      "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-      "description": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 18 Apr 2026 13:16:22 +0000",
-      "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
@@ -541,24 +486,13 @@
       "imageUrl": null
     },
     {
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-17T15:46:37.000Z",
+      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
+      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
+      "description": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 18 Apr 2026 09:45:54 -0400",
       "category": "both",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The ‘AI is inevitable’ trap",
-      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "description": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-17T13:24:34.000Z",
-      "category": "ai",
       "score": 55.6,
       "imageUrl": null
     },
@@ -571,6 +505,17 @@
       "pubDate": "Fri, 17 Apr 2026 15:10:19 -0400",
       "category": "fraud",
       "score": 55.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The App Store is booming again, and AI may be why",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -596,23 +541,12 @@
       "imageUrl": null
     },
     {
-      "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
-      "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
-      "description": "CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows.\nThe post CoChat Launches AI Collaboration Platform to Comb...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Teams right-click paste broken by Edge update bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-      "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "description": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400",
+      "pubDate": "Sun, 19 Apr 2026 10:17:43 -0400",
       "category": "general",
       "score": 52.6,
       "imageUrl": null
@@ -629,14 +563,25 @@
       "imageUrl": null
     },
     {
-      "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
-      "description": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 17 Apr 2026 13:00:00 GMT",
+      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "description": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400",
       "category": "general",
-      "score": 47.5,
+      "score": 46.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
+      "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
+      "description": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 18 Apr 2026 13:16:22 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -651,12 +596,12 @@
       "imageUrl": null
     },
     {
-      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
-      "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-      "description": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
+      "title": "Microsoft Teams right-click paste broken by Edge update bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
+      "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 11:08:53 -0400",
+      "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400",
       "category": "general",
       "score": 40.6,
       "imageUrl": null
@@ -675,6 +620,28 @@
   ],
   "all": [
     {
+      "title": "WhatsApp Leaks User Metadata to Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+      "description": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 14:33:35 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "description": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 09:33:42 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
       "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
       "description": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
@@ -686,6 +653,17 @@
       "imageUrl": null
     },
     {
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Apr 2026 16:06:21 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "British Scattered Spider Hacker Pleads Guilty in the US",
       "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
       "description": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals.\nThe post British Scattered Spider Hacker Pleads Guilty in th...",
@@ -694,17 +672,6 @@
       "pubDate": "Mon, 20 Apr 2026 12:21:16 +0000",
       "category": "fraud",
       "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple account change alerts abused to send phishing emails",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "description": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 19 Apr 2026 12:03:01 -0400",
-      "category": "fraud",
-      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -730,14 +697,14 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
-      "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-      "description": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 12:03:16 GMT",
-      "category": "ai",
-      "score": 83.5,
+      "title": "Apple account change alerts abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "description": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 19 Apr 2026 12:03:01 -0400",
+      "category": "fraud",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -752,25 +719,36 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "The backup myth that is putting businesses at risk",
+      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
+      "description": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 10:01:11 -0400",
+      "category": "fraud",
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft pulls service update causing Teams launch failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Apr 2026 15:30:19 +0000",
       "category": "ai",
-      "score": 79.6,
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
+      "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
+      "description": "Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios.\nThe post Serial-to-IP Converter Flaws Expose OT and Healthcare Syste...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 15:42:22 +0000",
+      "category": "fraud",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -785,6 +763,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Next.js Creator Vercel Hacked",
       "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
       "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
@@ -792,7 +781,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -803,7 +792,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -829,34 +818,12 @@
       "imageUrl": null
     },
     {
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 19 Apr 2026 16:01:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
       "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
       "description": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 18 Apr 2026 00:37:06 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "What is Claude Mythos and what risks does it pose?",
-      "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
-      "description": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 17 Apr 2026 13:41:01 GMT",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -906,45 +873,34 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+      "description": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 11:11:24 -0400",
+      "category": "general",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
       "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 17 Apr 2026 20:38:17 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Apr 2026 15:57:40 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Apr 2026 13:00:00 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
@@ -961,6 +917,17 @@
       "imageUrl": null
     },
     {
+      "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
+      "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 15:44:44 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "The RAM shortage could last years",
       "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
       "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou...",
@@ -972,23 +939,12 @@
       "imageUrl": null
     },
     {
-      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-      "description": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Apr 2026 09:45:54 -0400",
-      "category": "both",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The App Store is booming again, and AI may be why",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "pubDate": "Sun, 19 Apr 2026 16:01:00 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -1000,17 +956,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
       "category": "general",
       "score": 64.6,
       "imageUrl": null
@@ -1049,14 +994,14 @@
       "imageUrl": null
     },
     {
-      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
-      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
-      "description": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.\nThe post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared fi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
       "category": "general",
-      "score": 64,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1071,14 +1016,14 @@
       "imageUrl": null
     },
     {
-      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
-      "description": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 10:01:11 -0400",
-      "category": "fraud",
-      "score": 61.6,
+      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
+      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
+      "description": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.\nThe post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "category": "general",
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1090,17 +1035,6 @@
       "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
       "category": "fraud",
       "score": 61,
-      "imageUrl": null
-    },
-    {
-      "title": "NIST to stop rating non-priority flaws due to volume increase",
-      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "description": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 19 Apr 2026 10:17:43 -0400",
-      "category": "general",
-      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1126,57 +1060,13 @@
       "imageUrl": null
     },
     {
-      "title": "How Do You Measure an A.I. Boom?",
-      "link": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
-      "description": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 17 Apr 2026 16:00:43 +0000",
-      "category": "fraud",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "description": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400",
-      "category": "general",
-      "score": 58.6,
-      "imageUrl": null
-    },
-    {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
       "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-      "description": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "description": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Fri, 17 Apr 2026 21:28:35 +0000",
       "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Every Old Vulnerability Is Now an AI Vulnerability",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
-      "description": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 17 Apr 2026 14:47:18 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
-      "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-      "description": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 18 Apr 2026 13:16:22 +0000",
-      "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
@@ -1192,24 +1082,13 @@
       "imageUrl": null
     },
     {
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-17T15:46:37.000Z",
+      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
+      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
+      "description": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 18 Apr 2026 09:45:54 -0400",
       "category": "both",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The ‘AI is inevitable’ trap",
-      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "description": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-17T13:24:34.000Z",
-      "category": "ai",
       "score": 55.6,
       "imageUrl": null
     },
@@ -1222,6 +1101,17 @@
       "pubDate": "Fri, 17 Apr 2026 15:10:19 -0400",
       "category": "fraud",
       "score": 55.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The App Store is booming again, and AI may be why",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1247,23 +1137,12 @@
       "imageUrl": null
     },
     {
-      "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
-      "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
-      "description": "CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows.\nThe post CoChat Launches AI Collaboration Platform to Comb...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Teams right-click paste broken by Edge update bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-      "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "description": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400",
+      "pubDate": "Sun, 19 Apr 2026 10:17:43 -0400",
       "category": "general",
       "score": 52.6,
       "imageUrl": null
@@ -1280,14 +1159,25 @@
       "imageUrl": null
     },
     {
-      "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
-      "description": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 17 Apr 2026 13:00:00 GMT",
+      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "description": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400",
       "category": "general",
-      "score": 47.5,
+      "score": 46.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
+      "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
+      "description": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 18 Apr 2026 13:16:22 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1302,12 +1192,12 @@
       "imageUrl": null
     },
     {
-      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
-      "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-      "description": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
+      "title": "Microsoft Teams right-click paste broken by Edge update bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
+      "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Apr 2026 11:08:53 -0400",
+      "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400",
       "category": "general",
       "score": 40.6,
       "imageUrl": null
