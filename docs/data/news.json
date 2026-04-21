@@ -1,22 +1,22 @@
 {
   "metadata": {
-    "generated": "2026-04-21T05:00:52.163Z",
+    "generated": "2026-04-21T08:39:26.133Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 52,
-    "sources": 6,
+    "totalArticles": 55,
+    "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 52 articles from 6 trusted sources, including 27 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: The Gentlemen ransomware now uses SystemBC for bot-powered attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from TechCrunch, The Verge, BleepingComputer, SecurityWeek, NY Times Tech and others\n• **Fresh Content**: 34 articles published in the last 24 hours",
-    "generated": "2026-04-21T05:00:52.163Z",
+    "content": "Today's selection covers 55 articles from 7 trusted sources, including 29 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: The Gentlemen ransomware now uses SystemBC for bot-powered attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from TechCrunch, Dark Reading, The Verge, BleepingComputer, SecurityWeek and others\n• **Fresh Content**: 34 articles published in the last 24 hours",
+    "generated": "2026-04-21T08:39:26.133Z",
     "stats": {
-      "totalArticles": 52,
-      "aiArticles": 27,
-      "fraudArticles": 10,
-      "sources": 6,
+      "totalArticles": 55,
+      "aiArticles": 29,
+      "fraudArticles": 11,
+      "sources": 7,
       "todayCount": 34
     }
   },
@@ -29,7 +29,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 20 Apr 2026 23:10:27 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "WhatsApp Leaks User Metadata to Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+      "description": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 14:33:35 GMT",
+      "category": "ai",
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -40,7 +51,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-04-20T20:30:00.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -51,7 +62,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 16:02:37 -0400",
       "category": "fraud",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -75,7 +86,9 @@
       "category": "ai",
       "score": 90,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "British Scattered Spider Hacker Pleads Guilty in the US",
       "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
@@ -86,9 +99,7 @@
       "category": "fraud",
       "score": 90,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
       "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
@@ -101,13 +112,13 @@
       "imageUrl": null
     },
     {
-      "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
-      "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
-      "description": "Anthropic also committed to spending $100 billion on Amazon technologies that can help build and deploy A.I. systems.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 21 Apr 2026 01:11:04 +0000",
-      "category": "ai",
+      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
+      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+      "description": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 21 Apr 2026 05:57:56 GMT",
+      "category": "both",
       "score": 83.5,
       "imageUrl": null
     },
@@ -134,23 +145,12 @@
       "imageUrl": null
     },
     {
-      "title": "Apple names new chief executive to replace Tim Cook",
-      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-      "description": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 22:55:39 GMT",
-      "category": "both",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Blue Origin rocket grounded after satellite 'mishap'",
-      "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-      "description": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 19:56:11 GMT",
+      "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
+      "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+      "description": "Anthropic also committed to spending $100 billion on Amazon technologies that can help build and deploy A.I. systems.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 21 Apr 2026 01:11:04 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -167,6 +167,17 @@
       "imageUrl": null
     },
     {
+      "title": "Blue Origin rocket grounded after satellite 'mishap'",
+      "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
+      "description": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 19:56:11 GMT",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "The 12-month window",
       "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
@@ -178,23 +189,23 @@
       "imageUrl": null
     },
     {
+      "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+      "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+      "description": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher noted.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 21:01:31 GMT",
+      "category": "both",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
       "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
       "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
       "description": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency asse...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 17:52:54 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Seiko USA website defaced as hacker claims customer data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-      "description": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 14:22:31 -0400",
       "category": "ai",
       "score": 77.6,
       "imageUrl": null
@@ -211,23 +222,23 @@
       "imageUrl": null
     },
     {
-      "title": "It’s not just one thing — it’s another thing",
-      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Apr 2026 19:37:07 +0000",
-      "category": "both",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
       "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
       "link": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
       "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-20T16:58:39.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Seiko USA website defaced as hacker claims customer data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
+      "description": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 14:22:31 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -252,6 +263,17 @@
       "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
       "category": "ai",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "It’s not just one thing — it’s another thing",
+      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Apr 2026 19:37:07 +0000",
+      "category": "both",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -288,28 +310,6 @@
       "imageUrl": null
     },
     {
-      "title": "Next.js Creator Vercel Hacked",
-      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
-      "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
-      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
-      "description": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.\nThe post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "AI chip startup Cerebras files for IPO",
       "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
@@ -329,17 +329,6 @@
       "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
       "category": "ai",
       "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "The 'dumb machine' promising a clean energy breakthrough",
-      "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
-      "description": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 23:09:41 GMT",
-      "category": "general",
-      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -376,6 +365,28 @@
       "imageUrl": null
     },
     {
+      "title": "Next.js Creator Vercel Hacked",
+      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
+      "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
+      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
+      "description": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.\nThe post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
       "description": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
@@ -384,6 +395,17 @@
       "pubDate": "Mon, 20 Apr 2026 11:11:24 -0400",
       "category": "general",
       "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The 'dumb machine' promising a clean energy breakthrough",
+      "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+      "description": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 23:09:41 GMT",
+      "category": "general",
+      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -409,17 +431,6 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
-      "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
-      "description": "Prosecutors investigating his social media company, X, had summoned him for a meeting. His no-show reflected a broader dispute over regulation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Apr 2026 18:54:59 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
       "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
       "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
       "description": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
@@ -428,6 +439,28 @@
       "pubDate": "Mon, 20 Apr 2026 15:44:44 GMT",
       "category": "general",
       "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
+      "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+      "description": "Prosecutors investigating his social media company, X, had summoned him for a meeting. His no-show reflected a broader dispute over regulation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Apr 2026 18:54:59 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+      "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+      "description": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 21:00:00 GMT",
+      "category": "general",
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -459,17 +492,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
       "category": "general",
       "score": 60.6,
       "imageUrl": null
@@ -538,6 +560,17 @@
       "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
       "category": "ai",
       "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "category": "general",
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -605,7 +638,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 20 Apr 2026 23:10:27 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "WhatsApp Leaks User Metadata to Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+      "description": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 14:33:35 GMT",
+      "category": "ai",
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -616,7 +660,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-04-20T20:30:00.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -627,7 +671,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 16:02:37 -0400",
       "category": "fraud",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -675,13 +719,13 @@
       "imageUrl": null
     },
     {
-      "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
-      "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
-      "description": "Anthropic also committed to spending $100 billion on Amazon technologies that can help build and deploy A.I. systems.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 21 Apr 2026 01:11:04 +0000",
-      "category": "ai",
+      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
+      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+      "description": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 21 Apr 2026 05:57:56 GMT",
+      "category": "both",
       "score": 83.5,
       "imageUrl": null
     },
@@ -708,23 +752,12 @@
       "imageUrl": null
     },
     {
-      "title": "Apple names new chief executive to replace Tim Cook",
-      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-      "description": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 22:55:39 GMT",
-      "category": "both",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Blue Origin rocket grounded after satellite 'mishap'",
-      "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-      "description": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 19:56:11 GMT",
+      "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
+      "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+      "description": "Anthropic also committed to spending $100 billion on Amazon technologies that can help build and deploy A.I. systems.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 21 Apr 2026 01:11:04 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -741,6 +774,17 @@
       "imageUrl": null
     },
     {
+      "title": "Blue Origin rocket grounded after satellite 'mishap'",
+      "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
+      "description": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 19:56:11 GMT",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "The 12-month window",
       "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
@@ -752,23 +796,23 @@
       "imageUrl": null
     },
     {
+      "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+      "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+      "description": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher noted.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 21:01:31 GMT",
+      "category": "both",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
       "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
       "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
       "description": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency asse...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 17:52:54 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Seiko USA website defaced as hacker claims customer data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-      "description": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 14:22:31 -0400",
       "category": "ai",
       "score": 77.6,
       "imageUrl": null
@@ -785,23 +829,23 @@
       "imageUrl": null
     },
     {
-      "title": "It’s not just one thing — it’s another thing",
-      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Apr 2026 19:37:07 +0000",
-      "category": "both",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
       "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
       "link": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
       "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-20T16:58:39.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Seiko USA website defaced as hacker claims customer data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
+      "description": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 14:22:31 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -826,6 +870,17 @@
       "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400",
       "category": "ai",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "It’s not just one thing — it’s another thing",
+      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Apr 2026 19:37:07 +0000",
+      "category": "both",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -862,28 +917,6 @@
       "imageUrl": null
     },
     {
-      "title": "Next.js Creator Vercel Hacked",
-      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
-      "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
-      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
-      "description": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.\nThe post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "AI chip startup Cerebras files for IPO",
       "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
@@ -903,17 +936,6 @@
       "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
       "category": "ai",
       "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "The 'dumb machine' promising a clean energy breakthrough",
-      "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
-      "description": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Apr 2026 23:09:41 GMT",
-      "category": "general",
-      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -950,6 +972,28 @@
       "imageUrl": null
     },
     {
+      "title": "Next.js Creator Vercel Hacked",
+      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
+      "description": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.\nThe post Next.js Creator Vercel Hacked appeared first on SecurityWeek...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 08:30:13 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
+      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
+      "description": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.\nThe post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Apr 2026 07:50:01 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
       "description": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
@@ -958,6 +1002,17 @@
       "pubDate": "Mon, 20 Apr 2026 11:11:24 -0400",
       "category": "general",
       "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The 'dumb machine' promising a clean energy breakthrough",
+      "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+      "description": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Apr 2026 23:09:41 GMT",
+      "category": "general",
+      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -983,17 +1038,6 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
-      "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
-      "description": "Prosecutors investigating his social media company, X, had summoned him for a meeting. His no-show reflected a broader dispute over regulation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Apr 2026 18:54:59 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
       "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
       "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
       "description": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
@@ -1002,6 +1046,28 @@
       "pubDate": "Mon, 20 Apr 2026 15:44:44 GMT",
       "category": "general",
       "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
+      "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+      "description": "Prosecutors investigating his social media company, X, had summoned him for a meeting. His no-show reflected a broader dispute over regulation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Apr 2026 18:54:59 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+      "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+      "description": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Apr 2026 21:00:00 GMT",
+      "category": "general",
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -1033,17 +1099,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
       "category": "general",
       "score": 60.6,
       "imageUrl": null
@@ -1112,6 +1167,17 @@
       "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
       "category": "ai",
       "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "description": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "category": "general",
+      "score": 52.6,
       "imageUrl": null
     },
     {
