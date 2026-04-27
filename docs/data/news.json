@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-04-27T08:53:36.069Z",
+    "generated": "2026-04-27T12:35:20.256Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 68,
+    "totalArticles": 65,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 68 articles from 8 trusted sources, including 41 on Artificial Intelligence and 14 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Threat actor uses Microsoft Teams to deploy new “Snow” malware\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, TechCrunch, BBC Technology, Dark Reading and others\n• **Fresh Content**: 6 articles published in the last 24 hours",
-    "generated": "2026-04-27T08:53:36.069Z",
+    "content": "Today's selection covers 65 articles from 8 trusted sources, including 35 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, BBC Technology, BleepingComputer, TechCrunch and others\n• **Fresh Content**: 16 articles published in the last 24 hours",
+    "generated": "2026-04-27T12:35:20.256Z",
     "stats": {
-      "totalArticles": 68,
-      "aiArticles": 41,
-      "fraudArticles": 14,
+      "totalArticles": 65,
+      "aiArticles": 35,
+      "fraudArticles": 15,
       "sources": 8,
-      "todayCount": 6
+      "todayCount": 16
     }
   },
   "top": [
@@ -29,7 +29,29 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 27 Apr 2026 03:03:00 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
+      "link": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
+      "description": "The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access.\nThe post UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Ma...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 10:44:55 +0000",
+      "category": "fraud",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 27 Apr 2026 12:21:42 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -64,6 +86,63 @@
       "category": "ai",
       "score": 82,
       "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "The AI-designed car is taking shape",
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iter...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T11:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "description": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google",
+      "link": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
+      "description": "The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified.\nThe post Malicious AI Prompt Injection Attacks Increasing, but So...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 12:08:19 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
+      "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
+      "description": "US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a “new theater of war”.\nThe post US Launches Sweeping Crackdown on Southeast Asia Cyberscams and...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 09:39:33 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
+      "link": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
+      "description": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages.\nThe post Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 10:10:14 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
     },
     {
       "title": "American utility firm Itron discloses breach of internal IT network",
@@ -86,9 +165,7 @@
       "category": "ai",
       "score": 75,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
       "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
@@ -96,17 +173,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Fri, 24 Apr 2026 22:45:28 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
-      "link": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
-      "description": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 09:02:25 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -136,7 +202,7 @@
     {
       "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
       "link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
-      "description": "Lazarus continues leveraging ClickFix for initial access and data theft, in this case, against Mac-centric organizations and their high-value leaders.",
+      "description": "Lazarus continues leveraging ClickFix for initial access and data theft: in this case, against Mac-centric organizations and their high-value leaders.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Fri, 24 Apr 2026 13:00:00 GMT",
@@ -151,39 +217,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-24T17:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "description": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge\t\n\nElon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altm...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T12:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "description": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T09:45:30.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Prestigious photo contest answers ‘what is a photo?’",
-      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "description": "The three finalists for the World Press Photo of the year. | Image: World Press Photo\t\n\nWe love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific,...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T09:40:07.000Z",
       "category": "ai",
       "score": 70.6,
       "imageUrl": null
@@ -211,20 +244,9 @@
       "imageUrl": null
     },
     {
-      "title": "Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US",
-      "link": "https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
-      "description": "The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U.S. artificial intelligence models.\nThe post Trump Administration Vows Crackdown on Chinese Companies ‘Expl...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 11:13:55 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Helping Romance Scam Victims Require a Proactive, Empathic Approach",
+      "title": "Helping Romance Scam Victims Requires a Proactive, Empathic Approach",
       "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
-      "description": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial and government institutions to work together and protect them.",
+      "description": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial, and government institutions to work together and protect them.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Fri, 24 Apr 2026 22:34:13 GMT",
@@ -255,17 +277,6 @@
       "imageUrl": null
     },
     {
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
       "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
       "description": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
@@ -273,7 +284,7 @@
       "domain": "nytimes.com",
       "pubDate": "Sun, 26 Apr 2026 20:54:26 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -285,6 +296,39 @@
       "pubDate": "Sun, 26 Apr 2026 17:03:20 +0000",
       "category": "general",
       "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "description": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
+      "link": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
+      "description": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.\nThe post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 12:29:18 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Energy and Water Management Firm Itron Hacked",
+      "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
+      "description": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.\nThe post Energy and Water Management Firm Itron Hacked appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 11:18:59 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -305,17 +349,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Fri, 24 Apr 2026 14:40:23 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Biobank data incident caused by 'a few bad apples', boss says",
-      "link": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
-      "description": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 24 Apr 2026 10:00:42 GMT",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -349,17 +382,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 24 Apr 2026 19:47:12 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
-      "link": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
-      "description": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 11:00:03 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -453,17 +475,6 @@
       "imageUrl": null
     },
     {
-      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
-      "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
-      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 25 Apr 2026 09:02:23 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
       "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
       "description": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa...",
@@ -515,17 +526,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 24 Apr 2026 13:28:46 -0400",
       "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
-      "description": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 07:38:00 -0400",
-      "category": "both",
       "score": 55.6,
       "imageUrl": null
     },
@@ -607,17 +607,6 @@
       "imageUrl": null
     },
     {
-      "title": "US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor",
-      "link": "https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/",
-      "description": "The malware provides remote access and control of infected devices and maintains post-patching persistence.\nThe post US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor appeared fi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 11:26:09 +0000",
-      "category": "both",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft rolls out revamped Windows Insider Program",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
       "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
@@ -640,17 +629,6 @@
       "imageUrl": null
     },
     {
-      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
-      "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
-      "description": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.\nThe post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 25 Apr 2026 10:50:00 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
       "description": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
@@ -662,34 +640,23 @@
       "imageUrl": null
     },
     {
-      "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
-      "link": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
-      "description": "From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase. \nThe post Why Cybersecurity Must Rethink Defense in t...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 12:34:53 +0000",
-      "category": "general",
-      "score": 46,
-      "imageUrl": null
-    },
-    {
-      "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
-      "link": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
-      "description": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw.\nThe post Vulnerabilities Patched in CrowdStrike, Tenable Products appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 09:49:27 +0000",
-      "category": "general",
-      "score": 46,
-      "imageUrl": null
-    },
-    {
       "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
       "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
       "description": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 25 Apr 2026 01:18:33 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
+      "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 25 Apr 2026 09:02:23 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -750,23 +717,23 @@
       "imageUrl": null
     },
     {
+      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
+      "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
+      "description": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.\nThe post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 25 Apr 2026 10:50:00 +0000",
+      "category": "general",
+      "score": 40,
+      "imageUrl": null
+    },
+    {
       "title": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
       "link": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
       "description": "Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security. \nThe post In Other News: Unauthorized M...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Fri, 24 Apr 2026 14:31:51 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise",
-      "link": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
-      "description": "Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition.\nThe post Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 12:32:08 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
@@ -781,7 +748,29 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 27 Apr 2026 03:03:00 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
+      "link": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
+      "description": "The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access.\nThe post UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Ma...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 10:44:55 +0000",
+      "category": "fraud",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 27 Apr 2026 12:21:42 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -818,6 +807,61 @@
       "imageUrl": null
     },
     {
+      "title": "The AI-designed car is taking shape",
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iter...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T11:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "description": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google",
+      "link": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
+      "description": "The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified.\nThe post Malicious AI Prompt Injection Attacks Increasing, but So...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 12:08:19 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
+      "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
+      "description": "US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a “new theater of war”.\nThe post US Launches Sweeping Crackdown on Southeast Asia Cyberscams and...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 09:39:33 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
+      "link": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
+      "description": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages.\nThe post Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 10:10:14 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
       "title": "American utility firm Itron discloses breach of internal IT network",
       "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
       "description": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [....",
@@ -851,17 +895,6 @@
       "imageUrl": null
     },
     {
-      "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
-      "link": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
-      "description": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 09:02:25 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
       "title": "New Phishing Scam: Fake Invitations",
       "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
       "description": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.",
@@ -886,7 +919,7 @@
     {
       "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
       "link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
-      "description": "Lazarus continues leveraging ClickFix for initial access and data theft, in this case, against Mac-centric organizations and their high-value leaders.",
+      "description": "Lazarus continues leveraging ClickFix for initial access and data theft: in this case, against Mac-centric organizations and their high-value leaders.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Fri, 24 Apr 2026 13:00:00 GMT",
@@ -901,39 +934,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-04-24T17:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "description": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge\t\n\nElon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altm...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T12:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "description": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T09:45:30.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Prestigious photo contest answers ‘what is a photo?’",
-      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "description": "The three finalists for the World Press Photo of the year. | Image: World Press Photo\t\n\nWe love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific,...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T09:40:07.000Z",
       "category": "ai",
       "score": 70.6,
       "imageUrl": null
@@ -961,20 +961,9 @@
       "imageUrl": null
     },
     {
-      "title": "Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US",
-      "link": "https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
-      "description": "The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U.S. artificial intelligence models.\nThe post Trump Administration Vows Crackdown on Chinese Companies ‘Expl...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 11:13:55 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Helping Romance Scam Victims Require a Proactive, Empathic Approach",
+      "title": "Helping Romance Scam Victims Requires a Proactive, Empathic Approach",
       "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
-      "description": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial and government institutions to work together and protect them.",
+      "description": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial, and government institutions to work together and protect them.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Fri, 24 Apr 2026 22:34:13 GMT",
@@ -1005,17 +994,6 @@
       "imageUrl": null
     },
     {
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
       "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
       "description": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
@@ -1023,7 +1001,7 @@
       "domain": "nytimes.com",
       "pubDate": "Sun, 26 Apr 2026 20:54:26 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1035,6 +1013,39 @@
       "pubDate": "Sun, 26 Apr 2026 17:03:20 +0000",
       "category": "general",
       "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "description": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
+      "link": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
+      "description": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.\nThe post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 12:29:18 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Energy and Water Management Firm Itron Hacked",
+      "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
+      "description": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.\nThe post Energy and Water Management Firm Itron Hacked appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 11:18:59 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1055,17 +1066,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Fri, 24 Apr 2026 14:40:23 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Biobank data incident caused by 'a few bad apples', boss says",
-      "link": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
-      "description": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 24 Apr 2026 10:00:42 GMT",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1099,17 +1099,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 24 Apr 2026 19:47:12 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
-      "link": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
-      "description": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 11:00:03 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1203,17 +1192,6 @@
       "imageUrl": null
     },
     {
-      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
-      "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
-      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 25 Apr 2026 09:02:23 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
       "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
       "description": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa...",
@@ -1265,17 +1243,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 24 Apr 2026 13:28:46 -0400",
       "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
-      "description": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 07:38:00 -0400",
-      "category": "both",
       "score": 55.6,
       "imageUrl": null
     },
@@ -1357,17 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor",
-      "link": "https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/",
-      "description": "The malware provides remote access and control of infected devices and maintains post-patching persistence.\nThe post US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor appeared fi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 11:26:09 +0000",
-      "category": "both",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft rolls out revamped Windows Insider Program",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
       "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
@@ -1390,17 +1346,6 @@
       "imageUrl": null
     },
     {
-      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
-      "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
-      "description": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.\nThe post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 25 Apr 2026 10:50:00 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
       "description": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
@@ -1412,34 +1357,23 @@
       "imageUrl": null
     },
     {
-      "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
-      "link": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
-      "description": "From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase. \nThe post Why Cybersecurity Must Rethink Defense in t...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 12:34:53 +0000",
-      "category": "general",
-      "score": 46,
-      "imageUrl": null
-    },
-    {
-      "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
-      "link": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
-      "description": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw.\nThe post Vulnerabilities Patched in CrowdStrike, Tenable Products appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 09:49:27 +0000",
-      "category": "general",
-      "score": 46,
-      "imageUrl": null
-    },
-    {
       "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
       "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
       "description": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 25 Apr 2026 01:18:33 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
+      "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 25 Apr 2026 09:02:23 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1500,23 +1434,23 @@
       "imageUrl": null
     },
     {
+      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
+      "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
+      "description": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.\nThe post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 25 Apr 2026 10:50:00 +0000",
+      "category": "general",
+      "score": 40,
+      "imageUrl": null
+    },
+    {
       "title": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
       "link": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
       "description": "Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security. \nThe post In Other News: Unauthorized M...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Fri, 24 Apr 2026 14:31:51 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise",
-      "link": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
-      "description": "Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition.\nThe post Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Apr 2026 12:32:08 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
