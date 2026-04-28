@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-04-27T16:34:44.423Z",
+    "generated": "2026-04-28T00:39:08.735Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 71,
+    "totalArticles": 65,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 71 articles from 8 trusted sources, including 40 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Microsoft and OpenAI Loosen Their Partnership\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, The Verge, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 36 articles published in the last 24 hours",
-    "generated": "2026-04-27T16:34:44.423Z",
+    "content": "Today's selection covers 65 articles from 8 trusted sources, including 35 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Microsoft and OpenAI Loosen Their Partnership\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: UNC6692 Combines Social Engineering, Malware, Cloud Abuse\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, BleepingComputer, The Verge, TechCrunch and others\n• **Fresh Content**: 46 articles published in the last 24 hours",
+    "generated": "2026-04-28T00:39:08.735Z",
     "stats": {
-      "totalArticles": 71,
-      "aiArticles": 40,
-      "fraudArticles": 15,
+      "totalArticles": 65,
+      "aiArticles": 35,
+      "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 36
+      "todayCount": 46
     }
   },
   "top": [
@@ -27,68 +27,44 @@
       "description": "Microsoft, OpenAI’s biggest financial partner, will continue to license the start-up’s technology but will no longer be its exclusive licensee.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 16:16:25 +0000",
+      "pubDate": "Mon, 27 Apr 2026 16:34:44 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
-      "title": "Altman, Musk and the A.I. Spectacle Come to Oakland",
+      "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
       "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
       "description": "Oakland, Calif., where Elon Musk’s trial against OpenAI and its chief executive, Sam Altman, starts on Monday, is not exactly known as a hub of the tech industry.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 16:24:04 +0000",
+      "pubDate": "Mon, 27 Apr 2026 16:34:17 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
-      "title": "Parsing Agentic Offensive Security's Existential Threat",
-      "link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
-      "description": "Some fear frontier LLMs like Claude Mythos and Anthropic's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
+      "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
+      "link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+      "description": "A newly discovered threat actor is using Microsoft Teams, AWS S3 buckets, and custom \"Snow\" malware in a multipronged campaign.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Apr 2026 13:00:00 GMT",
-      "category": "ai",
+      "pubDate": "Mon, 27 Apr 2026 20:12:34 GMT",
+      "category": "fraud",
       "score": 95.5,
       "imageUrl": null
     },
     {
-      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "description": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T16:15:47.000Z",
-      "category": "ai",
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "description": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspici...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 19:11:01 -0400",
+      "category": "fraud",
       "score": 94.6,
       "imageUrl": null
     },
-    {
-      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T15:50:29.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "description": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer\t\n\nOne of Canva's new AI features has been caught replacing the word \"Palest...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T14:29:23.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
     {
       "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
       "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
@@ -101,14 +77,82 @@
       "imageUrl": null
     },
     {
+      "title": "Parsing Agentic Offensive Security's Existential Threat",
+      "link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
+      "description": "Some fear frontier LLMs like Claude Mythos and Anthropic's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Apr 2026 13:00:00 GMT",
+      "category": "ai",
+      "score": 93.5,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "description": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\t\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentago...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T18:17:12.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "description": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T16:15:47.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T15:50:29.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "description": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer\t\n\nOne of Canva's new AI features has been caught replacing the word \"Palest...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T14:29:23.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Apr 2026 17:40:38 +0000",
+      "category": "ai",
+      "score": 92,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI could be making a phone with AI agents replacing apps",
       "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "description": "The phone could go into mass production in 2028, an analyst says.",
+      "description": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 13:08:59 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -119,27 +163,27 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 10:44:55 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 90,
       "imageUrl": null
     },
     {
-      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
-      "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
-      "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
+      "title": "Why Spotify has no button to filter out AI music",
+      "link": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
+      "description": "Music streamer Deezer allows users to filter out AI music, so why does Spotify not offer the same?",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 27 Apr 2026 12:21:42 GMT",
+      "pubDate": "Mon, 27 Apr 2026 23:03:10 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
-      "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
-      "description": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.",
+      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
+      "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
+      "description": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 14:08:52 +0000",
+      "pubDate": "Mon, 27 Apr 2026 20:12:38 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -152,40 +196,73 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 27 Apr 2026 16:11:56 +0000",
       "category": "ai",
-      "score": 83.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
-      "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-      "description": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
+      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+      "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+      "description": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 15:12:19 +0000",
+      "pubDate": "Mon, 27 Apr 2026 14:08:53 +0000",
       "category": "ai",
-      "score": 83.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-28T00:01:54.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T20:47:45.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "description": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
+      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
+      "description": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 16:00:31 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 27 Apr 2026 12:21:42 GMT",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -196,7 +273,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 27 Apr 2026 15:31:41 GMT",
       "category": "ai",
-      "score": 80.5,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -207,18 +284,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 27 Apr 2026 13:09:54 GMT",
       "category": "fraud",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI-designed car is taking shape",
-      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-      "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iter...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T11:00:00.000Z",
-      "category": "ai",
-      "score": 79.6,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -229,7 +295,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 12:27:53 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -240,7 +306,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 10:43:11 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -251,7 +317,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 09:50:42 -0400",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -262,18 +328,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 09:00:09 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "description": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "description": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Apr 2026 17:24:21 +0000",
       "category": "ai",
-      "score": 79.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -284,7 +350,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 16:13:02 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -295,7 +361,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 13:16:55 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -306,7 +372,29 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 13:09:27 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI-designed car is taking shape",
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iter...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T11:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "description": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -317,7 +405,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 12:08:19 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -328,29 +416,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 09:39:33 +0000",
       "category": "fraud",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
-      "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
-      "description": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 24 Apr 2026 22:45:28 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "New Phishing Scam: Fake Invitations",
-      "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
-      "description": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 20:44:40 +0000",
-      "category": "fraud",
-      "score": 74.5,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -361,17 +427,17 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 10:10:14 +0000",
       "category": "fraud",
-      "score": 74,
+      "score": 72,
       "imageUrl": null
     },
     {
-      "title": "How Project Maven taught the military to love AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "description": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T17:00:00.000Z",
-      "category": "ai",
+      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
+      "description": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 15:56:03 -0400",
+      "category": "general",
       "score": 70.6,
       "imageUrl": null
     },
@@ -387,36 +453,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 18:00:03 +0000",
+      "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
     },
     {
-      "title": "Helping Romance Scam Victims Requires a Proactive, Empathic Approach",
-      "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
-      "description": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial, and government institutions to work together and protect them.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Apr 2026 22:34:13 GMT",
-      "category": "fraud",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-      "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-      "description": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.\nThe post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Apr 2026 08:39:28 +0000",
-      "category": "general",
-      "score": 68,
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "category": "ai",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -433,7 +488,7 @@
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
       "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 26 Apr 2026 15:30:00 +0000",
@@ -442,14 +497,25 @@
       "imageUrl": null
     },
     {
-      "title": "Maine’s governor vetoes data center moratorium",
-      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000",
-      "category": "ai",
-      "score": 67,
+      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
+      "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
+      "description": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.\nThe post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 08:39:28 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "description": "If you're one of millions using element-data, it's time to check for compromise.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 27 Apr 2026 21:04:03 +0000",
+      "category": "general",
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -460,7 +526,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 11:17:37 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -471,7 +537,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 10:25:35 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -482,51 +548,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 09:01:38 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
-      "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
-      "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
-      "description": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Apr 2026 20:54:26 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
-      "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
-      "description": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Apr 2026 17:03:20 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
-      "link": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
-      "description": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.\nThe post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Apr 2026 12:29:18 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Energy and Water Management Firm Itron Hacked",
-      "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-      "description": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.\nThe post Energy and Water Management Firm Itron Hacked appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Apr 2026 11:18:59 +0000",
-      "category": "general",
-      "score": 64,
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "category": "ai",
+      "score": 61,
       "imageUrl": null
     },
     {
@@ -537,29 +570,29 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "description": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 16:34:08 -0400",
-      "category": "fraud",
-      "score": 61.6,
+      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
+      "link": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
+      "description": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.\nThe post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 12:29:18 +0000",
+      "category": "general",
+      "score": 60,
       "imageUrl": null
     },
     {
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000",
-      "category": "ai",
-      "score": 61,
+      "title": "Energy and Water Management Firm Itron Hacked",
+      "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
+      "description": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.\nThe post Energy and Water Management Firm Itron Hacked appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 11:18:59 +0000",
+      "category": "general",
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -574,91 +607,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
-      "link": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
-      "description": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
+      "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
+      "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
+      "description": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 19:47:12 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
-      "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
-      "description": "The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 16:53:32 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-      "description": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 24 Apr 2026 19:00:39 +0000",
-      "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
-      "link": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
-      "description": "Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Apr 2026 16:48:04 GMT",
-      "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "I brought my husband back for his funeral as a hologram",
-      "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
-      "description": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 25 Apr 2026 23:03:52 GMT",
+      "pubDate": "Sun, 26 Apr 2026 20:54:26 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
     {
-      "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
-      "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
-      "description": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+      "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
+      "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
+      "description": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Sat, 25 Apr 2026 19:57:08 +0000",
+      "pubDate": "Sun, 26 Apr 2026 17:03:20 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
     {
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "description": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 18:53:14 -0400",
-      "category": "both",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New BlackFile extortion group linked to surge of vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "description": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 14:26:27 -0400",
-      "category": "both",
-      "score": 55.6,
+      "title": "Maine’s governor vetoes data center moratorium",
+      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -673,47 +651,14 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 20:52:07 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 19:49:35 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 16:42:19 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft rolls out revamped Windows Insider Program",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 25 Apr 2026 13:07:13 -0400",
+      "title": "I brought my husband back for his funeral as a hologram",
+      "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
+      "description": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 25 Apr 2026 23:03:52 GMT",
       "category": "general",
-      "score": 52.6,
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -723,6 +668,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 25 Apr 2026 01:18:33 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
+      "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+      "description": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 25 Apr 2026 19:57:08 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -739,17 +695,6 @@
       "imageUrl": null
     },
     {
-      "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
-      "link": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
-      "description": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 17:58:24 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
       "link": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
       "description": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
@@ -761,12 +706,12 @@
       "imageUrl": null
     },
     {
-      "title": "Windows Update gets new controls to reduce forced restarts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-      "description": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+      "title": "Microsoft rolls out revamped Windows Insider Program",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 16:08:26 -0400",
+      "pubDate": "Sat, 25 Apr 2026 13:07:13 -0400",
       "category": "general",
       "score": 40.6,
       "imageUrl": null
@@ -778,17 +723,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 25 Apr 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-      "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-      "description": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable bus...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 17:45:57 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
@@ -812,63 +746,41 @@
       "description": "Microsoft, OpenAI’s biggest financial partner, will continue to license the start-up’s technology but will no longer be its exclusive licensee.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 16:16:25 +0000",
+      "pubDate": "Mon, 27 Apr 2026 16:34:44 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
-      "title": "Altman, Musk and the A.I. Spectacle Come to Oakland",
+      "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
       "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
       "description": "Oakland, Calif., where Elon Musk’s trial against OpenAI and its chief executive, Sam Altman, starts on Monday, is not exactly known as a hub of the tech industry.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 16:24:04 +0000",
+      "pubDate": "Mon, 27 Apr 2026 16:34:17 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
-      "title": "Parsing Agentic Offensive Security's Existential Threat",
-      "link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
-      "description": "Some fear frontier LLMs like Claude Mythos and Anthropic's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
+      "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
+      "link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+      "description": "A newly discovered threat actor is using Microsoft Teams, AWS S3 buckets, and custom \"Snow\" malware in a multipronged campaign.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Apr 2026 13:00:00 GMT",
-      "category": "ai",
+      "pubDate": "Mon, 27 Apr 2026 20:12:34 GMT",
+      "category": "fraud",
       "score": 95.5,
       "imageUrl": null
     },
     {
-      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "description": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T16:15:47.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T15:50:29.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "description": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer\t\n\nOne of Canva's new AI features has been caught replacing the word \"Palest...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T14:29:23.000Z",
-      "category": "ai",
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "description": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspici...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 19:11:01 -0400",
+      "category": "fraud",
       "score": 94.6,
       "imageUrl": null
     },
@@ -884,14 +796,80 @@
       "imageUrl": null
     },
     {
+      "title": "Parsing Agentic Offensive Security's Existential Threat",
+      "link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
+      "description": "Some fear frontier LLMs like Claude Mythos and Anthropic's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Apr 2026 13:00:00 GMT",
+      "category": "ai",
+      "score": 93.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "description": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\t\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentago...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T18:17:12.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "description": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T16:15:47.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T15:50:29.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "description": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer\t\n\nOne of Canva's new AI features has been caught replacing the word \"Palest...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T14:29:23.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Apr 2026 17:40:38 +0000",
+      "category": "ai",
+      "score": 92,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI could be making a phone with AI agents replacing apps",
       "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "description": "The phone could go into mass production in 2028, an analyst says.",
+      "description": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 13:08:59 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -902,27 +880,27 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 10:44:55 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 90,
       "imageUrl": null
     },
     {
-      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
-      "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
-      "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
+      "title": "Why Spotify has no button to filter out AI music",
+      "link": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
+      "description": "Music streamer Deezer allows users to filter out AI music, so why does Spotify not offer the same?",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 27 Apr 2026 12:21:42 GMT",
+      "pubDate": "Mon, 27 Apr 2026 23:03:10 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
-      "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
-      "description": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.",
+      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
+      "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
+      "description": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 14:08:52 +0000",
+      "pubDate": "Mon, 27 Apr 2026 20:12:38 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -935,40 +913,73 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 27 Apr 2026 16:11:56 +0000",
       "category": "ai",
-      "score": 83.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
-      "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-      "description": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
+      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+      "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+      "description": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Apr 2026 15:12:19 +0000",
+      "pubDate": "Mon, 27 Apr 2026 14:08:53 +0000",
       "category": "ai",
-      "score": 83.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-28T00:01:54.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T20:47:45.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "description": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
+      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
+      "description": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 16:00:31 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 27 Apr 2026 12:21:42 GMT",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -979,7 +990,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 27 Apr 2026 15:31:41 GMT",
       "category": "ai",
-      "score": 80.5,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -990,18 +1001,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 27 Apr 2026 13:09:54 GMT",
       "category": "fraud",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI-designed car is taking shape",
-      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-      "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iter...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-27T11:00:00.000Z",
-      "category": "ai",
-      "score": 79.6,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -1012,7 +1012,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 12:27:53 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1023,7 +1023,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 10:43:11 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1034,7 +1034,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 09:50:42 -0400",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1045,18 +1045,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 09:00:09 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "description": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "description": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Apr 2026 17:24:21 +0000",
       "category": "ai",
-      "score": 79.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1067,7 +1067,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 16:13:02 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1078,7 +1078,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 13:16:55 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1089,7 +1089,29 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 13:09:27 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI-designed car is taking shape",
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iter...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-04-27T11:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "description": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1100,7 +1122,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 12:08:19 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1111,29 +1133,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 09:39:33 +0000",
       "category": "fraud",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
-      "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
-      "description": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 24 Apr 2026 22:45:28 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "New Phishing Scam: Fake Invitations",
-      "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
-      "description": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 20:44:40 +0000",
-      "category": "fraud",
-      "score": 74.5,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1144,17 +1144,17 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 27 Apr 2026 10:10:14 +0000",
       "category": "fraud",
-      "score": 74,
+      "score": 72,
       "imageUrl": null
     },
     {
-      "title": "How Project Maven taught the military to love AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "description": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-04-24T17:00:00.000Z",
-      "category": "ai",
+      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
+      "description": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 27 Apr 2026 15:56:03 -0400",
+      "category": "general",
       "score": 70.6,
       "imageUrl": null
     },
@@ -1170,36 +1170,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 18:00:03 +0000",
+      "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
       "category": "ai",
       "score": 70,
       "imageUrl": null
     },
     {
-      "title": "Helping Romance Scam Victims Requires a Proactive, Empathic Approach",
-      "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
-      "description": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial, and government institutions to work together and protect them.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Apr 2026 22:34:13 GMT",
-      "category": "fraud",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-      "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-      "description": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.\nThe post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on S...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Apr 2026 08:39:28 +0000",
-      "category": "general",
-      "score": 68,
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "category": "ai",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -1216,7 +1205,7 @@
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
       "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 26 Apr 2026 15:30:00 +0000",
@@ -1225,14 +1214,25 @@
       "imageUrl": null
     },
     {
-      "title": "Maine’s governor vetoes data center moratorium",
-      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000",
-      "category": "ai",
-      "score": 67,
+      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
+      "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
+      "description": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.\nThe post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on S...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 08:39:28 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "description": "If you're one of millions using element-data, it's time to check for compromise.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 27 Apr 2026 21:04:03 +0000",
+      "category": "general",
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -1243,7 +1243,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 11:17:37 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1254,7 +1254,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 10:25:35 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1265,51 +1265,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 27 Apr 2026 09:01:38 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
-      "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
-      "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
-      "description": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Apr 2026 20:54:26 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
-      "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
-      "description": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Apr 2026 17:03:20 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
-      "link": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
-      "description": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.\nThe post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Apr 2026 12:29:18 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Energy and Water Management Firm Itron Hacked",
-      "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-      "description": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.\nThe post Energy and Water Management Firm Itron Hacked appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Apr 2026 11:18:59 +0000",
-      "category": "general",
-      "score": 64,
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "category": "ai",
+      "score": 61,
       "imageUrl": null
     },
     {
@@ -1320,29 +1287,29 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "description": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 16:34:08 -0400",
-      "category": "fraud",
-      "score": 61.6,
+      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
+      "link": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
+      "description": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.\nThe post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 12:29:18 +0000",
+      "category": "general",
+      "score": 60,
       "imageUrl": null
     },
     {
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000",
-      "category": "ai",
-      "score": 61,
+      "title": "Energy and Water Management Firm Itron Hacked",
+      "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
+      "description": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.\nThe post Energy and Water Management Firm Itron Hacked appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Apr 2026 11:18:59 +0000",
+      "category": "general",
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1357,91 +1324,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
-      "link": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
-      "description": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
+      "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
+      "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
+      "description": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 19:47:12 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
-      "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
-      "description": "The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 16:53:32 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-      "description": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 24 Apr 2026 19:00:39 +0000",
-      "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
-      "link": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
-      "description": "Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Apr 2026 16:48:04 GMT",
-      "category": "both",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "I brought my husband back for his funeral as a hologram",
-      "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
-      "description": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 25 Apr 2026 23:03:52 GMT",
+      "pubDate": "Sun, 26 Apr 2026 20:54:26 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
     {
-      "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
-      "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
-      "description": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+      "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
+      "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
+      "description": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Sat, 25 Apr 2026 19:57:08 +0000",
+      "pubDate": "Sun, 26 Apr 2026 17:03:20 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
     {
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "description": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 18:53:14 -0400",
-      "category": "both",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New BlackFile extortion group linked to surge of vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "description": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 14:26:27 -0400",
-      "category": "both",
-      "score": 55.6,
+      "title": "Maine’s governor vetoes data center moratorium",
+      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1456,47 +1368,14 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 20:52:07 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 19:49:35 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 16:42:19 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft rolls out revamped Windows Insider Program",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 25 Apr 2026 13:07:13 -0400",
+      "title": "I brought my husband back for his funeral as a hologram",
+      "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
+      "description": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 25 Apr 2026 23:03:52 GMT",
       "category": "general",
-      "score": 52.6,
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1506,6 +1385,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 25 Apr 2026 01:18:33 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
+      "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+      "description": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 25 Apr 2026 19:57:08 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1522,17 +1412,6 @@
       "imageUrl": null
     },
     {
-      "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
-      "link": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
-      "description": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Apr 2026 17:58:24 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
       "link": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
       "description": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
@@ -1544,12 +1423,12 @@
       "imageUrl": null
     },
     {
-      "title": "Windows Update gets new controls to reduce forced restarts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-      "description": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+      "title": "Microsoft rolls out revamped Windows Insider Program",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Apr 2026 16:08:26 -0400",
+      "pubDate": "Sat, 25 Apr 2026 13:07:13 -0400",
       "category": "general",
       "score": 40.6,
       "imageUrl": null
@@ -1561,17 +1440,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 25 Apr 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-      "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-      "description": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable bus...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Apr 2026 17:45:57 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
