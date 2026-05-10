@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-05-10T16:20:53.005Z",
+    "generated": "2026-05-10T20:17:41.492Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 64,
+    "totalArticles": 51,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 64 articles from 9 trusted sources, including 44 on Artificial Intelligence and 16 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: We’re feeling cynical about xAI’s big deal with Anthropic\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: JDownloader site hacked to replace installers with Python RAT malware\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from TechCrunch, The Verge, BleepingComputer, NY Times Tech, SecurityWeek and others\n• **Fresh Content**: 5 articles published in the last 24 hours",
-    "generated": "2026-05-10T16:20:53.005Z",
+    "content": "Today's selection covers 51 articles from 9 trusted sources, including 34 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Hackers abuse Google ads, Claude.ai chats to push Mac malware\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: JDownloader site hacked to replace installers with Python RAT malware\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from BleepingComputer, TechCrunch, NY Times Tech, The Verge, SecurityWeek and others\n• **Fresh Content**: 5 articles published in the last 24 hours",
+    "generated": "2026-05-10T20:17:41.492Z",
     "stats": {
-      "totalArticles": 64,
-      "aiArticles": 44,
-      "fraudArticles": 16,
+      "totalArticles": 51,
+      "aiArticles": 34,
+      "fraudArticles": 13,
       "sources": 9,
       "todayCount": 5
     }
   },
   "top": [
+    {
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "description": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 10 May 2026 13:52:15 -0400",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
@@ -30,28 +41,6 @@
       "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
       "category": "ai",
       "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-08T18:45:08.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-      "description": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-08T16:30:56.000Z",
-      "category": "ai",
-      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -66,17 +55,6 @@
       "imageUrl": null
     },
     {
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 09 May 2026 15:27:58 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
@@ -86,9 +64,7 @@
       "category": "ai",
       "score": 75,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -110,7 +86,9 @@
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Nvidia has already committed $40B to equity AI deals this year",
       "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
@@ -120,6 +98,28 @@
       "pubDate": "Sat, 09 May 2026 14:43:30 +0000",
       "category": "ai",
       "score": 73,
+      "imageUrl": null
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-08T18:45:08.000Z",
+      "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "description": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-08T16:30:56.000Z",
+      "category": "ai",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -141,61 +141,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-08T13:31:37.000Z",
       "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T19:55:22.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "description": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T18:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T17:40:50.000Z",
-      "category": "both",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "description": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 10 May 2026 10:16:47 -0400",
-      "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "description": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malwa...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 14:00:59 -0400",
-      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -233,17 +178,6 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 19:21:21 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
       "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
       "description": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.\nThe post Vulnerability in Claude Extension for Chrome Exposes AI Agent to...",
@@ -255,25 +189,25 @@
       "imageUrl": null
     },
     {
-      "title": "Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders",
-      "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
-      "description": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.”\nThe post Worrie...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 07 May 2026 19:10:11 +0000",
-      "category": "ai",
-      "score": 70,
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "description": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 10 May 2026 10:16:47 -0400",
+      "category": "general",
+      "score": 68.6,
       "imageUrl": null
     },
     {
-      "title": "ShinyHunters Claims Second Attack Against Instructure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
-      "description": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 08 May 2026 20:08:06 GMT",
-      "category": "ai",
-      "score": 68.5,
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 09 May 2026 15:27:58 -0400",
+      "category": "fraud",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -285,28 +219,6 @@
       "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
       "category": "both",
       "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "description": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
-      "category": "both",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\"...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T19:26:16.000Z",
-      "category": "ai",
-      "score": 61.6,
       "imageUrl": null
     },
     {
@@ -343,17 +255,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta brings High Court challenge over Ofcom fees",
-      "link": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta said Ofcom's calculations were \"disproportionate\"; the regulator said it would defend its position.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 07 May 2026 16:30:55 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "Meta’s Embrace of A.I. Is Making Its Employees Miserable",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
       "description": "As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off.",
@@ -376,12 +277,12 @@
       "imageUrl": null
     },
     {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-      "description": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Thu, 07 May 2026 19:18:16 +0000",
+      "title": "ShinyHunters Claims Second Attack Against Instructure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
+      "description": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 08 May 2026 20:08:06 GMT",
       "category": "ai",
       "score": 56.5,
       "imageUrl": null
@@ -426,17 +327,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-05-08T12:15:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-      "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-      "description": "AirPods Pro 3. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman repor...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T19:39:22.000Z",
       "category": "ai",
       "score": 55.6,
       "imageUrl": null
@@ -530,14 +420,14 @@
       "imageUrl": null
     },
     {
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "description": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 14:35:50 -0400",
-      "category": "fraud",
-      "score": 55.6,
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "description": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
+      "category": "both",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -547,28 +437,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 08 May 2026 04:42:29 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 19:57:59 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
-      "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 19:06:17 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -629,28 +497,6 @@
       "imageUrl": null
     },
     {
-      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
-      "description": "Across the country, schools and colleges postpone year-end tests.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 08 May 2026 18:33:48 +0000",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-      "description": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 08 May 2026 20:02:52 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
       "link": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
       "description": "CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code.\nThe post Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks appeared...",
@@ -684,12 +530,12 @@
       "imageUrl": null
     },
     {
-      "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
-      "description": "Dark Reading investigates rumors that Tom Parker, a board room \"operator\" and longtime cyber exec, could be next in line to take over CISA.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 07 May 2026 19:07:17 GMT",
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+      "description": "Across the country, schools and colleges postpone year-end tests.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 08 May 2026 18:33:48 +0000",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
@@ -703,6 +549,17 @@
       "pubDate": "Fri, 08 May 2026 04:45:04 -0400",
       "category": "general",
       "score": 40.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "description": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 08 May 2026 20:02:52 +0000",
+      "category": "general",
+      "score": 40,
       "imageUrl": null
     },
     {
@@ -730,6 +587,17 @@
   ],
   "all": [
     {
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "description": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 10 May 2026 13:52:15 -0400",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "description": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
@@ -741,28 +609,6 @@
       "imageUrl": null
     },
     {
-      "title": "All the latest updates on AI data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-08T18:45:08.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-      "description": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-08T16:30:56.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
       "description": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
@@ -771,17 +617,6 @@
       "pubDate": "Sat, 09 May 2026 10:26:03 -0400",
       "category": "ai",
       "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 09 May 2026 15:27:58 -0400",
-      "category": "fraud",
-      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -829,6 +664,28 @@
       "imageUrl": null
     },
     {
+      "title": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-08T18:45:08.000Z",
+      "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "description": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-08T16:30:56.000Z",
+      "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
       "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
       "description": "OpenAI CEO Sam Altman and Microsoft CTO Kevin Scott. | Image: Getty Images\t\n\nWhen OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were...",
@@ -847,61 +704,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-08T13:31:37.000Z",
       "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T19:55:22.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "description": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T18:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T17:40:50.000Z",
-      "category": "both",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "description": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 10 May 2026 10:16:47 -0400",
-      "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "description": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malwa...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 14:00:59 -0400",
-      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -939,17 +741,6 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 19:21:21 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
       "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
       "description": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.\nThe post Vulnerability in Claude Extension for Chrome Exposes AI Agent to...",
@@ -961,25 +752,25 @@
       "imageUrl": null
     },
     {
-      "title": "Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders",
-      "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
-      "description": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.”\nThe post Worrie...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 07 May 2026 19:10:11 +0000",
-      "category": "ai",
-      "score": 70,
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "description": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 10 May 2026 10:16:47 -0400",
+      "category": "general",
+      "score": 68.6,
       "imageUrl": null
     },
     {
-      "title": "ShinyHunters Claims Second Attack Against Instructure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
-      "description": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 08 May 2026 20:08:06 GMT",
-      "category": "ai",
-      "score": 68.5,
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 09 May 2026 15:27:58 -0400",
+      "category": "fraud",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -991,28 +782,6 @@
       "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
       "category": "both",
       "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "description": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
-      "category": "both",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\"...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T19:26:16.000Z",
-      "category": "ai",
-      "score": 61.6,
       "imageUrl": null
     },
     {
@@ -1049,17 +818,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta brings High Court challenge over Ofcom fees",
-      "link": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta said Ofcom's calculations were \"disproportionate\"; the regulator said it would defend its position.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 07 May 2026 16:30:55 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "Meta’s Embrace of A.I. Is Making Its Employees Miserable",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
       "description": "As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off.",
@@ -1082,12 +840,12 @@
       "imageUrl": null
     },
     {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-      "description": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Thu, 07 May 2026 19:18:16 +0000",
+      "title": "ShinyHunters Claims Second Attack Against Instructure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
+      "description": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 08 May 2026 20:08:06 GMT",
       "category": "ai",
       "score": 56.5,
       "imageUrl": null
@@ -1132,17 +890,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-05-08T12:15:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-      "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-      "description": "AirPods Pro 3. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman repor...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-07T19:39:22.000Z",
       "category": "ai",
       "score": 55.6,
       "imageUrl": null
@@ -1236,14 +983,14 @@
       "imageUrl": null
     },
     {
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "description": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 14:35:50 -0400",
-      "category": "fraud",
-      "score": 55.6,
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "description": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
+      "category": "both",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1253,28 +1000,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 08 May 2026 04:42:29 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 19:57:59 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
-      "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 19:06:17 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -1335,28 +1060,6 @@
       "imageUrl": null
     },
     {
-      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
-      "description": "Across the country, schools and colleges postpone year-end tests.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 08 May 2026 18:33:48 +0000",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-      "description": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 08 May 2026 20:02:52 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
       "link": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
       "description": "CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code.\nThe post Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks appeared...",
@@ -1390,12 +1093,12 @@
       "imageUrl": null
     },
     {
-      "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
-      "description": "Dark Reading investigates rumors that Tom Parker, a board room \"operator\" and longtime cyber exec, could be next in line to take over CISA.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 07 May 2026 19:07:17 GMT",
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+      "description": "Across the country, schools and colleges postpone year-end tests.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 08 May 2026 18:33:48 +0000",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
@@ -1409,6 +1112,17 @@
       "pubDate": "Fri, 08 May 2026 04:45:04 -0400",
       "category": "general",
       "score": 40.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "description": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 08 May 2026 20:02:52 +0000",
+      "category": "general",
+      "score": 40,
       "imageUrl": null
     },
     {
