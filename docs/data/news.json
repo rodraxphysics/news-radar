@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-05-10T20:17:41.492Z",
+    "generated": "2026-05-11T00:42:16.782Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 51,
+    "totalArticles": 48,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 51 articles from 9 trusted sources, including 34 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Hackers abuse Google ads, Claude.ai chats to push Mac malware\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: JDownloader site hacked to replace installers with Python RAT malware\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from BleepingComputer, TechCrunch, NY Times Tech, The Verge, SecurityWeek and others\n• **Fresh Content**: 5 articles published in the last 24 hours",
-    "generated": "2026-05-10T20:17:41.492Z",
+    "content": "Today's selection covers 48 articles from 9 trusted sources, including 30 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: JDownloader site hacked to replace installers with Python RAT malware\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from TechCrunch, BleepingComputer, NY Times Tech, The Verge, SecurityWeek and others\n• **Fresh Content**: 7 articles published in the last 24 hours",
+    "generated": "2026-05-11T00:42:16.782Z",
     "stats": {
-      "totalArticles": 51,
-      "aiArticles": 34,
-      "fraudArticles": 13,
+      "totalArticles": 48,
+      "aiArticles": 30,
+      "fraudArticles": 11,
       "sources": 9,
-      "todayCount": 5
+      "todayCount": 7
     }
   },
   "top": [
+    {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 10 May 2026 20:40:41 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
     {
       "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
@@ -29,7 +40,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sun, 10 May 2026 13:52:15 -0400",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -40,7 +51,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -61,17 +72,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -156,28 +156,6 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
       "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
       "description": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.\nThe post Vulnerability in Claude Extension for Chrome Exposes AI Agent to...",
@@ -200,6 +178,17 @@
       "imageUrl": null
     },
     {
+      "title": "Cyber-crime increasingly coming with threats of physical violence",
+      "link": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
+      "description": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 10 May 2026 23:34:59 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
       "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based...",
@@ -211,25 +200,25 @@
       "imageUrl": null
     },
     {
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
-      "category": "both",
+      "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
+      "category": "ai",
       "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "title": "Get ready for the whisper-filled office of the future",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "description": "How will work setups change if we spend more and more time talking to our computers?",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 21:02:11 +0000",
-      "category": "ai",
-      "score": 61,
+      "pubDate": "Sun, 10 May 2026 21:15:30 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -284,17 +273,6 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 08 May 2026 20:08:06 GMT",
       "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
-      "link": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
-      "description": "PCPJack makes innovative use of parquet files for stealthy, pre-validated target discovery as it canvasses multiple cloud environments.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 07 May 2026 20:43:30 GMT",
-      "category": "fraud",
       "score": 56.5,
       "imageUrl": null
     },
@@ -398,25 +376,14 @@
       "imageUrl": null
     },
     {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "description": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and univer...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 18:36:54 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "description": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 18:06:52 -0400",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
       "category": "both",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -587,6 +554,17 @@
   ],
   "all": [
     {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 10 May 2026 20:40:41 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
       "description": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list...",
@@ -594,7 +572,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sun, 10 May 2026 13:52:15 -0400",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -605,7 +583,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -626,17 +604,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -719,28 +686,6 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
       "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
       "description": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.\nThe post Vulnerability in Claude Extension for Chrome Exposes AI Agent to...",
@@ -763,6 +708,17 @@
       "imageUrl": null
     },
     {
+      "title": "Cyber-crime increasingly coming with threats of physical violence",
+      "link": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
+      "description": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 10 May 2026 23:34:59 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
       "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based...",
@@ -774,25 +730,25 @@
       "imageUrl": null
     },
     {
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
-      "category": "both",
+      "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
+      "category": "ai",
       "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "title": "Get ready for the whisper-filled office of the future",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "description": "How will work setups change if we spend more and more time talking to our computers?",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Thu, 07 May 2026 21:02:11 +0000",
-      "category": "ai",
-      "score": 61,
+      "pubDate": "Sun, 10 May 2026 21:15:30 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -847,17 +803,6 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 08 May 2026 20:08:06 GMT",
       "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
-      "link": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
-      "description": "PCPJack makes innovative use of parquet files for stealthy, pre-validated target discovery as it canvasses multiple cloud environments.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 07 May 2026 20:43:30 GMT",
-      "category": "fraud",
       "score": 56.5,
       "imageUrl": null
     },
@@ -961,25 +906,14 @@
       "imageUrl": null
     },
     {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "description": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and univer...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 18:36:54 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "description": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 07 May 2026 18:06:52 -0400",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
       "category": "both",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
