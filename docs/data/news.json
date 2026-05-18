@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-05-18T05:25:30.527Z",
+    "generated": "2026-05-18T09:13:59.324Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 58,
-    "sources": 7,
+    "totalArticles": 57,
+    "sources": 6,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 58 articles from 7 trusted sources, including 37 on Artificial Intelligence and 9 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Why trust is a big question at the Elon Musk-OpenAI trial\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Chatbots at the drive-thru are just the beginning\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from TechCrunch, SecurityWeek, BBC Technology, Dark Reading, The Verge and others\n• **Fresh Content**: 14 articles published in the last 24 hours",
-    "generated": "2026-05-18T05:25:30.527Z",
+    "content": "Today's selection covers 57 articles from 6 trusted sources, including 38 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Why trust is a big question at the Elon Musk-OpenAI trial\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from TechCrunch, BleepingComputer, SecurityWeek, BBC Technology, The Verge and others\n• **Fresh Content**: 17 articles published in the last 24 hours",
+    "generated": "2026-05-18T09:13:59.324Z",
     "stats": {
-      "totalArticles": 58,
-      "aiArticles": 37,
-      "fraudArticles": 9,
-      "sources": 7,
-      "todayCount": 14
+      "totalArticles": 57,
+      "aiArticles": 38,
+      "fraudArticles": 11,
+      "sources": 6,
+      "todayCount": 17
     }
   },
   "top": [
@@ -29,7 +29,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sun, 17 May 2026 19:46:34 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -41,6 +41,17 @@
       "pubDate": "Sun, 17 May 2026 16:32:04 +0000",
       "category": "ai",
       "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "description": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 18 May 2026 01:33:20 -0400",
+      "category": "fraud",
+      "score": 85.6,
       "imageUrl": null
     },
     {
@@ -75,7 +86,9 @@
       "category": "ai",
       "score": 82,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
@@ -86,40 +99,38 @@
       "category": "ai",
       "score": 82,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
-      "title": "The Boring Stuff is Dangerous Now",
-      "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "description": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt acc...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 13:00:00 GMT",
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "description": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 18 May 2026 04:33:14 -0400",
       "category": "ai",
-      "score": 80.5,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
-      "description": "South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 01:00:00 GMT",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "description": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 18 May 2026 03:18:33 -0400",
       "category": "ai",
-      "score": 80.5,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
-      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-17T18:40:28.000Z",
-      "category": "ai",
-      "score": 77.6,
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+      "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+      "description": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$.\nThe post Grafana Confirms Breach After Hackers Claim They Stole Data...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 18 May 2026 08:34:59 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -131,6 +142,28 @@
       "pubDate": "Sun, 17 May 2026 18:30:08 -0400",
       "category": "ai",
       "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Exploitation of Critical NGINX Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "description": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.\nThe post Exploitation of Critical NGINX Vulnerability Begins appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 18 May 2026 07:27:42 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-17T18:40:28.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -343,17 +376,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 17 May 2026 20:15:00 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
       "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
       "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
       "description": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.\nThe post In Other News: Bi...",
@@ -362,6 +384,17 @@
       "pubDate": "Fri, 15 May 2026 14:52:16 +0000",
       "category": "ai",
       "score": 61,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 17 May 2026 20:15:00 +0000",
+      "category": "general",
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -530,17 +563,6 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-      "description": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.\nThe post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 15 May 2026 06:28:46 +0000",
-      "category": "fraud",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
       "link": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
       "description": "Experts and college students used A.I. agents to try to break into and defend computer networks in a national competition. The agents did all right on their own, too.",
@@ -585,17 +607,6 @@
       "imageUrl": null
     },
     {
-      "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
-      "link": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
-      "description": "Treasury Secretary Scott Bessent did not say when these talks would happen. There are fears in the United States and China about the threats from A.I., but neither side is willing to slow down its dev...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 15 May 2026 06:54:12 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
       "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
       "description": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity.",
@@ -604,17 +615,6 @@
       "pubDate": "Fri, 15 May 2026 15:20:34 +0000",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyber Pioneers Ponder Past as Prologue",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
-      "description": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 15 May 2026 12:00:00 GMT",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -648,17 +648,6 @@
       "pubDate": "Fri, 15 May 2026 08:29:48 -0400",
       "category": "general",
       "score": 40.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "description": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.\nThe post Chrome 148 Update Patches Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 15 May 2026 07:25:15 +0000",
-      "category": "general",
-      "score": 40,
       "imageUrl": null
     }
   ],
@@ -671,7 +660,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sun, 17 May 2026 19:46:34 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -683,6 +672,17 @@
       "pubDate": "Sun, 17 May 2026 16:32:04 +0000",
       "category": "ai",
       "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "description": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 18 May 2026 01:33:20 -0400",
+      "category": "fraud",
+      "score": 85.6,
       "imageUrl": null
     },
     {
@@ -730,36 +730,36 @@
       "imageUrl": null
     },
     {
-      "title": "The Boring Stuff is Dangerous Now",
-      "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "description": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt acc...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 13:00:00 GMT",
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "description": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 18 May 2026 04:33:14 -0400",
       "category": "ai",
-      "score": 80.5,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
-      "description": "South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 01:00:00 GMT",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "description": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 18 May 2026 03:18:33 -0400",
       "category": "ai",
-      "score": 80.5,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
-      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-17T18:40:28.000Z",
-      "category": "ai",
-      "score": 77.6,
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+      "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+      "description": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$.\nThe post Grafana Confirms Breach After Hackers Claim They Stole Data...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 18 May 2026 08:34:59 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -771,6 +771,28 @@
       "pubDate": "Sun, 17 May 2026 18:30:08 -0400",
       "category": "ai",
       "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Exploitation of Critical NGINX Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "description": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.\nThe post Exploitation of Critical NGINX Vulnerability Begins appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 18 May 2026 07:27:42 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-17T18:40:28.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -983,17 +1005,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 17 May 2026 20:15:00 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
       "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
       "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
       "description": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.\nThe post In Other News: Bi...",
@@ -1002,6 +1013,17 @@
       "pubDate": "Fri, 15 May 2026 14:52:16 +0000",
       "category": "ai",
       "score": 61,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 17 May 2026 20:15:00 +0000",
+      "category": "general",
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1170,17 +1192,6 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-      "description": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.\nThe post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 15 May 2026 06:28:46 +0000",
-      "category": "fraud",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
       "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
       "link": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
       "description": "Experts and college students used A.I. agents to try to break into and defend computer networks in a national competition. The agents did all right on their own, too.",
@@ -1225,17 +1236,6 @@
       "imageUrl": null
     },
     {
-      "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
-      "link": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
-      "description": "Treasury Secretary Scott Bessent did not say when these talks would happen. There are fears in the United States and China about the threats from A.I., but neither side is willing to slow down its dev...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 15 May 2026 06:54:12 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
       "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
       "description": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity.",
@@ -1244,17 +1244,6 @@
       "pubDate": "Fri, 15 May 2026 15:20:34 +0000",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyber Pioneers Ponder Past as Prologue",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
-      "description": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 15 May 2026 12:00:00 GMT",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -1288,17 +1277,6 @@
       "pubDate": "Fri, 15 May 2026 08:29:48 -0400",
       "category": "general",
       "score": 40.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "description": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.\nThe post Chrome 148 Update Patches Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 15 May 2026 07:25:15 +0000",
-      "category": "general",
-      "score": 40,
       "imageUrl": null
     }
   ]
