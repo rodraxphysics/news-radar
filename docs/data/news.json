@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-05-21T09:10:46.753Z",
+    "generated": "2026-05-21T13:10:39.389Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 112,
+    "totalArticles": 111,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 112 articles from 9 trusted sources, including 76 on Artificial Intelligence and 19 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Prepares to File for an I.P.O. in Coming Weeks\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Hackers bypass SonicWall VPN MFA due to incomplete patching\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, The Verge, SecurityWeek, BleepingComputer and others\n• **Fresh Content**: 57 articles published in the last 24 hours",
-    "generated": "2026-05-21T09:10:46.753Z",
+    "content": "Today's selection covers 111 articles from 9 trusted sources, including 71 on Artificial Intelligence and 22 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Prepares to File for an I.P.O. in Coming Weeks\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, The Verge, TechCrunch, Dark Reading and others\n• **Fresh Content**: 58 articles published in the last 24 hours",
+    "generated": "2026-05-21T13:10:39.389Z",
     "stats": {
-      "totalArticles": 112,
-      "aiArticles": 76,
-      "fraudArticles": 19,
+      "totalArticles": 111,
+      "aiArticles": 71,
+      "fraudArticles": 22,
       "sources": 9,
-      "todayCount": 57
+      "todayCount": 58
     }
   },
   "top": [
@@ -33,14 +33,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
-      "category": "ai",
-      "score": 92,
+      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+      "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+      "description": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.\nThe post Drupal Patches Highly Critical Vulnerability Exposing Websit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 10:58:49 +0000",
+      "category": "fraud",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -77,6 +77,19 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
       "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
       "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
       "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
@@ -86,9 +99,7 @@
       "category": "ai",
       "score": 90,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "OpenAI barrels toward IPO that may happen in September",
       "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
@@ -98,39 +109,6 @@
       "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
       "category": "ai",
       "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
-      "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
-      "description": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and m...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 13:34:54 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
-      "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
-      "description": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.\nThe post Anthropic Silently Patches Claude Code Sandbox Bypass appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
-      "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
-      "description": "The chip maker said its profit in its most recent quarter jumped 211 percent from a year earlier thanks to extreme demand from other big technology companies.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 20 May 2026 22:54:31 +0000",
-      "category": "ai",
-      "score": 87.5,
       "imageUrl": null
     },
     {
@@ -167,14 +145,25 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "description": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 17:19:17 -0400",
+      "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
+      "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
+      "description": "The chip maker said its profit in its most recent quarter jumped 211 percent from a year earlier thanks to extreme demand from other big technology companies.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 20 May 2026 22:54:31 +0000",
+      "category": "ai",
+      "score": 85.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
+      "link": "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/",
+      "description": "The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.\nThe post Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 11:17:15 +0000",
       "category": "fraud",
-      "score": 83.6,
+      "score": 85,
       "imageUrl": null
     },
     {
@@ -200,36 +189,14 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 21 May 2026 06:00:32 GMT",
-      "category": "ai",
+      "title": "Samsung Averts a Walkout With Big Bonuses, but Discord Over A.I. Profits Brews",
+      "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
+      "description": "Samsung Electronics, a global memory chip supplier, has been a major beneficiary of the A.I boom. It has also become the center of a debate over how to divide its spoils.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 21 May 2026 09:45:52 +0000",
+      "category": "fraud",
       "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 21 May 2026 00:28:31 +0000",
-      "category": "ai",
-      "score": 83,
-      "imageUrl": null
-    },
-    {
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying:\nGoogle's cutting-edge research and pr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-19T22:16:02.000Z",
-      "category": "ai",
-      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -288,25 +255,47 @@
       "imageUrl": null
     },
     {
-      "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs",
-      "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
-      "description": "On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 20 May 2026 22:57:52 +0000",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "description": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 17:19:17 -0400",
+      "category": "fraud",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
+      "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+      "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 21 May 2026 06:00:32 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
-      "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
-      "description": "Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 20 May 2026 21:56:06 +0000",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 21 May 2026 00:28:31 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 81,
+      "imageUrl": null
+    },
+    {
+      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
+      "link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
+      "description": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 21 May 2026 13:05:00 GMT",
+      "category": "ai",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -321,36 +310,91 @@
       "imageUrl": null
     },
     {
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact...",
+      "title": "I can’t believe how fast Google vibe coded my first Android app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "description": "That’s my own Android app. Bad, yet impressive. | Photo by Sean Hollister / The Verge\t\n\nYesterday, I built my first Android app. Then, I made two more - three in one afternoon.\nFor one, I literally ty...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-05-21T03:42:45.000Z",
+      "pubDate": "2026-05-21T13:00:00.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "description": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack....",
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "description": "Meta says it needs to “offset the other investments we're making.” | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta has reportedly notified thousands of employees that they've been laid off as...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-21T09:20:46.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+      "description": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 21 May 2026 02:54:01 -0400",
-      "category": "ai",
+      "pubDate": "Thu, 21 May 2026 09:09:51 -0400",
+      "category": "fraud",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "US groups urge investigation into child safety and spending on Roblox",
-      "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-      "description": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 20 May 2026 10:27:50 GMT",
+      "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs",
+      "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
+      "description": "On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 20 May 2026 22:57:52 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
+      "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+      "description": "Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 20 May 2026 21:56:06 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
+      "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
+      "description": "The company has developed a platform that uses specialized AI agents to inspect every incoming message.\nThe post Ocean Emerges From Stealth With $28M for Agentic Email Security Platform appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 11:45:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Socket Raises $60 Million at $1 Billion Valuation",
+      "link": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
+      "description": "The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.\nThe post Socket Raises $60 Million at $1 Billion Valuation appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 10:32:37 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
+      "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
+      "description": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’.\nThe post Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 09:37:08 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -365,58 +409,25 @@
       "imageUrl": null
     },
     {
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "description": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an on...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 17:36:24 -0400",
-      "category": "both",
+      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
+      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-21T03:42:45.000Z",
+      "category": "ai",
       "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "description": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 21 May 2026 02:54:01 -0400",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 22:30:45 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-      "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -431,7 +442,7 @@
       "imageUrl": null
     },
     {
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
       "link": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
       "description": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
       "source": "Dark Reading",
@@ -497,12 +508,12 @@
       "imageUrl": null
     },
     {
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "description": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-20T13:00:00.000Z",
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "description": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an on...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 17:36:24 -0400",
       "category": "both",
       "score": 75.6,
       "imageUrl": null
@@ -519,14 +530,47 @@
       "imageUrl": null
     },
     {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "description": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux sys...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 06:52:31 -0400",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 22:30:45 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -574,67 +618,12 @@
       "imageUrl": null
     },
     {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
       "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
       "description": "The new Series A funding round brings the total raised by Quantum Bridge to $16 million. \nThe post Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution appeared first on Securit...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 20 May 2026 15:45:07 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
-      "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
-      "description": "Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every i...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 14:37:36 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
-      "link": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
-      "description": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace.\nThe post Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack appeared fir...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 11:06:49 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Caught Off Guard: Securing AI After It Hits Production",
-      "link": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
-      "description": "As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.\nThe post Caught Off Guard: Securing AI After It Hits Production appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 11:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
-      "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
-      "description": "Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.\nThe post Virtual...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 10:00:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -695,17 +684,6 @@
       "imageUrl": null
     },
     {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "description": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 08:52:29 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
       "title": "Is 2026 the Year AI Bills of Materials Get Real?",
       "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
       "description": "Understanding AI BOMs and where they fit into risk management for artificial intelligence.",
@@ -717,23 +695,23 @@
       "imageUrl": null
     },
     {
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "description": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 20 May 2026 10:27:50 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Google to release first smart glasses since Google Glass flop",
       "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
       "description": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 19 May 2026 21:00:12 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "description": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 19 May 2026 11:05:09 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -780,6 +758,28 @@
       "pubDate": "Thu, 21 May 2026 03:49:48 -0400",
       "category": "general",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Cisco Patches Critical Vulnerability in Secure Workload",
+      "link": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
+      "description": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges.\nThe post Cisco Patches Critical Vulnerability in Secure Workload appe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 12:04:13 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
+      "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
+      "description": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.\nThe post Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 09:52:05 +0000",
+      "category": "general",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -860,23 +860,23 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 22:03:51 +0000",
-      "category": "general",
-      "score": 68,
+      "title": "The biggest data center ever is becoming a huge problem in Utah",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+      "description": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-20T13:00:00.000Z",
+      "category": "both",
+      "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "The future of Google is a search box that does everything",
-      "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to goo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-19T21:24:14.000Z",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "description": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux sys...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 06:52:31 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -904,17 +904,6 @@
       "imageUrl": null
     },
     {
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "description": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 19 May 2026 15:45:39 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "description": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
@@ -923,6 +912,17 @@
       "pubDate": "Wed, 20 May 2026 19:10:36 +0000",
       "category": "general",
       "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -948,14 +948,14 @@
       "imageUrl": null
     },
     {
-      "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
-      "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-      "description": "Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 21 May 2026 00:23:43 +0000",
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 22:03:51 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -981,6 +981,39 @@
       "imageUrl": null
     },
     {
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "description": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 21 May 2026 07:00:00 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "description": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 08:52:29 -0400",
+      "category": "fraud",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+      "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+      "description": "Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 21 May 2026 00:23:43 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
       "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
       "description": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verificatio...",
@@ -1003,14 +1036,14 @@
       "imageUrl": null
     },
     {
-      "title": "Real-World ICS Security Tales From the Trenches",
-      "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
-      "description": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.\nThe post Real-World ICS Security Tales From the Trenches appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 10:15:00 +0000",
-      "category": "general",
-      "score": 60,
+      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+      "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
+      "description": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 19 May 2026 11:05:09 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1020,17 +1053,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 18 May 2026 23:04:03 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-      "description": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 18 May 2026 09:33:53 GMT",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1091,28 +1113,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Boring Stuff Is Dangerous Now",
-      "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "description": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt acc...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 13:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
-      "link": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
-      "description": "From the MGM and Caesars fiasco and MOVEit's patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations,...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 12:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
       "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
       "description": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.",
@@ -1163,17 +1163,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 20 May 2026 04:14:08 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Discord rolls out end-to-end encryption on voice, video calls",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-      "description": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 19 May 2026 16:37:45 -0400",
       "category": "general",
       "score": 52.6,
       "imageUrl": null
@@ -1269,14 +1258,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
-      "category": "ai",
-      "score": 92,
+      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+      "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+      "description": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.\nThe post Drupal Patches Highly Critical Vulnerability Exposing Websit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 10:58:49 +0000",
+      "category": "fraud",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -1313,6 +1302,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
       "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
       "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
@@ -1332,39 +1332,6 @@
       "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
       "category": "ai",
       "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
-      "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
-      "description": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and m...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 13:34:54 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
-      "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
-      "description": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.\nThe post Anthropic Silently Patches Claude Code Sandbox Bypass appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
-      "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
-      "description": "The chip maker said its profit in its most recent quarter jumped 211 percent from a year earlier thanks to extreme demand from other big technology companies.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 20 May 2026 22:54:31 +0000",
-      "category": "ai",
-      "score": 87.5,
       "imageUrl": null
     },
     {
@@ -1401,14 +1368,25 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "description": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 17:19:17 -0400",
+      "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
+      "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
+      "description": "The chip maker said its profit in its most recent quarter jumped 211 percent from a year earlier thanks to extreme demand from other big technology companies.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 20 May 2026 22:54:31 +0000",
+      "category": "ai",
+      "score": 85.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
+      "link": "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/",
+      "description": "The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.\nThe post Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 11:17:15 +0000",
       "category": "fraud",
-      "score": 83.6,
+      "score": 85,
       "imageUrl": null
     },
     {
@@ -1434,36 +1412,14 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 21 May 2026 06:00:32 GMT",
-      "category": "ai",
+      "title": "Samsung Averts a Walkout With Big Bonuses, but Discord Over A.I. Profits Brews",
+      "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
+      "description": "Samsung Electronics, a global memory chip supplier, has been a major beneficiary of the A.I boom. It has also become the center of a debate over how to divide its spoils.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 21 May 2026 09:45:52 +0000",
+      "category": "fraud",
       "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 21 May 2026 00:28:31 +0000",
-      "category": "ai",
-      "score": 83,
-      "imageUrl": null
-    },
-    {
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying:\nGoogle's cutting-edge research and pr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-19T22:16:02.000Z",
-      "category": "ai",
-      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1522,25 +1478,47 @@
       "imageUrl": null
     },
     {
-      "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs",
-      "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
-      "description": "On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 20 May 2026 22:57:52 +0000",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "description": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 17:19:17 -0400",
+      "category": "fraud",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
+      "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+      "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 21 May 2026 06:00:32 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
-      "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
-      "description": "Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 20 May 2026 21:56:06 +0000",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 21 May 2026 00:28:31 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 81,
+      "imageUrl": null
+    },
+    {
+      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
+      "link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
+      "description": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 21 May 2026 13:05:00 GMT",
+      "category": "ai",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -1555,36 +1533,91 @@
       "imageUrl": null
     },
     {
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact...",
+      "title": "I can’t believe how fast Google vibe coded my first Android app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "description": "That’s my own Android app. Bad, yet impressive. | Photo by Sean Hollister / The Verge\t\n\nYesterday, I built my first Android app. Then, I made two more - three in one afternoon.\nFor one, I literally ty...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-05-21T03:42:45.000Z",
+      "pubDate": "2026-05-21T13:00:00.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "description": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack....",
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "description": "Meta says it needs to “offset the other investments we're making.” | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta has reportedly notified thousands of employees that they've been laid off as...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-21T09:20:46.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+      "description": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 21 May 2026 02:54:01 -0400",
-      "category": "ai",
+      "pubDate": "Thu, 21 May 2026 09:09:51 -0400",
+      "category": "fraud",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "US groups urge investigation into child safety and spending on Roblox",
-      "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-      "description": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 20 May 2026 10:27:50 GMT",
+      "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs",
+      "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
+      "description": "On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 20 May 2026 22:57:52 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
+      "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+      "description": "Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 20 May 2026 21:56:06 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
+      "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
+      "description": "The company has developed a platform that uses specialized AI agents to inspect every incoming message.\nThe post Ocean Emerges From Stealth With $28M for Agentic Email Security Platform appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 11:45:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Socket Raises $60 Million at $1 Billion Valuation",
+      "link": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
+      "description": "The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.\nThe post Socket Raises $60 Million at $1 Billion Valuation appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 10:32:37 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
+      "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
+      "description": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’.\nThe post Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on Se...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 09:37:08 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1599,58 +1632,25 @@
       "imageUrl": null
     },
     {
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "description": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an on...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 17:36:24 -0400",
-      "category": "both",
+      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
+      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-21T03:42:45.000Z",
+      "category": "ai",
       "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "description": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 21 May 2026 02:54:01 -0400",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 22:30:45 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-      "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1665,7 +1665,7 @@
       "imageUrl": null
     },
     {
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
       "link": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
       "description": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
       "source": "Dark Reading",
@@ -1731,12 +1731,12 @@
       "imageUrl": null
     },
     {
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "description": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-20T13:00:00.000Z",
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "description": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an on...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 17:36:24 -0400",
       "category": "both",
       "score": 75.6,
       "imageUrl": null
@@ -1753,14 +1753,47 @@
       "imageUrl": null
     },
     {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "description": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux sys...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 06:52:31 -0400",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 22:30:45 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1808,67 +1841,12 @@
       "imageUrl": null
     },
     {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
       "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
       "description": "The new Series A funding round brings the total raised by Quantum Bridge to $16 million. \nThe post Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution appeared first on Securit...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 20 May 2026 15:45:07 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
-      "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
-      "description": "Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every i...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 14:37:36 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
-      "link": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
-      "description": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace.\nThe post Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack appeared fir...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 11:06:49 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Caught Off Guard: Securing AI After It Hits Production",
-      "link": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
-      "description": "As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.\nThe post Caught Off Guard: Securing AI After It Hits Production appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 11:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
-      "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
-      "description": "Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.\nThe post Virtual...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 10:00:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1929,17 +1907,6 @@
       "imageUrl": null
     },
     {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "description": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 20 May 2026 08:52:29 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
       "title": "Is 2026 the Year AI Bills of Materials Get Real?",
       "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
       "description": "Understanding AI BOMs and where they fit into risk management for artificial intelligence.",
@@ -1951,23 +1918,23 @@
       "imageUrl": null
     },
     {
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "description": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 20 May 2026 10:27:50 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Google to release first smart glasses since Google Glass flop",
       "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
       "description": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 19 May 2026 21:00:12 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "description": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 19 May 2026 11:05:09 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -2014,6 +1981,28 @@
       "pubDate": "Thu, 21 May 2026 03:49:48 -0400",
       "category": "general",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Cisco Patches Critical Vulnerability in Secure Workload",
+      "link": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
+      "description": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges.\nThe post Cisco Patches Critical Vulnerability in Secure Workload appe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 12:04:13 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
+      "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
+      "description": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.\nThe post Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 21 May 2026 09:52:05 +0000",
+      "category": "general",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -2094,23 +2083,23 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 20 May 2026 22:03:51 +0000",
-      "category": "general",
-      "score": 68,
+      "title": "The biggest data center ever is becoming a huge problem in Utah",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+      "description": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-20T13:00:00.000Z",
+      "category": "both",
+      "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "The future of Google is a search box that does everything",
-      "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to goo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-19T21:24:14.000Z",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "description": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux sys...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 06:52:31 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -2138,17 +2127,6 @@
       "imageUrl": null
     },
     {
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "description": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 19 May 2026 15:45:39 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "description": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
@@ -2157,6 +2135,17 @@
       "pubDate": "Wed, 20 May 2026 19:10:36 +0000",
       "category": "general",
       "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -2182,14 +2171,14 @@
       "imageUrl": null
     },
     {
-      "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
-      "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-      "description": "Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 21 May 2026 00:23:43 +0000",
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 20 May 2026 22:03:51 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -2215,6 +2204,39 @@
       "imageUrl": null
     },
     {
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "description": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 21 May 2026 07:00:00 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "description": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 20 May 2026 08:52:29 -0400",
+      "category": "fraud",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+      "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+      "description": "Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 21 May 2026 00:23:43 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
       "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
       "description": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verificatio...",
@@ -2237,14 +2259,14 @@
       "imageUrl": null
     },
     {
-      "title": "Real-World ICS Security Tales From the Trenches",
-      "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
-      "description": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.\nThe post Real-World ICS Security Tales From the Trenches appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 20 May 2026 10:15:00 +0000",
-      "category": "general",
-      "score": 60,
+      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+      "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
+      "description": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 19 May 2026 11:05:09 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -2254,17 +2276,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 18 May 2026 23:04:03 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-      "description": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 18 May 2026 09:33:53 GMT",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -2325,28 +2336,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Boring Stuff Is Dangerous Now",
-      "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "description": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt acc...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 13:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
-      "link": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
-      "description": "From the MGM and Caesars fiasco and MOVEit's patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations,...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 18 May 2026 12:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
       "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
       "description": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.",
@@ -2397,17 +2386,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 20 May 2026 04:14:08 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Discord rolls out end-to-end encryption on voice, video calls",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-      "description": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 19 May 2026 16:37:45 -0400",
       "category": "general",
       "score": 52.6,
       "imageUrl": null
