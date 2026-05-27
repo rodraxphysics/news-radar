@@ -1,35 +1,46 @@
 {
   "metadata": {
-    "generated": "2026-05-27T05:31:41.489Z",
+    "generated": "2026-05-27T09:11:17.464Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 61,
+    "totalArticles": 64,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 61 articles from 9 trusted sources, including 43 on Artificial Intelligence and 9 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Champion ethical hacker warns AI tools like Mythos could put her out of business\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: 7-Eleven data breach exposes personal information of 185,000 people\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, The Verge, BleepingComputer, SecurityWeek, NY Times Tech and others\n• **Fresh Content**: 41 articles published in the last 24 hours",
-    "generated": "2026-05-27T05:31:41.489Z",
+    "content": "Today's selection covers 64 articles from 9 trusted sources, including 43 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Champion ethical hacker warns AI tools like Mythos will make competing harder\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: 7-Eleven data breach exposes personal information of 185,000 people\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, SecurityWeek, The Verge, BleepingComputer, NY Times Tech and others\n• **Fresh Content**: 42 articles published in the last 24 hours",
+    "generated": "2026-05-27T09:11:17.464Z",
     "stats": {
-      "totalArticles": 61,
+      "totalArticles": 64,
       "aiArticles": 43,
-      "fraudArticles": 9,
+      "fraudArticles": 10,
       "sources": 9,
-      "todayCount": 41
+      "todayCount": 42
     }
   },
   "top": [
     {
-      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
       "description": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 27 May 2026 00:43:55 GMT",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
+      "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
+      "description": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally.\nThe post Anthropic Releases New Claude Sandbox, Security Guidanc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 06:43:08 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -40,7 +51,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-27T00:38:11.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -75,7 +86,9 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
       "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
@@ -84,19 +97,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 26 May 2026 10:01:11 -0400",
       "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "description": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notificatio...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 03:01:12 -0400",
-      "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
@@ -134,17 +134,6 @@
       "imageUrl": null
     },
     {
-      "title": "Instagram betting ads featuring Kane and Haaland banned",
-      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
       "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "description": "Pope Leo XIV attends the presentation of his first encyclical letter, Magnifica Humanitas, on May 25th, 2026 in Vatican City, Vatican. | Photo: Getty Images\t\n\nPope Leo XIV warned of the risks of AI an...",
@@ -152,6 +141,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-25T15:05:07.000Z",
       "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "description": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notificatio...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 03:01:12 -0400",
+      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -178,12 +178,12 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
-      "description": "What is the role of a teacher once AI arrives in the school classroom?",
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 26 May 2026 19:30:00 GMT",
+      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -200,17 +200,6 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
-      "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-      "description": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 26 May 2026 18:59:37 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
       "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
       "link": "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
       "description": "",
@@ -219,6 +208,17 @@
       "pubDate": "2026-06-18T15:00:00.000Z",
       "category": "fraud",
       "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Dutch police arrests suspect linked to Ajax football club hack",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
+      "description": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 05:09:03 -0400",
+      "category": "fraud",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -233,58 +233,25 @@
       "imageUrl": null
     },
     {
-      "title": "‘The Maids,’ With Yerin Ha, Asks: Has Life Become One Big Performance?",
-      "link": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
-      "description": "In his rethinking of Jean Genet’s classic work about class and power, Kip Williams ponders “a world that gives you every opportunity not to be yourself.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 26 May 2026 09:02:55 +0000",
-      "category": "both",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
+      "description": "What is the role of a teacher once AI arrives in the school classroom?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 26 May 2026 19:30:00 GMT",
+      "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "description": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 26 May 2026 19:50:33 +0000",
+      "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
+      "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+      "description": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 26 May 2026 18:59:37 +0000",
       "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
-      "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
-      "description": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 19:47:14 GMT",
-      "category": "both",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "description": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
-      "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "description": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 15:46:01 -0400",
-      "category": "both",
-      "score": 77.6,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -299,14 +266,47 @@
       "imageUrl": null
     },
     {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 26 May 2026 18:33:01 +0000",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "description": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 26 May 2026 19:50:33 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
+      "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+      "description": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:47:14 GMT",
+      "category": "both",
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "description": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
+      "category": "ai",
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+      "description": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.\nThe post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 06:55:44 +0000",
+      "category": "fraud",
+      "score": 76,
       "imageUrl": null
     },
     {
@@ -321,25 +321,25 @@
       "imageUrl": null
     },
     {
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "description": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively...",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "description": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 04:46:45 -0400",
-      "category": "ai",
+      "pubDate": "Tue, 26 May 2026 15:46:01 -0400",
+      "category": "both",
       "score": 75.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "description": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 03:41:25 -0400",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 26 May 2026 18:33:01 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -427,18 +427,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 26 May 2026 16:07:31 -0400",
       "category": "fraud",
-      "score": 74.6,
-      "imageUrl": null
-    },
-    {
-      "title": "UK Institute Is Hunting for Dangers Lurking in AI",
-      "link": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
-      "description": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 24 May 2026 09:01:43 +0000",
-      "category": "ai",
-      "score": 74.5,
+      "score": 72.6,
       "imageUrl": null
     },
     {
@@ -449,6 +438,17 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 25 May 2026 18:35:03 +0000",
       "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "‘The Maids,’ With Yerin Ha, Asks: Has Life Become One Big Performance?",
+      "link": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
+      "description": "In his rethinking of Jean Genet’s classic work about class and power, Kip Williams ponders “a world that gives you every opportunity not to be yourself.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 26 May 2026 09:02:55 +0000",
+      "category": "both",
       "score": 71.5,
       "imageUrl": null
     },
@@ -472,6 +472,50 @@
       "pubDate": "2026-05-24T12:00:00.000Z",
       "category": "ai",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
+      "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+      "description": "What an A.I.-generated video of the former reality TV star teaches us about the future of political ads.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 27 May 2026 09:02:21 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+      "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
+      "description": "A Mad Hatter and a giant rabbit sit around a table discussing an A.I. start-up. This is normal behavior around the Bay Area these days.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 27 May 2026 09:00:11 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "description": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 04:46:45 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "description": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 03:41:25 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -519,17 +563,6 @@
       "imageUrl": null
     },
     {
-      "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
-      "link": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
-      "description": "The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.\nThe post Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Net...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 09:47:19 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Infosecurity Europe",
       "link": "https://www.darkreading.com/events/infosecurity-europe",
       "description": "",
@@ -541,13 +574,24 @@
       "imageUrl": null
     },
     {
-      "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
-      "link": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
-      "description": "Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.\nThe post Ghost CMS Vulnerability Exploited to Hack Over 700 Websites appea...",
+      "title": "Windows 11 KB5089573 update released with performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+      "description": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 04:33:46 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
+      "link": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
+      "description": "The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.\nThe post FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data appeared first on Securit...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 25 May 2026 13:27:12 +0000",
-      "category": "fraud",
+      "pubDate": "Wed, 27 May 2026 08:33:34 +0000",
+      "category": "general",
       "score": 64,
       "imageUrl": null
     },
@@ -559,7 +603,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 26 May 2026 18:25:44 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -591,17 +635,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 26 May 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
-      "link": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
-      "description": "Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.\nThe post Lithuania Suspects Foreign Involvement in Data Leak of Ove...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 10:26:56 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -697,14 +730,25 @@
   ],
   "all": [
     {
-      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
       "description": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 27 May 2026 00:43:55 GMT",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
+      "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
+      "description": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally.\nThe post Anthropic Releases New Claude Sandbox, Security Guidanc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 06:43:08 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -715,7 +759,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-27T00:38:11.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -763,17 +807,6 @@
       "imageUrl": null
     },
     {
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "description": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notificatio...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 03:01:12 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
       "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
       "description": "Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.\nThe post Anthropic Expands Claude’s Enterprise Security Governance With...",
@@ -807,17 +840,6 @@
       "imageUrl": null
     },
     {
-      "title": "Instagram betting ads featuring Kane and Haaland banned",
-      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
       "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "description": "Pope Leo XIV attends the presentation of his first encyclical letter, Magnifica Humanitas, on May 25th, 2026 in Vatican City, Vatican. | Photo: Getty Images\t\n\nPope Leo XIV warned of the risks of AI an...",
@@ -825,6 +847,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-25T15:05:07.000Z",
       "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "description": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notificatio...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 03:01:12 -0400",
+      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -851,12 +884,12 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
-      "description": "What is the role of a teacher once AI arrives in the school classroom?",
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 26 May 2026 19:30:00 GMT",
+      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -873,17 +906,6 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
-      "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-      "description": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 26 May 2026 18:59:37 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
       "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
       "link": "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
       "description": "",
@@ -892,6 +914,17 @@
       "pubDate": "2026-06-18T15:00:00.000Z",
       "category": "fraud",
       "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Dutch police arrests suspect linked to Ajax football club hack",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
+      "description": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 05:09:03 -0400",
+      "category": "fraud",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -906,58 +939,25 @@
       "imageUrl": null
     },
     {
-      "title": "‘The Maids,’ With Yerin Ha, Asks: Has Life Become One Big Performance?",
-      "link": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
-      "description": "In his rethinking of Jean Genet’s classic work about class and power, Kip Williams ponders “a world that gives you every opportunity not to be yourself.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 26 May 2026 09:02:55 +0000",
-      "category": "both",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
+      "description": "What is the role of a teacher once AI arrives in the school classroom?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 26 May 2026 19:30:00 GMT",
+      "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "description": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 26 May 2026 19:50:33 +0000",
+      "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
+      "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+      "description": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 26 May 2026 18:59:37 +0000",
       "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
-      "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
-      "description": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 19:47:14 GMT",
-      "category": "both",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "description": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
-      "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "description": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 15:46:01 -0400",
-      "category": "both",
-      "score": 77.6,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -972,14 +972,47 @@
       "imageUrl": null
     },
     {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 26 May 2026 18:33:01 +0000",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "description": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 26 May 2026 19:50:33 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
+      "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+      "description": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:47:14 GMT",
+      "category": "both",
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "description": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
+      "category": "ai",
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+      "description": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.\nThe post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 06:55:44 +0000",
+      "category": "fraud",
+      "score": 76,
       "imageUrl": null
     },
     {
@@ -994,25 +1027,25 @@
       "imageUrl": null
     },
     {
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "description": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively...",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "description": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 04:46:45 -0400",
-      "category": "ai",
+      "pubDate": "Tue, 26 May 2026 15:46:01 -0400",
+      "category": "both",
       "score": 75.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "description": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 03:41:25 -0400",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 26 May 2026 18:33:01 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1100,18 +1133,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 26 May 2026 16:07:31 -0400",
       "category": "fraud",
-      "score": 74.6,
-      "imageUrl": null
-    },
-    {
-      "title": "UK Institute Is Hunting for Dangers Lurking in AI",
-      "link": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
-      "description": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 24 May 2026 09:01:43 +0000",
-      "category": "ai",
-      "score": 74.5,
+      "score": 72.6,
       "imageUrl": null
     },
     {
@@ -1122,6 +1144,17 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 25 May 2026 18:35:03 +0000",
       "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "‘The Maids,’ With Yerin Ha, Asks: Has Life Become One Big Performance?",
+      "link": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
+      "description": "In his rethinking of Jean Genet’s classic work about class and power, Kip Williams ponders “a world that gives you every opportunity not to be yourself.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 26 May 2026 09:02:55 +0000",
+      "category": "both",
       "score": 71.5,
       "imageUrl": null
     },
@@ -1145,6 +1178,50 @@
       "pubDate": "2026-05-24T12:00:00.000Z",
       "category": "ai",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
+      "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+      "description": "What an A.I.-generated video of the former reality TV star teaches us about the future of political ads.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 27 May 2026 09:02:21 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+      "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
+      "description": "A Mad Hatter and a giant rabbit sit around a table discussing an A.I. start-up. This is normal behavior around the Bay Area these days.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 27 May 2026 09:00:11 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "description": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 04:46:45 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "description": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 03:41:25 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1192,17 +1269,6 @@
       "imageUrl": null
     },
     {
-      "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
-      "link": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
-      "description": "The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.\nThe post Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Net...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 09:47:19 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Infosecurity Europe",
       "link": "https://www.darkreading.com/events/infosecurity-europe",
       "description": "",
@@ -1214,13 +1280,24 @@
       "imageUrl": null
     },
     {
-      "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
-      "link": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
-      "description": "Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.\nThe post Ghost CMS Vulnerability Exploited to Hack Over 700 Websites appea...",
+      "title": "Windows 11 KB5089573 update released with performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+      "description": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 04:33:46 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
+      "link": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
+      "description": "The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.\nThe post FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data appeared first on Securit...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 25 May 2026 13:27:12 +0000",
-      "category": "fraud",
+      "pubDate": "Wed, 27 May 2026 08:33:34 +0000",
+      "category": "general",
       "score": 64,
       "imageUrl": null
     },
@@ -1232,7 +1309,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 26 May 2026 18:25:44 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1264,17 +1341,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 26 May 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
-      "link": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
-      "description": "Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.\nThe post Lithuania Suspects Foreign Involvement in Data Leak of Ove...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 10:26:56 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
