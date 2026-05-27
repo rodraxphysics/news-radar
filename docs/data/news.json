@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-05-27T09:11:17.464Z",
+    "generated": "2026-05-27T13:12:15.020Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 64,
+    "totalArticles": 77,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 64 articles from 9 trusted sources, including 43 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Champion ethical hacker warns AI tools like Mythos will make competing harder\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: 7-Eleven data breach exposes personal information of 185,000 people\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, SecurityWeek, The Verge, BleepingComputer, NY Times Tech and others\n• **Fresh Content**: 42 articles published in the last 24 hours",
-    "generated": "2026-05-27T09:11:17.464Z",
+    "content": "Today's selection covers 77 articles from 9 trusted sources, including 51 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: The Pope isn’t AGI-pilled\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: CISA gives feds 4 days to patch actively exploited cPanel plugin flaw\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, BBC Technology, BleepingComputer, Krebs on Security, Dark Reading and others\n• **Fresh Content**: 51 articles published in the last 24 hours",
+    "generated": "2026-05-27T13:12:15.020Z",
     "stats": {
-      "totalArticles": 64,
-      "aiArticles": 43,
-      "fraudArticles": 10,
+      "totalArticles": 77,
+      "aiArticles": 51,
+      "fraudArticles": 13,
       "sources": 9,
-      "todayCount": 42
+      "todayCount": 51
     }
   },
   "top": [
+    {
+      "title": "The Pope isn’t AGI-pilled",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "description": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a pur...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-27T12:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
@@ -29,18 +40,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 27 May 2026 00:43:55 GMT",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
-      "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
-      "description": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally.\nThe post Anthropic Releases New Claude Sandbox, Security Guidanc...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 27 May 2026 06:43:08 +0000",
-      "category": "ai",
-      "score": 94,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -51,7 +51,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-27T00:38:11.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -66,30 +66,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI warfare is already here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-26T12:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber president says AI spending is getting ‘harder to justify’",
-      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "description": "Uber president Andrew Macdonald (pictured) says it’s “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson / Bloomberg via Getty Images\t\n\nAfter reportedly exhausting...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-26T09:55:09.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
       "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
       "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
       "description": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and...",
@@ -98,28 +74,6 @@
       "pubDate": "Tue, 26 May 2026 10:01:11 -0400",
       "category": "ai",
       "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
-      "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
-      "description": "Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.\nThe post Anthropic Expands Claude’s Enterprise Security Governance With...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:44:53 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
-      "link": "https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html",
-      "description": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 25 May 2026 12:46:11 +0000",
-      "category": "ai",
-      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -132,6 +86,41 @@
       "category": "ai",
       "score": 85.6,
       "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Porn company fined £600,000 by Ofcom over age check failings",
+      "link": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
+      "description": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 27 May 2026 10:33:46 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI warfare is already here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-26T12:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Uber president says AI spending is getting ‘harder to justify’",
+      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "description": "Uber president Andrew Macdonald (pictured) says it’s “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson / Bloomberg via Getty Images\t\n\nAfter reportedly exhausting...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-26T09:55:09.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
     },
     {
       "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
@@ -141,6 +130,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-25T15:05:07.000Z",
       "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plu...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 06:06:17 -0400",
+      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -167,36 +167,14 @@
       "imageUrl": null
     },
     {
-      "title": "Webinar: Too many tools are slowing network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "description": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-as...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 08:16:24 -0400",
+      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
+      "description": "The cybersecurity industry of 2006 barely resembled today's billion-dollar behemoth. As part of Dark Reading's 20th anniversary celebration, we trace the industry's evolution through a technology lens...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 27 May 2026 12:11:30 GMT",
       "category": "ai",
-      "score": 81.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Instagram betting ads featuring Kane and Haaland banned",
-      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
-      "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
-      "description": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 26 May 2026 21:54:36 +0000",
-      "category": "ai",
-      "score": 81.5,
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -211,6 +189,28 @@
       "imageUrl": null
     },
     {
+      "title": "YouTube is putting AI labels where you’ll actually see them",
+      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "description": "The labels are more prominent, and they actually say “AI” now. | Image: YouTube / The Verge\t\n\nIn the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-27T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "description": "Yellow taxis pass in front of The New York Times newspaper building. | Alexandra Schuler/dpa (Photo by Alexandra Schuler/picture alliance via Getty Images)\t\n\nHow newsrooms should use AI - or if they s...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-27T12:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Dutch police arrests suspect linked to Ajax football club hack",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
       "description": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
@@ -219,6 +219,17 @@
       "pubDate": "Wed, 27 May 2026 05:09:03 -0400",
       "category": "fraud",
       "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -244,6 +255,17 @@
       "imageUrl": null
     },
     {
+      "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
+      "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
+      "description": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 26 May 2026 21:54:36 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
       "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
       "description": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
@@ -255,14 +277,113 @@
       "imageUrl": null
     },
     {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "description": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+      "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 27 May 2026 12:30:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "description": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 27 May 2026 12:30:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
+      "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
+      "description": "Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals.\nThe post...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
+      "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
+      "description": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries.\nThe post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 11:52:55 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
+      "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
+      "description": "The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion.\nThe post Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 11:01:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+      "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
+      "description": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response.\nThe post The Credential Crisis: How Stole...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 10:30:00 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
+      "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
+      "description": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 10:15:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "GlassWorm Botnet Disrupted",
+      "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
+      "description": "Security firms took down all four command-and-control (C&C) channels used by the GlassWorm malware.\nThe post GlassWorm Botnet Disrupted appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 10:10:00 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
+      "link": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
+      "description": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors.\nThe post LA Metro Cyberattack Linked to Iranian State-Sponsored Hac...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 09:33:45 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -288,36 +409,36 @@
       "imageUrl": null
     },
     {
-      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "description": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
+      "link": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "description": "A recent congressional hearing highlighted how states are reeling from federal cutbacks to important cyber grants and information sharing initiatives amid damaging attacks to critical infrastructure.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
+      "pubDate": "Tue, 26 May 2026 19:29:56 GMT",
       "category": "ai",
       "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-      "description": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.\nThe post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 27 May 2026 06:55:44 +0000",
-      "category": "fraud",
-      "score": 76,
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "description": "TeamPCP, the cybercrime group behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
+      "category": "both",
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "description": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images\t\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-26T12:46:03.000Z",
+      "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge",
+      "link": "https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge",
+      "description": "Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:12:52 GMT",
       "category": "ai",
-      "score": 75.6,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -329,6 +450,17 @@
       "pubDate": "Tue, 26 May 2026 15:46:01 -0400",
       "category": "both",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -365,58 +497,36 @@
       "imageUrl": null
     },
     {
-      "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
-      "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
-      "description": "Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corre...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 14:00:00 +0000",
+      "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
+      "link": "https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html",
+      "description": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 25 May 2026 12:46:11 +0000",
       "category": "ai",
-      "score": 75,
+      "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-      "link": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-      "description": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran.\nThe post Iranian APT Targets Aviation, Software Companies With Updated Tools appeared first on Sec...",
+      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+      "description": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.\nThe post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 13:26:17 +0000",
-      "category": "ai",
-      "score": 75,
+      "pubDate": "Wed, 27 May 2026 06:55:44 +0000",
+      "category": "fraud",
+      "score": 74,
       "imageUrl": null
     },
     {
-      "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
-      "link": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
-      "description": "The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.\nThe post 185,000 Likely Impacted by 7-Eleven Data Breach appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:59:40 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available",
-      "link": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
-      "description": "Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.\nThe post Watch on Demand: Threat Det...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:00:00 +0000",
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "description": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-as...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 08:16:24 -0400",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
-      "link": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
-      "description": "DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.\nThe post Open...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 10:45:00 +0000",
-      "category": "ai",
-      "score": 75,
+      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -464,14 +574,25 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-24T12:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
+      "title": "The rise of the fruit that tastes like custard",
+      "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 27 May 2026 10:58:45 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time",
+      "link": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html",
+      "description": "The American Federation of Teachers recommended “no screens” at all for those in second grade or younger, and no A.I. chatbots for students in elementary school.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 27 May 2026 12:58:05 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -497,6 +618,17 @@
       "imageUrl": null
     },
     {
+      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+      "description": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images\t\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almo...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-26T12:46:03.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
       "description": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively...",
@@ -515,17 +647,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 26 May 2026 03:41:25 -0400",
       "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-      "description": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 25 May 2026 08:45:54 -0400",
-      "category": "fraud",
       "score": 67.6,
       "imageUrl": null
     },
@@ -552,17 +673,6 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
-      "link": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
-      "description": "Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.\nThe post Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deplo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:14:31 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Infosecurity Europe",
       "link": "https://www.darkreading.com/events/infosecurity-europe",
       "description": "",
@@ -574,6 +684,17 @@
       "imageUrl": null
     },
     {
+      "title": "FBI warns of in-person data theft attacks from extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+      "description": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 07:51:12 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "Windows 11 KB5089573 update released with performance improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
       "description": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
@@ -582,6 +703,28 @@
       "pubDate": "Wed, 27 May 2026 04:33:46 -0400",
       "category": "general",
       "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "description": "The database provider is eyeing a public debut within the next few years.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 27 May 2026 13:04:20 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
+      "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
+      "description": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network.\nThe post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 11:37:19 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -607,28 +750,6 @@
       "imageUrl": null
     },
     {
-      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
-      "description": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson's instrumental role in building and el...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 12:00:00 GMT",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "description": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 08:19:43 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
       "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
       "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
       "description": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
@@ -640,14 +761,14 @@
       "imageUrl": null
     },
     {
-      "title": "The rise of the fruit that tastes like custard",
-      "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 25 May 2026 23:27:04 GMT",
-      "category": "general",
-      "score": 56.5,
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "description": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 25 May 2026 08:45:54 -0400",
+      "category": "fraud",
+      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -684,14 +805,25 @@
       "imageUrl": null
     },
     {
-      "title": "US's big bet on quantum computing may not be entirely legal",
-      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-      "description": "Deal also launched the first quantum foundry company, but is there a need for it?",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 25 May 2026 12:00:15 +0000",
+      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
+      "description": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson's instrumental role in building and el...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 12:00:00 GMT",
       "category": "general",
       "score": 53.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "description": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 08:19:43 -0400",
+      "category": "general",
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -714,6 +846,17 @@
       "pubDate": "Mon, 25 May 2026 14:00:00 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "description": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 25 May 2026 12:00:15 +0000",
+      "category": "general",
+      "score": 41.5,
       "imageUrl": null
     },
     {
@@ -730,6 +873,17 @@
   ],
   "all": [
     {
+      "title": "The Pope isn’t AGI-pilled",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "description": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a pur...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-27T12:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
       "description": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
@@ -737,18 +891,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 27 May 2026 00:43:55 GMT",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
-      "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
-      "description": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally.\nThe post Anthropic Releases New Claude Sandbox, Security Guidanc...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 27 May 2026 06:43:08 +0000",
-      "category": "ai",
-      "score": 94,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -759,7 +902,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-27T00:38:11.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -769,28 +912,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-05-26T14:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI warfare is already here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-26T12:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber president says AI spending is getting ‘harder to justify’",
-      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "description": "Uber president Andrew Macdonald (pictured) says it’s “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson / Bloomberg via Getty Images\t\n\nAfter reportedly exhausting...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-26T09:55:09.000Z",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -807,28 +928,6 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
-      "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
-      "description": "Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.\nThe post Anthropic Expands Claude’s Enterprise Security Governance With...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:44:53 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
-      "link": "https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html",
-      "description": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 25 May 2026 12:46:11 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "description": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and...",
@@ -840,6 +939,39 @@
       "imageUrl": null
     },
     {
+      "title": "Porn company fined £600,000 by Ofcom over age check failings",
+      "link": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
+      "description": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 27 May 2026 10:33:46 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI warfare is already here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-26T12:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Uber president says AI spending is getting ‘harder to justify’",
+      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "description": "Uber president Andrew Macdonald (pictured) says it’s “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson / Bloomberg via Getty Images\t\n\nAfter reportedly exhausting...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-26T09:55:09.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
       "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "description": "Pope Leo XIV attends the presentation of his first encyclical letter, Magnifica Humanitas, on May 25th, 2026 in Vatican City, Vatican. | Photo: Getty Images\t\n\nPope Leo XIV warned of the risks of AI an...",
@@ -847,6 +979,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-05-25T15:05:07.000Z",
       "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plu...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 06:06:17 -0400",
+      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -873,36 +1016,14 @@
       "imageUrl": null
     },
     {
-      "title": "Webinar: Too many tools are slowing network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "description": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-as...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 08:16:24 -0400",
+      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
+      "description": "The cybersecurity industry of 2006 barely resembled today's billion-dollar behemoth. As part of Dark Reading's 20th anniversary celebration, we trace the industry's evolution through a technology lens...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 27 May 2026 12:11:30 GMT",
       "category": "ai",
-      "score": 81.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Instagram betting ads featuring Kane and Haaland banned",
-      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
-      "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
-      "description": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 26 May 2026 21:54:36 +0000",
-      "category": "ai",
-      "score": 81.5,
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -917,6 +1038,28 @@
       "imageUrl": null
     },
     {
+      "title": "YouTube is putting AI labels where you’ll actually see them",
+      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "description": "The labels are more prominent, and they actually say “AI” now. | Image: YouTube / The Verge\t\n\nIn the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-27T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "description": "Yellow taxis pass in front of The New York Times newspaper building. | Alexandra Schuler/dpa (Photo by Alexandra Schuler/picture alliance via Getty Images)\t\n\nHow newsrooms should use AI - or if they s...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-27T12:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Dutch police arrests suspect linked to Ajax football club hack",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
       "description": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
@@ -925,6 +1068,17 @@
       "pubDate": "Wed, 27 May 2026 05:09:03 -0400",
       "category": "fraud",
       "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 26 May 2026 23:33:40 GMT",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -950,6 +1104,17 @@
       "imageUrl": null
     },
     {
+      "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
+      "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
+      "description": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 26 May 2026 21:54:36 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
       "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
       "description": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
@@ -961,14 +1126,113 @@
       "imageUrl": null
     },
     {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "description": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+      "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 27 May 2026 12:30:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "description": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 27 May 2026 12:30:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
+      "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
+      "description": "Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals.\nThe post...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
+      "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
+      "description": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries.\nThe post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 11:52:55 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
+      "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
+      "description": "The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion.\nThe post Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 11:01:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+      "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
+      "description": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response.\nThe post The Credential Crisis: How Stole...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 10:30:00 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
+      "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
+      "description": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 10:15:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "GlassWorm Botnet Disrupted",
+      "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
+      "description": "Security firms took down all four command-and-control (C&C) channels used by the GlassWorm malware.\nThe post GlassWorm Botnet Disrupted appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 10:10:00 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
+      "link": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
+      "description": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors.\nThe post LA Metro Cyberattack Linked to Iranian State-Sponsored Hac...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 09:33:45 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -994,36 +1258,36 @@
       "imageUrl": null
     },
     {
-      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "description": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
+      "link": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "description": "A recent congressional hearing highlighted how states are reeling from federal cutbacks to important cyber grants and information sharing initiatives amid damaging attacks to critical infrastructure.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
+      "pubDate": "Tue, 26 May 2026 19:29:56 GMT",
       "category": "ai",
       "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-      "description": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.\nThe post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 27 May 2026 06:55:44 +0000",
-      "category": "fraud",
-      "score": 76,
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "description": "TeamPCP, the cybercrime group behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:18:01 GMT",
+      "category": "both",
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "description": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images\t\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-26T12:46:03.000Z",
+      "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge",
+      "link": "https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge",
+      "description": "Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 19:12:52 GMT",
       "category": "ai",
-      "score": 75.6,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1035,6 +1299,17 @@
       "pubDate": "Tue, 26 May 2026 15:46:01 -0400",
       "category": "both",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1071,58 +1346,36 @@
       "imageUrl": null
     },
     {
-      "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
-      "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
-      "description": "Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corre...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 14:00:00 +0000",
+      "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
+      "link": "https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html",
+      "description": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 25 May 2026 12:46:11 +0000",
       "category": "ai",
-      "score": 75,
+      "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-      "link": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-      "description": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran.\nThe post Iranian APT Targets Aviation, Software Companies With Updated Tools appeared first on Sec...",
+      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+      "description": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.\nThe post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 13:26:17 +0000",
-      "category": "ai",
-      "score": 75,
+      "pubDate": "Wed, 27 May 2026 06:55:44 +0000",
+      "category": "fraud",
+      "score": 74,
       "imageUrl": null
     },
     {
-      "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
-      "link": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
-      "description": "The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.\nThe post 185,000 Likely Impacted by 7-Eleven Data Breach appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:59:40 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available",
-      "link": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
-      "description": "Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.\nThe post Watch on Demand: Threat Det...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:00:00 +0000",
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "description": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-as...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 08:16:24 -0400",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
-      "link": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
-      "description": "DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.\nThe post Open...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 10:45:00 +0000",
-      "category": "ai",
-      "score": 75,
+      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -1170,14 +1423,25 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-24T12:00:00.000Z",
-      "category": "ai",
-      "score": 70.6,
+      "title": "The rise of the fruit that tastes like custard",
+      "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 27 May 2026 10:58:45 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time",
+      "link": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html",
+      "description": "The American Federation of Teachers recommended “no screens” at all for those in second grade or younger, and no A.I. chatbots for students in elementary school.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 27 May 2026 12:58:05 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1203,6 +1467,17 @@
       "imageUrl": null
     },
     {
+      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+      "description": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images\t\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almo...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-26T12:46:03.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
       "description": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively...",
@@ -1221,17 +1496,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 26 May 2026 03:41:25 -0400",
       "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-      "description": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 25 May 2026 08:45:54 -0400",
-      "category": "fraud",
       "score": 67.6,
       "imageUrl": null
     },
@@ -1258,17 +1522,6 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
-      "link": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
-      "description": "Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.\nThe post Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deplo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 26 May 2026 11:14:31 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Infosecurity Europe",
       "link": "https://www.darkreading.com/events/infosecurity-europe",
       "description": "",
@@ -1280,6 +1533,17 @@
       "imageUrl": null
     },
     {
+      "title": "FBI warns of in-person data theft attacks from extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+      "description": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 27 May 2026 07:51:12 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "Windows 11 KB5089573 update released with performance improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
       "description": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
@@ -1288,6 +1552,28 @@
       "pubDate": "Wed, 27 May 2026 04:33:46 -0400",
       "category": "general",
       "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "description": "The database provider is eyeing a public debut within the next few years.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 27 May 2026 13:04:20 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
+      "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
+      "description": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network.\nThe post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 27 May 2026 11:37:19 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1313,28 +1599,6 @@
       "imageUrl": null
     },
     {
-      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
-      "description": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson's instrumental role in building and el...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 26 May 2026 12:00:00 GMT",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "description": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 26 May 2026 08:19:43 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
       "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
       "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
       "description": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
@@ -1346,14 +1610,14 @@
       "imageUrl": null
     },
     {
-      "title": "The rise of the fruit that tastes like custard",
-      "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 25 May 2026 23:27:04 GMT",
-      "category": "general",
-      "score": 56.5,
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "description": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 25 May 2026 08:45:54 -0400",
+      "category": "fraud",
+      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -1390,14 +1654,25 @@
       "imageUrl": null
     },
     {
-      "title": "US's big bet on quantum computing may not be entirely legal",
-      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-      "description": "Deal also launched the first quantum foundry company, but is there a need for it?",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 25 May 2026 12:00:15 +0000",
+      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
+      "description": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson's instrumental role in building and el...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 26 May 2026 12:00:00 GMT",
       "category": "general",
       "score": 53.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "description": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 26 May 2026 08:19:43 -0400",
+      "category": "general",
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -1420,6 +1695,17 @@
       "pubDate": "Mon, 25 May 2026 14:00:00 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "description": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 25 May 2026 12:00:15 +0000",
+      "category": "general",
+      "score": 41.5,
       "imageUrl": null
     },
     {
