@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "generated": "2026-05-31T05:33:13.270Z",
+    "generated": "2026-05-31T09:05:11.846Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 84,
+    "totalArticles": 81,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 84 articles from 8 trusted sources, including 52 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Charter Communications data breach affects 4.9 million accounts\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, BleepingComputer, SecurityWeek, The Verge and others\n• **Fresh Content**: 16 articles published in the last 24 hours",
-    "generated": "2026-05-31T05:33:13.270Z",
+    "content": "Today's selection covers 81 articles from 8 trusted sources, including 51 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, BleepingComputer, SecurityWeek, The Verge and others\n• **Fresh Content**: 16 articles published in the last 24 hours",
+    "generated": "2026-05-31T09:05:11.846Z",
     "stats": {
-      "totalArticles": 84,
-      "aiArticles": 52,
+      "totalArticles": 81,
+      "aiArticles": 51,
       "fraudArticles": 17,
       "sources": 8,
       "todayCount": 16
@@ -44,6 +44,17 @@
       "imageUrl": null
     },
     {
+      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
+      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+      "description": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 31 May 2026 09:00:05 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "description": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
@@ -51,17 +62,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 29 May 2026 14:21:36 -0400",
       "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "description": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification s...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 29 May 2026 04:29:40 -0400",
-      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -244,6 +244,17 @@
       "imageUrl": null
     },
     {
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "description": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification s...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 29 May 2026 04:29:40 -0400",
+      "category": "fraud",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
       "description": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
@@ -296,17 +307,6 @@
       "pubDate": "Thu, 28 May 2026 18:50:49 +0000",
       "category": "ai",
       "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "description": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 30 May 2026 14:02:51 -0400",
-      "category": "general",
-      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -508,14 +508,14 @@
       "imageUrl": null
     },
     {
-      "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-      "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-      "description": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 30 May 2026 22:23:32 GMT",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "description": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 30 May 2026 14:02:51 -0400",
       "category": "general",
-      "score": 66.5,
+      "score": 66.6,
       "imageUrl": null
     },
     {
@@ -618,17 +618,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "link": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 28 May 2026 08:28:43 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
       "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
       "description": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.",
@@ -713,17 +702,6 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 28 May 2026 09:06:11 GMT",
       "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
-      "description": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 28 May 2026 07:01:00 GMT",
-      "category": "ai",
       "score": 56.5,
       "imageUrl": null
     },
@@ -926,17 +904,6 @@
       "imageUrl": null
     },
     {
-      "title": "King's College team wins access to cutting-edge Google quantum chip",
-      "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-      "description": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 28 May 2026 08:41:28 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "I Tried to Sell My House With A.I.",
       "link": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
       "description": "Over five frantic days, I gambled my family’s life savings on a hunch that A.I. could outperform a real estate agent.",
@@ -972,6 +939,17 @@
       "imageUrl": null
     },
     {
+      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
+      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+      "description": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 31 May 2026 09:00:05 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "description": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
@@ -979,17 +957,6 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 29 May 2026 14:21:36 -0400",
       "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "description": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification s...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 29 May 2026 04:29:40 -0400",
-      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -1170,6 +1137,17 @@
       "imageUrl": null
     },
     {
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "description": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification s...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 29 May 2026 04:29:40 -0400",
+      "category": "fraud",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
       "description": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
@@ -1222,17 +1200,6 @@
       "pubDate": "Thu, 28 May 2026 18:50:49 +0000",
       "category": "ai",
       "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "description": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 30 May 2026 14:02:51 -0400",
-      "category": "general",
-      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -1434,14 +1401,14 @@
       "imageUrl": null
     },
     {
-      "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-      "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-      "description": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 30 May 2026 22:23:32 GMT",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "description": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 30 May 2026 14:02:51 -0400",
       "category": "general",
-      "score": 66.5,
+      "score": 66.6,
       "imageUrl": null
     },
     {
@@ -1544,17 +1511,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "link": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 28 May 2026 08:28:43 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
       "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
       "description": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.",
@@ -1639,17 +1595,6 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 28 May 2026 09:06:11 GMT",
       "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
-      "description": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 28 May 2026 07:01:00 GMT",
-      "category": "ai",
       "score": 56.5,
       "imageUrl": null
     },
@@ -1847,17 +1792,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 28 May 2026 23:36:45 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "King's College team wins access to cutting-edge Google quantum chip",
-      "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-      "description": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 28 May 2026 08:41:28 GMT",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
