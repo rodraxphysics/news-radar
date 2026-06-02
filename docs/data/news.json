@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-06-02T05:36:48.858Z",
+    "generated": "2026-06-02T13:19:16.416Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 67,
+    "totalArticles": 72,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 67 articles from 9 trusted sources, including 44 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Critical Windows Netlogon RCE flaw now exploited in attacks\n• **Threat Landscape**: Today's coverage highlights malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, Dark Reading, The Verge, TechCrunch and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
-    "generated": "2026-06-02T05:36:48.858Z",
+    "content": "Today's selection covers 72 articles from 9 trusted sources, including 48 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Gemini Spark is the most impressive and terrifying AI experience I’ve had yet\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: The Zero-Knowledge Threat Actor and the End of Responsible Disclosure\n• **Threat Landscape**: Today's coverage highlights data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, BBC Technology, NY Times Tech, Dark Reading, TechCrunch and others\n• **Fresh Content**: 56 articles published in the last 24 hours",
+    "generated": "2026-06-02T13:19:16.416Z",
     "stats": {
-      "totalArticles": 67,
-      "aiArticles": 44,
-      "fraudArticles": 12,
+      "totalArticles": 72,
+      "aiArticles": 48,
+      "fraudArticles": 13,
       "sources": 9,
-      "todayCount": 49
+      "todayCount": 56
     }
   },
   "top": [
+    {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "description": "Spark is Google’s new agentic answer for everything.\t\n\nAccording to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-02T12:38:08.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
       "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
@@ -29,29 +40,7 @@
       "domain": "bbc.com",
       "pubDate": "Mon, 01 Jun 2026 18:58:26 GMT",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
-      "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-      "description": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 01 Jun 2026 18:41:52 +0000",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-      "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
-      "description": "The state became the first to sue the ChatGPT maker over claims that its technology posed a risk to children and that the company had failed to warn the public of dangers.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 01 Jun 2026 18:24:38 +0000",
-      "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -66,6 +55,28 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
+      "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+      "description": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 01 Jun 2026 18:41:52 +0000",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
+      "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
+      "description": "The state became the first to sue the ChatGPT maker over claims that its technology posed a risk to children and that the company had failed to warn the public of dangers.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 01 Jun 2026 18:24:38 +0000",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic to Open Mythos AI to EU's ENISA",
       "link": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
       "description": "The European security agency's entry to Project Glasswing is the result of \"strong bilateral cooperation\" between the European Commission and Anthropic.",
@@ -73,9 +84,11 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 01 Jun 2026 21:07:48 GMT",
       "category": "ai",
-      "score": 93.5,
+      "score": 91.5,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Gemini’s new AI agent is about as good as Google’s demo",
       "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
@@ -84,20 +97,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-01T20:00:00.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-      "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -123,6 +123,17 @@
       "imageUrl": null
     },
     {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic files to go public",
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
@@ -145,14 +156,36 @@
       "imageUrl": null
     },
     {
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "description": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vuln...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400",
+      "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
+      "link": "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/",
+      "description": "AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code.\nThe post The Zero-Knowledge Threat Actor and...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 12:30:00 +0000",
       "category": "fraud",
-      "score": 84.6,
+      "score": 85,
+      "imageUrl": null
+    },
+    {
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+      "description": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 02 Jun 2026 11:40:02 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Expands Safety Features for Teenagers",
+      "link": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html",
+      "description": "The changes, after Meta’s legal losses in two child safety cases, are aimed at limiting harmful content shown to teenagers on Instagram, Facebook and Messenger.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 02 Jun 2026 11:00:05 +0000",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -163,7 +196,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 01 Jun 2026 18:14:19 -0400",
       "category": "fraud",
-      "score": 83.6,
+      "score": 81.6,
       "imageUrl": null
     },
     {
@@ -174,29 +207,29 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000",
       "category": "ai",
-      "score": 83,
+      "score": 81,
       "imageUrl": null
     },
     {
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-31T13:00:00.000Z",
+      "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
+      "link": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
+      "description": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewal...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 02 Jun 2026 12:00:00 GMT",
       "category": "ai",
-      "score": 82.6,
+      "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "description": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams ac...",
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "description": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 08:01:09 -0400",
+      "pubDate": "Tue, 02 Jun 2026 08:40:33 -0400",
       "category": "ai",
-      "score": 81.6,
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -207,7 +240,7 @@
       "domain": "bbc.com",
       "pubDate": "Mon, 01 Jun 2026 23:05:11 GMT",
       "category": "ai",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -218,7 +251,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 01 Jun 2026 20:07:43 +0000",
       "category": "fraud",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -233,6 +266,61 @@
       "imageUrl": null
     },
     {
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 02 Jun 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
+      "link": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
+      "description": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address.\nThe post Meta AI Hands Over High-Profile Instagram Accounts to Hackers appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 10:48:26 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
+      "link": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
+      "description": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud.\nThe post Supply Chain Attack Hits 32 Red Hat NPM Packages appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 09:51:19 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
+      "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
+      "description": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts.\nThe post Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 08:07:41 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
       "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "description": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions be...",
@@ -244,58 +332,14 @@
       "imageUrl": null
     },
     {
-      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "description": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-01T19:20:47.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "description": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dub...",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "description": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vuln...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 17:38:29 -0400",
-      "category": "both",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "description": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE)....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 17:28:41 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
-      "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
-      "description": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cyberc...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 17:55:26 +0000",
+      "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400",
       "category": "fraud",
-      "score": 77,
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -307,6 +351,39 @@
       "pubDate": "Mon, 01 Jun 2026 14:35:51 GMT",
       "category": "ai",
       "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches",
+      "link": "https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/",
+      "description": "A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device.\nThe post Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches appeared firs...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 12:25:52 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
+      "description": "The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.\nThe post Oracle WebLogic Vulnerability Exploited in the Wild appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 11:39:04 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "description": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-01T19:20:47.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -327,6 +404,28 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-01T14:06:44.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "description": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dub...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 17:38:29 -0400",
+      "category": "both",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "description": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE)....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 17:28:41 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -354,25 +453,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "description": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
-      "link": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
-      "description": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 01 Jun 2026 18:52:26 GMT",
-      "category": "fraud",
-      "score": 75.5,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -398,34 +486,23 @@
       "imageUrl": null
     },
     {
+      "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
+      "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
+      "description": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cyberc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 01 Jun 2026 17:55:26 +0000",
+      "category": "fraud",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
       "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
       "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
       "description": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.\nThe post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Mon, 01 Jun 2026 15:02:17 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Dragos Acquires xIoT Security Firm Phosphorus",
-      "link": "https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/",
-      "description": "Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.\nThe post Dragos Acq...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 12:46:58 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
-      "link": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
-      "description": "AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage.\nThe post As the Pentagon Pushes for Battlefield AI, Some Military Le...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 11:48:59 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -442,6 +519,28 @@
       "imageUrl": null
     },
     {
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "description": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams ac...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 08:01:09 -0400",
+      "category": "ai",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+      "link": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+      "description": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 01 Jun 2026 18:52:26 GMT",
+      "category": "fraud",
+      "score": 73.5,
+      "imageUrl": null
+    },
+    {
       "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
       "link": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
       "description": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations.\nThe post WP Maps Pro Vulnerability Exploited to Take Over WordPres...",
@@ -449,40 +548,29 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 01 Jun 2026 18:19:23 +0000",
       "category": "fraud",
-      "score": 74,
-      "imageUrl": null
-    },
-    {
-      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
-      "link": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
-      "description": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.\nThe post 19-Year-Old Linux Kernel Vulne...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 11:19:31 +0000",
-      "category": "fraud",
       "score": 72,
       "imageUrl": null
     },
     {
-      "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
-      "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
-      "description": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.\nThe post Recent Palo Alto Networks Vulnerability Exploited for Weeks a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
-      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
-      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
-      "description": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 31 May 2026 09:00:06 +0000",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-31T13:00:00.000Z",
       "category": "ai",
-      "score": 71.5,
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "description": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 02 Jun 2026 07:10:15 -0400",
+      "category": "general",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -519,14 +607,14 @@
       "imageUrl": null
     },
     {
-      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-01T20:02:31.000Z",
-      "category": "general",
-      "score": 68.6,
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "description": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -552,6 +640,17 @@
       "imageUrl": null
     },
     {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-01T20:02:31.000Z",
+      "category": "general",
+      "score": 66.6,
+      "imageUrl": null
+    },
+    {
       "title": "Name That Toon Contest",
       "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
       "description": "",
@@ -574,6 +673,17 @@
       "imageUrl": null
     },
     {
+      "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
+      "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
+      "description": "Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster.\nThe post Oracle’s First Monthly Patches Resolve 77 Vulnerabilities appeared first on Securit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 07:20:14 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
       "description": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
@@ -581,7 +691,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Mon, 01 Jun 2026 19:49:09 +0000",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -592,18 +702,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 01 Jun 2026 14:17:13 -0400",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Water access is now a risk factor in SpaceX’s IPO",
-      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-      "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 01 Jun 2026 18:19:53 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -618,14 +717,25 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "description": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 07:40:16 -0400",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 01 Jun 2026 18:19:53 +0000",
       "category": "general",
-      "score": 60.6,
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
+      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+      "description": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 31 May 2026 09:00:06 +0000",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -637,39 +747,6 @@
       "pubDate": "Sun, 31 May 2026 10:06:42 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "description": "A good time with old maps. | Image: Past Maps\t\n\nCraig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website.\nSure, Campbell probably could have star...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-30T13:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "description": "TikTok sellers that appear to be AI generated, in tears. | The Verge\t\n\nAliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok....",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-30T13:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "description": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request m...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 30 May 2026 10:16:08 -0400",
-      "category": "ai",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -706,25 +783,14 @@
       "imageUrl": null
     },
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 30 May 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Exploit Code Published for Critical Flowise RCE Vulnerability",
-      "link": "https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/",
-      "description": "The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow.\nThe post Exploit Code Published for Critica...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 30 May 2026 15:55:59 +0000",
-      "category": "fraud",
-      "score": 52,
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "description": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 07:40:16 -0400",
+      "category": "general",
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -745,17 +811,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 30 May 2026 16:30:00 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
-      "link": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
-      "description": "Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure.\nThe post Russian Spies A...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 30 May 2026 16:00:49 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
@@ -763,6 +818,17 @@
   ],
   "all": [
     {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "description": "Spark is Google’s new agentic answer for everything.\t\n\nAccording to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-02T12:38:08.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
       "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
       "description": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
@@ -770,29 +836,7 @@
       "domain": "bbc.com",
       "pubDate": "Mon, 01 Jun 2026 18:58:26 GMT",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
-      "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-      "description": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 01 Jun 2026 18:41:52 +0000",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-      "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
-      "description": "The state became the first to sue the ChatGPT maker over claims that its technology posed a risk to children and that the company had failed to warn the public of dangers.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 01 Jun 2026 18:24:38 +0000",
-      "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -807,6 +851,28 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
+      "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+      "description": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 01 Jun 2026 18:41:52 +0000",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
+      "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
+      "description": "The state became the first to sue the ChatGPT maker over claims that its technology posed a risk to children and that the company had failed to warn the public of dangers.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 01 Jun 2026 18:24:38 +0000",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic to Open Mythos AI to EU's ENISA",
       "link": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
       "description": "The European security agency's entry to Project Glasswing is the result of \"strong bilateral cooperation\" between the European Commission and Anthropic.",
@@ -814,7 +880,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 01 Jun 2026 21:07:48 GMT",
       "category": "ai",
-      "score": 93.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -825,18 +891,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-01T20:00:00.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-      "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -862,6 +917,17 @@
       "imageUrl": null
     },
     {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic files to go public",
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
@@ -884,14 +950,36 @@
       "imageUrl": null
     },
     {
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "description": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vuln...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400",
+      "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
+      "link": "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/",
+      "description": "AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code.\nThe post The Zero-Knowledge Threat Actor and...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 12:30:00 +0000",
       "category": "fraud",
-      "score": 84.6,
+      "score": 85,
+      "imageUrl": null
+    },
+    {
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+      "description": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 02 Jun 2026 11:40:02 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Expands Safety Features for Teenagers",
+      "link": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html",
+      "description": "The changes, after Meta’s legal losses in two child safety cases, are aimed at limiting harmful content shown to teenagers on Instagram, Facebook and Messenger.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 02 Jun 2026 11:00:05 +0000",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -902,7 +990,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 01 Jun 2026 18:14:19 -0400",
       "category": "fraud",
-      "score": 83.6,
+      "score": 81.6,
       "imageUrl": null
     },
     {
@@ -913,29 +1001,29 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000",
       "category": "ai",
-      "score": 83,
+      "score": 81,
       "imageUrl": null
     },
     {
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-31T13:00:00.000Z",
+      "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
+      "link": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
+      "description": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewal...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 02 Jun 2026 12:00:00 GMT",
       "category": "ai",
-      "score": 82.6,
+      "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "description": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams ac...",
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "description": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 08:01:09 -0400",
+      "pubDate": "Tue, 02 Jun 2026 08:40:33 -0400",
       "category": "ai",
-      "score": 81.6,
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -946,7 +1034,7 @@
       "domain": "bbc.com",
       "pubDate": "Mon, 01 Jun 2026 23:05:11 GMT",
       "category": "ai",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -957,7 +1045,7 @@
       "domain": "nytimes.com",
       "pubDate": "Mon, 01 Jun 2026 20:07:43 +0000",
       "category": "fraud",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -972,6 +1060,61 @@
       "imageUrl": null
     },
     {
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 02 Jun 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
+      "link": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
+      "description": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address.\nThe post Meta AI Hands Over High-Profile Instagram Accounts to Hackers appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 10:48:26 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
+      "link": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
+      "description": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud.\nThe post Supply Chain Attack Hits 32 Red Hat NPM Packages appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 09:51:19 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
+      "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
+      "description": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts.\nThe post Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 08:07:41 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
       "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "description": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions be...",
@@ -983,58 +1126,14 @@
       "imageUrl": null
     },
     {
-      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "description": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-01T19:20:47.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "description": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dub...",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "description": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vuln...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 17:38:29 -0400",
-      "category": "both",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "description": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE)....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 17:28:41 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
-      "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
-      "description": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cyberc...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 17:55:26 +0000",
+      "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400",
       "category": "fraud",
-      "score": 77,
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -1046,6 +1145,39 @@
       "pubDate": "Mon, 01 Jun 2026 14:35:51 GMT",
       "category": "ai",
       "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches",
+      "link": "https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/",
+      "description": "A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device.\nThe post Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches appeared firs...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 12:25:52 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
+      "description": "The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.\nThe post Oracle WebLogic Vulnerability Exploited in the Wild appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 11:39:04 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "description": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-01T19:20:47.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1066,6 +1198,28 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-01T14:06:44.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "description": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dub...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 17:38:29 -0400",
+      "category": "both",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "description": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE)....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 17:28:41 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -1093,25 +1247,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "description": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
-      "link": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
-      "description": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 01 Jun 2026 18:52:26 GMT",
-      "category": "fraud",
-      "score": 75.5,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1137,34 +1280,23 @@
       "imageUrl": null
     },
     {
+      "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
+      "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
+      "description": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cyberc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 01 Jun 2026 17:55:26 +0000",
+      "category": "fraud",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
       "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
       "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
       "description": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.\nThe post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Mon, 01 Jun 2026 15:02:17 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Dragos Acquires xIoT Security Firm Phosphorus",
-      "link": "https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/",
-      "description": "Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.\nThe post Dragos Acq...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 12:46:58 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
-      "link": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
-      "description": "AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage.\nThe post As the Pentagon Pushes for Battlefield AI, Some Military Le...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 11:48:59 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1181,6 +1313,28 @@
       "imageUrl": null
     },
     {
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "description": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams ac...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 08:01:09 -0400",
+      "category": "ai",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+      "link": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+      "description": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 01 Jun 2026 18:52:26 GMT",
+      "category": "fraud",
+      "score": 73.5,
+      "imageUrl": null
+    },
+    {
       "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
       "link": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
       "description": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations.\nThe post WP Maps Pro Vulnerability Exploited to Take Over WordPres...",
@@ -1188,40 +1342,29 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 01 Jun 2026 18:19:23 +0000",
       "category": "fraud",
-      "score": 74,
-      "imageUrl": null
-    },
-    {
-      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
-      "link": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
-      "description": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.\nThe post 19-Year-Old Linux Kernel Vulne...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 11:19:31 +0000",
-      "category": "fraud",
       "score": 72,
       "imageUrl": null
     },
     {
-      "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
-      "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
-      "description": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.\nThe post Recent Palo Alto Networks Vulnerability Exploited for Weeks a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
-      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
-      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
-      "description": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 31 May 2026 09:00:06 +0000",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-05-31T13:00:00.000Z",
       "category": "ai",
-      "score": 71.5,
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "description": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 02 Jun 2026 07:10:15 -0400",
+      "category": "general",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -1258,14 +1401,14 @@
       "imageUrl": null
     },
     {
-      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-01T20:02:31.000Z",
-      "category": "general",
-      "score": 68.6,
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "description": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1291,6 +1434,17 @@
       "imageUrl": null
     },
     {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-01T20:02:31.000Z",
+      "category": "general",
+      "score": 66.6,
+      "imageUrl": null
+    },
+    {
       "title": "Name That Toon Contest",
       "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
       "description": "",
@@ -1313,6 +1467,17 @@
       "imageUrl": null
     },
     {
+      "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
+      "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
+      "description": "Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster.\nThe post Oracle’s First Monthly Patches Resolve 77 Vulnerabilities appeared first on Securit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 02 Jun 2026 07:20:14 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
       "description": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
@@ -1320,7 +1485,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Mon, 01 Jun 2026 19:49:09 +0000",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1331,18 +1496,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 01 Jun 2026 14:17:13 -0400",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Water access is now a risk factor in SpaceX’s IPO",
-      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-      "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 01 Jun 2026 18:19:53 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1357,14 +1511,25 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "description": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 01 Jun 2026 07:40:16 -0400",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 01 Jun 2026 18:19:53 +0000",
       "category": "general",
-      "score": 60.6,
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
+      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+      "description": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 31 May 2026 09:00:06 +0000",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1376,39 +1541,6 @@
       "pubDate": "Sun, 31 May 2026 10:06:42 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "description": "A good time with old maps. | Image: Past Maps\t\n\nCraig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website.\nSure, Campbell probably could have star...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-30T13:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "description": "TikTok sellers that appear to be AI generated, in tears. | The Verge\t\n\nAliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok....",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-05-30T13:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "description": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request m...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 30 May 2026 10:16:08 -0400",
-      "category": "ai",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -1445,25 +1577,14 @@
       "imageUrl": null
     },
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 30 May 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Exploit Code Published for Critical Flowise RCE Vulnerability",
-      "link": "https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/",
-      "description": "The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow.\nThe post Exploit Code Published for Critica...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 30 May 2026 15:55:59 +0000",
-      "category": "fraud",
-      "score": 52,
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "description": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 01 Jun 2026 07:40:16 -0400",
+      "category": "general",
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -1484,17 +1605,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 30 May 2026 16:30:00 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
-    },
-    {
-      "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
-      "link": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
-      "description": "Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure.\nThe post Russian Spies A...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 30 May 2026 16:00:49 +0000",
       "category": "general",
       "score": 40,
       "imageUrl": null
