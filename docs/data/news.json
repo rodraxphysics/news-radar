@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-06-12T05:37:26.489Z",
+    "generated": "2026-06-12T09:27:00.375Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 102,
+    "totalArticles": 100,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 102 articles from 9 trusted sources, including 60 on Artificial Intelligence and 20 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Maine breach portal abused to publish fake data breach disclosures\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, The Verge, Krebs on Security, TechCrunch and others\n• **Fresh Content**: 44 articles published in the last 24 hours",
-    "generated": "2026-06-12T05:37:26.489Z",
+    "content": "Today's selection covers 100 articles from 9 trusted sources, including 59 on Artificial Intelligence and 22 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Siri won’t be your AI girlfriend\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Maine breach portal abused to publish fake data breach disclosures\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from The Verge, NY Times Tech, SecurityWeek, BleepingComputer, Krebs on Security and others\n• **Fresh Content**: 43 articles published in the last 24 hours",
+    "generated": "2026-06-12T09:27:00.375Z",
     "stats": {
-      "totalArticles": 102,
-      "aiArticles": 60,
-      "fraudArticles": 20,
+      "totalArticles": 100,
+      "aiArticles": 59,
+      "fraudArticles": 22,
       "sources": 9,
-      "todayCount": 44
+      "todayCount": 43
     }
   },
   "top": [
+    {
+      "title": "Siri won’t be your AI girlfriend",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "description": "‘Listen, that's not what I'm here for.' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spott...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T07:00:31.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.",
       "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
@@ -30,6 +41,17 @@
       "pubDate": "Thu, 11 Jun 2026 10:48:05 +0000",
       "category": "ai",
       "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Disputes Fable 5 AI Jailbreak",
+      "link": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
+      "description": "An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5’s launch, but Anthropic says it’s not a real jailbreak.\nThe post Anthropic Disputes Fable 5 AI Jailbreak appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 12 Jun 2026 08:43:06 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -55,17 +77,6 @@
       "imageUrl": null
     },
     {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "description": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 03:27:53 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts",
       "link": "https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html",
       "description": "The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company’s new artificial intelligence software.",
@@ -75,7 +86,9 @@
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
       "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -85,30 +98,6 @@
       "pubDate": "Wed, 10 Jun 2026 14:03:44 +0000",
       "category": "fraud",
       "score": 85.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
-      "description": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 11 Jun 2026 18:43:57 GMT",
-      "category": "fraud",
-      "score": 84.5,
       "imageUrl": null
     },
     {
@@ -120,6 +109,39 @@
       "pubDate": "Thu, 11 Jun 2026 00:01:00 GMT",
       "category": "fraud",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.",
+      "link": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html",
+      "description": "In a lawsuit, the tech giant accused the group of using Google’s Gemini system to create hundreds of fake corporate and government websites.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 09:10:31 +0000",
+      "category": "both",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering",
+      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
+      "description": "Elon Musk’s rocket company said it would sell more than 555 million shares at $135 each in its blockbuster initial public offering, which is set to begin trading on Friday.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 06:43:31 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "category": "ai",
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -153,6 +175,28 @@
       "pubDate": "2026-06-10T16:50:23.000Z",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "description": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "category": "fraud",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
+      "description": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 11 Jun 2026 18:43:57 GMT",
+      "category": "fraud",
+      "score": 82.5,
       "imageUrl": null
     },
     {
@@ -211,28 +255,6 @@
       "imageUrl": null
     },
     {
-      "title": "Skeptics Question Whether SpaceX Is Worth $1.77 Trillion",
-      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
-      "description": "Elon Musk’s rocket company is spending big and losing money. That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 11 Jun 2026 20:30:58 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering",
-      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
-      "description": "Elon Musk’s rocket company said it would sell more than 555 million shares at $135 each in its blockbuster initial public offering, which is set to begin trading on Friday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 11 Jun 2026 21:38:41 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
       "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
       "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
       "description": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.\nThe post Alert Fatigue Is Becoming a Security Threat o...",
@@ -255,14 +277,14 @@
       "imageUrl": null
     },
     {
-      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
-      "category": "both",
-      "score": 80.5,
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "description": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 03:09:11 -0400",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -273,6 +295,17 @@
       "domain": "bbc.com",
       "pubDate": "Thu, 11 Jun 2026 16:14:31 GMT",
       "category": "both",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Skeptics Question Whether SpaceX Is Worth $1.77 Trillion",
+      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
+      "description": "Elon Musk’s rocket company is spending big and losing money. That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 11 Jun 2026 20:30:58 +0000",
+      "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
@@ -310,6 +343,17 @@
       "imageUrl": null
     },
     {
+      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
+      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "category": "both",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
@@ -317,18 +361,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Bindin...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 04:26:55 -0400",
       "category": "fraud",
-      "score": 77,
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -343,23 +387,23 @@
       "imageUrl": null
     },
     {
+      "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
+      "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/",
+      "description": "Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability’s in-the-wild exploitation.\nThe post Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 12 Jun 2026 06:44:36 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
       "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
       "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
       "description": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-11T17:26:57.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-11T08:00:00.000Z",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -373,6 +417,17 @@
       "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400",
       "category": "fraud",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "category": "fraud",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -420,28 +475,6 @@
       "imageUrl": null
     },
     {
-      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-      "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
-      "description": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information.\nThe post University of Nottingham Confirms Breach After Hackers Leak Dat...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 11 Jun 2026 08:30:02 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "description": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400",
-      "category": "fraud",
-      "score": 74.6,
-      "imageUrl": null
-    },
-    {
       "title": "Version of AI tool 'too powerful for public' released to public",
       "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
       "description": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
@@ -464,17 +497,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "description": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 09 Jun 2026 08:02:43 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology",
       "link": "https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html",
       "description": "Called Claude Fable 5, it is twice as expensive as the company’s previous flagship system.",
@@ -486,14 +508,14 @@
       "imageUrl": null
     },
     {
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "description": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "description": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 10 Jun 2026 11:00:00 -0400",
+      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400",
       "category": "fraud",
-      "score": 73.6,
+      "score": 72.6,
       "imageUrl": null
     },
     {
@@ -503,17 +525,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "description": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400",
       "category": "fraud",
       "score": 72.6,
       "imageUrl": null
@@ -571,6 +582,17 @@
       "pubDate": "Wed, 10 Jun 2026 19:34:43 GMT",
       "category": "ai",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-11T08:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -635,17 +657,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 10 Jun 2026 15:41:44 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "description": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 10 Jun 2026 14:31:57 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -739,17 +750,6 @@
       "imageUrl": null
     },
     {
-      "title": "India's 'blue gold' starts a new drinks industry",
-      "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
-      "description": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 11 Jun 2026 23:01:48 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
       "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
       "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
       "description": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s r...",
@@ -772,17 +772,6 @@
       "imageUrl": null
     },
     {
-      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
-      "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-      "description": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode.\nThe post ‘GreatXML’ Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 11 Jun 2026 09:56:12 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Name That Toon Contest",
       "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
       "description": "",
@@ -791,6 +780,17 @@
       "pubDate": "2026-06-26T11:00:00.000Z",
       "category": "general",
       "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "description": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400",
+      "category": "fraud",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -823,18 +823,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 11 Jun 2026 20:33:10 +0000",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "description": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "category": "general",
-      "score": 60.6,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -921,17 +910,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Tue, 09 Jun 2026 18:29:08 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?",
-      "link": "https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html",
-      "description": "A panel of experts explains how job seekers should prepare for the future of work.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 09 Jun 2026 09:00:38 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1025,17 +1003,6 @@
       "imageUrl": null
     },
     {
-      "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
-      "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
-      "description": "If you need space back on your phone or tablet, removing built-in and unused apps can help free up storage and reduce screen clutter.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 10 Jun 2026 09:02:01 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "People Love to Hate This Fake Private Equity Guy",
       "link": "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
       "description": "Johnny Hilbrant Partridge has found social media fame as PE Guy, a character who embodies obnoxious entitlement.",
@@ -1044,17 +1011,6 @@
       "pubDate": "Wed, 10 Jun 2026 17:36:14 +0000",
       "category": "general",
       "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "I tried Siri AI, and so far it actually works",
-      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "description": "Siri, are you there?﻿\t\n\nParents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar i...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-09T23:43:00.000Z",
-      "category": "ai",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -1080,6 +1036,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "description": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
       "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
       "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
       "description": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
@@ -1088,6 +1055,17 @@
       "pubDate": "Wed, 10 Jun 2026 14:48:01 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
+      "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
+      "description": "If you need space back on your phone or tablet, removing built-in and unused apps can help free up storage and reduce screen clutter.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 10 Jun 2026 09:02:01 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1148,6 +1126,17 @@
   ],
   "all": [
     {
+      "title": "Siri won’t be your AI girlfriend",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "description": "‘Listen, that's not what I'm here for.' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spott...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T07:00:31.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.",
       "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
       "description": "At The New York Times’s Hard Fork Live event, Mr. Nadella addressed the backlash against artificial intelligence and President Trump’s comments about Americans sharing in the wealth of A.I. companies",
@@ -1156,6 +1145,17 @@
       "pubDate": "Thu, 11 Jun 2026 10:48:05 +0000",
       "category": "ai",
       "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Disputes Fable 5 AI Jailbreak",
+      "link": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
+      "description": "An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5’s launch, but Anthropic says it’s not a real jailbreak.\nThe post Anthropic Disputes Fable 5 AI Jailbreak appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 12 Jun 2026 08:43:06 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1177,17 +1177,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-11T11:40:43.000Z",
       "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "description": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 03:27:53 -0400",
-      "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
@@ -1214,28 +1203,6 @@
       "imageUrl": null
     },
     {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
-      "description": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 11 Jun 2026 18:43:57 GMT",
-      "category": "fraud",
-      "score": 84.5,
-      "imageUrl": null
-    },
-    {
       "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
       "description": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
@@ -1244,6 +1211,39 @@
       "pubDate": "Thu, 11 Jun 2026 00:01:00 GMT",
       "category": "fraud",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.",
+      "link": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html",
+      "description": "In a lawsuit, the tech giant accused the group of using Google’s Gemini system to create hundreds of fake corporate and government websites.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 09:10:31 +0000",
+      "category": "both",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering",
+      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
+      "description": "Elon Musk’s rocket company said it would sell more than 555 million shares at $135 each in its blockbuster initial public offering, which is set to begin trading on Friday.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 06:43:31 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "category": "ai",
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -1277,6 +1277,28 @@
       "pubDate": "2026-06-10T16:50:23.000Z",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "description": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "category": "fraud",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
+      "description": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 11 Jun 2026 18:43:57 GMT",
+      "category": "fraud",
+      "score": 82.5,
       "imageUrl": null
     },
     {
@@ -1335,28 +1357,6 @@
       "imageUrl": null
     },
     {
-      "title": "Skeptics Question Whether SpaceX Is Worth $1.77 Trillion",
-      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
-      "description": "Elon Musk’s rocket company is spending big and losing money. That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 11 Jun 2026 20:30:58 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering",
-      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
-      "description": "Elon Musk’s rocket company said it would sell more than 555 million shares at $135 each in its blockbuster initial public offering, which is set to begin trading on Friday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 11 Jun 2026 21:38:41 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
       "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
       "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
       "description": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.\nThe post Alert Fatigue Is Becoming a Security Threat o...",
@@ -1379,14 +1379,14 @@
       "imageUrl": null
     },
     {
-      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
-      "category": "both",
-      "score": 80.5,
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "description": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 03:09:11 -0400",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -1397,6 +1397,17 @@
       "domain": "bbc.com",
       "pubDate": "Thu, 11 Jun 2026 16:14:31 GMT",
       "category": "both",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Skeptics Question Whether SpaceX Is Worth $1.77 Trillion",
+      "link": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
+      "description": "Elon Musk’s rocket company is spending big and losing money. That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 11 Jun 2026 20:30:58 +0000",
+      "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
@@ -1434,6 +1445,17 @@
       "imageUrl": null
     },
     {
+      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
+      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "category": "both",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
@@ -1441,18 +1463,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Bindin...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 04:26:55 -0400",
       "category": "fraud",
-      "score": 77,
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -1467,23 +1489,23 @@
       "imageUrl": null
     },
     {
+      "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
+      "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/",
+      "description": "Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability’s in-the-wild exploitation.\nThe post Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 12 Jun 2026 06:44:36 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
       "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
       "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
       "description": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-11T17:26:57.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-11T08:00:00.000Z",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -1497,6 +1519,17 @@
       "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400",
       "category": "fraud",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "category": "fraud",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1544,28 +1577,6 @@
       "imageUrl": null
     },
     {
-      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-      "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
-      "description": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information.\nThe post University of Nottingham Confirms Breach After Hackers Leak Dat...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 11 Jun 2026 08:30:02 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "description": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400",
-      "category": "fraud",
-      "score": 74.6,
-      "imageUrl": null
-    },
-    {
       "title": "Version of AI tool 'too powerful for public' released to public",
       "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
       "description": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
@@ -1588,17 +1599,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "description": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 09 Jun 2026 08:02:43 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology",
       "link": "https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html",
       "description": "Called Claude Fable 5, it is twice as expensive as the company’s previous flagship system.",
@@ -1610,14 +1610,14 @@
       "imageUrl": null
     },
     {
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "description": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "description": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 10 Jun 2026 11:00:00 -0400",
+      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400",
       "category": "fraud",
-      "score": 73.6,
+      "score": 72.6,
       "imageUrl": null
     },
     {
@@ -1627,17 +1627,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "description": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400",
       "category": "fraud",
       "score": 72.6,
       "imageUrl": null
@@ -1695,6 +1684,17 @@
       "pubDate": "Wed, 10 Jun 2026 19:34:43 GMT",
       "category": "ai",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-11T08:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1759,17 +1759,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 10 Jun 2026 15:41:44 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "description": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 10 Jun 2026 14:31:57 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -1863,17 +1852,6 @@
       "imageUrl": null
     },
     {
-      "title": "India's 'blue gold' starts a new drinks industry",
-      "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
-      "description": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 11 Jun 2026 23:01:48 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
       "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
       "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
       "description": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s r...",
@@ -1896,17 +1874,6 @@
       "imageUrl": null
     },
     {
-      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
-      "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-      "description": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode.\nThe post ‘GreatXML’ Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 11 Jun 2026 09:56:12 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Name That Toon Contest",
       "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
       "description": "",
@@ -1915,6 +1882,17 @@
       "pubDate": "2026-06-26T11:00:00.000Z",
       "category": "general",
       "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "description": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400",
+      "category": "fraud",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1947,18 +1925,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 11 Jun 2026 20:33:10 +0000",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "description": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "category": "general",
-      "score": 60.6,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -2045,17 +2012,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Tue, 09 Jun 2026 18:29:08 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?",
-      "link": "https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html",
-      "description": "A panel of experts explains how job seekers should prepare for the future of work.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 09 Jun 2026 09:00:38 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -2149,17 +2105,6 @@
       "imageUrl": null
     },
     {
-      "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
-      "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
-      "description": "If you need space back on your phone or tablet, removing built-in and unused apps can help free up storage and reduce screen clutter.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 10 Jun 2026 09:02:01 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "People Love to Hate This Fake Private Equity Guy",
       "link": "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
       "description": "Johnny Hilbrant Partridge has found social media fame as PE Guy, a character who embodies obnoxious entitlement.",
@@ -2168,17 +2113,6 @@
       "pubDate": "Wed, 10 Jun 2026 17:36:14 +0000",
       "category": "general",
       "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "I tried Siri AI, and so far it actually works",
-      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "description": "Siri, are you there?﻿\t\n\nParents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar i...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-09T23:43:00.000Z",
-      "category": "ai",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -2204,6 +2138,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "description": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
       "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
       "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
       "description": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
@@ -2212,6 +2157,17 @@
       "pubDate": "Wed, 10 Jun 2026 14:48:01 +0000",
       "category": "general",
       "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
+      "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
+      "description": "If you need space back on your phone or tablet, removing built-in and unused apps can help free up storage and reduce screen clutter.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 10 Jun 2026 09:02:01 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
