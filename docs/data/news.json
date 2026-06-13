@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-06-13T00:52:42.896Z",
+    "generated": "2026-06-13T05:33:28.447Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 92,
+    "totalArticles": 93,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 92 articles from 9 trusted sources, including 54 on Artificial Intelligence and 22 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: SpaceX Stock Rises 11% in Largest IPO Ever\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Maine disables data breach notification portal after fake disclosures\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, TechCrunch, Dark Reading, The Verge and others\n• **Fresh Content**: 47 articles published in the last 24 hours",
-    "generated": "2026-06-13T00:52:42.896Z",
+    "content": "Today's selection covers 93 articles from 9 trusted sources, including 54 on Artificial Intelligence and 22 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic Blocks Foreigners From Using Mythos and Fable AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Maine disables data breach notification portal after fake disclosures\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, BleepingComputer, Dark Reading, The Verge and others\n• **Fresh Content**: 46 articles published in the last 24 hours",
+    "generated": "2026-06-13T05:33:28.447Z",
     "stats": {
-      "totalArticles": 92,
+      "totalArticles": 93,
       "aiArticles": 54,
       "fraudArticles": 22,
       "sources": 9,
-      "todayCount": 47
+      "todayCount": 46
     }
   },
   "top": [
+    {
+      "title": "Anthropic Blocks Foreigners From Using Mythos and Fable AI",
+      "link": "https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html",
+      "description": "The company said on Friday night that the federal government had ordered limits on its Mythos and Fable 5 A.I. systems, citing national security concerns.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 13 Jun 2026 03:48:18 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
     {
       "title": "SpaceX Stock Rises 11% in Largest IPO Ever",
       "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html",
@@ -29,7 +40,7 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 12 Jun 2026 20:52:00 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -38,9 +49,20 @@
       "description": "Strong investor interest in SpaceX could be good news for the A.I. rivals, which have signaled that they, too, intend to go public this year.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 22:40:05 +0000",
+      "pubDate": "Fri, 12 Jun 2026 22:40:06 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -51,7 +73,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 12 Jun 2026 15:33:32 -0400",
       "category": "fraud",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -62,9 +84,11 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
       "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
@@ -73,7 +97,7 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ai",
-      "score": 93.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -84,31 +108,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-12T14:35:48.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "It’s hot IPO summer, and the MANGOS are ripe",
-      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 15:50:52 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -120,6 +120,28 @@
       "pubDate": "2026-06-12T07:00:31.000Z",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 15:50:52 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -145,50 +167,6 @@
       "imageUrl": null
     },
     {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "description": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-12T14:03:39.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC breaks down how the tech mogul's fortune has grown.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
-      "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
-      "description": "Elon Musk said he had initially given SpaceX less than a 10 percent chance of succeeding. His rocket company has come a long way.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 20:48:07 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
-      "link": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html",
-      "description": "With SpaceX shares soaring 20 percent on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 20:38:47 +0000",
-      "category": "both",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan...",
@@ -211,14 +189,47 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 11 Jun 2026 03:53:06 +0000",
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "description": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T14:03:39.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC breaks down how the tech mogul's fortune has grown.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
+      "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
+      "description": "Elon Musk said he had initially given SpaceX less than a 10 percent chance of succeeding. His rocket company has come a long way.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 20:48:07 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
+      "link": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html",
+      "description": "With SpaceX shares soaring 20 percent on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 20:38:48 +0000",
+      "category": "both",
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -229,29 +240,7 @@
       "domain": "bbc.com",
       "pubDate": "Fri, 12 Jun 2026 16:44:29 GMT",
       "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
-      "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
-      "description": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 15:50:11 +0000",
-      "category": "both",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "category": "ai",
-      "score": 81,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -260,7 +249,7 @@
       "description": "In a lawsuit, the tech giant accused the group of using Google’s Gemini system to create hundreds of fake corporate and government websites.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 09:10:31 +0000",
+      "pubDate": "Fri, 12 Jun 2026 09:10:32 +0000",
       "category": "both",
       "score": 79.5,
       "imageUrl": null
@@ -277,36 +266,14 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Siri is good now??",
-      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-12T17:17:04.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "description": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-12T16:24:39.000Z",
-      "category": "ai",
-      "score": 77.6,
+      "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
+      "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
+      "description": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 15:50:11 +0000",
+      "category": "both",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -321,25 +288,14 @@
       "imageUrl": null
     },
     {
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "description": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400",
-      "category": "fraud",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "description": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain ris...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 12 Jun 2026 10:01:11 -0400",
-      "category": "both",
-      "score": 77.6,
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -354,25 +310,47 @@
       "imageUrl": null
     },
     {
-      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
-      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
-      "description": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 12 Jun 2026 16:17:26 +0000",
+      "title": "Siri is good now??",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T17:17:04.000Z",
       "category": "ai",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
-      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "description": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T16:24:39.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "description": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400",
+      "category": "fraud",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "description": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain ris...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 10:01:11 -0400",
       "category": "both",
-      "score": 76.5,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -409,23 +387,12 @@
       "imageUrl": null
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
+      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
+      "description": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 12 Jun 2026 16:17:26 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -508,6 +475,17 @@
       "imageUrl": null
     },
     {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "category": "ai",
+      "score": 73,
+      "imageUrl": null
+    },
+    {
       "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
       "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
       "description": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.\nThe post Alert Fatigue Is Becoming a Security Threat o...",
@@ -552,17 +530,6 @@
       "imageUrl": null
     },
     {
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "description": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 12 Jun 2026 19:26:47 +0000",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
       "description": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
@@ -596,17 +563,6 @@
       "imageUrl": null
     },
     {
-      "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
-      "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
-      "description": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 11 Jun 2026 00:54:24 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Claude Fable won’t answer basic biology questions",
       "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
       "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo...",
@@ -615,6 +571,17 @@
       "pubDate": "2026-06-10T18:43:34.000Z",
       "category": "ai",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 11 Jun 2026 03:53:06 +0000",
+      "category": "ai",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -629,6 +596,17 @@
       "imageUrl": null
     },
     {
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "description": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 12 Jun 2026 19:26:47 +0000",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
       "title": "phpBB forum fixes auth bypass bug lurking for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
       "description": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
@@ -640,13 +618,13 @@
       "imageUrl": null
     },
     {
-      "title": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
-      "link": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
-      "description": "If you have index funds — such as in a 401(k) — they may soon include shares of the mega company. Here’s a rough calculation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 20:18:27 +0000",
-      "category": "general",
+      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
+      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "category": "both",
       "score": 68.5,
       "imageUrl": null
     },
@@ -684,6 +662,28 @@
       "imageUrl": null
     },
     {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
       "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
       "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
@@ -717,17 +717,6 @@
       "imageUrl": null
     },
     {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "description": "The decision comes as India emerges as the world’s largest GCC market.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
       "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
       "description": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks.\nThe post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Ze...",
@@ -739,25 +728,14 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
-      "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
-      "description": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s r...",
+      "title": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
+      "link": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
+      "description": "If you have index funds — such as in a 401(k) — they may soon include shares of the mega company. Here’s a rough calculation.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 17:12:53 +0000",
+      "pubDate": "Fri, 12 Jun 2026 20:18:27 +0000",
       "category": "general",
       "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
-      "description": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 12 Jun 2026 20:26:32 GMT",
-      "category": "general",
-      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -794,6 +772,39 @@
       "imageUrl": null
     },
     {
+      "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
+      "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
+      "description": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s r...",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 17:12:53 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "description": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
+      "description": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 12 Jun 2026 20:26:32 GMT",
+      "category": "general",
+      "score": 63.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
@@ -801,7 +812,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 12 Jun 2026 23:15:14 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -813,6 +824,17 @@
       "pubDate": "Fri, 12 Jun 2026 09:27:08 +0000",
       "category": "general",
       "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
+      "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
+      "description": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 11 Jun 2026 00:54:24 +0000",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -849,17 +871,6 @@
       "imageUrl": null
     },
     {
-      "title": "Social media on trial: Four important cases to watch",
-      "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "description": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 11 Jun 2026 05:02:29 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Jeff Bezos Wants to Build an ‘Artificial General Engineer’",
       "link": "https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html",
       "description": "As co-chief executive of the start-up Prometheus, the Amazon founder is using A.I. to improve how devices ranging from computers to jet engines are made.",
@@ -882,34 +893,23 @@
       "imageUrl": null
     },
     {
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "description": "The decision comes as India emerges as the world’s largest GCC market.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
       "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
       "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 10 Jun 2026 17:07:35 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 10 Jun 2026 16:11:08 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -967,6 +967,17 @@
       "pubDate": "Wed, 10 Jun 2026 16:31:02 GMT",
       "category": "general",
       "score": 47.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Social media on trial: Four important cases to watch",
+      "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "description": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 11 Jun 2026 05:02:29 GMT",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1038,6 +1049,17 @@
   ],
   "all": [
     {
+      "title": "Anthropic Blocks Foreigners From Using Mythos and Fable AI",
+      "link": "https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html",
+      "description": "The company said on Friday night that the federal government had ordered limits on its Mythos and Fable 5 A.I. systems, citing national security concerns.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 13 Jun 2026 03:48:18 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX Stock Rises 11% in Largest IPO Ever",
       "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html",
       "description": "The blockbuster stock market debut of Elon Musk’s rocket company paves the way for a wave of enormous offerings that are coming from OpenAI and Anthropic.",
@@ -1045,7 +1067,7 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 12 Jun 2026 20:52:00 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1054,9 +1076,20 @@
       "description": "Strong investor interest in SpaceX could be good news for the A.I. rivals, which have signaled that they, too, intend to go public this year.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 22:40:05 +0000",
+      "pubDate": "Fri, 12 Jun 2026 22:40:06 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1067,7 +1100,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 12 Jun 2026 15:33:32 -0400",
       "category": "fraud",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1078,7 +1111,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1089,7 +1122,7 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ai",
-      "score": 93.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -1100,29 +1133,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-12T14:35:48.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "It’s hot IPO summer, and the MANGOS are ripe",
-      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 15:50:52 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1134,6 +1145,28 @@
       "pubDate": "2026-06-12T07:00:31.000Z",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 15:50:52 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1159,50 +1192,6 @@
       "imageUrl": null
     },
     {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "description": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-12T14:03:39.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC breaks down how the tech mogul's fortune has grown.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
-      "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
-      "description": "Elon Musk said he had initially given SpaceX less than a 10 percent chance of succeeding. His rocket company has come a long way.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 20:48:07 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
-      "link": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html",
-      "description": "With SpaceX shares soaring 20 percent on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 20:38:47 +0000",
-      "category": "both",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan...",
@@ -1225,14 +1214,47 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 11 Jun 2026 03:53:06 +0000",
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "description": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T14:03:39.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC breaks down how the tech mogul's fortune has grown.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
+      "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
+      "description": "Elon Musk said he had initially given SpaceX less than a 10 percent chance of succeeding. His rocket company has come a long way.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 20:48:07 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
+      "link": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html",
+      "description": "With SpaceX shares soaring 20 percent on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 20:38:48 +0000",
+      "category": "both",
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1243,29 +1265,7 @@
       "domain": "bbc.com",
       "pubDate": "Fri, 12 Jun 2026 16:44:29 GMT",
       "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
-      "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
-      "description": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 15:50:11 +0000",
-      "category": "both",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "category": "ai",
-      "score": 81,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1274,7 +1274,7 @@
       "description": "In a lawsuit, the tech giant accused the group of using Google’s Gemini system to create hundreds of fake corporate and government websites.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 09:10:31 +0000",
+      "pubDate": "Fri, 12 Jun 2026 09:10:32 +0000",
       "category": "both",
       "score": 79.5,
       "imageUrl": null
@@ -1291,36 +1291,14 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Siri is good now??",
-      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-12T17:17:04.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "description": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-12T16:24:39.000Z",
-      "category": "ai",
-      "score": 77.6,
+      "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
+      "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
+      "description": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 15:50:11 +0000",
+      "category": "both",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1335,25 +1313,14 @@
       "imageUrl": null
     },
     {
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "description": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400",
-      "category": "fraud",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "description": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain ris...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 12 Jun 2026 10:01:11 -0400",
-      "category": "both",
-      "score": 77.6,
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1368,25 +1335,47 @@
       "imageUrl": null
     },
     {
-      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
-      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
-      "description": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 12 Jun 2026 16:17:26 +0000",
+      "title": "Siri is good now??",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T17:17:04.000Z",
       "category": "ai",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
-      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "description": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-12T16:24:39.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "description": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400",
+      "category": "fraud",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "description": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain ris...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 12 Jun 2026 10:01:11 -0400",
       "category": "both",
-      "score": 76.5,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1423,23 +1412,12 @@
       "imageUrl": null
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
+      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
+      "description": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 12 Jun 2026 16:17:26 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1522,6 +1500,17 @@
       "imageUrl": null
     },
     {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "category": "ai",
+      "score": 73,
+      "imageUrl": null
+    },
+    {
       "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
       "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
       "description": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.\nThe post Alert Fatigue Is Becoming a Security Threat o...",
@@ -1566,17 +1555,6 @@
       "imageUrl": null
     },
     {
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "description": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 12 Jun 2026 19:26:47 +0000",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
       "description": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
@@ -1610,17 +1588,6 @@
       "imageUrl": null
     },
     {
-      "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
-      "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
-      "description": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 11 Jun 2026 00:54:24 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Claude Fable won’t answer basic biology questions",
       "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
       "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo...",
@@ -1629,6 +1596,17 @@
       "pubDate": "2026-06-10T18:43:34.000Z",
       "category": "ai",
       "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 11 Jun 2026 03:53:06 +0000",
+      "category": "ai",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -1643,6 +1621,17 @@
       "imageUrl": null
     },
     {
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "description": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 12 Jun 2026 19:26:47 +0000",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
       "title": "phpBB forum fixes auth bypass bug lurking for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
       "description": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
@@ -1654,13 +1643,13 @@
       "imageUrl": null
     },
     {
-      "title": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
-      "link": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
-      "description": "If you have index funds — such as in a 401(k) — they may soon include shares of the mega company. Here’s a rough calculation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 20:18:27 +0000",
-      "category": "general",
+      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
+      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "category": "both",
       "score": 68.5,
       "imageUrl": null
     },
@@ -1698,6 +1687,28 @@
       "imageUrl": null
     },
     {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
       "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
       "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
@@ -1731,17 +1742,6 @@
       "imageUrl": null
     },
     {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "description": "The decision comes as India emerges as the world’s largest GCC market.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
       "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
       "description": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks.\nThe post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Ze...",
@@ -1753,25 +1753,14 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
-      "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
-      "description": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s r...",
+      "title": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
+      "link": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
+      "description": "If you have index funds — such as in a 401(k) — they may soon include shares of the mega company. Here’s a rough calculation.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 12 Jun 2026 17:12:53 +0000",
+      "pubDate": "Fri, 12 Jun 2026 20:18:27 +0000",
       "category": "general",
       "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
-      "description": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 12 Jun 2026 20:26:32 GMT",
-      "category": "general",
-      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -1808,6 +1797,39 @@
       "imageUrl": null
     },
     {
+      "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
+      "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
+      "description": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s r...",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 12 Jun 2026 17:12:53 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "description": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
+      "description": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 12 Jun 2026 20:26:32 GMT",
+      "category": "general",
+      "score": 63.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
@@ -1815,7 +1837,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 12 Jun 2026 23:15:14 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1827,6 +1849,17 @@
       "pubDate": "Fri, 12 Jun 2026 09:27:08 +0000",
       "category": "general",
       "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
+      "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
+      "description": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 11 Jun 2026 00:54:24 +0000",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1863,17 +1896,6 @@
       "imageUrl": null
     },
     {
-      "title": "Social media on trial: Four important cases to watch",
-      "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "description": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 11 Jun 2026 05:02:29 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Jeff Bezos Wants to Build an ‘Artificial General Engineer’",
       "link": "https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html",
       "description": "As co-chief executive of the start-up Prometheus, the Amazon founder is using A.I. to improve how devices ranging from computers to jet engines are made.",
@@ -1896,34 +1918,23 @@
       "imageUrl": null
     },
     {
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "description": "The decision comes as India emerges as the world’s largest GCC market.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
       "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
       "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 10 Jun 2026 17:07:35 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 10 Jun 2026 16:11:08 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -1981,6 +1992,17 @@
       "pubDate": "Wed, 10 Jun 2026 16:31:02 GMT",
       "category": "general",
       "score": 47.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Social media on trial: Four important cases to watch",
+      "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "description": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 11 Jun 2026 05:02:29 GMT",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
