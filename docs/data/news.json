@@ -1,33 +1,77 @@
 {
   "metadata": {
-    "generated": "2026-06-16T09:50:05.363Z",
+    "generated": "2026-06-16T13:49:54.045Z",
     "timezone": "UTC",
     "windowDays": 3,
     "totalArticles": 69,
-    "sources": 8,
+    "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 69 articles from 8 trusted sources, including 46 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: FBI: Fraudsters use couriers to steal money in crypto scams\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from TechCrunch, The Verge, Dark Reading, BleepingComputer, SecurityWeek and others\n• **Fresh Content**: 53 articles published in the last 24 hours",
-    "generated": "2026-06-16T09:50:05.363Z",
+    "content": "Today's selection covers 69 articles from 7 trusted sources, including 45 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Critical Copilot vulnerability allowed hackers to seal 2FA code from users\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ransomware gang abuses Microsoft Teams relays to hide malicious traffic\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from Ars Technica, The Verge, BleepingComputer, SecurityWeek, TechCrunch and others\n• **Fresh Content**: 52 articles published in the last 24 hours",
+    "generated": "2026-06-16T13:49:54.045Z",
     "stats": {
       "totalArticles": 69,
-      "aiArticles": 46,
-      "fraudArticles": 17,
-      "sources": 8,
-      "todayCount": 53
+      "aiArticles": 45,
+      "fraudArticles": 13,
+      "sources": 7,
+      "todayCount": 52
     }
   },
   "top": [
     {
-      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 16 Jun 2026 06:59:00 +0000",
+      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "description": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 16 Jun 2026 11:15:46 +0000",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX is officially buying Cursor for $60 billion",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+      "description": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise custom...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-16T11:41:31.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "description": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 06:18:48 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
+      "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+      "description": "From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of experts say security leaders need to understand now.\nThe post AI a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 13:15:34 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybersecurity Executives Urge the Trump Administration to Ease Restrictions on Anthropic AI Models",
+      "link": "https://www.securityweek.com/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models/",
+      "description": "A group of cybersecurity executives and experts is asking the Trump administration to lift its directive preventing the use of Anthropic’s latest artificial intelligence models by foreign nationals.\nT...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 10:28:30 +0000",
       "category": "ai",
       "score": 94,
       "imageUrl": null
@@ -42,27 +86,18 @@
       "category": "ai",
       "score": 92.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
+      "pubDate": "Tue, 16 Jun 2026 06:59:00 +0000",
       "category": "ai",
       "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
-      "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-      "description": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 12:17:22 GMT",
-      "category": "ai",
-      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -86,9 +121,7 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Big Tech’s desperate last push at AI regulation",
       "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
@@ -123,47 +156,25 @@
       "imageUrl": null
     },
     {
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "description": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help aut...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 08:12:20 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
     },
     {
-      "title": "French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker",
-      "link": "https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/",
-      "description": "French officials say roughly 73,000 government accounts were affected, while the threat actor claims to have stolen messages and user data from the sovereign Tchap platform.\nThe post French Government...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 11:09:10 +0000",
+      "title": "Riding High After I.P.O., SpaceX to Buy A.I. Start-Up for $60 Billion",
+      "link": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html",
+      "description": "SpaceX exercised its option to acquire Cursor in an all-stock deal, bolstering Elon Musk’s ambitions in artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 16 Jun 2026 12:49:39 +0000",
       "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
-      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
-      "description": "Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write.\nThe post Cisco Patches Another SD-WAN Zero-Day Exploited in Atta...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 16 Jun 2026 06:20:18 +0000",
-      "category": "fraud",
-      "score": 85,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -178,6 +189,28 @@
       "imageUrl": null
     },
     {
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in t...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 06:47:59 -0400",
+      "category": "fraud",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
       "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
       "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
       "description": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and...",
@@ -189,14 +222,14 @@
       "imageUrl": null
     },
     {
-      "title": "UK Announces Social Media Ban for Children Under 16",
-      "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-      "description": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 15 Jun 2026 22:53:50 +0000",
-      "category": "ai",
-      "score": 81.5,
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "description": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 09:42:19 -0400",
+      "category": "fraud",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -206,17 +239,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 16 Jun 2026 05:00:00 -0400",
-      "category": "fraud",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "description": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400",
       "category": "fraud",
       "score": 79.6,
       "imageUrl": null
@@ -233,6 +255,17 @@
       "imageUrl": null
     },
     {
+      "title": "UK Announces Social Media Ban for Children Under 16",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+      "description": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 15 Jun 2026 22:53:50 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX’s Stock Surges on First Full Day of Trading",
       "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
       "description": "The company’s shares jumped on Monday, and executives announced that they had raised even more money in an already record-breaking initial offering.",
@@ -244,69 +277,91 @@
       "imageUrl": null
     },
     {
-      "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
-      "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
-      "description": "Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 15 Jun 2026 11:19:17 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "description": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what ap...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 23:51:44 +0000",
+      "pubDate": "Tue, 16 Jun 2026 13:15:09 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
-      "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
-      "description": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 19:27:48 GMT",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "description": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 16 Jun 2026 11:21:41 +0000",
       "category": "ai",
-      "score": 76.5,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "China-Nexus Actor Spy on US Researchers Undetected for a Year",
-      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-      "description": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 17:00:45 GMT",
+      "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
+      "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
+      "description": "The company is enhancing third-party risk management (TPRM) through autonomous AI agents.\nThe post Magnitude Emerges From Stealth Mode With $10 Million in Funding appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 13:34:57 +0000",
       "category": "ai",
-      "score": 76.5,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "The Beginning of the End of Social Engineering",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
-      "description": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 15:08:32 GMT",
+      "title": "Cybercrime Group Claims Novo Nordisk Hack",
+      "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
+      "description": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant.\nThe post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 12:32:27 +0000",
       "category": "both",
-      "score": 76.5,
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
+      "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
+      "description": "By continuously analyzing security, infrastructure, and governance data, TrustCloud aims to give CISOs a real-time view of application risk and board-ready assurance.\nThe post Can CISOs Trust Their Ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 12:15:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Cal Water Investigating Iranian Hackers’ Claims",
+      "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
+      "description": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. \nThe post Cal Water Investigating Iranian Hackers’ Claims appeared first on Securit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 11:53:11 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages",
+      "link": "https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/",
+      "description": "Arch Linux suspended account registrations in response to the wave of malicious packages being uploaded to AUR.\nThe post Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 10:51:49 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "description": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400",
+      "category": "fraud",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -316,6 +371,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-15T21:15:08.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "description": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what ap...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -354,25 +420,14 @@
       "imageUrl": null
     },
     {
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "description": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a sp...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 09:00:00 -0400",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 23:51:44 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "description": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student inf...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 08:38:55 -0400",
-      "category": "fraud",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -409,83 +464,6 @@
       "imageUrl": null
     },
     {
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
-      "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
-      "description": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen.\nThe post Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 15:15:55 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
-      "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
-      "description": "Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025.\nThe post Chinese Hackers Target Medical, Military, and AI Research in North America appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 14:07:45 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "NewCore Emerges From Stealth Mode With $66 Million in Funding",
-      "link": "https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/",
-      "description": "The startup has built a security-first identity platform to protect humans, machines, and AI agents.\nThe post NewCore Emerges From Stealth Mode With $66 Million in Funding appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
-      "link": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
-      "description": "Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang.\nThe post Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 11:33:20 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
-      "link": "https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/",
-      "description": "The pharmaceutical giant says the attackers gained access to personal data stored on the compromised systems. \nThe post Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems appeared first on Se...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 11:17:21 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters Claims Council of Europe Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/",
-      "description": "The extortion group threatens to leak 297 GB of data allegedly stolen from the Council of Europe, including employee personal information.\nThe post ShinyHunters Claims Council of Europe Hack appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 10:44:29 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "State Attorneys General Are Investigating OpenAI",
       "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
       "description": "OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.",
@@ -508,23 +486,23 @@
       "imageUrl": null
     },
     {
+      "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+      "description": "Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 15 Jun 2026 11:19:17 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "description": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-13T21:39:26.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-13T12:55:49.000Z",
       "category": "ai",
       "score": 70.6,
       "imageUrl": null
@@ -574,12 +552,34 @@
       "imageUrl": null
     },
     {
+      "title": "White House Issues Memo to Bolster NSS Cybersecurity",
+      "link": "https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/",
+      "description": "NSPM-12 establishes a clear structure for NSS cybersecurity governance and accountability and reestablishes CNSS.\nThe post White House Issues Memo to Bolster NSS Cybersecurity appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 11:41:46 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Five big questions about the UK's under-16s social media ban",
+      "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
+      "description": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 16 Jun 2026 12:09:57 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "When will social media ban start, and which apps will be affected?",
       "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
       "description": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 16 Jun 2026 07:49:20 GMT",
+      "pubDate": "Tue, 16 Jun 2026 10:58:25 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -596,14 +596,25 @@
       "imageUrl": null
     },
     {
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "description": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websi...",
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "description": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a sp...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 14 Jun 2026 10:36:23 -0400",
-      "category": "both",
+      "pubDate": "Mon, 15 Jun 2026 09:00:00 -0400",
+      "category": "ai",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "category": "both",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -629,17 +640,6 @@
       "imageUrl": null
     },
     {
-      "title": "FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service",
-      "link": "https://www.securityweek.com/fbi-google-dismantle-outsider-enterprise-phishing-service/",
-      "description": "The platform used more than 9,000 phishing sites, stealing nearly 4 million credit cards and causing roughly $1.9 billion in losses.\nThe post FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Servi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 09:31:14 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
       "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
       "description": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protoco...",
@@ -658,7 +658,7 @@
       "domain": "bbc.com",
       "pubDate": "Tue, 16 Jun 2026 00:11:13 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -670,6 +670,28 @@
       "pubDate": "Mon, 15 Jun 2026 19:48:25 GMT",
       "category": "general",
       "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+      "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 16 Jun 2026 13:48:37 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
+      "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
+      "description": "Ent has developed an intent-aware platform designed to interpret user and agent behavior before risky actions are carried out.\nThe post Endpoint Security Startup Ent Emerges From Stealth With $100 Mil...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 12:53:19 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -695,34 +717,12 @@
       "imageUrl": null
     },
     {
-      "title": "Most CISOs Report Pressure to Bury Bad Security News",
-      "link": "https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news",
-      "description": "Executive leaders may not be saying it aloud, but business objectives and priorities don't always promote timely disclosures.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 16:45:59 GMT",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
       "title": "SpaceX is public: Everything you need to know post-IPO",
       "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
       "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 15 Jun 2026 18:30:34 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -750,17 +750,6 @@
       "imageUrl": null
     },
     {
-      "title": "My yard is dying, so I made an app for that",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "description": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-13T13:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "description": "Once again, AI proves to be an unreliable source of information about AI.",
@@ -769,6 +758,17 @@
       "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000",
       "category": "ai",
       "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -785,12 +785,56 @@
   ],
   "all": [
     {
-      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 16 Jun 2026 06:59:00 +0000",
+      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "description": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 16 Jun 2026 11:15:46 +0000",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX is officially buying Cursor for $60 billion",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+      "description": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise custom...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-16T11:41:31.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "description": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 06:18:48 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
+      "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+      "description": "From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of experts say security leaders need to understand now.\nThe post AI a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 13:15:34 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybersecurity Executives Urge the Trump Administration to Ease Restrictions on Anthropic AI Models",
+      "link": "https://www.securityweek.com/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models/",
+      "description": "A group of cybersecurity executives and experts is asking the Trump administration to lift its directive preventing the use of Anthropic’s latest artificial intelligence models by foreign nationals.\nT...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 10:28:30 +0000",
       "category": "ai",
       "score": 94,
       "imageUrl": null
@@ -807,25 +851,14 @@
       "imageUrl": null
     },
     {
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
+      "pubDate": "Tue, 16 Jun 2026 06:59:00 +0000",
       "category": "ai",
       "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
-      "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-      "description": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 12:17:22 GMT",
-      "category": "ai",
-      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -884,47 +917,25 @@
       "imageUrl": null
     },
     {
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "description": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help aut...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 08:12:20 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
     },
     {
-      "title": "French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker",
-      "link": "https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/",
-      "description": "French officials say roughly 73,000 government accounts were affected, while the threat actor claims to have stolen messages and user data from the sovereign Tchap platform.\nThe post French Government...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 11:09:10 +0000",
+      "title": "Riding High After I.P.O., SpaceX to Buy A.I. Start-Up for $60 Billion",
+      "link": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html",
+      "description": "SpaceX exercised its option to acquire Cursor in an all-stock deal, bolstering Elon Musk’s ambitions in artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 16 Jun 2026 12:49:39 +0000",
       "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
-      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
-      "description": "Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write.\nThe post Cisco Patches Another SD-WAN Zero-Day Exploited in Atta...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 16 Jun 2026 06:20:18 +0000",
-      "category": "fraud",
-      "score": 85,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -939,6 +950,28 @@
       "imageUrl": null
     },
     {
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in t...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 06:47:59 -0400",
+      "category": "fraud",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
       "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
       "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
       "description": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and...",
@@ -950,14 +983,14 @@
       "imageUrl": null
     },
     {
-      "title": "UK Announces Social Media Ban for Children Under 16",
-      "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-      "description": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 15 Jun 2026 22:53:50 +0000",
-      "category": "ai",
-      "score": 81.5,
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "description": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 09:42:19 -0400",
+      "category": "fraud",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -967,17 +1000,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 16 Jun 2026 05:00:00 -0400",
-      "category": "fraud",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "description": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400",
       "category": "fraud",
       "score": 79.6,
       "imageUrl": null
@@ -994,6 +1016,17 @@
       "imageUrl": null
     },
     {
+      "title": "UK Announces Social Media Ban for Children Under 16",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+      "description": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 15 Jun 2026 22:53:50 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "SpaceX’s Stock Surges on First Full Day of Trading",
       "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
       "description": "The company’s shares jumped on Monday, and executives announced that they had raised even more money in an already record-breaking initial offering.",
@@ -1005,69 +1038,91 @@
       "imageUrl": null
     },
     {
-      "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
-      "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
-      "description": "Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 15 Jun 2026 11:19:17 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "description": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what ap...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 23:51:44 +0000",
+      "pubDate": "Tue, 16 Jun 2026 13:15:09 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
-      "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
-      "description": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 19:27:48 GMT",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "description": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 16 Jun 2026 11:21:41 +0000",
       "category": "ai",
-      "score": 76.5,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "China-Nexus Actor Spy on US Researchers Undetected for a Year",
-      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-      "description": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 17:00:45 GMT",
+      "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
+      "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
+      "description": "The company is enhancing third-party risk management (TPRM) through autonomous AI agents.\nThe post Magnitude Emerges From Stealth Mode With $10 Million in Funding appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 13:34:57 +0000",
       "category": "ai",
-      "score": 76.5,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "The Beginning of the End of Social Engineering",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
-      "description": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 15:08:32 GMT",
+      "title": "Cybercrime Group Claims Novo Nordisk Hack",
+      "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
+      "description": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant.\nThe post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 12:32:27 +0000",
       "category": "both",
-      "score": 76.5,
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
+      "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
+      "description": "By continuously analyzing security, infrastructure, and governance data, TrustCloud aims to give CISOs a real-time view of application risk and board-ready assurance.\nThe post Can CISOs Trust Their Ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 12:15:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Cal Water Investigating Iranian Hackers’ Claims",
+      "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
+      "description": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. \nThe post Cal Water Investigating Iranian Hackers’ Claims appeared first on Securit...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 11:53:11 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages",
+      "link": "https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/",
+      "description": "Arch Linux suspended account registrations in response to the wave of malicious packages being uploaded to AUR.\nThe post Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 10:51:49 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "description": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400",
+      "category": "fraud",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1077,6 +1132,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-15T21:15:08.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "description": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what ap...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -1115,25 +1181,14 @@
       "imageUrl": null
     },
     {
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "description": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a sp...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 09:00:00 -0400",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 23:51:44 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "description": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student inf...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 15 Jun 2026 08:38:55 -0400",
-      "category": "fraud",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1170,83 +1225,6 @@
       "imageUrl": null
     },
     {
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
-      "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
-      "description": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen.\nThe post Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 15:15:55 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
-      "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
-      "description": "Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025.\nThe post Chinese Hackers Target Medical, Military, and AI Research in North America appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 14:07:45 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "NewCore Emerges From Stealth Mode With $66 Million in Funding",
-      "link": "https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/",
-      "description": "The startup has built a security-first identity platform to protect humans, machines, and AI agents.\nThe post NewCore Emerges From Stealth Mode With $66 Million in Funding appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
-      "link": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
-      "description": "Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang.\nThe post Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 11:33:20 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
-      "link": "https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/",
-      "description": "The pharmaceutical giant says the attackers gained access to personal data stored on the compromised systems. \nThe post Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems appeared first on Se...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 11:17:21 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters Claims Council of Europe Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/",
-      "description": "The extortion group threatens to leak 297 GB of data allegedly stolen from the Council of Europe, including employee personal information.\nThe post ShinyHunters Claims Council of Europe Hack appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 10:44:29 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "State Attorneys General Are Investigating OpenAI",
       "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
       "description": "OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.",
@@ -1269,23 +1247,23 @@
       "imageUrl": null
     },
     {
+      "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+      "description": "Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 15 Jun 2026 11:19:17 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "description": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-13T21:39:26.000Z",
-      "category": "ai",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-13T12:55:49.000Z",
       "category": "ai",
       "score": 70.6,
       "imageUrl": null
@@ -1335,12 +1313,34 @@
       "imageUrl": null
     },
     {
+      "title": "White House Issues Memo to Bolster NSS Cybersecurity",
+      "link": "https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/",
+      "description": "NSPM-12 establishes a clear structure for NSS cybersecurity governance and accountability and reestablishes CNSS.\nThe post White House Issues Memo to Bolster NSS Cybersecurity appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 11:41:46 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Five big questions about the UK's under-16s social media ban",
+      "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
+      "description": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 16 Jun 2026 12:09:57 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "When will social media ban start, and which apps will be affected?",
       "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
       "description": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 16 Jun 2026 07:49:20 GMT",
+      "pubDate": "Tue, 16 Jun 2026 10:58:25 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -1357,14 +1357,25 @@
       "imageUrl": null
     },
     {
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "description": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websi...",
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "description": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a sp...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 14 Jun 2026 10:36:23 -0400",
-      "category": "both",
+      "pubDate": "Mon, 15 Jun 2026 09:00:00 -0400",
+      "category": "ai",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "category": "both",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1390,17 +1401,6 @@
       "imageUrl": null
     },
     {
-      "title": "FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service",
-      "link": "https://www.securityweek.com/fbi-google-dismantle-outsider-enterprise-phishing-service/",
-      "description": "The platform used more than 9,000 phishing sites, stealing nearly 4 million credit cards and causing roughly $1.9 billion in losses.\nThe post FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Servi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 15 Jun 2026 09:31:14 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
       "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
       "description": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protoco...",
@@ -1419,7 +1419,7 @@
       "domain": "bbc.com",
       "pubDate": "Tue, 16 Jun 2026 00:11:13 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1431,6 +1431,28 @@
       "pubDate": "Mon, 15 Jun 2026 19:48:25 GMT",
       "category": "general",
       "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+      "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 16 Jun 2026 13:48:37 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
+      "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
+      "description": "Ent has developed an intent-aware platform designed to interpret user and agent behavior before risky actions are carried out.\nThe post Endpoint Security Startup Ent Emerges From Stealth With $100 Mil...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 16 Jun 2026 12:53:19 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1456,34 +1478,12 @@
       "imageUrl": null
     },
     {
-      "title": "Most CISOs Report Pressure to Bury Bad Security News",
-      "link": "https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news",
-      "description": "Executive leaders may not be saying it aloud, but business objectives and priorities don't always promote timely disclosures.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 15 Jun 2026 16:45:59 GMT",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
       "title": "SpaceX is public: Everything you need to know post-IPO",
       "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
       "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 15 Jun 2026 18:30:34 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1511,17 +1511,6 @@
       "imageUrl": null
     },
     {
-      "title": "My yard is dying, so I made an app for that",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "description": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-13T13:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "description": "Once again, AI proves to be an unreliable source of information about AI.",
@@ -1530,6 +1519,17 @@
       "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000",
       "category": "ai",
       "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
