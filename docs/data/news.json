@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-06-22T17:33:53.450Z",
+    "generated": "2026-06-22T21:02:09.635Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 38,
-    "sources": 7,
+    "totalArticles": 44,
+    "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 38 articles from 7 trusted sources, including 26 on Artificial Intelligence and 7 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data\n• **Companies in Focus**: Coverage includes developments from Google, Anthropic, Microsoft\n• **Security Alert**: What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from SecurityWeek, TechCrunch, NY Times Tech, Dark Reading, BleepingComputer and others\n• **Fresh Content**: 19 articles published in the last 24 hours",
-    "generated": "2026-06-22T17:33:53.450Z",
+    "content": "Today's selection covers 44 articles from 8 trusted sources, including 32 on Artificial Intelligence and 6 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data\n• **Companies in Focus**: Coverage includes developments from Google, Anthropic, Microsoft\n• **Security Alert**: What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from SecurityWeek, TechCrunch, NY Times Tech, Dark Reading, The Verge and others\n• **Fresh Content**: 26 articles published in the last 24 hours",
+    "generated": "2026-06-22T21:02:09.635Z",
     "stats": {
-      "totalArticles": 38,
-      "aiArticles": 26,
-      "fraudArticles": 7,
-      "sources": 7,
-      "todayCount": 19
+      "totalArticles": 44,
+      "aiArticles": 32,
+      "fraudArticles": 6,
+      "sources": 8,
+      "todayCount": 26
     }
   },
   "top": [
@@ -29,11 +29,22 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 22 Jun 2026 13:22:31 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
-      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "category": "ai",
+      "score": 91,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "description": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne...",
       "source": "TechCrunch",
@@ -41,6 +52,17 @@
       "pubDate": "Mon, 22 Jun 2026 16:51:29 +0000",
       "category": "ai",
       "score": 91,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "description": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "category": "ai",
+      "score": 85,
       "imageUrl": null
     },
     {
@@ -64,7 +86,9 @@
       "category": "fraud",
       "score": 83,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
@@ -86,9 +110,40 @@
       "category": "ai",
       "score": 80.5,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
+    {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "description": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-22T20:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "description": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credent...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 16:01:02 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "description": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 13:41:31 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
     {
       "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
@@ -96,17 +151,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 22 Jun 2026 13:28:57 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -123,9 +167,31 @@
       "imageUrl": null
     },
     {
+      "title": "The AI world is getting ‘loopy’",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "description": "The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 18:49:44 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Amazon is testing Alexa+ in India with Hindi support",
       "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-      "description": "Amazon sent emails to customers inviting them to test Alexa+",
+      "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 22 Jun 2026 17:31:29 +0000",
@@ -140,6 +206,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-22T11:00:00.000Z",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
       "category": "ai",
       "score": 77.6,
       "imageUrl": null
@@ -222,17 +299,6 @@
       "imageUrl": null
     },
     {
-      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.\nThe post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appear...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 11:45:43 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
       "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
       "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
@@ -244,6 +310,17 @@
       "imageUrl": null
     },
     {
+      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
+      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
+      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.\nThe post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appear...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 22 Jun 2026 11:45:43 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
       "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
       "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
       "description": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.\nThe post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on Securit...",
@@ -252,17 +329,6 @@
       "pubDate": "Mon, 22 Jun 2026 09:03:08 +0000",
       "category": "general",
       "score": 68,
-      "imageUrl": null
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-20T18:46:48.000Z",
-      "category": "ai",
-      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -288,36 +354,14 @@
       "imageUrl": null
     },
     {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "description": "So ... what's your In the Weights score?",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-      "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-      "description": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 21 Jun 2026 19:49:15 +0000",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "description": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 22 Jun 2026 19:16:52 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -328,7 +372,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 22 Jun 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -343,36 +387,25 @@
       "imageUrl": null
     },
     {
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "description": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 19 Jun 2026 20:28:33 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "description": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 19 Jun 2026 16:25:02 -0400",
-      "category": "fraud",
-      "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
-      "link": "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html",
-      "description": "The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.",
+      "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
+      "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
+      "description": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Sat, 20 Jun 2026 18:11:07 +0000",
+      "pubDate": "Sun, 21 Jun 2026 19:49:15 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-20T18:46:48.000Z",
+      "category": "ai",
+      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -409,6 +442,28 @@
       "imageUrl": null
     },
     {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "description": "So ... what's your In the Weights score?",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "description": "Jumper isn't the only big name leaving Google DeepMind.",
@@ -439,6 +494,17 @@
       "pubDate": "Sat, 20 Jun 2026 09:48:40 +0000",
       "category": "ai",
       "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
+      "link": "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html",
+      "description": "The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 20 Jun 2026 18:11:07 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     }
   ],
@@ -451,11 +517,22 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 22 Jun 2026 13:22:31 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
-      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "category": "ai",
+      "score": 91,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "description": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne...",
       "source": "TechCrunch",
@@ -463,6 +540,17 @@
       "pubDate": "Mon, 22 Jun 2026 16:51:29 +0000",
       "category": "ai",
       "score": 91,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "description": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "category": "ai",
+      "score": 85,
       "imageUrl": null
     },
     {
@@ -510,23 +598,45 @@
       "imageUrl": null
     },
     {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "description": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-22T20:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "description": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credent...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 16:01:02 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "description": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 13:41:31 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
       "description": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system sim...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 22 Jun 2026 13:28:57 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -543,9 +653,31 @@
       "imageUrl": null
     },
     {
+      "title": "The AI world is getting ‘loopy’",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "description": "The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 22 Jun 2026 18:49:44 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Amazon is testing Alexa+ in India with Hindi support",
       "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-      "description": "Amazon sent emails to customers inviting them to test Alexa+",
+      "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 22 Jun 2026 17:31:29 +0000",
@@ -560,6 +692,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-22T11:00:00.000Z",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
       "category": "ai",
       "score": 77.6,
       "imageUrl": null
@@ -642,17 +785,6 @@
       "imageUrl": null
     },
     {
-      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.\nThe post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appear...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 11:45:43 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
       "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
       "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
@@ -664,6 +796,17 @@
       "imageUrl": null
     },
     {
+      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
+      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
+      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.\nThe post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appear...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 22 Jun 2026 11:45:43 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
       "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
       "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
       "description": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.\nThe post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on Securit...",
@@ -672,17 +815,6 @@
       "pubDate": "Mon, 22 Jun 2026 09:03:08 +0000",
       "category": "general",
       "score": 68,
-      "imageUrl": null
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-20T18:46:48.000Z",
-      "category": "ai",
-      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -708,36 +840,14 @@
       "imageUrl": null
     },
     {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "description": "So ... what's your In the Weights score?",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-      "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-      "description": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 21 Jun 2026 19:49:15 +0000",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "description": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 22 Jun 2026 19:16:52 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -748,7 +858,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 22 Jun 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -763,36 +873,25 @@
       "imageUrl": null
     },
     {
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "description": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 19 Jun 2026 20:28:33 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "description": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 19 Jun 2026 16:25:02 -0400",
-      "category": "fraud",
-      "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
-      "link": "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html",
-      "description": "The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.",
+      "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
+      "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
+      "description": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Sat, 20 Jun 2026 18:11:07 +0000",
+      "pubDate": "Sun, 21 Jun 2026 19:49:15 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-20T18:46:48.000Z",
+      "category": "ai",
+      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -829,6 +928,28 @@
       "imageUrl": null
     },
     {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "description": "So ... what's your In the Weights score?",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "description": "Jumper isn't the only big name leaving Google DeepMind.",
@@ -859,6 +980,17 @@
       "pubDate": "Sat, 20 Jun 2026 09:48:40 +0000",
       "category": "ai",
       "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
+      "link": "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html",
+      "description": "The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 20 Jun 2026 18:11:07 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     }
   ]
