@@ -1,26 +1,70 @@
 {
   "metadata": {
-    "generated": "2026-06-23T09:10:27.458Z",
+    "generated": "2026-06-23T16:50:55.929Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 53,
-    "sources": 8,
+    "totalArticles": 67,
+    "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 53 articles from 8 trusted sources, including 34 on Artificial Intelligence and 8 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI launches new initiative to help find and patch open source bugs\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: WhatsApp phishing attack uses fake business docs to hack PCs\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BleepingComputer, TechCrunch, SecurityWeek, The Verge, BBC Technology and others\n• **Fresh Content**: 36 articles published in the last 24 hours",
-    "generated": "2026-06-23T09:10:27.458Z",
+    "content": "Today's selection covers 67 articles from 9 trusted sources, including 42 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Something&#8217;s off with Midjourney’s pivot to body scanners\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Scattered Spider members plead guilty to hacking Transport for London\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, SecurityWeek, TechCrunch, Krebs on Security and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
+    "generated": "2026-06-23T16:50:55.929Z",
     "stats": {
-      "totalArticles": 53,
-      "aiArticles": 34,
-      "fraudArticles": 8,
-      "sources": 8,
-      "todayCount": 36
+      "totalArticles": 67,
+      "aiArticles": 42,
+      "fraudArticles": 11,
+      "sources": 9,
+      "todayCount": 49
     }
   },
   "top": [
+    {
+      "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "description": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nLast week, Midjourney, an AI startup best known for its i...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T15:56:35.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "description": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 11:31:59 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "description": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workfl...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 08:12:20 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
+      "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
+      "description": "OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships.\nThe post OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 11:07:02 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
     {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
@@ -29,7 +73,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 22 Jun 2026 18:42:21 -0400",
       "category": "fraud",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -40,18 +84,20 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000",
       "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
-      "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
-      "description": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. \nThe post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 13:22:31 +0000",
-      "category": "ai",
       "score": 90,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "description": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "category": "fraud",
+      "score": 88.6,
       "imageUrl": null
     },
     {
@@ -77,49 +123,36 @@
       "imageUrl": null
     },
     {
-      "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
-      "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
-      "description": "Threat actors gained access to personal and protected health information that Xsolis received from its clients.\nThe post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 23 Jun 2026 06:20:00 +0000",
+      "title": "SocGholish Takedown Highlights Malicious TDS Threats",
+      "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
+      "description": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 23 Jun 2026 13:51:33 GMT",
       "category": "fraud",
-      "score": 85,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "description": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-22T23:24:32.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "category": "ai",
-      "score": 82,
+      "score": 86.5,
       "imageUrl": null
     },
     {
       "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-      "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
       "description": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 22 Jun 2026 23:02:33 GMT",
+      "pubDate": "Tue, 23 Jun 2026 15:01:40 GMT",
       "category": "ai",
-      "score": 81.5,
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Steam Machine launches with £879 price tag as Valve cites component costs",
+      "link": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "description": "Valve said the cost of its PC-console hybrid reflects a broader trend of component costs rising over time.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 23 Jun 2026 11:25:54 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -128,9 +161,31 @@
       "description": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 22 Jun 2026 22:53:42 +0000",
+      "pubDate": "Tue, 23 Jun 2026 15:11:36 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
+      "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
+      "description": "Threat actors gained access to personal and protected health information that Xsolis received from its clients.\nThe post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 06:20:00 +0000",
+      "category": "fraud",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "description": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-22T23:24:32.000Z",
+      "category": "ai",
+      "score": 81.6,
       "imageUrl": null
     },
     {
@@ -145,45 +200,133 @@
       "imageUrl": null
     },
     {
-      "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
-      "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
-      "description": "Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.\nThe post What the Latest ShinyHunters Breaches Reveal About Mode...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 10:30:00 +0000",
-      "category": "fraud",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
-      "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
-      "description": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 22 Jun 2026 15:14:00 +0000",
+      "title": "FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
+      "description": "The threat actors engineered a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 23 Jun 2026 12:34:54 GMT",
       "category": "ai",
-      "score": 79.5,
+      "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "description": "The Google Fitbit Air is one of the better attempts at an AI-compatible health tracker.\t\n\nGoogle Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T15:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "description": "I’m sorry Sony, your AI isn’t very good at photography.\t\n\nWhen Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. T...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T13:25:42.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "description": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "description": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public ex...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "description": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 09:58:25 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+      "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+      "description": "Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs.\nThe post Data Exposure Flaws Threaten Dify AI Platform Used by...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 15:36:24 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
+      "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
+      "description": "26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.\nThe post Algerian Man Extradited to US for Running Cybercrime Marketplaces ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 12:06:15 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+      "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+      "description": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026.\nThe post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 10:30:46 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
     },
     {
-      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
-      "description": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
+      "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
+      "description": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information.\nThe post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 09:25:22 +0000",
+      "category": "both",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories",
+      "link": "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories",
+      "description": "Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Mon, 22 Jun 2026 16:10:10 GMT",
+      "pubDate": "Mon, 22 Jun 2026 21:14:11 GMT",
       "category": "ai",
       "score": 76.5,
       "imageUrl": null
@@ -195,17 +338,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-22T20:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Read this before you vibe-code another app",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-22T11:00:00.000Z",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -255,14 +387,14 @@
       "imageUrl": null
     },
     {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -299,58 +431,102 @@
       "imageUrl": null
     },
     {
-      "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
-      "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
-      "description": "A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.\nThe post North Korean Hackers Blamed for Mastra NPM Supply Chain Attack ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 11:10:06 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Fortinet Responds to FortiBleed Campaign",
-      "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
-      "description": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.\nThe post Fortinet Responds to FortiBleed Campaign appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 09:34:59 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
-      "link": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html",
-      "description": "A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 20 Jun 2026 15:58:09 +0000",
-      "category": "ai",
+      "title": "He Thought He Was Secure; His Phone Number Got Stolen Anyway",
+      "link": "https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover",
+      "description": "Threat actors can easily steal one-time passwords sent by text when they conduct a SIM swap attack. This can lead to account takeovers, so users must layer up their security measures.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 22 Jun 2026 14:12:11 GMT",
+      "category": "fraud",
       "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
-      "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
-      "description": "The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.\nThe post New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPho...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 10:03:06 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
       "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-      "link": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
       "description": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sun, 21 Jun 2026 23:21:05 GMT",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
+      "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+      "description": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 22 Jun 2026 15:14:00 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
+      "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+      "description": "The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25.\nThe post Eight-Year-Old Samsung KNOX Flaw Exposed M...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+      "description": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 22 Jun 2026 16:10:10 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Has Created a Prediction Markets App",
+      "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+      "description": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 23 Jun 2026 16:45:31 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Read this before you vibe-code another app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-22T11:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -361,7 +537,29 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 23 Jun 2026 09:02:27 +0000",
       "category": "general",
-      "score": 68.5,
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "description": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 22 Jun 2026 23:31:21 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Hydration tracking gadgets are flooding the market but is it too much information?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 22 Jun 2026 23:01:11 GMT",
+      "category": "general",
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -372,73 +570,40 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 23 Jun 2026 03:40:59 +0000",
       "category": "general",
-      "score": 68.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "description": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "description": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sun, 21 Jun 2026 14:40:28 +0000",
-      "category": "ai",
-      "score": 67,
+      "pubDate": "Tue, 23 Jun 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
-      "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
-      "description": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.\nThe post Texas Parks & Wildlife Data Breach Affects 3 Million Individuals appeared first on...",
+      "title": "CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct",
+      "link": "https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/",
+      "description": "Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 17 years.\nThe post CISO Conversations: Carl Froggett – Combining...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 05:33:39 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Do you know your 'sweat score'? The rise of hydration tech",
-      "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-      "description": "Hydration tracking gadgets are flooding the market but is it too much information?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 22 Jun 2026 23:01:11 GMT",
+      "pubDate": "Tue, 23 Jun 2026 12:50:00 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.\nThe post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appear...",
+      "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
+      "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
+      "description": "Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library.\nThe post FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Applian...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 11:45:43 +0000",
+      "pubDate": "Tue, 23 Jun 2026 11:48:06 +0000",
       "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 22 Jun 2026 15:57:46 GMT",
-      "category": "general",
-      "score": 64.5,
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -449,18 +614,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 23 Jun 2026 08:43:05 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "description": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading oppor...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400",
-      "category": "general",
-      "score": 62.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -475,19 +629,19 @@
       "imageUrl": null
     },
     {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 22 Jun 2026 14:00:00 +0000",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "description": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading oppor...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400",
       "category": "general",
-      "score": 60,
+      "score": 60.6,
       "imageUrl": null
     },
     {
       "title": "Why an AI company cleaned my New York City apartment for free",
-      "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
       "description": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
       "source": "BBC Technology",
       "domain": "bbc.com",
@@ -498,7 +652,7 @@
     },
     {
       "title": "How the social media ban could reshape how all of us use the internet",
-      "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
       "description": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
       "source": "BBC Technology",
       "domain": "bbc.com",
@@ -508,14 +662,14 @@
       "imageUrl": null
     },
     {
-      "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
-      "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
-      "description": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.\nThe post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 09:03:08 +0000",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 22 Jun 2026 15:57:46 GMT",
       "category": "general",
-      "score": 58,
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -541,25 +695,25 @@
       "imageUrl": null
     },
     {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "description": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "description": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 20 Jun 2026 11:23:46 -0400",
+      "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400",
       "category": "fraud",
       "score": 55.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "description": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 20 Jun 2026 10:09:19 -0400",
-      "category": "both",
-      "score": 55.6,
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 21 Jun 2026 14:40:28 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -585,14 +739,14 @@
       "imageUrl": null
     },
     {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "description": "Jumper isn't the only big name leaving Google DeepMind.",
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sat, 20 Jun 2026 16:39:57 +0000",
-      "category": "ai",
-      "score": 55,
+      "pubDate": "Mon, 22 Jun 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -609,6 +763,50 @@
   ],
   "all": [
     {
+      "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "description": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nLast week, Midjourney, an AI startup best known for its i...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T15:56:35.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "description": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 11:31:59 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "description": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workfl...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 08:12:20 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
+      "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
+      "description": "OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships.\nThe post OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 11:07:02 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
       "description": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
@@ -616,7 +814,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 22 Jun 2026 18:42:21 -0400",
       "category": "fraud",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -627,18 +825,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
     {
-      "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
-      "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
-      "description": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. \nThe post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 13:22:31 +0000",
-      "category": "ai",
-      "score": 90,
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "description": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "category": "fraud",
+      "score": 88.6,
       "imageUrl": null
     },
     {
@@ -664,6 +862,50 @@
       "imageUrl": null
     },
     {
+      "title": "SocGholish Takedown Highlights Malicious TDS Threats",
+      "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
+      "description": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 23 Jun 2026 13:51:33 GMT",
+      "category": "fraud",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+      "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "description": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 23 Jun 2026 15:01:40 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Steam Machine launches with £879 price tag as Valve cites component costs",
+      "link": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "description": "Valve said the cost of its PC-console hybrid reflects a broader trend of component costs rising over time.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 23 Jun 2026 11:25:54 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+      "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+      "description": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 23 Jun 2026 15:11:36 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
       "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
       "description": "Threat actors gained access to personal and protected health information that Xsolis received from its clients.\nThe post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWe...",
@@ -671,7 +913,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 23 Jun 2026 06:20:00 +0000",
       "category": "fraud",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -682,40 +924,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-22T23:24:32.000Z",
       "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-      "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-      "description": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 22 Jun 2026 23:02:33 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
-      "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
-      "description": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 22 Jun 2026 22:53:42 +0000",
-      "category": "ai",
-      "score": 81.5,
+      "score": 81.6,
       "imageUrl": null
     },
     {
@@ -730,45 +939,133 @@
       "imageUrl": null
     },
     {
-      "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
-      "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
-      "description": "Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.\nThe post What the Latest ShinyHunters Breaches Reveal About Mode...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 10:30:00 +0000",
-      "category": "fraud",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
-      "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
-      "description": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 22 Jun 2026 15:14:00 +0000",
+      "title": "FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
+      "description": "The threat actors engineered a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 23 Jun 2026 12:34:54 GMT",
       "category": "ai",
-      "score": 79.5,
+      "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "description": "The Google Fitbit Air is one of the better attempts at an AI-compatible health tracker.\t\n\nGoogle Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T15:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "description": "I’m sorry Sony, your AI isn’t very good at photography.\t\n\nWhen Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. T...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T13:25:42.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "description": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-23T13:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "description": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public ex...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "description": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 23 Jun 2026 09:58:25 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+      "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+      "description": "Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs.\nThe post Data Exposure Flaws Threaten Dify AI Platform Used by...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 15:36:24 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
+      "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
+      "description": "26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.\nThe post Algerian Man Extradited to US for Running Cybercrime Marketplaces ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 12:06:15 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+      "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+      "description": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026.\nThe post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 10:30:46 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
     },
     {
-      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
-      "description": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
+      "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
+      "description": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information.\nThe post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 09:25:22 +0000",
+      "category": "both",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories",
+      "link": "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories",
+      "description": "Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Mon, 22 Jun 2026 16:10:10 GMT",
+      "pubDate": "Mon, 22 Jun 2026 21:14:11 GMT",
       "category": "ai",
       "score": 76.5,
       "imageUrl": null
@@ -780,17 +1077,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-22T20:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Read this before you vibe-code another app",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-06-22T11:00:00.000Z",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -840,14 +1126,14 @@
       "imageUrl": null
     },
     {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -884,58 +1170,102 @@
       "imageUrl": null
     },
     {
-      "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
-      "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
-      "description": "A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.\nThe post North Korean Hackers Blamed for Mastra NPM Supply Chain Attack ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 11:10:06 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Fortinet Responds to FortiBleed Campaign",
-      "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
-      "description": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.\nThe post Fortinet Responds to FortiBleed Campaign appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 09:34:59 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
-      "link": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html",
-      "description": "A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 20 Jun 2026 15:58:09 +0000",
-      "category": "ai",
+      "title": "He Thought He Was Secure; His Phone Number Got Stolen Anyway",
+      "link": "https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover",
+      "description": "Threat actors can easily steal one-time passwords sent by text when they conduct a SIM swap attack. This can lead to account takeovers, so users must layer up their security measures.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 22 Jun 2026 14:12:11 GMT",
+      "category": "fraud",
       "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
-      "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
-      "description": "The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.\nThe post New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPho...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 10:03:06 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
       "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-      "link": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
       "description": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sun, 21 Jun 2026 23:21:05 GMT",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
+      "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+      "description": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 22 Jun 2026 15:14:00 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
+      "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+      "description": "The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25.\nThe post Eight-Year-Old Samsung KNOX Flaw Exposed M...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+      "description": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 22 Jun 2026 16:10:10 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Has Created a Prediction Markets App",
+      "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+      "description": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 23 Jun 2026 16:45:31 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Read this before you vibe-code another app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-22T11:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -946,7 +1276,29 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 23 Jun 2026 09:02:27 +0000",
       "category": "general",
-      "score": 68.5,
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "description": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 22 Jun 2026 23:31:21 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Hydration tracking gadgets are flooding the market but is it too much information?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 22 Jun 2026 23:01:11 GMT",
+      "category": "general",
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -957,73 +1309,40 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 23 Jun 2026 03:40:59 +0000",
       "category": "general",
-      "score": 68.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "description": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "description": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sun, 21 Jun 2026 14:40:28 +0000",
-      "category": "ai",
-      "score": 67,
+      "pubDate": "Tue, 23 Jun 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
-      "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
-      "description": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.\nThe post Texas Parks & Wildlife Data Breach Affects 3 Million Individuals appeared first on...",
+      "title": "CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct",
+      "link": "https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/",
+      "description": "Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 17 years.\nThe post CISO Conversations: Carl Froggett – Combining...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 05:33:39 +0000",
-      "category": "fraud",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Do you know your 'sweat score'? The rise of hydration tech",
-      "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-      "description": "Hydration tracking gadgets are flooding the market but is it too much information?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 22 Jun 2026 23:01:11 GMT",
+      "pubDate": "Tue, 23 Jun 2026 12:50:00 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64,
       "imageUrl": null
     },
     {
-      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.\nThe post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appear...",
+      "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
+      "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
+      "description": "Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library.\nThe post FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Applian...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 11:45:43 +0000",
+      "pubDate": "Tue, 23 Jun 2026 11:48:06 +0000",
       "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 22 Jun 2026 15:57:46 GMT",
-      "category": "general",
-      "score": 64.5,
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1034,18 +1353,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 23 Jun 2026 08:43:05 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "description": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading oppor...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400",
-      "category": "general",
-      "score": 62.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1060,19 +1368,19 @@
       "imageUrl": null
     },
     {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 22 Jun 2026 14:00:00 +0000",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "description": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading oppor...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400",
       "category": "general",
-      "score": 60,
+      "score": 60.6,
       "imageUrl": null
     },
     {
       "title": "Why an AI company cleaned my New York City apartment for free",
-      "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
       "description": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
       "source": "BBC Technology",
       "domain": "bbc.com",
@@ -1083,7 +1391,7 @@
     },
     {
       "title": "How the social media ban could reshape how all of us use the internet",
-      "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
       "description": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
       "source": "BBC Technology",
       "domain": "bbc.com",
@@ -1093,14 +1401,14 @@
       "imageUrl": null
     },
     {
-      "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
-      "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
-      "description": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.\nThe post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 22 Jun 2026 09:03:08 +0000",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 22 Jun 2026 15:57:46 GMT",
       "category": "general",
-      "score": 58,
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -1126,25 +1434,25 @@
       "imageUrl": null
     },
     {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "description": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "description": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 20 Jun 2026 11:23:46 -0400",
+      "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400",
       "category": "fraud",
       "score": 55.6,
       "imageUrl": null
     },
     {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "description": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 20 Jun 2026 10:09:19 -0400",
-      "category": "both",
-      "score": 55.6,
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 21 Jun 2026 14:40:28 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1170,14 +1478,14 @@
       "imageUrl": null
     },
     {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "description": "Jumper isn't the only big name leaving Google DeepMind.",
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sat, 20 Jun 2026 16:39:57 +0000",
-      "category": "ai",
-      "score": 55,
+      "pubDate": "Mon, 22 Jun 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
