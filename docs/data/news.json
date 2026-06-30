@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-06-30T05:25:35.008Z",
+    "generated": "2026-06-30T12:43:43.777Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 61,
+    "totalArticles": 65,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 61 articles from 8 trusted sources, including 41 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Nissan discloses employee data breach linked to Oracle zero-day attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, BleepingComputer, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 45 articles published in the last 24 hours",
-    "generated": "2026-06-30T05:25:35.008Z",
+    "content": "Today's selection covers 65 articles from 8 trusted sources, including 39 on Artificial Intelligence and 16 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Meet the lawyer who beat Elon Musk — twice\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Critical SimpleHelp Vulnerability Exploited for Malware Delivery\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, NY Times Tech, SecurityWeek, BleepingComputer, TechCrunch and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
+    "generated": "2026-06-30T12:43:43.777Z",
     "stats": {
-      "totalArticles": 61,
-      "aiArticles": 41,
-      "fraudArticles": 13,
+      "totalArticles": 65,
+      "aiArticles": 39,
+      "fraudArticles": 16,
       "sources": 8,
-      "todayCount": 45
+      "todayCount": 49
     }
   },
   "top": [
+    {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "description": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in whic...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-30T12:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
       "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
@@ -33,6 +44,28 @@
       "imageUrl": null
     },
     {
+      "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
+      "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
+      "description": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling.\nThe post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 08:43:10 +0000",
+      "category": "fraud",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "description": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 04:53:13 -0400",
+      "category": "fraud",
+      "score": 91.6,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI is teasing new hardware… for Codex",
       "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "description": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid...",
@@ -40,40 +73,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-29T18:52:03.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "description": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 29 Jun 2026 16:40:44 -0400",
-      "category": "fraud",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -90,34 +90,34 @@
   ],
   "more": [
     {
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "description": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores ho...",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "description": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400",
+      "pubDate": "Mon, 29 Jun 2026 16:40:44 -0400",
       "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
     {
-      "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
-      "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
-      "description": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.\nThe post OpenAI and Anthropic Limit N...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 10:14:01 +0000",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
     },
     {
-      "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
-      "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
-      "description": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.\nThe post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared fir...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 07:45:57 +0000",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -141,18 +141,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
       "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "How A.I. Is Changing the Way Politicians Run for Office",
-      "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html",
-      "description": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 30 Jun 2026 04:46:32 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -178,6 +167,17 @@
       "imageUrl": null
     },
     {
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "description": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores ho...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400",
+      "category": "fraud",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
       "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
@@ -189,25 +189,91 @@
       "imageUrl": null
     },
     {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "description": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 29 Jun 2026 11:58:01 GMT",
+      "title": "How A.I. Is Changing the Way Politicians Run for Office",
+      "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html",
+      "description": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 30 Jun 2026 04:46:32 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
-      "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
-      "description": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 29 Jun 2026 09:00:52 +0000",
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "description": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 07:12:18 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "description": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 05:46:39 -0400",
       "category": "ai",
-      "score": 79.5,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "description": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 05:41:05 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 30 Jun 2026 09:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+      "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+      "description": "Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team.\nThe post Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI Token Costs That Can Break Cybersecurity",
+      "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+      "description": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits.\nThe post The...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 10:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+      "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
+      "description": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed.\nThe post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 09:25:50 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -218,7 +284,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
+      "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
+      "description": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities.\nThe post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 06:40:02 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -229,7 +306,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 30 Jun 2026 05:04:15 +0000",
       "category": "fraud",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -240,7 +317,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Mon, 29 Jun 2026 22:05:33 +0000",
       "category": "fraud",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -251,7 +328,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 29 Jun 2026 21:29:15 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -262,7 +339,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 29 Jun 2026 19:38:04 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -273,18 +350,29 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 29 Jun 2026 19:12:08 GMT",
       "category": "fraud",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+      "description": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product.\nThe post Exploitation of Recent Oracle E-Business Suite Vulnerability Begins appeare...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 11:29:48 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-29T19:47:35.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -295,29 +383,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 29 Jun 2026 16:30:28 -0400",
       "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 18:07:48 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -343,14 +409,25 @@
       "imageUrl": null
     },
     {
-      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-      "description": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 29 Jun 2026 07:21:03 -0400",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 18:07:48 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -398,72 +475,6 @@
       "imageUrl": null
     },
     {
-      "title": "Straiker Raises $64 Million for AI Security Platform",
-      "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-      "description": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks.\nThe post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 14:07:34 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-      "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-      "description": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.\nThe post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 13:42:28 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-      "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-      "description": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.\nThe post ‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access appe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 11:20:13 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
-      "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
-      "description": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel.\nThe post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 09:29:34 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "description": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 28 Jun 2026 10:13:46 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
-      "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
-      "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 29 Jun 2026 11:44:42 GMT",
-      "category": "fraud",
-      "score": 73.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
       "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
@@ -483,6 +494,28 @@
       "pubDate": "Mon, 29 Jun 2026 09:46:17 -0400",
       "category": "fraud",
       "score": 72.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Ford rehires human engineers after AI fails to match quality checks",
+      "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "description": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 29 Jun 2026 11:58:01 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
+      "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
+      "description": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 29 Jun 2026 09:00:52 +0000",
+      "category": "ai",
+      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -519,25 +552,14 @@
       "imageUrl": null
     },
     {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
-      "description": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 29 Jun 2026 21:05:29 GMT",
+      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "description": "The app's new usernames feature will be rolled out globally over the next few months.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 30 Jun 2026 09:16:23 GMT",
       "category": "general",
-      "score": 69.5,
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -552,14 +574,47 @@
       "imageUrl": null
     },
     {
-      "title": "WhatsApp to let people chat without swapping phone numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
-      "description": "The app's new usernames feature will be rolled out globally over the next few months.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 29 Jun 2026 16:00:12 GMT",
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "description": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 29 Jun 2026 07:21:03 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+      "description": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 29 Jun 2026 21:05:29 GMT",
       "category": "general",
-      "score": 64.5,
+      "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+      "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+      "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 29 Jun 2026 11:44:42 GMT",
+      "category": "fraud",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "description": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 06:52:26 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -585,6 +640,28 @@
       "imageUrl": null
     },
     {
+      "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
+      "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+      "description": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.\nThe post Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Loc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 11:48:40 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "NIST Enrichment Reductions Impact CVE Coverage, Accuracy",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
+      "description": "The National Institute of Standards and Technology (NIST) scaled back on the number of CVEs it selects for in-depth analysis, but the move has produced mixed results, according to researchers.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 29 Jun 2026 22:46:45 GMT",
+      "category": "general",
+      "score": 61.5,
+      "imageUrl": null
+    },
+    {
       "title": "WhatsApp rolls out usernames to help users hide their phone number",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
       "description": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
@@ -592,18 +669,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 29 Jun 2026 13:48:28 -0400",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Chinese Framework Powers 200,000 Scam Sites",
-      "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-      "description": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.\nThe post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 27 Jun 2026 12:13:51 +0000",
-      "category": "fraud",
-      "score": 61,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -651,17 +717,6 @@
       "imageUrl": null
     },
     {
-      "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
-      "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
-      "description": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Sat, 27 Jun 2026 11:48:05 GMT",
-      "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
       "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "description": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5...",
@@ -669,17 +724,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-27T13:30:00.000Z",
       "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "description": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human revie...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 27 Jun 2026 10:22:36 -0400",
-      "category": "both",
       "score": 55.6,
       "imageUrl": null
     },
@@ -697,6 +741,17 @@
   ],
   "all": [
     {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "description": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in whic...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-06-30T12:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
       "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
       "description": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
@@ -708,6 +763,28 @@
       "imageUrl": null
     },
     {
+      "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
+      "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
+      "description": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling.\nThe post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 08:43:10 +0000",
+      "category": "fraud",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "description": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 04:53:13 -0400",
+      "category": "fraud",
+      "score": 91.6,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI is teasing new hardware… for Codex",
       "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "description": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid...",
@@ -715,40 +792,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-29T18:52:03.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "description": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 29 Jun 2026 16:40:44 -0400",
-      "category": "fraud",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -763,34 +807,34 @@
       "imageUrl": null
     },
     {
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "description": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores ho...",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "description": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400",
+      "pubDate": "Mon, 29 Jun 2026 16:40:44 -0400",
       "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
     {
-      "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
-      "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
-      "description": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.\nThe post OpenAI and Anthropic Limit N...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 10:14:01 +0000",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
     },
     {
-      "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
-      "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
-      "description": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.\nThe post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared fir...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 07:45:57 +0000",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -814,18 +858,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
       "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "How A.I. Is Changing the Way Politicians Run for Office",
-      "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html",
-      "description": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 30 Jun 2026 04:46:32 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -851,6 +884,17 @@
       "imageUrl": null
     },
     {
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "description": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores ho...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400",
+      "category": "fraud",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
       "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
@@ -862,25 +906,91 @@
       "imageUrl": null
     },
     {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "description": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 29 Jun 2026 11:58:01 GMT",
+      "title": "How A.I. Is Changing the Way Politicians Run for Office",
+      "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html",
+      "description": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 30 Jun 2026 04:46:32 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
-      "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
-      "description": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 29 Jun 2026 09:00:52 +0000",
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "description": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 07:12:18 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "description": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 05:46:39 -0400",
       "category": "ai",
-      "score": 79.5,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "description": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 05:41:05 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 30 Jun 2026 09:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+      "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+      "description": "Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team.\nThe post Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "category": "fraud",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI Token Costs That Can Break Cybersecurity",
+      "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+      "description": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits.\nThe post The...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 10:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+      "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
+      "description": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed.\nThe post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 09:25:50 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -891,7 +1001,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
+      "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
+      "description": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities.\nThe post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 06:40:02 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -902,7 +1023,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 30 Jun 2026 05:04:15 +0000",
       "category": "fraud",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -913,7 +1034,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Mon, 29 Jun 2026 22:05:33 +0000",
       "category": "fraud",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -924,7 +1045,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 29 Jun 2026 21:29:15 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -935,7 +1056,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 29 Jun 2026 19:38:04 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -946,18 +1067,29 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 29 Jun 2026 19:12:08 GMT",
       "category": "fraud",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+      "description": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product.\nThe post Exploitation of Recent Oracle E-Business Suite Vulnerability Begins appeare...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 11:29:48 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-06-29T19:47:35.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -968,29 +1100,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 29 Jun 2026 16:30:28 -0400",
       "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 18:07:48 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1016,14 +1126,25 @@
       "imageUrl": null
     },
     {
-      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-      "description": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 29 Jun 2026 07:21:03 -0400",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 18:07:48 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1071,72 +1192,6 @@
       "imageUrl": null
     },
     {
-      "title": "Straiker Raises $64 Million for AI Security Platform",
-      "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-      "description": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks.\nThe post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 14:07:34 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-      "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-      "description": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.\nThe post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 13:42:28 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-      "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-      "description": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.\nThe post ‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access appe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 11:20:13 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
-      "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
-      "description": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel.\nThe post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 29 Jun 2026 09:29:34 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "description": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 28 Jun 2026 10:13:46 -0400",
-      "category": "fraud",
-      "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
-      "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
-      "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 29 Jun 2026 11:44:42 GMT",
-      "category": "fraud",
-      "score": 73.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
       "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
@@ -1156,6 +1211,28 @@
       "pubDate": "Mon, 29 Jun 2026 09:46:17 -0400",
       "category": "fraud",
       "score": 72.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Ford rehires human engineers after AI fails to match quality checks",
+      "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "description": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 29 Jun 2026 11:58:01 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
+      "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
+      "description": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 29 Jun 2026 09:00:52 +0000",
+      "category": "ai",
+      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -1192,25 +1269,14 @@
       "imageUrl": null
     },
     {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
-      "description": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 29 Jun 2026 21:05:29 GMT",
+      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "description": "The app's new usernames feature will be rolled out globally over the next few months.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 30 Jun 2026 09:16:23 GMT",
       "category": "general",
-      "score": 69.5,
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1225,14 +1291,47 @@
       "imageUrl": null
     },
     {
-      "title": "WhatsApp to let people chat without swapping phone numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
-      "description": "The app's new usernames feature will be rolled out globally over the next few months.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 29 Jun 2026 16:00:12 GMT",
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "description": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 29 Jun 2026 07:21:03 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+      "description": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 29 Jun 2026 21:05:29 GMT",
       "category": "general",
-      "score": 64.5,
+      "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+      "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+      "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 29 Jun 2026 11:44:42 GMT",
+      "category": "fraud",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "description": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 30 Jun 2026 06:52:26 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1258,6 +1357,28 @@
       "imageUrl": null
     },
     {
+      "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
+      "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+      "description": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.\nThe post Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Loc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 30 Jun 2026 11:48:40 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "NIST Enrichment Reductions Impact CVE Coverage, Accuracy",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
+      "description": "The National Institute of Standards and Technology (NIST) scaled back on the number of CVEs it selects for in-depth analysis, but the move has produced mixed results, according to researchers.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 29 Jun 2026 22:46:45 GMT",
+      "category": "general",
+      "score": 61.5,
+      "imageUrl": null
+    },
+    {
       "title": "WhatsApp rolls out usernames to help users hide their phone number",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
       "description": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
@@ -1265,18 +1386,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 29 Jun 2026 13:48:28 -0400",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Chinese Framework Powers 200,000 Scam Sites",
-      "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-      "description": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.\nThe post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 27 Jun 2026 12:13:51 +0000",
-      "category": "fraud",
-      "score": 61,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1324,17 +1434,6 @@
       "imageUrl": null
     },
     {
-      "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
-      "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
-      "description": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Sat, 27 Jun 2026 11:48:05 GMT",
-      "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
       "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "description": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5...",
@@ -1342,17 +1441,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-06-27T13:30:00.000Z",
       "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "description": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human revie...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 27 Jun 2026 10:22:36 -0400",
-      "category": "both",
       "score": 55.6,
       "imageUrl": null
     },
