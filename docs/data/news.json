@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-07-11T06:11:54.072Z",
+    "generated": "2026-07-11T09:25:34.425Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 102,
+    "totalArticles": 100,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 102 articles from 9 trusted sources, including 66 on Artificial Intelligence and 19 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Apple sues OpenAI, its employees claiming theft of trade secrets\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Big tech must deal with scam ads under Ofcom proposals\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, TechCrunch, BleepingComputer and others\n• **Fresh Content**: 43 articles published in the last 24 hours",
-    "generated": "2026-07-11T06:11:54.072Z",
+    "content": "Today's selection covers 100 articles from 9 trusted sources, including 64 on Artificial Intelligence and 19 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Apple sues OpenAI, its employees claiming theft of trade secrets\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Big tech must deal with scam ads under Ofcom proposals\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, BleepingComputer, TechCrunch and others\n• **Fresh Content**: 40 articles published in the last 24 hours",
+    "generated": "2026-07-11T09:25:34.425Z",
     "stats": {
-      "totalArticles": 102,
-      "aiArticles": 66,
+      "totalArticles": 100,
+      "aiArticles": 64,
       "fraudArticles": 19,
       "sources": 9,
-      "todayCount": 43
+      "todayCount": 40
     }
   },
   "top": [
@@ -44,17 +44,6 @@
       "imageUrl": null
     },
     {
-      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-      "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
-      "description": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 19:48:55 +0000",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
       "title": "Big tech must deal with scam ads under Ofcom proposals",
       "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
       "description": "Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.",
@@ -62,6 +51,17 @@
       "domain": "bbc.com",
       "pubDate": "Fri, 10 Jul 2026 09:59:19 GMT",
       "category": "fraud",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
+      "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
+      "description": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 10 Jul 2026 19:48:55 +0000",
+      "category": "ai",
       "score": 94.5,
       "imageUrl": null
     },
@@ -77,19 +77,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
       "description": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
@@ -98,6 +85,19 @@
       "pubDate": "Fri, 10 Jul 2026 13:46:10 -0400",
       "category": "fraud",
       "score": 90.6,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -108,17 +108,6 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 10 Jul 2026 15:01:19 +0000",
       "category": "both",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
-      "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
-      "description": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.\nThe post GigaWiper Combines Multiple Malware for System-Level Sabotage appea...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 09:12:08 +0000",
-      "category": "fraud",
       "score": 90,
       "imageUrl": null
     },
@@ -142,28 +131,6 @@
       "pubDate": "Thu, 09 Jul 2026 19:34:23 +0000",
       "category": "ai",
       "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 11 Jul 2026 01:45:59 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 11 Jul 2026 02:03:34 +0000",
-      "category": "ai",
-      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -321,6 +288,17 @@
       "imageUrl": null
     },
     {
+      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+      "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+      "description": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.\nThe post GigaWiper Combines Multiple Malware for System-Level Sabotage appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 10 Jul 2026 09:12:08 +0000",
+      "category": "fraud",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
       "title": "Money launderer accused of stealing seized crypto while in prison",
       "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
       "description": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [.....",
@@ -332,14 +310,14 @@
       "imageUrl": null
     },
     {
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "description": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400",
-      "category": "fraud",
-      "score": 81.6,
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 11 Jul 2026 01:45:59 GMT",
+      "category": "ai",
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -354,12 +332,12 @@
       "imageUrl": null
     },
     {
-      "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-      "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-      "description": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 18:20:39 +0000",
+      "pubDate": "Sat, 11 Jul 2026 02:03:34 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -384,6 +362,28 @@
       "pubDate": "Fri, 10 Jul 2026 11:06:36 +0000",
       "category": "fraud",
       "score": 81,
+      "imageUrl": null
+    },
+    {
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "description": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open im...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 11 Jul 2026 05:03:57 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+      "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+      "description": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 10 Jul 2026 18:20:39 +0000",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -426,17 +426,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -508,6 +497,17 @@
       "imageUrl": null
     },
     {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
       "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
       "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
@@ -530,28 +530,6 @@
       "imageUrl": null
     },
     {
-      "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
-      "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
-      "description": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.\nThe post ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mecha...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 08:32:33 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
-      "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
-      "description": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.\nThe post Network of 200 GitHub Repositories Used for Malware Infection appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 08:00:14 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
       "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
       "description": "Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.",
@@ -563,13 +541,13 @@
       "imageUrl": null
     },
     {
-      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-      "description": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations a...",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "description": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 09 Jul 2026 10:02:12 -0400",
-      "category": "ai",
+      "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400",
+      "category": "fraud",
       "score": 73.6,
       "imageUrl": null
     },
@@ -615,17 +593,6 @@
       "pubDate": "Fri, 10 Jul 2026 11:48:38 -0400",
       "category": "fraud",
       "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "description": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 08 Jul 2026 07:00:51 +0000",
-      "category": "ai",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -739,17 +706,6 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
-      "description": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 11 Jul 2026 01:00:00 GMT",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
       "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "description": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions...",
@@ -827,6 +783,28 @@
       "imageUrl": null
     },
     {
+      "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
+      "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
+      "description": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.\nThe post ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mecha...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 10 Jul 2026 08:32:33 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
+      "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+      "description": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.\nThe post Network of 200 GitHub Repositories Used for Malware Infection appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 10 Jul 2026 08:00:14 +0000",
+      "category": "fraud",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
       "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
       "description": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.\nThe post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared fir...",
@@ -857,6 +835,17 @@
       "pubDate": "Fri, 10 Jul 2026 07:47:38 -0400",
       "category": "general",
       "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
+      "description": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 11 Jul 2026 01:00:00 GMT",
+      "category": "general",
+      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -922,7 +911,7 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 10 Jul 2026 19:08:04 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1025,17 +1014,6 @@
       "imageUrl": null
     },
     {
-      "title": "State IDs for AI Agents: Will Estonia Set a Precedent?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
-      "description": "The world's digital testing ground plans to help people use AI agents for government purposes.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 08 Jul 2026 08:01:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Pressure builds on Europe's biggest port to be greener",
       "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
       "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
@@ -1047,34 +1025,12 @@
       "imageUrl": null
     },
     {
-      "title": "How to Turn Your Phone Into a Personal Health Dashboard",
-      "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
-      "description": "Free apps from Google, Samsung and Apple can help you track your diet, exercise and well-being — and provide vital information during emergencies.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 09 Jul 2026 09:02:09 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
       "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
       "description": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Thu, 09 Jul 2026 20:52:55 +0000",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "European Organizations Have a Collaboration Security Confidence Gap",
-      "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
-      "description": "A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 09 Jul 2026 08:00:00 GMT",
       "category": "general",
       "score": 53.5,
       "imageUrl": null
@@ -1124,6 +1080,17 @@
       "imageUrl": null
     },
     {
+      "title": "How to Turn Your Phone Into a Personal Health Dashboard",
+      "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
+      "description": "Free apps from Google, Samsung and Apple can help you track your diet, exercise and well-being — and provide vital information during emergencies.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 09 Jul 2026 09:02:09 +0000",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "How to Prevent Meta From Using Your Instagram Images in A.I.",
       "link": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
       "description": "The company’s new A.I. image generator has a surprising twist: It allows people to use images from public Instagram accounts.",
@@ -1141,6 +1108,17 @@
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Wed, 08 Jul 2026 18:10:16 +0000",
+      "category": "general",
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "European Organizations Have a Collaboration Security Confidence Gap",
+      "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
+      "description": "A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 09 Jul 2026 08:00:00 GMT",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
@@ -1170,17 +1148,6 @@
       "imageUrl": null
     },
     {
-      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-      "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
-      "description": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 19:48:55 +0000",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
       "title": "Big tech must deal with scam ads under Ofcom proposals",
       "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
       "description": "Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.",
@@ -1188,6 +1155,17 @@
       "domain": "bbc.com",
       "pubDate": "Fri, 10 Jul 2026 09:59:19 GMT",
       "category": "fraud",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
+      "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
+      "description": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 10 Jul 2026 19:48:55 +0000",
+      "category": "ai",
       "score": 94.5,
       "imageUrl": null
     },
@@ -1203,17 +1181,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
       "description": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
@@ -1225,6 +1192,17 @@
       "imageUrl": null
     },
     {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
       "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
       "description": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.\nThe post In Other News: DHS...",
@@ -1232,17 +1210,6 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 10 Jul 2026 15:01:19 +0000",
       "category": "both",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
-      "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
-      "description": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.\nThe post GigaWiper Combines Multiple Malware for System-Level Sabotage appea...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 09:12:08 +0000",
-      "category": "fraud",
       "score": 90,
       "imageUrl": null
     },
@@ -1266,28 +1233,6 @@
       "pubDate": "Thu, 09 Jul 2026 19:34:23 +0000",
       "category": "ai",
       "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 11 Jul 2026 01:45:59 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 11 Jul 2026 02:03:34 +0000",
-      "category": "ai",
-      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -1445,6 +1390,17 @@
       "imageUrl": null
     },
     {
+      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+      "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+      "description": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.\nThe post GigaWiper Combines Multiple Malware for System-Level Sabotage appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 10 Jul 2026 09:12:08 +0000",
+      "category": "fraud",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
       "title": "Money launderer accused of stealing seized crypto while in prison",
       "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
       "description": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [.....",
@@ -1456,14 +1412,14 @@
       "imageUrl": null
     },
     {
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "description": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400",
-      "category": "fraud",
-      "score": 81.6,
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 11 Jul 2026 01:45:59 GMT",
+      "category": "ai",
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1478,12 +1434,12 @@
       "imageUrl": null
     },
     {
-      "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-      "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-      "description": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 18:20:39 +0000",
+      "pubDate": "Sat, 11 Jul 2026 02:03:34 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -1508,6 +1464,28 @@
       "pubDate": "Fri, 10 Jul 2026 11:06:36 +0000",
       "category": "fraud",
       "score": 81,
+      "imageUrl": null
+    },
+    {
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "description": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open im...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 11 Jul 2026 05:03:57 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+      "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+      "description": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 10 Jul 2026 18:20:39 +0000",
+      "category": "ai",
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1550,17 +1528,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -1632,6 +1599,17 @@
       "imageUrl": null
     },
     {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
       "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
       "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
@@ -1654,28 +1632,6 @@
       "imageUrl": null
     },
     {
-      "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
-      "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
-      "description": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.\nThe post ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mecha...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 08:32:33 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
-      "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
-      "description": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.\nThe post Network of 200 GitHub Repositories Used for Malware Infection appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 08:00:14 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
       "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
       "description": "Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.",
@@ -1687,13 +1643,13 @@
       "imageUrl": null
     },
     {
-      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-      "description": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations a...",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "description": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 09 Jul 2026 10:02:12 -0400",
-      "category": "ai",
+      "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400",
+      "category": "fraud",
       "score": 73.6,
       "imageUrl": null
     },
@@ -1739,17 +1695,6 @@
       "pubDate": "Fri, 10 Jul 2026 11:48:38 -0400",
       "category": "fraud",
       "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "description": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 08 Jul 2026 07:00:51 +0000",
-      "category": "ai",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -1863,17 +1808,6 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
-      "description": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 11 Jul 2026 01:00:00 GMT",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
       "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "description": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions...",
@@ -1951,6 +1885,28 @@
       "imageUrl": null
     },
     {
+      "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
+      "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
+      "description": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.\nThe post ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mecha...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 10 Jul 2026 08:32:33 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
+      "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+      "description": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.\nThe post Network of 200 GitHub Repositories Used for Malware Infection appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 10 Jul 2026 08:00:14 +0000",
+      "category": "fraud",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
       "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
       "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
       "description": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.\nThe post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared fir...",
@@ -1981,6 +1937,17 @@
       "pubDate": "Fri, 10 Jul 2026 07:47:38 -0400",
       "category": "general",
       "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
+      "description": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 11 Jul 2026 01:00:00 GMT",
+      "category": "general",
+      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -2046,7 +2013,7 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 10 Jul 2026 19:08:04 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -2149,17 +2116,6 @@
       "imageUrl": null
     },
     {
-      "title": "State IDs for AI Agents: Will Estonia Set a Precedent?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
-      "description": "The world's digital testing ground plans to help people use AI agents for government purposes.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 08 Jul 2026 08:01:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Pressure builds on Europe's biggest port to be greener",
       "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
       "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
@@ -2171,34 +2127,12 @@
       "imageUrl": null
     },
     {
-      "title": "How to Turn Your Phone Into a Personal Health Dashboard",
-      "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
-      "description": "Free apps from Google, Samsung and Apple can help you track your diet, exercise and well-being — and provide vital information during emergencies.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 09 Jul 2026 09:02:09 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
       "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
       "description": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Thu, 09 Jul 2026 20:52:55 +0000",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "European Organizations Have a Collaboration Security Confidence Gap",
-      "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
-      "description": "A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 09 Jul 2026 08:00:00 GMT",
       "category": "general",
       "score": 53.5,
       "imageUrl": null
@@ -2248,6 +2182,17 @@
       "imageUrl": null
     },
     {
+      "title": "How to Turn Your Phone Into a Personal Health Dashboard",
+      "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
+      "description": "Free apps from Google, Samsung and Apple can help you track your diet, exercise and well-being — and provide vital information during emergencies.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 09 Jul 2026 09:02:09 +0000",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "How to Prevent Meta From Using Your Instagram Images in A.I.",
       "link": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
       "description": "The company’s new A.I. image generator has a surprising twist: It allows people to use images from public Instagram accounts.",
@@ -2265,6 +2210,17 @@
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Wed, 08 Jul 2026 18:10:16 +0000",
+      "category": "general",
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "European Organizations Have a Collaboration Security Confidence Gap",
+      "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
+      "description": "A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 09 Jul 2026 08:00:00 GMT",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
