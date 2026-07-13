@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-07-13T10:57:24.808Z",
+    "generated": "2026-07-13T14:27:44.549Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 58,
+    "totalArticles": 50,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 58 articles from 7 trusted sources, including 37 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Waze is getting a bunch of new AI-powered features\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Centers Laboratory Data Breach Affects 540,000 Individuals\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, NY Times Tech, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 16 articles published in the last 24 hours",
-    "generated": "2026-07-13T10:57:24.808Z",
+    "content": "Today's selection covers 50 articles from 7 trusted sources, including 35 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Waze is getting a bunch of new AI-powered features\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Turning the Tables on Email Scammers With 'ScamBuster'\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from Dark Reading, The Verge, TechCrunch, BleepingComputer, NY Times Tech and others\n• **Fresh Content**: 22 articles published in the last 24 hours",
+    "generated": "2026-07-13T14:27:44.549Z",
     "stats": {
-      "totalArticles": 58,
-      "aiArticles": 37,
-      "fraudArticles": 11,
+      "totalArticles": 50,
+      "aiArticles": 35,
+      "fraudArticles": 10,
       "sources": 7,
-      "todayCount": 16
+      "todayCount": 22
     }
   },
   "top": [
+    {
+      "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
+      "description": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Jul 2026 13:00:00 GMT",
+      "category": "fraud",
+      "score": 95.5,
+      "imageUrl": null
+    },
     {
       "title": "Waze is getting a bunch of new AI-powered features",
       "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
@@ -33,14 +44,25 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "description": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to com...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+      "description": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 12 Jul 2026 20:44:44 -0400",
-      "category": "ai",
-      "score": 92.6,
+      "pubDate": "Mon, 13 Jul 2026 09:23:30 -0400",
+      "category": "fraud",
+      "score": 91.6,
       "imageUrl": null
     },
     {
@@ -55,49 +77,93 @@
       "imageUrl": null
     },
     {
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-      "description": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+      "description": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 12 Jul 2026 15:39:12 -0400",
+      "pubDate": "Sun, 12 Jul 2026 20:44:44 -0400",
       "category": "ai",
       "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "description": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 11 Jul 2026 18:00:01 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The eBay Scandal Gets a Thriller-Like Documentary",
-      "link": "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
-      "description": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 09:01:41 +0000",
-      "category": "ai",
-      "score": 83.5,
       "imageUrl": null
     }
   ],
   "more": [
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "description": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 12 Jul 2026 15:39:12 -0400",
       "category": "ai",
-      "score": 82,
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "description": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 11 Jul 2026 18:00:01 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The eBay Scandal Gets a Thriller-Like Documentary",
+      "link": "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
+      "description": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 13 Jul 2026 09:01:41 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Lidl discloses online shop breach after service provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+      "description": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Jul 2026 10:19:43 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "description": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Eu...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Jul 2026 07:19:05 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
+      "description": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.\nThe post Cybersecurity M&A Roundup: 37 Deals Announced in June 2026 appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Jul 2026 12:20:14 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+      "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
+      "description": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.\nThe post RabbitMQ Vulnerability Threatens Enterprise Systems appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Jul 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -130,7 +196,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Jul 2026 08:10:44 +0000",
       "category": "both",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -156,28 +222,6 @@
       "imageUrl": null
     },
     {
-      "title": "The fight against AI data centers is just beginning",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "description": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down o...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-12T12:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "description": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 12 Jul 2026 10:27:32 -0400",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
       "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
       "description": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
@@ -197,17 +241,6 @@
       "pubDate": "Fri, 10 Jul 2026 19:48:55 +0000",
       "category": "ai",
       "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 11 Jul 2026 12:34:16 +0000",
-      "category": "ai",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -244,6 +277,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
@@ -271,19 +315,30 @@
       "description": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 09:34:58 +0000",
+      "pubDate": "Mon, 13 Jul 2026 13:19:52 +0000",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "description": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "description": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down o...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-12T12:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "description": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 11 Jul 2026 10:18:23 -0400",
-      "category": "ai",
+      "pubDate": "Sun, 12 Jul 2026 10:27:32 -0400",
+      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -299,6 +354,17 @@
       "imageUrl": null
     },
     {
+      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+      "description": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realisti...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Jul 2026 10:01:11 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
       "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
       "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
@@ -306,7 +372,7 @@
       "domain": "bbc.com",
       "pubDate": "Mon, 13 Jul 2026 00:07:00 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -317,29 +383,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Jul 2026 08:20:46 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "More Countries Jump on the Social Media 'Ban Wagon'",
-      "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
-      "description": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Jul 2026 13:50:24 GMT",
-      "category": "fraud",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "description": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [.....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 11:30:19 -0400",
-      "category": "fraud",
-      "score": 61.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -350,17 +394,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
       "category": "ai",
-      "score": 61,
-      "imageUrl": null
-    },
-    {
-      "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
-      "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
-      "description": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.\nThe post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 11:06:36 +0000",
-      "category": "fraud",
       "score": 61,
       "imageUrl": null
     },
@@ -387,23 +420,23 @@
       "imageUrl": null
     },
     {
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 11 Jul 2026 12:34:16 +0000",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
       "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
       "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
       "description": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 10 Jul 2026 18:20:39 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
-      "link": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
-      "description": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 14:10:45 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -420,17 +453,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?",
-      "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
-      "description": "AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Jul 2026 13:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "description": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu...",
@@ -442,23 +464,12 @@
       "imageUrl": null
     },
     {
-      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "description": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-10T13:45:02.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "description": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-10T13:20:25.000Z",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "description": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 11 Jul 2026 10:18:23 -0400",
       "category": "ai",
       "score": 55.6,
       "imageUrl": null
@@ -497,17 +508,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "description": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibili...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 10:00:10 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb...",
@@ -530,28 +530,6 @@
       "imageUrl": null
     },
     {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-      "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-      "description": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.\nThe post Third US Security Expert Sentenced to Prison for Helping Ransomware Gang appea...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 12:58:39 +0000",
-      "category": "fraud",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
       "title": "Hackers exploit critical auth bypass in Gitea Docker image",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
       "description": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [.....",
@@ -563,56 +541,12 @@
       "imageUrl": null
     },
     {
-      "title": "Zimbra urges customers to patch critical web client XSS flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-      "description": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 07:47:38 -0400",
-      "category": "general",
-      "score": 46.6,
-      "imageUrl": null
-    },
-    {
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-      "description": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 10 Jul 2026 12:02:40 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
       "description": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 11 Jul 2026 01:00:00 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
-      "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
-      "description": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 11:00:04 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
-      "link": "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
-      "description": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 13:07:27 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -629,17 +563,6 @@
       "imageUrl": null
     },
     {
-      "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
-      "description": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 GMT",
-      "category": "general",
-      "score": 41.5,
-      "imageUrl": null
-    },
-    {
       "title": "Police suspects Dutch hackers were involved in Odido breach",
       "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
       "description": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
@@ -649,20 +572,20 @@
       "category": "general",
       "score": 40.6,
       "imageUrl": null
-    },
-    {
-      "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
-      "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-      "description": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.\nThe post China, India-Linked Hackers Both Targeted Same Pakistani Police F...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 11:55:11 +0000",
-      "category": "general",
-      "score": 40,
-      "imageUrl": null
     }
   ],
   "all": [
+    {
+      "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
+      "description": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Jul 2026 13:00:00 GMT",
+      "category": "fraud",
+      "score": 95.5,
+      "imageUrl": null
+    },
     {
       "title": "Waze is getting a bunch of new AI-powered features",
       "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
@@ -675,14 +598,25 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "description": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to com...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+      "description": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 12 Jul 2026 20:44:44 -0400",
-      "category": "ai",
-      "score": 92.6,
+      "pubDate": "Mon, 13 Jul 2026 09:23:30 -0400",
+      "category": "fraud",
+      "score": 91.6,
       "imageUrl": null
     },
     {
@@ -692,6 +626,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-12T16:27:06.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+      "description": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 12 Jul 2026 20:44:44 -0400",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -730,14 +675,47 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "title": "Lidl discloses online shop breach after service provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+      "description": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Jul 2026 10:19:43 -0400",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "description": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Eu...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Jul 2026 07:19:05 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
+      "description": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.\nThe post Cybersecurity M&A Roundup: 37 Deals Announced in June 2026 appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Jul 2026 12:20:14 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+      "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
+      "description": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.\nThe post RabbitMQ Vulnerability Threatens Enterprise Systems appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 13 Jul 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -770,7 +748,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Jul 2026 08:10:44 +0000",
       "category": "both",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -796,28 +774,6 @@
       "imageUrl": null
     },
     {
-      "title": "The fight against AI data centers is just beginning",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "description": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down o...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-12T12:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "description": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 12 Jul 2026 10:27:32 -0400",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
       "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
       "description": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
@@ -837,17 +793,6 @@
       "pubDate": "Fri, 10 Jul 2026 19:48:55 +0000",
       "category": "ai",
       "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 11 Jul 2026 12:34:16 +0000",
-      "category": "ai",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -884,6 +829,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
@@ -911,19 +867,30 @@
       "description": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 09:34:58 +0000",
+      "pubDate": "Mon, 13 Jul 2026 13:19:52 +0000",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "description": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "description": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down o...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-12T12:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "description": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 11 Jul 2026 10:18:23 -0400",
-      "category": "ai",
+      "pubDate": "Sun, 12 Jul 2026 10:27:32 -0400",
+      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -939,6 +906,17 @@
       "imageUrl": null
     },
     {
+      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+      "description": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realisti...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 13 Jul 2026 10:01:11 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
       "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
       "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
@@ -946,7 +924,7 @@
       "domain": "bbc.com",
       "pubDate": "Mon, 13 Jul 2026 00:07:00 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -957,29 +935,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 13 Jul 2026 08:20:46 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "More Countries Jump on the Social Media 'Ban Wagon'",
-      "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
-      "description": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Jul 2026 13:50:24 GMT",
-      "category": "fraud",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "description": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [.....",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 11:30:19 -0400",
-      "category": "fraud",
-      "score": 61.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -990,17 +946,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
       "category": "ai",
-      "score": 61,
-      "imageUrl": null
-    },
-    {
-      "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
-      "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
-      "description": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.\nThe post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 11:06:36 +0000",
-      "category": "fraud",
       "score": 61,
       "imageUrl": null
     },
@@ -1027,23 +972,23 @@
       "imageUrl": null
     },
     {
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 11 Jul 2026 12:34:16 +0000",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
       "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
       "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
       "description": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 10 Jul 2026 18:20:39 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
-      "link": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
-      "description": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 14:10:45 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1060,17 +1005,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?",
-      "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
-      "description": "AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Jul 2026 13:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "description": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu...",
@@ -1082,23 +1016,12 @@
       "imageUrl": null
     },
     {
-      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "description": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-10T13:45:02.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "description": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-10T13:20:25.000Z",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "description": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 11 Jul 2026 10:18:23 -0400",
       "category": "ai",
       "score": 55.6,
       "imageUrl": null
@@ -1137,17 +1060,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "description": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibili...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 10:00:10 -0400",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb...",
@@ -1170,28 +1082,6 @@
       "imageUrl": null
     },
     {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-      "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-      "description": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.\nThe post Third US Security Expert Sentenced to Prison for Helping Ransomware Gang appea...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 12:58:39 +0000",
-      "category": "fraud",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
       "title": "Hackers exploit critical auth bypass in Gitea Docker image",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
       "description": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [.....",
@@ -1203,56 +1093,12 @@
       "imageUrl": null
     },
     {
-      "title": "Zimbra urges customers to patch critical web client XSS flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-      "description": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 10 Jul 2026 07:47:38 -0400",
-      "category": "general",
-      "score": 46.6,
-      "imageUrl": null
-    },
-    {
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-      "description": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 10 Jul 2026 12:02:40 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
       "description": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Sat, 11 Jul 2026 01:00:00 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
-      "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
-      "description": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 11:00:04 +0000",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
-      "link": "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
-      "description": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 10 Jul 2026 13:07:27 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1269,17 +1115,6 @@
       "imageUrl": null
     },
     {
-      "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
-      "description": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 GMT",
-      "category": "general",
-      "score": 41.5,
-      "imageUrl": null
-    },
-    {
       "title": "Police suspects Dutch hackers were involved in Odido breach",
       "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
       "description": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
@@ -1288,17 +1123,6 @@
       "pubDate": "Fri, 10 Jul 2026 12:37:01 -0400",
       "category": "general",
       "score": 40.6,
-      "imageUrl": null
-    },
-    {
-      "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
-      "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-      "description": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.\nThe post China, India-Linked Hackers Both Targeted Same Pakistani Police F...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 10 Jul 2026 11:55:11 +0000",
-      "category": "general",
-      "score": 40,
       "imageUrl": null
     }
   ]
