@@ -1,39 +1,96 @@
 {
   "metadata": {
-    "generated": "2026-07-15T13:37:44.782Z",
+    "generated": "2026-07-15T17:14:24.267Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 83,
+    "totalArticles": 85,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 83 articles from 9 trusted sources, including 42 on Artificial Intelligence and 22 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Spanish Police take down €140 million cyber fraud ring, arrest four\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, TechCrunch, Krebs on Security, Dark Reading, The Verge and others\n• **Fresh Content**: 63 articles published in the last 24 hours",
-    "generated": "2026-07-15T13:37:44.782Z",
+    "content": "Today's selection covers 85 articles from 9 trusted sources, including 47 on Artificial Intelligence and 21 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Spanish Police take down €140 million cyber fraud ring, arrest four\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, scams\n• **Source Diversity**: Articles sourced from Dark Reading, The Verge, BleepingComputer, TechCrunch, Krebs on Security and others\n• **Fresh Content**: 58 articles published in the last 24 hours",
+    "generated": "2026-07-15T17:14:24.267Z",
     "stats": {
-      "totalArticles": 83,
-      "aiArticles": 42,
-      "fraudArticles": 22,
+      "totalArticles": 85,
+      "aiArticles": 47,
+      "fraudArticles": 21,
       "sources": 9,
-      "todayCount": 63
+      "todayCount": 58
     }
   },
   "top": [
     {
-      "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
-      "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
-      "description": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 14 Jul 2026 14:17:54 +0000",
+      "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
+      "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
+      "description": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber impl...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 17:03:23 GMT",
       "category": "ai",
-      "score": 94.5,
+      "score": 95.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
+      "description": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 15:27:35 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "description": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit....",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-15T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "description": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
       "source": "TechCrunch",
@@ -52,17 +109,6 @@
       "pubDate": "Tue, 14 Jul 2026 19:22:42 +0000",
       "category": "ai",
       "score": 93.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
-      "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 16:02:39 GMT",
-      "category": "ai",
-      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -86,19 +132,6 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Sam Altman didn’t need another lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "description": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T14:01:07.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
     },
     {
       "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
@@ -107,17 +140,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Jul 2026 16:23:09 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "description": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400",
       "category": "fraud",
       "score": 90.6,
       "imageUrl": null
@@ -178,6 +200,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
+      "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+      "description": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 14 Jul 2026 14:17:54 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
       "title": "US charges alleged operators of Russian bulletproof hosting service",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
       "description": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damage...",
@@ -185,7 +218,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 15 Jul 2026 03:45:50 -0400",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+      "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 16:02:39 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -211,13 +255,24 @@
       "imageUrl": null
     },
     {
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "description": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl...",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "description": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-07-13T17:00:00.000Z",
+      "pubDate": "2026-07-14T14:01:07.000Z",
       "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "description": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400",
+      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -233,24 +288,13 @@
       "imageUrl": null
     },
     {
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "description": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizatio...",
+      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "description": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 10:00:10 -0400",
-      "category": "fraud",
-      "score": 81.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400",
-      "category": "fraud",
+      "pubDate": "Wed, 15 Jul 2026 11:37:27 -0400",
+      "category": "both",
       "score": 79.6,
       "imageUrl": null
     },
@@ -263,6 +307,28 @@
       "pubDate": "Wed, 15 Jul 2026 00:39:01 +0000",
       "category": "fraud",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 17:00:34 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -299,6 +365,17 @@
       "imageUrl": null
     },
     {
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "description": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.\nThe post Unpatched Cursor Vulnerability Exposes Users to Code Execution ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Jul 2026 14:37:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
       "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
       "description": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.\nThe post Windows Bind Link Attacks Can Hide Malware From ED...",
@@ -321,6 +398,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400",
+      "category": "fraud",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
       "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
       "description": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code.\nThe post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on Secu...",
@@ -328,7 +416,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 15 Jul 2026 11:02:57 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -339,29 +427,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 15 Jul 2026 10:18:25 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
-      "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
-      "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 15 Jul 2026 08:00:00 GMT",
-      "category": "fraud",
-      "score": 77.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server inst...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 05:44:52 -0400",
-      "category": "fraud",
-      "score": 76.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -387,17 +453,6 @@
       "imageUrl": null
     },
     {
-      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
-      "description": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 15:53:54 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
       "title": "Meta accused of using biased AI targeting for mass layoffs",
       "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
       "description": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe...",
@@ -409,25 +464,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T16:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "description": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to play and explore musi...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T15:47:36.000Z",
-      "category": "both",
-      "score": 75.6,
+      "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
+      "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
+      "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 08:00:00 GMT",
+      "category": "fraud",
+      "score": 75.5,
       "imageUrl": null
     },
     {
@@ -486,69 +530,25 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity cost...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 15:17:59 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 14:37:48 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
-      "description": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 13 Jul 2026 16:50:54 GMT",
+      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server inst...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 05:44:52 -0400",
       "category": "fraud",
-      "score": 74.5,
+      "score": 74.6,
+      "imageUrl": null
+    },
+    {
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "description": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizatio...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Jul 2026 10:00:10 -0400",
+      "category": "fraud",
+      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -596,24 +596,24 @@
       "imageUrl": null
     },
     {
-      "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
-      "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
-      "description": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.\nThe post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared fir...",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "description": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.\nThe post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared fir...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Wed, 15 Jul 2026 09:48:29 +0000",
+      "pubDate": "Wed, 15 Jul 2026 14:07:44 +0000",
       "category": "general",
       "score": 70,
       "imageUrl": null
     },
     {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "description": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 13 Jul 2026 15:06:34 +0000",
-      "category": "fraud",
+      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+      "description": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 15:53:54 GMT",
+      "category": "ai",
       "score": 68.5,
       "imageUrl": null
     },
@@ -645,9 +645,20 @@
       "description": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 15 Jul 2026 10:48:11 +0000",
+      "pubDate": "Wed, 15 Jul 2026 14:47:58 +0000",
       "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+      "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+      "description": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.\nThe post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Jul 2026 09:48:29 +0000",
+      "category": "general",
+      "score": 68,
       "imageUrl": null
     },
     {
@@ -662,14 +673,25 @@
       "imageUrl": null
     },
     {
-      "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-      "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-      "description": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.\nThe post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 15 Jul 2026 05:19:42 +0000",
-      "category": "general",
-      "score": 68,
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-14T16:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "description": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to play and explore musi...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-14T15:47:36.000Z",
+      "category": "both",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -717,14 +739,14 @@
       "imageUrl": null
     },
     {
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "description": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 08:49:00 -0400",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -736,28 +758,6 @@
       "pubDate": "Tue, 14 Jul 2026 14:01:36 -0400",
       "category": "general",
       "score": 66.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "description": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 12:08:47 -0400",
-      "category": "general",
-      "score": 66.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-      "description": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.\nThe post Microsoft Patches Record 622 Vulnerabilities, Including Two E...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Jul 2026 18:50:20 +0000",
-      "category": "general",
-      "score": 66,
       "imageUrl": null
     },
     {
@@ -774,7 +774,7 @@
     {
       "title": "Rime picks up $24M Series A to help enterprises field customer calls",
       "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "description": "Rime is handling over 100 million calls each month across multiple companies",
+      "description": "Rime is handling over 100 million calls each month across multiple companies.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
@@ -794,6 +794,17 @@
       "imageUrl": null
     },
     {
+      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
+      "description": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Jul 2026 16:50:54 GMT",
+      "category": "fraud",
+      "score": 62.5,
+      "imageUrl": null
+    },
+    {
       "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
       "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
       "description": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.\nThe post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schne...",
@@ -801,18 +812,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 15 Jul 2026 09:19:58 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys --...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "category": "general",
-      "score": 61.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -851,7 +851,7 @@
     {
       "title": "Microsoft releases Windows 10 KB5099539 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "description": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [.....",
+      "description": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Jul 2026 14:49:28 -0400",
@@ -871,13 +871,24 @@
       "imageUrl": null
     },
     {
-      "title": "How a Teacher Revived Backyard Baseball",
-      "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "description": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 16:28:38 +0000",
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "description": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Jul 2026 12:08:47 -0400",
       "category": "general",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "description": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 13 Jul 2026 15:06:34 +0000",
+      "category": "fraud",
       "score": 56.5,
       "imageUrl": null
     },
@@ -904,14 +915,14 @@
       "imageUrl": null
     },
     {
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "description": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 07:42:21 -0400",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys --...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Mon, 13 Jul 2026 15:03:28 +0000",
       "category": "general",
-      "score": 52.6,
+      "score": 49.6,
       "imageUrl": null
     },
     {
@@ -932,6 +943,17 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 13 Jul 2026 13:19:52 +0000",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How a Teacher Revived Backyard Baseball",
+      "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "description": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 13 Jul 2026 16:28:38 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -939,18 +961,73 @@
   ],
   "all": [
     {
-      "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
-      "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
-      "description": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 14 Jul 2026 14:17:54 +0000",
+      "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
+      "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
+      "description": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber impl...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 17:03:23 GMT",
       "category": "ai",
-      "score": 94.5,
+      "score": 95.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
+      "description": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 15:27:35 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "description": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit....",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-15T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "description": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
       "source": "TechCrunch",
@@ -969,17 +1046,6 @@
       "pubDate": "Tue, 14 Jul 2026 19:22:42 +0000",
       "category": "ai",
       "score": 93.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
-      "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 16:02:39 GMT",
-      "category": "ai",
-      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -1005,34 +1071,12 @@
       "imageUrl": null
     },
     {
-      "title": "Sam Altman didn’t need another lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "description": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T14:01:07.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
       "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
       "description": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Jul 2026 16:23:09 -0400",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "description": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400",
       "category": "fraud",
       "score": 90.6,
       "imageUrl": null
@@ -1093,6 +1137,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
+      "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+      "description": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 14 Jul 2026 14:17:54 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
       "title": "US charges alleged operators of Russian bulletproof hosting service",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
       "description": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damage...",
@@ -1100,7 +1155,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 15 Jul 2026 03:45:50 -0400",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+      "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 16:02:39 GMT",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -1126,13 +1192,24 @@
       "imageUrl": null
     },
     {
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "description": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl...",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "description": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-07-13T17:00:00.000Z",
+      "pubDate": "2026-07-14T14:01:07.000Z",
       "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "description": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400",
+      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -1148,24 +1225,13 @@
       "imageUrl": null
     },
     {
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "description": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizatio...",
+      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "description": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 10:00:10 -0400",
-      "category": "fraud",
-      "score": 81.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400",
-      "category": "fraud",
+      "pubDate": "Wed, 15 Jul 2026 11:37:27 -0400",
+      "category": "both",
       "score": 79.6,
       "imageUrl": null
     },
@@ -1178,6 +1244,28 @@
       "pubDate": "Wed, 15 Jul 2026 00:39:01 +0000",
       "category": "fraud",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 17:00:34 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1214,6 +1302,17 @@
       "imageUrl": null
     },
     {
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "description": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.\nThe post Unpatched Cursor Vulnerability Exposes Users to Code Execution ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Jul 2026 14:37:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
       "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
       "description": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.\nThe post Windows Bind Link Attacks Can Hide Malware From ED...",
@@ -1236,6 +1335,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400",
+      "category": "fraud",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
       "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
       "description": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code.\nThe post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on Secu...",
@@ -1243,7 +1353,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 15 Jul 2026 11:02:57 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1254,29 +1364,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 15 Jul 2026 10:18:25 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
-      "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
-      "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 15 Jul 2026 08:00:00 GMT",
-      "category": "fraud",
-      "score": 77.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server inst...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 05:44:52 -0400",
-      "category": "fraud",
-      "score": 76.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1302,17 +1390,6 @@
       "imageUrl": null
     },
     {
-      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
-      "description": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 15:53:54 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
       "title": "Meta accused of using biased AI targeting for mass layoffs",
       "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
       "description": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe...",
@@ -1324,25 +1401,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T16:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "description": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to play and explore musi...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T15:47:36.000Z",
-      "category": "both",
-      "score": 75.6,
+      "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
+      "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
+      "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 08:00:00 GMT",
+      "category": "fraud",
+      "score": 75.5,
       "imageUrl": null
     },
     {
@@ -1401,69 +1467,25 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity cost...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 15:17:59 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 14:37:48 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
-      "description": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 13 Jul 2026 16:50:54 GMT",
+      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server inst...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 05:44:52 -0400",
       "category": "fraud",
-      "score": 74.5,
+      "score": 74.6,
+      "imageUrl": null
+    },
+    {
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "description": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizatio...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Jul 2026 10:00:10 -0400",
+      "category": "fraud",
+      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -1511,24 +1533,24 @@
       "imageUrl": null
     },
     {
-      "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
-      "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
-      "description": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.\nThe post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared fir...",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "description": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.\nThe post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared fir...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Wed, 15 Jul 2026 09:48:29 +0000",
+      "pubDate": "Wed, 15 Jul 2026 14:07:44 +0000",
       "category": "general",
       "score": 70,
       "imageUrl": null
     },
     {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "description": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 13 Jul 2026 15:06:34 +0000",
-      "category": "fraud",
+      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+      "description": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 15:53:54 GMT",
+      "category": "ai",
       "score": 68.5,
       "imageUrl": null
     },
@@ -1560,9 +1582,20 @@
       "description": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 15 Jul 2026 10:48:11 +0000",
+      "pubDate": "Wed, 15 Jul 2026 14:47:58 +0000",
       "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+      "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+      "description": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.\nThe post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 15 Jul 2026 09:48:29 +0000",
+      "category": "general",
+      "score": 68,
       "imageUrl": null
     },
     {
@@ -1577,14 +1610,25 @@
       "imageUrl": null
     },
     {
-      "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-      "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-      "description": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.\nThe post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 15 Jul 2026 05:19:42 +0000",
-      "category": "general",
-      "score": 68,
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-14T16:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "description": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to play and explore musi...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-14T15:47:36.000Z",
+      "category": "both",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1632,14 +1676,14 @@
       "imageUrl": null
     },
     {
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "description": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 08:49:00 -0400",
-      "category": "fraud",
-      "score": 67.6,
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1651,28 +1695,6 @@
       "pubDate": "Tue, 14 Jul 2026 14:01:36 -0400",
       "category": "general",
       "score": 66.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "description": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 12:08:47 -0400",
-      "category": "general",
-      "score": 66.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-      "description": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.\nThe post Microsoft Patches Record 622 Vulnerabilities, Including Two E...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 14 Jul 2026 18:50:20 +0000",
-      "category": "general",
-      "score": 66,
       "imageUrl": null
     },
     {
@@ -1689,7 +1711,7 @@
     {
       "title": "Rime picks up $24M Series A to help enterprises field customer calls",
       "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "description": "Rime is handling over 100 million calls each month across multiple companies",
+      "description": "Rime is handling over 100 million calls each month across multiple companies.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
@@ -1709,6 +1731,17 @@
       "imageUrl": null
     },
     {
+      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
+      "description": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 13 Jul 2026 16:50:54 GMT",
+      "category": "fraud",
+      "score": 62.5,
+      "imageUrl": null
+    },
+    {
       "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
       "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
       "description": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.\nThe post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schne...",
@@ -1716,18 +1749,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 15 Jul 2026 09:19:58 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys --...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "category": "general",
-      "score": 61.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1766,7 +1788,7 @@
     {
       "title": "Microsoft releases Windows 10 KB5099539 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "description": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [.....",
+      "description": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 14 Jul 2026 14:49:28 -0400",
@@ -1786,13 +1808,24 @@
       "imageUrl": null
     },
     {
-      "title": "How a Teacher Revived Backyard Baseball",
-      "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "description": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 16:28:38 +0000",
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "description": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 14 Jul 2026 12:08:47 -0400",
       "category": "general",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "description": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 13 Jul 2026 15:06:34 +0000",
+      "category": "fraud",
       "score": 56.5,
       "imageUrl": null
     },
@@ -1819,14 +1852,14 @@
       "imageUrl": null
     },
     {
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "description": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 14 Jul 2026 07:42:21 -0400",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys --...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Mon, 13 Jul 2026 15:03:28 +0000",
       "category": "general",
-      "score": 52.6,
+      "score": 49.6,
       "imageUrl": null
     },
     {
@@ -1847,6 +1880,17 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 13 Jul 2026 13:19:52 +0000",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How a Teacher Revived Backyard Baseball",
+      "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "description": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 13 Jul 2026 16:28:38 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
