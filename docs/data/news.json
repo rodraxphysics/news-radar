@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-07-16T17:12:42.495Z",
+    "generated": "2026-07-16T20:54:03.816Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 94,
+    "totalArticles": 95,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 94 articles from 9 trusted sources, including 59 on Artificial Intelligence and 19 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Google is renaming NotebookLM to Gemini Notebook\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Scattered Spider members behind TfL hack get five years in prison\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, TechCrunch, SecurityWeek, Ars Technica and others\n• **Fresh Content**: 58 articles published in the last 24 hours",
-    "generated": "2026-07-16T17:12:42.495Z",
+    "content": "Today's selection covers 95 articles from 9 trusted sources, including 59 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: 1M+ Emails Use Hidden Text to Dupe AI Security Filters\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Scattered Spider members behind TfL hack get five years in prison\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from Dark Reading, The Verge, BleepingComputer, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 53 articles published in the last 24 hours",
+    "generated": "2026-07-16T20:54:03.816Z",
     "stats": {
-      "totalArticles": 94,
+      "totalArticles": 95,
       "aiArticles": 59,
-      "fraudArticles": 19,
+      "fraudArticles": 17,
       "sources": 9,
-      "todayCount": 58
+      "todayCount": 53
     }
   },
   "top": [
+    {
+      "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
+      "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+      "description": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 16 Jul 2026 19:41:31 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
     {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
@@ -33,36 +44,25 @@
       "imageUrl": null
     },
     {
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-16T13:00:00.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "description": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "description": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 08:31:29 -0400",
-      "category": "fraud",
+      "pubDate": "Thu, 16 Jul 2026 15:26:07 -0400",
+      "category": "ai",
       "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -90,6 +90,39 @@
   ],
   "more": [
     {
+      "title": "Claude can now use your 1Password credentials for you",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-16T13:00:00.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Scattered Spider members behind TfL hack get five years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+      "description": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 08:31:29 -0400",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
       "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
       "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
@@ -97,7 +130,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 16 Jul 2026 14:40:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -108,7 +141,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -119,7 +152,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 16 Jul 2026 12:43:59 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -134,56 +167,12 @@
       "imageUrl": null
     },
     {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "description": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scra...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-15T17:48:01.000Z",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "description": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400",
-      "category": "both",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -197,28 +186,6 @@
       "pubDate": "Wed, 15 Jul 2026 17:55:50 -0400",
       "category": "fraud",
       "score": 87.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "description": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 16:16:02 -0400",
-      "category": "fraud",
-      "score": 87.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "category": "ai",
-      "score": 85.6,
       "imageUrl": null
     },
     {
@@ -266,36 +233,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
-      "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
-      "description": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 13:56:58 +0000",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-15T20:00:00.000Z",
       "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
-      "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-      "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-      "description": "The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 13:53:09 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
-      "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-      "description": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 13:24:23 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "description": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scra...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-15T17:48:01.000Z",
+      "category": "fraud",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -321,13 +277,13 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "description": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T19:25:00.000Z",
-      "category": "ai",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "description": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400",
+      "category": "both",
       "score": 82.6,
       "imageUrl": null
     },
@@ -343,14 +299,14 @@
       "imageUrl": null
     },
     {
-      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-      "description": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 15 Jul 2026 20:16:13 GMT",
-      "category": "fraud",
-      "score": 82.5,
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -376,23 +332,45 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
       "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
       "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
       "description": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 16 Jul 2026 10:52:26 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
+      "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+      "description": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 13:56:58 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
+      "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
+      "description": "The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 13:53:09 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
+      "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+      "description": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 13:24:23 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -409,36 +387,25 @@
       "imageUrl": null
     },
     {
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "description": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while givin...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-16T17:58:37.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "description": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "description": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 09:47:23 -0400",
-      "category": "both",
+      "pubDate": "Wed, 15 Jul 2026 16:16:02 -0400",
+      "category": "fraud",
       "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
-      "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
-      "description": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 15 Jul 2026 18:58:16 +0000",
-      "category": "ai",
-      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -450,6 +417,17 @@
       "pubDate": "Thu, 16 Jul 2026 02:34:56 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -475,61 +453,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
-      "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
-      "description": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).\nThe post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 13:21:12 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
-      "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
-      "description": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle.\nThe post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
-      "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
-      "description": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment.\nThe post Oak Emerges From Stealth Mode With $60 Million in Funding appea...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 11:23:56 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
-      "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
-      "description": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "category": "both",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
       "title": "Computer cops",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
       "description": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I...",
@@ -537,6 +460,28 @@
       "domain": "theverge.com",
       "pubDate": "2026-07-16T11:00:00.000Z",
       "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "description": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while givin...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "description": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 09:47:23 -0400",
+      "category": "both",
       "score": 77.6,
       "imageUrl": null
     },
@@ -552,14 +497,58 @@
       "imageUrl": null
     },
     {
-      "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
-      "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
-      "description": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures.\nThe post China’s Top Cybersecurity Firms Hit by Mounting Military Procurem...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 08:49:27 +0000",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
       "category": "ai",
       "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+      "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+      "description": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).\nThe post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWee...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 13:21:12 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
+      "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
+      "description": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle.\nThe post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
+      "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
+      "description": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment.\nThe post Oak Emerges From Stealth Mode With $60 Million in Funding appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 11:23:56 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
+      "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
+      "description": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "category": "both",
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -607,14 +596,25 @@
       "imageUrl": null
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
+      "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
+      "description": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures.\nThe post China’s Top Cybersecurity Firms Hit by Mounting Military Procurem...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 08:49:27 +0000",
       "category": "ai",
       "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
+      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
+      "description": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 20:16:13 GMT",
+      "category": "fraud",
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -629,24 +629,13 @@
       "imageUrl": null
     },
     {
-      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-      "description": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.\nThe post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day  appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 06:48:40 +0000",
-      "category": "fraud",
-      "score": 74,
-      "imageUrl": null
-    },
-    {
-      "title": "US charges alleged operators of Russian bulletproof hosting service",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
-      "description": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damage...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 03:45:50 -0400",
-      "category": "fraud",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "category": "ai",
       "score": 73.6,
       "imageUrl": null
     },
@@ -662,6 +651,28 @@
       "imageUrl": null
     },
     {
+      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
+      "description": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.\nThe post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day  appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 06:48:40 +0000",
+      "category": "fraud",
+      "score": 72,
+      "imageUrl": null
+    },
+    {
+      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+      "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+      "description": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 16 Jul 2026 19:28:33 +0000",
+      "category": "general",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
       "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
       "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
@@ -673,23 +684,23 @@
       "imageUrl": null
     },
     {
-      "title": "'Yellow Teams' Are Defining the Future of AI Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
-      "description": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 13 Jul 2026 18:18:30 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
       "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
       "description": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 15 Jul 2026 11:24:29 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
+      "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
+      "description": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Jul 2026 18:58:17 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -728,6 +739,17 @@
       "imageUrl": null
     },
     {
+      "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
+      "link": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
+      "description": "A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 19:18:36 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
       "link": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
       "description": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
@@ -744,7 +766,7 @@
       "description": "Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 16:31:54 +0000",
+      "pubDate": "Thu, 16 Jul 2026 17:12:03 +0000",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -783,25 +805,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
-      "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
-      "description": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 15 Jul 2026 18:08:56 GMT",
-      "category": "general",
-      "score": 67.5,
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -827,17 +838,6 @@
       "imageUrl": null
     },
     {
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
       "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
       "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
@@ -849,12 +849,12 @@
       "imageUrl": null
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "description": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "description": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 07:59:24 -0400",
+      "pubDate": "Thu, 16 Jul 2026 15:09:35 -0400",
       "category": "general",
       "score": 64.6,
       "imageUrl": null
@@ -871,25 +871,14 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX share price drops below stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
+      "description": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 07:59:24 -0400",
       "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
-      "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
-      "description": "After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 15 Jul 2026 20:12:53 +0000",
-      "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -911,29 +900,18 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 16 Jul 2026 07:59:22 +0000",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
-      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-      "description": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 15 Jul 2026 19:59:48 +0000",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "category": "general",
       "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
+      "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
+      "description": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 18:08:56 GMT",
+      "category": "general",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -944,17 +922,6 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 15 Jul 2026 13:00:00 GMT",
       "category": "general",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The eBay Scandal Gets a Thriller-Like Documentary",
-      "link": "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
-      "description": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 18:07:52 +0000",
-      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -992,14 +959,36 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
-      "description": "Surgeons remotely control two human-like robots in an operating theatre.",
+      "title": "SpaceX share price drops below stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 14 Jul 2026 20:00:00 GMT",
+      "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+      "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+      "description": "After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Jul 2026 20:12:53 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+      "description": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Wed, 15 Jul 2026 19:59:48 +0000",
+      "category": "general",
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -1014,25 +1003,25 @@
       "imageUrl": null
     },
     {
-      "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
-      "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
-      "description": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 19:58:31 GMT",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
       "category": "general",
-      "score": 53.5,
+      "score": 52,
       "imageUrl": null
     },
     {
-      "title": "Manage Vendor Risk in a Few Practical Steps",
-      "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
-      "description": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 17:44:55 GMT",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
+      "description": "Surgeons remotely control two human-like robots in an operating theatre.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 14 Jul 2026 20:00:00 GMT",
       "category": "general",
-      "score": 53.5,
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1056,9 +1045,42 @@
       "category": "general",
       "score": 41.5,
       "imageUrl": null
+    },
+    {
+      "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
+      "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
+      "description": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 19:58:31 GMT",
+      "category": "general",
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Manage Vendor Risk in a Few Practical Steps",
+      "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
+      "description": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 17:44:55 GMT",
+      "category": "general",
+      "score": 41.5,
+      "imageUrl": null
     }
   ],
   "all": [
+    {
+      "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
+      "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+      "description": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 16 Jul 2026 19:41:31 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
     {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
@@ -1071,36 +1093,25 @@
       "imageUrl": null
     },
     {
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-16T13:00:00.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "description": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "description": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 08:31:29 -0400",
-      "category": "fraud",
+      "pubDate": "Thu, 16 Jul 2026 15:26:07 -0400",
+      "category": "ai",
       "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1126,6 +1137,39 @@
       "imageUrl": null
     },
     {
+      "title": "Claude can now use your 1Password credentials for you",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-16T13:00:00.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Scattered Spider members behind TfL hack get five years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+      "description": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 08:31:29 -0400",
+      "category": "fraud",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
       "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
       "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
@@ -1133,7 +1177,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 16 Jul 2026 14:40:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1144,7 +1188,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1155,7 +1199,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 16 Jul 2026 12:43:59 +0000",
       "category": "fraud",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1170,56 +1214,12 @@
       "imageUrl": null
     },
     {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "description": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scra...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-15T17:48:01.000Z",
-      "category": "fraud",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "description": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400",
-      "category": "both",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -1233,28 +1233,6 @@
       "pubDate": "Wed, 15 Jul 2026 17:55:50 -0400",
       "category": "fraud",
       "score": 87.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "description": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 16:16:02 -0400",
-      "category": "fraud",
-      "score": 87.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "category": "ai",
-      "score": 85.6,
       "imageUrl": null
     },
     {
@@ -1302,36 +1280,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
-      "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
-      "description": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 13:56:58 +0000",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-15T20:00:00.000Z",
       "category": "ai",
-      "score": 83.5,
+      "score": 82.6,
       "imageUrl": null
     },
     {
-      "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-      "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-      "description": "The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 13:53:09 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
-      "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-      "description": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 13:24:23 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "description": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scra...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-15T17:48:01.000Z",
+      "category": "fraud",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1357,13 +1324,13 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "description": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-14T19:25:00.000Z",
-      "category": "ai",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "description": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400",
+      "category": "both",
       "score": 82.6,
       "imageUrl": null
     },
@@ -1379,14 +1346,14 @@
       "imageUrl": null
     },
     {
-      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-      "description": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 15 Jul 2026 20:16:13 GMT",
-      "category": "fraud",
-      "score": 82.5,
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1412,23 +1379,45 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
       "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
       "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
       "description": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 16 Jul 2026 10:52:26 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
+      "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+      "description": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 13:56:58 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
+      "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
+      "description": "The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 13:53:09 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
+      "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+      "description": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 13:24:23 +0000",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -1445,36 +1434,25 @@
       "imageUrl": null
     },
     {
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "description": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while givin...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-16T17:58:37.000Z",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "description": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "description": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 09:47:23 -0400",
-      "category": "both",
+      "pubDate": "Wed, 15 Jul 2026 16:16:02 -0400",
+      "category": "fraud",
       "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
-      "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
-      "description": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 15 Jul 2026 18:58:16 +0000",
-      "category": "ai",
-      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1486,6 +1464,17 @@
       "pubDate": "Thu, 16 Jul 2026 02:34:56 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1511,61 +1500,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
-      "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
-      "description": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).\nThe post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 13:21:12 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
-      "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
-      "description": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle.\nThe post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
-      "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
-      "description": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment.\nThe post Oak Emerges From Stealth Mode With $60 Million in Funding appea...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 11:23:56 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
-      "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
-      "description": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "category": "both",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
       "title": "Computer cops",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
       "description": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I...",
@@ -1573,6 +1507,28 @@
       "domain": "theverge.com",
       "pubDate": "2026-07-16T11:00:00.000Z",
       "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "description": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while givin...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "description": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 09:47:23 -0400",
+      "category": "both",
       "score": 77.6,
       "imageUrl": null
     },
@@ -1588,14 +1544,58 @@
       "imageUrl": null
     },
     {
-      "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
-      "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
-      "description": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures.\nThe post China’s Top Cybersecurity Firms Hit by Mounting Military Procurem...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 08:49:27 +0000",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
       "category": "ai",
       "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+      "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+      "description": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).\nThe post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWee...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 13:21:12 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
+      "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
+      "description": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle.\nThe post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
+      "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
+      "description": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment.\nThe post Oak Emerges From Stealth Mode With $60 Million in Funding appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 11:23:56 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
+      "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
+      "description": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "category": "both",
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1643,14 +1643,25 @@
       "imageUrl": null
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
+      "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
+      "description": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures.\nThe post China’s Top Cybersecurity Firms Hit by Mounting Military Procurem...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 08:49:27 +0000",
       "category": "ai",
       "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
+      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
+      "description": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 20:16:13 GMT",
+      "category": "fraud",
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1665,24 +1676,13 @@
       "imageUrl": null
     },
     {
-      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-      "description": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.\nThe post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day  appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 16 Jul 2026 06:48:40 +0000",
-      "category": "fraud",
-      "score": 74,
-      "imageUrl": null
-    },
-    {
-      "title": "US charges alleged operators of Russian bulletproof hosting service",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
-      "description": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damage...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 03:45:50 -0400",
-      "category": "fraud",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "category": "ai",
       "score": 73.6,
       "imageUrl": null
     },
@@ -1698,6 +1698,28 @@
       "imageUrl": null
     },
     {
+      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
+      "description": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.\nThe post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day  appeared first on Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 16 Jul 2026 06:48:40 +0000",
+      "category": "fraud",
+      "score": 72,
+      "imageUrl": null
+    },
+    {
+      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+      "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+      "description": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 16 Jul 2026 19:28:33 +0000",
+      "category": "general",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
       "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
       "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
@@ -1709,23 +1731,23 @@
       "imageUrl": null
     },
     {
-      "title": "'Yellow Teams' Are Defining the Future of AI Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
-      "description": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 13 Jul 2026 18:18:30 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
       "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
       "description": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 15 Jul 2026 11:24:29 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
+      "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
+      "description": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Jul 2026 18:58:17 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1764,6 +1786,17 @@
       "imageUrl": null
     },
     {
+      "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
+      "link": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
+      "description": "A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 16 Jul 2026 19:18:36 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
       "link": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
       "description": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
@@ -1780,7 +1813,7 @@
       "description": "Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 16 Jul 2026 16:31:54 +0000",
+      "pubDate": "Thu, 16 Jul 2026 17:12:03 +0000",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
@@ -1819,25 +1852,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
-      "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
-      "description": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 15 Jul 2026 18:08:56 GMT",
-      "category": "general",
-      "score": 67.5,
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1863,17 +1885,6 @@
       "imageUrl": null
     },
     {
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
       "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
       "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
@@ -1885,12 +1896,12 @@
       "imageUrl": null
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "description": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "description": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 16 Jul 2026 07:59:24 -0400",
+      "pubDate": "Thu, 16 Jul 2026 15:09:35 -0400",
       "category": "general",
       "score": 64.6,
       "imageUrl": null
@@ -1907,25 +1918,14 @@
       "imageUrl": null
     },
     {
-      "title": "SpaceX share price drops below stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
+      "description": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 16 Jul 2026 07:59:24 -0400",
       "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
-      "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
-      "description": "After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 15 Jul 2026 20:12:53 +0000",
-      "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1947,29 +1947,18 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 16 Jul 2026 07:59:22 +0000",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
-      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-      "description": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 15 Jul 2026 19:59:48 +0000",
-      "category": "general",
-      "score": 61.5,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "category": "general",
       "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
+      "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
+      "description": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 15 Jul 2026 18:08:56 GMT",
+      "category": "general",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -1980,17 +1969,6 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 15 Jul 2026 13:00:00 GMT",
       "category": "general",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The eBay Scandal Gets a Thriller-Like Documentary",
-      "link": "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
-      "description": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 13 Jul 2026 18:07:52 +0000",
-      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -2028,14 +2006,36 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
-      "description": "Surgeons remotely control two human-like robots in an operating theatre.",
+      "title": "SpaceX share price drops below stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 14 Jul 2026 20:00:00 GMT",
+      "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+      "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+      "description": "After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 15 Jul 2026 20:12:53 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+      "description": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Wed, 15 Jul 2026 19:59:48 +0000",
+      "category": "general",
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -2050,25 +2050,25 @@
       "imageUrl": null
     },
     {
-      "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
-      "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
-      "description": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 19:58:31 GMT",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
       "category": "general",
-      "score": 53.5,
+      "score": 52,
       "imageUrl": null
     },
     {
-      "title": "Manage Vendor Risk in a Few Practical Steps",
-      "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
-      "description": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 14 Jul 2026 17:44:55 GMT",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
+      "description": "Surgeons remotely control two human-like robots in an operating theatre.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 14 Jul 2026 20:00:00 GMT",
       "category": "general",
-      "score": 53.5,
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -2089,6 +2089,28 @@
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Mon, 13 Jul 2026 21:03:07 +0000",
+      "category": "general",
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
+      "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
+      "description": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 19:58:31 GMT",
+      "category": "general",
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Manage Vendor Risk in a Few Practical Steps",
+      "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
+      "description": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 14 Jul 2026 17:44:55 GMT",
       "category": "general",
       "score": 41.5,
       "imageUrl": null
