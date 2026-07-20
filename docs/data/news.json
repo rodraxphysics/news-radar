@@ -1,26 +1,48 @@
 {
   "metadata": {
-    "generated": "2026-07-20T17:58:32.399Z",
+    "generated": "2026-07-20T21:09:06.454Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 53,
+    "totalArticles": 58,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 53 articles from 7 trusted sources, including 31 on Artificial Intelligence and 7 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Adobe’s ‘natural look’ camera app embraces generative AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, SecurityWeek, TechCrunch, BBC Technology and others\n• **Fresh Content**: 28 articles published in the last 24 hours",
-    "generated": "2026-07-20T17:58:32.399Z",
+    "content": "Today's selection covers 58 articles from 7 trusted sources, including 34 on Artificial Intelligence and 8 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Attackers Combo Up Evasion Tactics for BEC Phishing\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from Dark Reading, The Verge, BleepingComputer, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 37 articles published in the last 24 hours",
+    "generated": "2026-07-20T21:09:06.454Z",
     "stats": {
-      "totalArticles": 53,
-      "aiArticles": 31,
-      "fraudArticles": 7,
+      "totalArticles": 58,
+      "aiArticles": 34,
+      "fraudArticles": 8,
       "sources": 7,
-      "todayCount": 28
+      "todayCount": 37
     }
   },
   "top": [
+    {
+      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 20:26:56 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+      "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 18:30:22 GMT",
+      "category": "fraud",
+      "score": 95.5,
+      "imageUrl": null
+    },
     {
       "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
       "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
@@ -33,6 +55,28 @@
       "imageUrl": null
     },
     {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "China delivers a one-two punch to America’s AI dominance",
       "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
       "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o...",
@@ -42,7 +86,9 @@
       "category": "ai",
       "score": 92.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Hugging Face warns an autonomous AI agent hacked its network",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
@@ -62,18 +108,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Jul 2026 14:11:05 +0000",
       "category": "fraud",
-      "score": 91,
-      "imageUrl": null
-    },
-    {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
-      "category": "ai",
-      "score": 90,
+      "score": 89,
       "imageUrl": null
     },
     {
@@ -86,9 +121,7 @@
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
       "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
@@ -106,19 +139,8 @@
       "description": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 14:04:16 +0000",
+      "pubDate": "Mon, 20 Jul 2026 19:06:27 +0000",
       "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
-      "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
-      "description": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 14:02:31 +0000",
-      "category": "both",
       "score": 83.5,
       "imageUrl": null
     },
@@ -134,25 +156,47 @@
       "imageUrl": null
     },
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to ar...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-18T20:54:42.000Z",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 82,
       "imageUrl": null
     },
     {
-      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+      "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
+      "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
+      "description": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
-      "category": "ai",
+      "pubDate": "Mon, 20 Jul 2026 14:02:31 +0000",
+      "category": "both",
       "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISOs Feel the Heat Over AI Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+      "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 19:07:01 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "description": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T21:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -167,14 +211,47 @@
       "imageUrl": null
     },
     {
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "description": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC soluti...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 10:01:11 -0400",
+      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
+      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
       "category": "ai",
-      "score": 79.6,
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a c...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -189,14 +266,14 @@
       "imageUrl": null
     },
     {
-      "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
-      "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
-      "description": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.\nThe post Neo Emerges From Stealth With $100M to Control and Secure Enterprise...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 14:54:03 +0000",
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "description": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC soluti...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 10:01:11 -0400",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -208,6 +285,17 @@
       "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400",
       "category": "ai",
       "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
+      "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
+      "description": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.\nThe post Neo Emerges From Stealth With $100M to Control and Secure Enterprise...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Jul 2026 14:54:03 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -244,17 +332,6 @@
       "imageUrl": null
     },
     {
-      "title": "Cybersecurity Keeps Events 'Uneventful'",
-      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-      "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
       "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
       "description": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
@@ -277,14 +354,47 @@
       "imageUrl": null
     },
     {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to ar...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-18T20:54:42.000Z",
       "category": "ai",
-      "score": 70,
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybersecurity Keeps Events 'Uneventful'",
+      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
+      "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Thousands of websites taken down for illegal World Cup streams",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Jul 2026 20:08:56 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
+      "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
+      "description": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Jul 2026 20:07:18 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -295,29 +405,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Jul 2026 12:32:40 +0000",
       "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
-      "description": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 17 Jul 2026 20:01:13 GMT",
-      "category": "fraud",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
-      "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
-      "description": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 17:23:59 +0000",
-      "category": "general",
-      "score": 68.5,
+      "score": 68,
       "imageUrl": null
     },
     {
@@ -354,17 +442,6 @@
       "imageUrl": null
     },
     {
-      "title": "Kimi: Threat or menace?",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
       "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
       "description": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.\nThe post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared...",
@@ -373,17 +450,6 @@
       "pubDate": "Mon, 20 Jul 2026 05:21:29 +0000",
       "category": "general",
       "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "description": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed f...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400",
-      "category": "fraud",
-      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -420,23 +486,23 @@
       "imageUrl": null
     },
     {
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.\nThe post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 08:12:19 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
       "title": "What to watch for after Jensen Huang’s Japan visit",
       "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
       "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
+      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
+      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.\nThe post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Jul 2026 08:12:19 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -450,17 +516,6 @@
       "pubDate": "Sun, 19 Jul 2026 10:23:46 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-17T19:34:30.000Z",
-      "category": "ai",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -486,14 +541,14 @@
       "imageUrl": null
     },
     {
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "description": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Jul 2026 16:45:52 -0400",
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
       "category": "ai",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -530,14 +585,14 @@
       "imageUrl": null
     },
     {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "category": "ai",
-      "score": 55,
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "description": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed f...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400",
+      "category": "fraud",
+      "score": 52.6,
       "imageUrl": null
     },
     {
@@ -609,6 +664,28 @@
   ],
   "all": [
     {
+      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 20:26:56 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+      "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 18:30:22 GMT",
+      "category": "fraud",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
       "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
       "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "description": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe\t\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (S...",
@@ -617,6 +694,28 @@
       "pubDate": "2026-07-20T16:00:00.000Z",
       "category": "ai",
       "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -649,18 +748,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Jul 2026 14:11:05 +0000",
       "category": "fraud",
-      "score": 91,
-      "imageUrl": null
-    },
-    {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
-      "category": "ai",
-      "score": 90,
+      "score": 89,
       "imageUrl": null
     },
     {
@@ -691,19 +779,8 @@
       "description": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 14:04:16 +0000",
+      "pubDate": "Mon, 20 Jul 2026 19:06:27 +0000",
       "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
-      "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
-      "description": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 14:02:31 +0000",
-      "category": "both",
       "score": 83.5,
       "imageUrl": null
     },
@@ -719,25 +796,47 @@
       "imageUrl": null
     },
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to ar...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-18T20:54:42.000Z",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 82,
       "imageUrl": null
     },
     {
-      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+      "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
+      "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
+      "description": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
-      "category": "ai",
+      "pubDate": "Mon, 20 Jul 2026 14:02:31 +0000",
+      "category": "both",
       "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISOs Feel the Heat Over AI Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+      "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 19:07:01 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "description": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T21:00:00.000Z",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -752,14 +851,47 @@
       "imageUrl": null
     },
     {
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "description": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC soluti...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 10:01:11 -0400",
+      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
+      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
       "category": "ai",
-      "score": 79.6,
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a c...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -774,14 +906,14 @@
       "imageUrl": null
     },
     {
-      "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
-      "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
-      "description": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.\nThe post Neo Emerges From Stealth With $100M to Control and Secure Enterprise...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 14:54:03 +0000",
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "description": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC soluti...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 10:01:11 -0400",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -793,6 +925,17 @@
       "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400",
       "category": "ai",
       "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
+      "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
+      "description": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.\nThe post Neo Emerges From Stealth With $100M to Control and Secure Enterprise...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Jul 2026 14:54:03 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -829,17 +972,6 @@
       "imageUrl": null
     },
     {
-      "title": "Cybersecurity Keeps Events 'Uneventful'",
-      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-      "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
       "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
       "description": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
@@ -862,14 +994,47 @@
       "imageUrl": null
     },
     {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to ar...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-18T20:54:42.000Z",
       "category": "ai",
-      "score": 70,
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybersecurity Keeps Events 'Uneventful'",
+      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
+      "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Thousands of websites taken down for illegal World Cup streams",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Jul 2026 20:08:56 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
+      "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
+      "description": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Jul 2026 20:07:18 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -880,29 +1045,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 20 Jul 2026 12:32:40 +0000",
       "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
-      "description": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 17 Jul 2026 20:01:13 GMT",
-      "category": "fraud",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
-      "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
-      "description": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 17:23:59 +0000",
-      "category": "general",
-      "score": 68.5,
+      "score": 68,
       "imageUrl": null
     },
     {
@@ -939,17 +1082,6 @@
       "imageUrl": null
     },
     {
-      "title": "Kimi: Threat or menace?",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
       "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
       "description": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.\nThe post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared...",
@@ -958,17 +1090,6 @@
       "pubDate": "Mon, 20 Jul 2026 05:21:29 +0000",
       "category": "general",
       "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "description": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed f...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400",
-      "category": "fraud",
-      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1005,23 +1126,23 @@
       "imageUrl": null
     },
     {
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.\nThe post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 08:12:19 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
       "title": "What to watch for after Jensen Huang’s Japan visit",
       "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
       "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
+      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
+      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.\nThe post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 20 Jul 2026 08:12:19 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1035,17 +1156,6 @@
       "pubDate": "Sun, 19 Jul 2026 10:23:46 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-17T19:34:30.000Z",
-      "category": "ai",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -1071,14 +1181,14 @@
       "imageUrl": null
     },
     {
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "description": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 17 Jul 2026 16:45:52 -0400",
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
       "category": "ai",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1115,14 +1225,14 @@
       "imageUrl": null
     },
     {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "category": "ai",
-      "score": 55,
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "description": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed f...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400",
+      "category": "fraud",
+      "score": 52.6,
       "imageUrl": null
     },
     {
