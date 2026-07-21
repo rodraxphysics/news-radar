@@ -1,68 +1,46 @@
 {
   "metadata": {
-    "generated": "2026-07-21T06:25:14.388Z",
+    "generated": "2026-07-21T10:22:46.617Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 62,
+    "totalArticles": 64,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 62 articles from 7 trusted sources, including 38 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Attackers Combo Up Evasion Tactics for BEC Phishing\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from Dark Reading, BleepingComputer, TechCrunch, The Verge, SecurityWeek and others\n• **Fresh Content**: 45 articles published in the last 24 hours",
-    "generated": "2026-07-21T06:25:14.388Z",
+    "content": "Today's selection covers 64 articles from 7 trusted sources, including 41 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic’s landmark $1.5B copyright settlement is approved\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Critical Palo Alto VPN bug now exploited by Qilin ransomware gang\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BleepingComputer, SecurityWeek, TechCrunch, Dark Reading, The Verge and others\n• **Fresh Content**: 47 articles published in the last 24 hours",
+    "generated": "2026-07-21T10:22:46.617Z",
     "stats": {
-      "totalArticles": 62,
-      "aiArticles": 38,
+      "totalArticles": 64,
+      "aiArticles": 41,
       "fraudArticles": 11,
       "sources": 7,
-      "todayCount": 45
+      "todayCount": 47
     }
   },
   "top": [
     {
-      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 20:26:56 GMT",
-      "category": "ai",
-      "score": 93.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 18:30:22 GMT",
-      "category": "fraud",
-      "score": 93.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "description": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two...",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "description": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 17:14:42 -0400",
-      "category": "ai",
-      "score": 92.6,
+      "pubDate": "Tue, 21 Jul 2026 06:12:24 -0400",
+      "category": "fraud",
+      "score": 94.6,
       "imageUrl": null
     },
     {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "title": "Clover Health Investments Discloses Data Breach",
+      "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+      "description": "Using social engineering, hackers compromised employee accounts with access to personal and health information.\nThe post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 09:36:51 +0000",
       "category": "fraud",
-      "score": 92.6,
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -77,27 +55,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 20:26:56 GMT",
       "category": "ai",
-      "score": 92,
+      "score": 91.5,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
-      "category": "ai",
-      "score": 92,
+      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+      "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 18:30:22 GMT",
+      "category": "fraud",
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -110,15 +86,28 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "description": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 17:14:42 -0400",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
     },
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-20T10:16:33.000Z",
-      "category": "ai",
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
@@ -131,6 +120,28 @@
       "pubDate": "Mon, 20 Jul 2026 07:56:28 -0400",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -167,14 +178,25 @@
       "imageUrl": null
     },
     {
-      "title": "How Google’s A.I. Search Is Imperiling the Open Web",
-      "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-      "description": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 21 Jul 2026 01:50:36 +0000",
+      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+      "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+      "description": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 21 Jul 2026 09:15:55 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T10:16:33.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -200,14 +222,36 @@
       "imageUrl": null
     },
     {
-      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-      "description": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Jul 2026 23:07:40 GMT",
+      "title": "How Google’s A.I. Search Is Imperiling the Open Web",
+      "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+      "description": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 21 Jul 2026 01:50:36 +0000",
       "category": "ai",
       "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "description": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 21 Jul 2026 05:05:50 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "description": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 21 Jul 2026 04:06:26 -0400",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -244,58 +288,25 @@
       "imageUrl": null
     },
     {
-      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
+      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+      "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+      "description": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure.\nThe post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 10:19:21 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-      "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 21:38:18 GMT",
+      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+      "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+      "description": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.\nThe post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared firs...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 08:41:53 +0000",
       "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISOs Feel the Heat Over AI Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-      "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 19:07:01 GMT",
-      "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-20T22:19:12.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX in your index fund, explained",
-      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "description": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on t...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-20T21:00:00.000Z",
-      "category": "ai",
-      "score": 77.6,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -310,36 +321,58 @@
       "imageUrl": null
     },
     {
-      "title": "Trump’s latest AI czar has already resigned",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
-      "category": "both",
-      "score": 77,
+      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+      "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 21:38:18 GMT",
+      "category": "ai",
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+      "description": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 19:32:04 GMT",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "description": "X says the rebuilt version of its Android app is now available globally.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "title": "CISOs Feel the Heat Over AI Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+      "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 19:07:01 GMT",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T22:19:12.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "description": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T21:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -365,14 +398,36 @@
       "imageUrl": null
     },
     {
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "description": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400",
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
+      "category": "both",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -420,25 +475,14 @@
       "imageUrl": null
     },
     {
-      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-      "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-      "description": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.\nThe post Capital One Open Sources AI-Powered ‘VulnHunter’ Security T...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 10:25:07 +0000",
+      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
+      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Hugging Face Hacked in Autonomous AI Attack",
-      "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-      "description": "Targeting production infrastructure, the attack compromised internal datasets and service credentials.\nThe post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 09:36:15 +0000",
-      "category": "ai",
-      "score": 75,
+      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -475,6 +519,28 @@
       "imageUrl": null
     },
     {
+      "title": "When Listening to Music Was a Team Sport",
+      "link": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
+      "description": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 21 Jul 2026 09:01:07 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "description": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Cybersecurity Keeps Events 'Uneventful'",
       "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
       "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security...",
@@ -505,17 +571,6 @@
       "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
       "category": "ai",
       "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Jul 2026 20:08:56 GMT",
-      "category": "general",
-      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -552,23 +607,34 @@
       "imageUrl": null
     },
     {
+      "title": "Thousands of websites taken down for illegal World Cup streams",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Jul 2026 20:08:56 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Zimbra Update Patches Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+      "description": "The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.\nThe post Zimbra Update Patches Critical Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 08:20:08 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft confirms Windows Server Update Services sync delays",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
       "description": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Jul 2026 06:47:28 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "description": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 06:06:17 -0400",
       "category": "general",
       "score": 60.6,
       "imageUrl": null
@@ -585,17 +651,6 @@
       "imageUrl": null
     },
     {
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.\nThe post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 08:12:19 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
       "description": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
@@ -604,28 +659,6 @@
       "pubDate": "Sun, 19 Jul 2026 10:23:46 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-      "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-      "description": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.\nThe post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 05:21:29 +0000",
-      "category": "general",
-      "score": 58,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "description": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "category": "fraud",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -640,13 +673,13 @@
       "imageUrl": null
     },
     {
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "description": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed f...",
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "description": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400",
-      "category": "fraud",
+      "pubDate": "Mon, 20 Jul 2026 06:06:17 -0400",
+      "category": "general",
       "score": 52.6,
       "imageUrl": null
     },
@@ -659,17 +692,6 @@
       "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
       "category": "general",
       "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "description": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 13:22:47 -0400",
-      "category": "general",
-      "score": 46.6,
       "imageUrl": null
     },
     {
@@ -708,47 +730,25 @@
   ],
   "all": [
     {
-      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 20:26:56 GMT",
-      "category": "ai",
-      "score": 93.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 18:30:22 GMT",
-      "category": "fraud",
-      "score": 93.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "description": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two...",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "description": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 17:14:42 -0400",
-      "category": "ai",
-      "score": 92.6,
+      "pubDate": "Tue, 21 Jul 2026 06:12:24 -0400",
+      "category": "fraud",
+      "score": 94.6,
       "imageUrl": null
     },
     {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "title": "Clover Health Investments Discloses Data Breach",
+      "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+      "description": "Using social engineering, hackers compromised employee accounts with access to personal and health information.\nThe post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 09:36:51 +0000",
       "category": "fraud",
-      "score": 92.6,
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -763,25 +763,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 20:26:56 GMT",
       "category": "ai",
-      "score": 92,
+      "score": 91.5,
       "imageUrl": null
     },
     {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
-      "category": "ai",
-      "score": 92,
+      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+      "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 18:30:22 GMT",
+      "category": "fraud",
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -796,13 +796,24 @@
       "imageUrl": null
     },
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-20T10:16:33.000Z",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "description": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 17:14:42 -0400",
       "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
@@ -815,6 +826,28 @@
       "pubDate": "Mon, 20 Jul 2026 07:56:28 -0400",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -851,14 +884,25 @@
       "imageUrl": null
     },
     {
-      "title": "How Google’s A.I. Search Is Imperiling the Open Web",
-      "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-      "description": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 21 Jul 2026 01:50:36 +0000",
+      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+      "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+      "description": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 21 Jul 2026 09:15:55 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T10:16:33.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -884,14 +928,36 @@
       "imageUrl": null
     },
     {
-      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-      "description": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Jul 2026 23:07:40 GMT",
+      "title": "How Google’s A.I. Search Is Imperiling the Open Web",
+      "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+      "description": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 21 Jul 2026 01:50:36 +0000",
       "category": "ai",
       "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "description": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 21 Jul 2026 05:05:50 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "description": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 21 Jul 2026 04:06:26 -0400",
+      "category": "ai",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -928,58 +994,25 @@
       "imageUrl": null
     },
     {
-      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
+      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+      "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+      "description": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure.\nThe post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 10:19:21 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-      "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 21:38:18 GMT",
+      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+      "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+      "description": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.\nThe post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared firs...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 08:41:53 +0000",
       "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISOs Feel the Heat Over AI Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-      "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 20 Jul 2026 19:07:01 GMT",
-      "category": "ai",
-      "score": 78.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-20T22:19:12.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SpaceX in your index fund, explained",
-      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "description": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on t...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-20T21:00:00.000Z",
-      "category": "ai",
-      "score": 77.6,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -994,36 +1027,58 @@
       "imageUrl": null
     },
     {
-      "title": "Trump’s latest AI czar has already resigned",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
-      "category": "both",
-      "score": 77,
+      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+      "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 21:38:18 GMT",
+      "category": "ai",
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+      "description": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 19:32:04 GMT",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
       "imageUrl": null
     },
     {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "description": "X says the rebuilt version of its Android app is now available globally.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "title": "CISOs Feel the Heat Over AI Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+      "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 20 Jul 2026 19:07:01 GMT",
       "category": "ai",
-      "score": 77,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T22:19:12.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "description": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-20T21:00:00.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1049,14 +1104,36 @@
       "imageUrl": null
     },
     {
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "description": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400",
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
+      "category": "both",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1104,25 +1181,14 @@
       "imageUrl": null
     },
     {
-      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-      "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-      "description": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.\nThe post Capital One Open Sources AI-Powered ‘VulnHunter’ Security T...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 10:25:07 +0000",
+      "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
+      "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+      "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Hugging Face Hacked in Autonomous AI Attack",
-      "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-      "description": "Targeting production infrastructure, the attack compromised internal datasets and service credentials.\nThe post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 09:36:15 +0000",
-      "category": "ai",
-      "score": 75,
+      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -1159,6 +1225,28 @@
       "imageUrl": null
     },
     {
+      "title": "When Listening to Music Was a Team Sport",
+      "link": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
+      "description": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 21 Jul 2026 09:01:07 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "description": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Cybersecurity Keeps Events 'Uneventful'",
       "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
       "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security...",
@@ -1189,17 +1277,6 @@
       "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
       "category": "ai",
       "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 20 Jul 2026 20:08:56 GMT",
-      "category": "general",
-      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -1236,23 +1313,34 @@
       "imageUrl": null
     },
     {
+      "title": "Thousands of websites taken down for illegal World Cup streams",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 20 Jul 2026 20:08:56 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Zimbra Update Patches Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+      "description": "The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.\nThe post Zimbra Update Patches Critical Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 21 Jul 2026 08:20:08 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft confirms Windows Server Update Services sync delays",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
       "description": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 20 Jul 2026 06:47:28 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "description": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 20 Jul 2026 06:06:17 -0400",
       "category": "general",
       "score": 60.6,
       "imageUrl": null
@@ -1269,17 +1357,6 @@
       "imageUrl": null
     },
     {
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.\nThe post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 08:12:19 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
       "description": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
@@ -1288,28 +1365,6 @@
       "pubDate": "Sun, 19 Jul 2026 10:23:46 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-      "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-      "description": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.\nThe post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 20 Jul 2026 05:21:29 +0000",
-      "category": "general",
-      "score": 58,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "description": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "category": "fraud",
-      "score": 55.6,
       "imageUrl": null
     },
     {
@@ -1324,13 +1379,13 @@
       "imageUrl": null
     },
     {
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "description": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed f...",
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "description": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400",
-      "category": "fraud",
+      "pubDate": "Mon, 20 Jul 2026 06:06:17 -0400",
+      "category": "general",
       "score": 52.6,
       "imageUrl": null
     },
@@ -1343,17 +1398,6 @@
       "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
       "category": "general",
       "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "description": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 18 Jul 2026 13:22:47 -0400",
-      "category": "general",
-      "score": 46.6,
       "imageUrl": null
     },
     {
