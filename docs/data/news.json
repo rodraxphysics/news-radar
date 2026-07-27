@@ -1,35 +1,57 @@
 {
   "metadata": {
-    "generated": "2026-07-27T11:16:58.044Z",
+    "generated": "2026-07-27T14:26:26.348Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 60,
+    "totalArticles": 54,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 60 articles from 7 trusted sources, including 43 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: MCBS Data Breach Affects 1.2 Million Individuals\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from SecurityWeek, TechCrunch, NY Times Tech, BleepingComputer, BBC Technology and others\n• **Fresh Content**: 12 articles published in the last 24 hours",
-    "generated": "2026-07-27T11:16:58.044Z",
+    "content": "Today's selection covers 54 articles from 7 trusted sources, including 38 on Artificial Intelligence and 9 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from The Verge, SecurityWeek, TechCrunch, NY Times Tech, BleepingComputer and others\n• **Fresh Content**: 19 articles published in the last 24 hours",
+    "generated": "2026-07-27T14:26:26.348Z",
     "stats": {
-      "totalArticles": 60,
-      "aiArticles": 43,
-      "fraudArticles": 10,
+      "totalArticles": 54,
+      "aiArticles": 38,
+      "fraudArticles": 9,
       "sources": 7,
-      "todayCount": 12
+      "todayCount": 19
     }
   },
   "top": [
     {
-      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-      "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-      "description": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.\nThe post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityW...",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+      "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+      "description": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.\nThe post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Jul 2026 04:51:32 +0000",
+      "pubDate": "Mon, 27 Jul 2026 11:29:03 +0000",
       "category": "fraud",
-      "score": 92,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+      "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+      "description": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.\nThe post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 13:19:30 +0000",
+      "category": "fraud",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -55,25 +77,60 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+      "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+      "description": "The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.\nThe post Nvidia and Tech Giants Launch AI Security Alliance appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 12:25:43 +0000",
+      "category": "ai",
+      "score": 85,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
       "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
       "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
       "description": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 09:00:20 +0000",
+      "pubDate": "Mon, 27 Jul 2026 14:13:55 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "description": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "description": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 25 Jul 2026 10:16:26 -0400",
+      "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+      "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
+      "description": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days.\nThe post New GitHub, PyPI Policies Boost Supply Chain Security a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 14:26:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+      "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+      "description": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems.\nThe post MedusaHVNC Malwar...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
       "category": "fraud",
-      "score": 82.6,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -86,9 +143,7 @@
       "category": "ai",
       "score": 79,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
       "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
@@ -141,18 +196,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "description": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400",
-      "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -189,17 +233,6 @@
       "imageUrl": null
     },
     {
-      "title": "QR Codes Make Their Way Down Wedding Aisles",
-      "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
-      "description": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 25 Jul 2026 13:10:30 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
       "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model,...",
@@ -224,11 +257,22 @@
     {
       "title": "The tech-broification of American science has officially begun",
       "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion...",
+      "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: The Verge; Getty Images\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 bi...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-24T14:43:55.000Z",
       "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "description": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 25 Jul 2026 10:16:26 -0400",
+      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -255,28 +299,6 @@
       "imageUrl": null
     },
     {
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "description": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
       "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
       "description": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.\nThe post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credenti...",
@@ -288,36 +310,36 @@
       "imageUrl": null
     },
     {
-      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-      "description": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.\nThe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Jul 2026 14:20:00 +0000",
-      "category": "fraud",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
-      "description": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone.\nThe post Industry Reactions to OpenAI Models Hacking Hugging Face: Feedb...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Jul 2026 11:19:46 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-      "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-      "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 27 Jul 2026 07:53:30 GMT",
+      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+      "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+      "description": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 14:21:53 +0000",
       "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+      "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
+      "description": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 13:45:01 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "description": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -354,25 +376,14 @@
       "imageUrl": null
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "description": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, an...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Jul 2026 12:48:16 GMT",
-      "category": "ai",
-      "score": 62.5,
+      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
+      "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+      "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 27 Jul 2026 07:53:30 GMT",
+      "category": "general",
+      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -420,36 +431,14 @@
       "imageUrl": null
     },
     {
-      "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-      "description": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
+      "title": "QR Codes Make Their Way Down Wedding Aisles",
+      "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
+      "description": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Jul 2026 14:08:05 +0000",
+      "pubDate": "Sat, 25 Jul 2026 13:10:30 +0000",
       "category": "ai",
       "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "description": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Jul 2026 13:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-      "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
-      "description": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Jul 2026 09:00:24 +0000",
-      "category": "general",
-      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -497,36 +486,14 @@
       "imageUrl": null
     },
     {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "description": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 10:04:29 -0400",
-      "category": "fraud",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "description": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains ho...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 10:01:11 -0400",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
       "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "description": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 07:17:19 -0400",
-      "category": "fraud",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -580,28 +547,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 24 Jul 2026 15:09:55 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-      "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-      "description": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.\nThe post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 25 Jul 2026 08:30:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
-      "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
-      "description": "The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital.\nThe post AegisAI Raises $36 Million for AI-Powered Email Security appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Jul 2026 12:01:18 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -668,17 +613,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 24 Jul 2026 13:50:37 -0400",
-      "category": "general",
-      "score": 40.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "description": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 08:56:53 -0400",
       "category": "general",
       "score": 40.6,
       "imageUrl": null
@@ -686,14 +620,36 @@
   ],
   "all": [
     {
-      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-      "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-      "description": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.\nThe post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityW...",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+      "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+      "description": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.\nThe post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 27 Jul 2026 04:51:32 +0000",
+      "pubDate": "Mon, 27 Jul 2026 11:29:03 +0000",
       "category": "fraud",
-      "score": 92,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+      "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+      "description": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.\nThe post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 13:19:30 +0000",
+      "category": "fraud",
+      "score": 91,
       "imageUrl": null
     },
     {
@@ -719,25 +675,58 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+      "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+      "description": "The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.\nThe post Nvidia and Tech Giants Launch AI Security Alliance appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 12:25:43 +0000",
+      "category": "ai",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
       "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
       "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
       "description": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 09:00:20 +0000",
+      "pubDate": "Mon, 27 Jul 2026 14:13:55 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "description": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "description": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 25 Jul 2026 10:16:26 -0400",
+      "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+      "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
+      "description": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days.\nThe post New GitHub, PyPI Policies Boost Supply Chain Security a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 14:26:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+      "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+      "description": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems.\nThe post MedusaHVNC Malwar...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
       "category": "fraud",
-      "score": 82.6,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -803,18 +792,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "description": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400",
-      "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -851,17 +829,6 @@
       "imageUrl": null
     },
     {
-      "title": "QR Codes Make Their Way Down Wedding Aisles",
-      "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
-      "description": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 25 Jul 2026 13:10:30 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
       "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model,...",
@@ -886,11 +853,22 @@
     {
       "title": "The tech-broification of American science has officially begun",
       "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion...",
+      "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: The Verge; Getty Images\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 bi...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-24T14:43:55.000Z",
       "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "description": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 25 Jul 2026 10:16:26 -0400",
+      "category": "fraud",
       "score": 70.6,
       "imageUrl": null
     },
@@ -917,28 +895,6 @@
       "imageUrl": null
     },
     {
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "description": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
       "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
       "description": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.\nThe post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credenti...",
@@ -950,36 +906,36 @@
       "imageUrl": null
     },
     {
-      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-      "description": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.\nThe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Jul 2026 14:20:00 +0000",
-      "category": "fraud",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
-      "description": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone.\nThe post Industry Reactions to OpenAI Models Hacking Hugging Face: Feedb...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Jul 2026 11:19:46 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-      "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-      "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 27 Jul 2026 07:53:30 GMT",
+      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+      "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+      "description": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 14:21:53 +0000",
       "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+      "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
+      "description": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 13:45:01 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "description": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1016,25 +972,14 @@
       "imageUrl": null
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "description": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, an...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Jul 2026 12:48:16 GMT",
-      "category": "ai",
-      "score": 62.5,
+      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
+      "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+      "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 27 Jul 2026 07:53:30 GMT",
+      "category": "general",
+      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -1082,36 +1027,14 @@
       "imageUrl": null
     },
     {
-      "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-      "description": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
+      "title": "QR Codes Make Their Way Down Wedding Aisles",
+      "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
+      "description": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 24 Jul 2026 14:08:05 +0000",
+      "pubDate": "Sat, 25 Jul 2026 13:10:30 +0000",
       "category": "ai",
       "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "description": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Fri, 24 Jul 2026 13:00:00 GMT",
-      "category": "ai",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-      "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
-      "description": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Jul 2026 09:00:24 +0000",
-      "category": "general",
-      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -1159,36 +1082,14 @@
       "imageUrl": null
     },
     {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "description": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 10:04:29 -0400",
-      "category": "fraud",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "description": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains ho...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 10:01:11 -0400",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
       "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "description": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 07:17:19 -0400",
-      "category": "fraud",
-      "score": 55.6,
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1242,28 +1143,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 24 Jul 2026 15:09:55 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-      "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-      "description": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.\nThe post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Sat, 25 Jul 2026 08:30:00 +0000",
-      "category": "ai",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
-      "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
-      "description": "The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital.\nThe post AegisAI Raises $36 Million for AI-Powered Email Security appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 24 Jul 2026 12:01:18 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -1330,17 +1209,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 24 Jul 2026 13:50:37 -0400",
-      "category": "general",
-      "score": 40.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "description": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 24 Jul 2026 08:56:53 -0400",
       "category": "general",
       "score": 40.6,
       "imageUrl": null
