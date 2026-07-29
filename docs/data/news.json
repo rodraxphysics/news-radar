@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-07-29T10:35:37.315Z",
+    "generated": "2026-07-29T14:03:12.385Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 90,
+    "totalArticles": 93,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 90 articles from 8 trusted sources, including 62 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI says its rogue AI tried to hack other companies\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Police Say Binance Is Making It Harder to Fight Crime\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, SecurityWeek, Ars Technica, Dark Reading and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
-    "generated": "2026-07-29T10:35:37.315Z",
+    "content": "Today's selection covers 93 articles from 8 trusted sources, including 64 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI says its rogue AI tried to hack other companies\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Artists are lawyering up against AI slop, and some are even winning\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, SecurityWeek, Ars Technica and others\n• **Fresh Content**: 48 articles published in the last 24 hours",
+    "generated": "2026-07-29T14:03:12.385Z",
     "stats": {
-      "totalArticles": 90,
-      "aiArticles": 62,
+      "totalArticles": 93,
+      "aiArticles": 64,
       "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 49
+      "todayCount": 48
     }
   },
   "top": [
@@ -35,12 +35,34 @@
     {
       "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
       "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-      "description": "The charges against Pavel Durov reflected an ongoing fight over one of the most popular messaging and media apps in the country.",
+      "description": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 10:17:27 +0000",
+      "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T11:54:29.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T11:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -51,7 +73,7 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 29 Jul 2026 00:59:08 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -64,7 +86,9 @@
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
       "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
@@ -86,9 +110,7 @@
       "category": "ai",
       "score": 94,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
@@ -134,17 +156,6 @@
       "imageUrl": null
     },
     {
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "description": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the faste...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T12:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac...",
@@ -153,17 +164,6 @@
       "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400",
       "category": "ai",
       "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
-      "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
-      "description": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing.\nThe post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model  appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 11:11:48 +0000",
-      "category": "ai",
-      "score": 90,
       "imageUrl": null
     },
     {
@@ -200,14 +200,36 @@
       "imageUrl": null
     },
     {
+      "title": "Is AI facing a big financial reckoning?",
+      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "description": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 13:49:55 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Data centres could pay hundreds of millions in deposits for power demands",
       "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
       "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 09:50:04 GMT",
+      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "description": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the faste...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T12:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -228,17 +250,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-27T16:51:50.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-27T12:06:22.000Z",
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
@@ -266,6 +277,17 @@
       "imageUrl": null
     },
     {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T12:00:00.000Z",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
       "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
       "description": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
@@ -273,29 +295,7 @@
       "domain": "bbc.com",
       "pubDate": "Tue, 28 Jul 2026 23:00:15 GMT",
       "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "What Is Open-Weights A.I.?",
-      "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
-      "description": "As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 22:38:23 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Police Say Binance Is Making It Harder to Fight Crime",
-      "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
-      "description": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 01:50:24 +0000",
-      "category": "both",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -310,12 +310,12 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "description": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
+      "title": "What Is Open-Weights A.I.?",
+      "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+      "description": "As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 12:35:43 +0000",
+      "pubDate": "Tue, 28 Jul 2026 22:38:23 +0000",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -343,6 +343,72 @@
       "imageUrl": null
     },
     {
+      "title": "Police Say Binance Is Making It Harder to Fight Crime",
+      "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+      "description": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 01:50:24 +0000",
+      "category": "both",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
+      "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
+      "description": "The agency said imports of advanced robots pose cybersecurity and other national security risks.\nThe post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 13:31:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Mate Security Raises $35 Million for Agentic SOC",
+      "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
+      "description": "The startup will use the investment to expand its customer support, sales, and R&D teams.\nThe post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 12:47:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "ThreatLocker Raises $190 Million in Series F Funding",
+      "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
+      "description": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation.\nThe post ThreatLocker Raises $190 Million in Series F Funding appeared first on Secu...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 12:17:14 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
+      "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
+      "description": "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period.\nThe post US, Australia Release OT Isolation Guidance for...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 10:58:44 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Spur Raises $200 Million for IP Intelligence Platform",
       "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
       "description": "The IP intelligence company will use the fresh investment to accelerate and scale its operations.\nThe post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek.",
@@ -361,29 +427,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 06:23:34 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "description": "The deal is Cyera's third acquisition this year.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
-      "category": "ai",
       "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 12:30:00 GMT",
-      "category": "ai",
-      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -398,25 +442,14 @@
       "imageUrl": null
     },
     {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T12:30:00.000Z",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "description": "The deal is Cyera's third acquisition this year.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "description": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity harde...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 10:00:10 -0400",
-      "category": "both",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -426,50 +459,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
-      "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
-      "description": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform.\nThe post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 14:55:30 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "OT Security Startup Frenos Raises $1.52 Million",
-      "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
-      "description": "The company will use the fresh investment to grow its customer success and AI R&D teams.\nThe post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 13:05:25 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -519,6 +508,17 @@
       "imageUrl": null
     },
     {
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "description": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 28 Jul 2026 12:35:43 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft Unveils A.I. Cybersecurity Tools",
       "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
       "description": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
@@ -541,12 +541,45 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+      "description": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.\nThe post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 11:42:38 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 28 Jul 2026 12:30:00 GMT",
       "category": "ai",
       "score": 68.5,
       "imageUrl": null
@@ -571,6 +604,28 @@
       "pubDate": "Mon, 27 Jul 2026 20:33:29 GMT",
       "category": "both",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T12:30:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "description": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity harde...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 28 Jul 2026 10:00:10 -0400",
+      "category": "both",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -618,25 +673,25 @@
       "imageUrl": null
     },
     {
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "description": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attac...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Jul 2026 11:12:27 -0400",
-      "category": "both",
-      "score": 67.6,
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "description": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -706,36 +761,25 @@
       "imageUrl": null
     },
     {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "description": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "description": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400",
+      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400",
       "category": "general",
-      "score": 66.6,
+      "score": 64.6,
       "imageUrl": null
     },
     {
-      "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
-      "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
-      "description": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Jul 2026 11:04:36 +0000",
-      "category": "ai",
-      "score": 65.5,
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "description": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -794,17 +838,6 @@
       "imageUrl": null
     },
     {
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
       "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
       "description": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
@@ -816,9 +849,20 @@
       "imageUrl": null
     },
     {
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
+      "category": "general",
+      "score": 62,
+      "imageUrl": null
+    },
+    {
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-      "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+      "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust...",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 28 Jul 2026 21:33:23 GMT",
@@ -893,34 +937,23 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
-      "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
-      "description": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems.\nThe post Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 14:19:31 +0000",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "description": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400",
       "category": "general",
-      "score": 60,
+      "score": 58.6,
       "imageUrl": null
     },
     {
-      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
-      "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
-      "description": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.\nThe post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
@@ -1029,12 +1062,34 @@
     {
       "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
       "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-      "description": "The charges against Pavel Durov reflected an ongoing fight over one of the most popular messaging and media apps in the country.",
+      "description": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 10:17:27 +0000",
+      "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T11:54:29.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T11:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -1045,7 +1100,7 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 29 Jul 2026 00:59:08 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -1126,17 +1181,6 @@
       "imageUrl": null
     },
     {
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "description": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the faste...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T12:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac...",
@@ -1145,17 +1189,6 @@
       "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400",
       "category": "ai",
       "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
-      "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
-      "description": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing.\nThe post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model  appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 11:11:48 +0000",
-      "category": "ai",
-      "score": 90,
       "imageUrl": null
     },
     {
@@ -1192,14 +1225,36 @@
       "imageUrl": null
     },
     {
+      "title": "Is AI facing a big financial reckoning?",
+      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "description": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 13:49:55 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Data centres could pay hundreds of millions in deposits for power demands",
       "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
       "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 09:50:04 GMT",
+      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "description": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the faste...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T12:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1220,17 +1275,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-27T16:51:50.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-27T12:06:22.000Z",
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
@@ -1258,6 +1302,17 @@
       "imageUrl": null
     },
     {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T12:00:00.000Z",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
       "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
       "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
       "description": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
@@ -1265,29 +1320,7 @@
       "domain": "bbc.com",
       "pubDate": "Tue, 28 Jul 2026 23:00:15 GMT",
       "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "What Is Open-Weights A.I.?",
-      "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
-      "description": "As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 22:38:23 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Police Say Binance Is Making It Harder to Fight Crime",
-      "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
-      "description": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 01:50:24 +0000",
-      "category": "both",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1302,12 +1335,12 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "description": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
+      "title": "What Is Open-Weights A.I.?",
+      "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+      "description": "As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 12:35:43 +0000",
+      "pubDate": "Tue, 28 Jul 2026 22:38:23 +0000",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -1335,6 +1368,72 @@
       "imageUrl": null
     },
     {
+      "title": "Police Say Binance Is Making It Harder to Fight Crime",
+      "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+      "description": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 01:50:24 +0000",
+      "category": "both",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
+      "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
+      "description": "The agency said imports of advanced robots pose cybersecurity and other national security risks.\nThe post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 13:31:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Mate Security Raises $35 Million for Agentic SOC",
+      "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
+      "description": "The startup will use the investment to expand its customer support, sales, and R&D teams.\nThe post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 12:47:13 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "ThreatLocker Raises $190 Million in Series F Funding",
+      "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
+      "description": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation.\nThe post ThreatLocker Raises $190 Million in Series F Funding appeared first on Secu...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 12:17:14 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
+      "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
+      "description": "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period.\nThe post US, Australia Release OT Isolation Guidance for...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 10:58:44 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Spur Raises $200 Million for IP Intelligence Platform",
       "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
       "description": "The IP intelligence company will use the fresh investment to accelerate and scale its operations.\nThe post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek.",
@@ -1353,29 +1452,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 06:23:34 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "description": "The deal is Cyera's third acquisition this year.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
-      "category": "ai",
       "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 12:30:00 GMT",
-      "category": "ai",
-      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1390,25 +1467,14 @@
       "imageUrl": null
     },
     {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T12:30:00.000Z",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "description": "The deal is Cyera's third acquisition this year.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "description": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity harde...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 10:00:10 -0400",
-      "category": "both",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1418,50 +1484,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
-      "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
-      "description": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform.\nThe post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 14:55:30 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "OT Security Startup Frenos Raises $1.52 Million",
-      "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
-      "description": "The company will use the fresh investment to grow its customer success and AI R&D teams.\nThe post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 13:05:25 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1511,6 +1533,17 @@
       "imageUrl": null
     },
     {
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "description": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 28 Jul 2026 12:35:43 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft Unveils A.I. Cybersecurity Tools",
       "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
       "description": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
@@ -1533,12 +1566,45 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "category": "ai",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+      "description": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.\nThe post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 11:42:38 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
       "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 28 Jul 2026 12:30:00 GMT",
       "category": "ai",
       "score": 68.5,
       "imageUrl": null
@@ -1563,6 +1629,28 @@
       "pubDate": "Mon, 27 Jul 2026 20:33:29 GMT",
       "category": "both",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T12:30:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "description": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity harde...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 28 Jul 2026 10:00:10 -0400",
+      "category": "both",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1610,25 +1698,25 @@
       "imageUrl": null
     },
     {
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "description": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attac...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Jul 2026 11:12:27 -0400",
-      "category": "both",
-      "score": 67.6,
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "description": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1698,36 +1786,25 @@
       "imageUrl": null
     },
     {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "description": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "description": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400",
+      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400",
       "category": "general",
-      "score": 66.6,
+      "score": 64.6,
       "imageUrl": null
     },
     {
-      "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
-      "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
-      "description": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 26 Jul 2026 11:04:36 +0000",
-      "category": "ai",
-      "score": 65.5,
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "description": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1786,17 +1863,6 @@
       "imageUrl": null
     },
     {
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
       "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
       "description": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
@@ -1808,9 +1874,20 @@
       "imageUrl": null
     },
     {
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
+      "category": "general",
+      "score": 62,
+      "imageUrl": null
+    },
+    {
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-      "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+      "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust...",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 28 Jul 2026 21:33:23 GMT",
@@ -1885,34 +1962,23 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
-      "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
-      "description": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems.\nThe post Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 14:19:31 +0000",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "description": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400",
       "category": "general",
-      "score": 60,
+      "score": 58.6,
       "imageUrl": null
     },
     {
-      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
-      "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
-      "description": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.\nThe post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
       "category": "ai",
       "score": 55,
       "imageUrl": null
