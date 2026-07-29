@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-07-29T17:11:54.896Z",
+    "generated": "2026-07-29T20:52:23.589Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 95,
+    "totalArticles": 101,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 95 articles from 8 trusted sources, including 64 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Artists are lawyering up against AI slop, and some are even winning\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, BBC Technology, The Verge, BleepingComputer, SecurityWeek and others\n• **Fresh Content**: 50 articles published in the last 24 hours",
-    "generated": "2026-07-29T17:11:54.896Z",
+    "content": "Today's selection covers 101 articles from 8 trusted sources, including 72 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: When AppSec Scanners Become a Supply Chain Attack Vector\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, The Verge, BleepingComputer, BBC Technology and others\n• **Fresh Content**: 48 articles published in the last 24 hours",
+    "generated": "2026-07-29T20:52:23.589Z",
     "stats": {
-      "totalArticles": 95,
-      "aiArticles": 64,
-      "fraudArticles": 11,
+      "totalArticles": 101,
+      "aiArticles": 72,
+      "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 50
+      "todayCount": 48
     }
   },
   "top": [
@@ -29,27 +29,49 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
       "category": "ai",
-      "score": 98.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
-      "category": "ai",
       "score": 96.5,
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c...",
+      "title": "OpenAI Rogue AI Incident Hit More Services Than Initially Thought",
+      "link": "https://www.darkreading.com/application-security/openai-rogue-ai-incident-services-initially-thought",
+      "description": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 19:48:12 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+      "description": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 17:43:38 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "description": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 17:35:23 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-07-29T11:54:29.000Z",
+      "pubDate": "2026-07-29T18:15:02.000Z",
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
@@ -64,6 +86,19 @@
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
     },
     {
       "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
@@ -77,6 +112,28 @@
       "imageUrl": null
     },
     {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 18:45:27 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T11:54:29.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "We’re running out of reasons to ignore AI safety",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
       "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet...",
@@ -86,9 +143,7 @@
       "category": "ai",
       "score": 92.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
       "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
@@ -96,17 +151,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 10:10:09 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-      "description": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.\nThe post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 08:46:30 +0000",
       "category": "ai",
       "score": 92,
       "imageUrl": null
@@ -123,47 +167,14 @@
       "imageUrl": null
     },
     {
-      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
-      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
-      "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 20:27:36 GMT",
+      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+      "description": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.\nThe post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 08:46:30 +0000",
       "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
-      "description": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 20:05:32 GMT",
-      "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T19:46:43.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400",
-      "category": "ai",
-      "score": 90.6,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -200,17 +211,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
-      "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
-      "description": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 20:34:32 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
       "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
       "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing...",
@@ -222,14 +222,69 @@
       "imageUrl": null
     },
     {
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 28 Jul 2026 20:27:36 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "description": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 28 Jul 2026 20:05:32 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "description": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 20:34:03 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+      "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+      "description": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 20:51:27 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31.6%",
+      "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+      "description": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 20:34:10 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -255,6 +310,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
@@ -266,58 +332,36 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-      "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "description": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 09:01:35 +0000",
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-      "description": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+      "description": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Wed, 29 Jul 2026 14:40:33 GMT",
+      "pubDate": "Wed, 29 Jul 2026 19:46:20 GMT",
       "category": "ai",
       "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-29T12:00:00.000Z",
+      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+      "description": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 17:06:52 GMT",
       "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "description": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege ar...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 29 Jul 2026 10:02:12 -0400",
-      "category": "both",
-      "score": 79.6,
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -327,17 +371,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 28 Jul 2026 23:00:15 GMT",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
-      "description": "What do we need to know about agentic AI?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 28 Jul 2026 20:00:00 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -376,6 +409,50 @@
       "imageUrl": null
     },
     {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+      "description": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 14:40:33 GMT",
+      "category": "ai",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T12:00:00.000Z",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+      "description": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege ar...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 10:02:12 -0400",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
@@ -383,7 +460,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -394,7 +482,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 13:31:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -405,7 +493,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 12:47:13 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -415,17 +503,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 12:17:14 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -453,28 +530,6 @@
       "imageUrl": null
     },
     {
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "description": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform.\nThe post ShinyHunters Claims Ernst & Young Hack appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 06:23:34 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "description": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, t...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T19:33:03.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
       "description": "The deal is Cyera's third acquisition this year.",
@@ -497,14 +552,25 @@
       "imageUrl": null
     },
     {
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "description": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400",
-      "category": "fraud",
-      "score": 72.6,
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "description": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform.\nThe post ShinyHunters Claims Ernst & Young Hack appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 06:23:34 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+      "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
+      "description": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 20:34:32 +0000",
+      "category": "ai",
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -514,6 +580,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 27 Jul 2026 23:00:06 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+      "description": "What do we need to know about agentic AI?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 28 Jul 2026 20:00:00 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -541,17 +618,6 @@
       "imageUrl": null
     },
     {
-      "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-      "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-      "description": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 19:54:45 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why China is giving away its best AI models",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via G...",
@@ -563,18 +629,18 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-27T12:06:22.000Z",
-      "category": "ai",
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "description": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHu...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 13:54:05 -0400",
+      "category": "general",
       "score": 70.6,
       "imageUrl": null
     },
     {
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "description": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated...",
       "source": "BleepingComputer",
@@ -585,13 +651,13 @@
       "imageUrl": null
     },
     {
-      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-      "description": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.\nThe post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 11:42:38 +0000",
-      "category": "general",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "category": "ai",
       "score": 70,
       "imageUrl": null
     },
@@ -629,25 +695,25 @@
       "imageUrl": null
     },
     {
-      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-      "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Jul 2026 20:33:29 GMT",
-      "category": "both",
-      "score": 68.5,
+      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+      "description": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.\nThe post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 11:42:38 +0000",
+      "category": "general",
+      "score": 68,
       "imageUrl": null
     },
     {
-      "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
-      "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
-      "description": "SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 15:00:08 +0000",
-      "category": "general",
-      "score": 68.5,
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "description": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T19:33:03.000Z",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -717,28 +783,6 @@
       "imageUrl": null
     },
     {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
       "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
       "description": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
@@ -750,24 +794,13 @@
       "imageUrl": null
     },
     {
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "description": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "description": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "These near-mint ASUS Chromebook refurbs are only $145",
-      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-      "description": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400",
-      "category": "general",
+      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400",
+      "category": "fraud",
       "score": 64.6,
       "imageUrl": null
     },
@@ -794,47 +827,25 @@
       "imageUrl": null
     },
     {
-      "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
-      "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
-      "description": "Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 20:24:33 +0000",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "description": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400",
       "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
-      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-      "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
-      "description": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 17:20:08 +0000",
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "description": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400",
       "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
-      "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
-      "description": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 18:32:35 +0000",
-      "category": "general",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -871,34 +882,12 @@
       "imageUrl": null
     },
     {
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "description": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Sam Altman is ready to decelerate",
-      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -915,6 +904,17 @@
       "imageUrl": null
     },
     {
+      "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
+      "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+      "description": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 19:54:45 +0000",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
       "description": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
@@ -926,6 +926,39 @@
       "imageUrl": null
     },
     {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Jul 2026 20:33:29 GMT",
+      "category": "both",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
+      "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+      "description": "Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 28 Jul 2026 20:24:33 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+      "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+      "description": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 28 Jul 2026 17:20:08 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
       "link": "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html",
       "description": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
@@ -934,6 +967,28 @@
       "pubDate": "Tue, 28 Jul 2026 15:18:42 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -955,17 +1010,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
       "category": "both",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 15:30:00 +0000",
-      "category": "ai",
       "score": 55,
       "imageUrl": null
     },
@@ -992,36 +1036,36 @@
       "imageUrl": null
     },
     {
-      "title": "Why Resetting Passwords No Longer Stops Attackers",
-      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
-      "description": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Jul 2026 18:39:50 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
-      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
-      "description": "Confidence in autonomous security tools is declining, and here's why.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Jul 2026 17:31:18 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "description": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "description": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Jul 2026 17:08:15 -0400",
+      "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400",
       "category": "general",
       "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -1047,6 +1091,17 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
+      "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
+      "description": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 18:32:35 +0000",
+      "category": "general",
+      "score": 50.5,
+      "imageUrl": null
+    },
+    {
       "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
       "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
       "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
@@ -1058,14 +1113,25 @@
       "imageUrl": null
     },
     {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 15:25:37 +0000",
+      "title": "Why Resetting Passwords No Longer Stops Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+      "description": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Jul 2026 18:39:50 GMT",
       "category": "general",
-      "score": 40,
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "description": "Confidence in autonomous security tools is declining, and here's why.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Jul 2026 17:31:18 GMT",
+      "category": "general",
+      "score": 41.5,
       "imageUrl": null
     }
   ],
@@ -1078,27 +1144,49 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
       "category": "ai",
-      "score": 98.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
-      "category": "ai",
       "score": 96.5,
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c...",
+      "title": "OpenAI Rogue AI Incident Hit More Services Than Initially Thought",
+      "link": "https://www.darkreading.com/application-security/openai-rogue-ai-incident-services-initially-thought",
+      "description": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 19:48:12 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+      "description": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 17:43:38 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "description": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 17:35:23 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-07-29T11:54:29.000Z",
+      "pubDate": "2026-07-29T18:15:02.000Z",
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
@@ -1115,6 +1203,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
       "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
       "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
       "description": "In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”",
@@ -1123,6 +1222,28 @@
       "pubDate": "Wed, 29 Jul 2026 00:59:09 +0000",
       "category": "ai",
       "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 18:45:27 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T11:54:29.000Z",
+      "category": "ai",
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1148,17 +1269,6 @@
       "imageUrl": null
     },
     {
-      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-      "description": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.\nThe post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 08:46:30 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
       "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
@@ -1170,47 +1280,14 @@
       "imageUrl": null
     },
     {
-      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
-      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
-      "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 20:27:36 GMT",
+      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+      "description": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.\nThe post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 08:46:30 +0000",
       "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
-      "description": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 20:05:32 GMT",
-      "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T19:46:43.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400",
-      "category": "ai",
-      "score": 90.6,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1247,17 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
-      "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
-      "description": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 20:34:32 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
       "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
       "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing...",
@@ -1269,14 +1335,69 @@
       "imageUrl": null
     },
     {
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 28 Jul 2026 20:27:36 GMT",
       "category": "ai",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "description": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 28 Jul 2026 20:05:32 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "description": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 20:34:03 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+      "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+      "description": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 20:51:27 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31.6%",
+      "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+      "description": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 20:34:10 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1302,6 +1423,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
@@ -1313,58 +1445,36 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-      "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "description": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 09:01:35 +0000",
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-      "description": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+      "description": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
-      "pubDate": "Wed, 29 Jul 2026 14:40:33 GMT",
+      "pubDate": "Wed, 29 Jul 2026 19:46:20 GMT",
       "category": "ai",
       "score": 80.5,
       "imageUrl": null
     },
     {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-29T12:00:00.000Z",
+      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+      "description": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 17:06:52 GMT",
       "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "description": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege ar...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 29 Jul 2026 10:02:12 -0400",
-      "category": "both",
-      "score": 79.6,
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -1374,17 +1484,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 28 Jul 2026 23:00:15 GMT",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
-      "description": "What do we need to know about agentic AI?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 28 Jul 2026 20:00:00 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -1423,6 +1522,50 @@
       "imageUrl": null
     },
     {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+      "description": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 29 Jul 2026 14:40:33 GMT",
+      "category": "ai",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-29T12:00:00.000Z",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+      "description": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege ar...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 10:02:12 -0400",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
@@ -1430,7 +1573,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1441,7 +1595,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 13:31:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1452,7 +1606,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 12:47:13 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1462,17 +1616,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 29 Jul 2026 12:17:14 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -1500,28 +1643,6 @@
       "imageUrl": null
     },
     {
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "description": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform.\nThe post ShinyHunters Claims Ernst & Young Hack appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 06:23:34 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "description": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, t...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-28T19:33:03.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
       "description": "The deal is Cyera's third acquisition this year.",
@@ -1544,14 +1665,25 @@
       "imageUrl": null
     },
     {
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "description": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400",
-      "category": "fraud",
-      "score": 72.6,
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "description": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform.\nThe post ShinyHunters Claims Ernst & Young Hack appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 06:23:34 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+      "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
+      "description": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 20:34:32 +0000",
+      "category": "ai",
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1561,6 +1693,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 27 Jul 2026 23:00:06 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+      "description": "What do we need to know about agentic AI?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 28 Jul 2026 20:00:00 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1588,17 +1731,6 @@
       "imageUrl": null
     },
     {
-      "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-      "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-      "description": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 19:54:45 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Why China is giving away its best AI models",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via G...",
@@ -1610,18 +1742,18 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-27T12:06:22.000Z",
-      "category": "ai",
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "description": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHu...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 13:54:05 -0400",
+      "category": "general",
       "score": 70.6,
       "imageUrl": null
     },
     {
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "description": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated...",
       "source": "BleepingComputer",
@@ -1632,13 +1764,13 @@
       "imageUrl": null
     },
     {
-      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-      "description": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.\nThe post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 11:42:38 +0000",
-      "category": "general",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "category": "ai",
       "score": 70,
       "imageUrl": null
     },
@@ -1676,25 +1808,25 @@
       "imageUrl": null
     },
     {
-      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-      "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Jul 2026 20:33:29 GMT",
-      "category": "both",
-      "score": 68.5,
+      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+      "description": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.\nThe post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 11:42:38 +0000",
+      "category": "general",
+      "score": 68,
       "imageUrl": null
     },
     {
-      "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
-      "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
-      "description": "SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 15:00:08 +0000",
-      "category": "general",
-      "score": 68.5,
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "description": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-28T19:33:03.000Z",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1764,28 +1896,6 @@
       "imageUrl": null
     },
     {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
       "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
       "description": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
@@ -1797,24 +1907,13 @@
       "imageUrl": null
     },
     {
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "description": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "description": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400",
-      "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "These near-mint ASUS Chromebook refurbs are only $145",
-      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-      "description": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400",
-      "category": "general",
+      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400",
+      "category": "fraud",
       "score": 64.6,
       "imageUrl": null
     },
@@ -1841,47 +1940,25 @@
       "imageUrl": null
     },
     {
-      "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
-      "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
-      "description": "Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 20:24:33 +0000",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "description": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400",
       "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
-      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-      "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
-      "description": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 17:20:08 +0000",
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "description": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400",
       "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
-      "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
-      "description": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 27 Jul 2026 18:32:35 +0000",
-      "category": "general",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1918,34 +1995,12 @@
       "imageUrl": null
     },
     {
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "description": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Sam Altman is ready to decelerate",
-      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.\nThe post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Atta...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 29 Jul 2026 07:53:22 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1962,6 +2017,17 @@
       "imageUrl": null
     },
     {
+      "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
+      "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+      "description": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 19:54:45 +0000",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
       "description": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
@@ -1973,6 +2039,39 @@
       "imageUrl": null
     },
     {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Jul 2026 20:33:29 GMT",
+      "category": "both",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
+      "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+      "description": "Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 28 Jul 2026 20:24:33 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+      "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+      "description": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 28 Jul 2026 17:20:08 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
       "link": "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html",
       "description": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
@@ -1981,6 +2080,28 @@
       "pubDate": "Tue, 28 Jul 2026 15:18:42 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+      "category": "ai",
+      "score": 55,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -2002,17 +2123,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
       "category": "both",
-      "score": 55,
-      "imageUrl": null
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 15:30:00 +0000",
-      "category": "ai",
       "score": 55,
       "imageUrl": null
     },
@@ -2039,36 +2149,36 @@
       "imageUrl": null
     },
     {
-      "title": "Why Resetting Passwords No Longer Stops Attackers",
-      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
-      "description": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Jul 2026 18:39:50 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
-      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
-      "description": "Confidence in autonomous security tools is declining, and here's why.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 27 Jul 2026 17:31:18 GMT",
-      "category": "general",
-      "score": 53.5,
-      "imageUrl": null
-    },
-    {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "description": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "description": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 27 Jul 2026 17:08:15 -0400",
+      "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400",
       "category": "general",
       "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "category": "general",
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -2094,6 +2204,17 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
+      "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
+      "description": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 27 Jul 2026 18:32:35 +0000",
+      "category": "general",
+      "score": 50.5,
+      "imageUrl": null
+    },
+    {
       "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
       "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
       "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
@@ -2105,14 +2226,25 @@
       "imageUrl": null
     },
     {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 27 Jul 2026 15:25:37 +0000",
+      "title": "Why Resetting Passwords No Longer Stops Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+      "description": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Jul 2026 18:39:50 GMT",
       "category": "general",
-      "score": 40,
+      "score": 41.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "description": "Confidence in autonomous security tools is declining, and here's why.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 27 Jul 2026 17:31:18 GMT",
+      "category": "general",
+      "score": 41.5,
       "imageUrl": null
     }
   ]
