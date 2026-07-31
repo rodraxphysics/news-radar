@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-07-31T06:40:59.581Z",
+    "generated": "2026-07-31T13:58:01.389Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 108,
+    "totalArticles": 116,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 108 articles from 9 trusted sources, including 79 on Artificial Intelligence and 14 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Microsoft Teams vishing attacks lead to Chaos ransomware attacks\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, BleepingComputer, BBC Technology, TechCrunch, The Verge and others\n• **Fresh Content**: 59 articles published in the last 24 hours",
-    "generated": "2026-07-31T06:40:59.581Z",
+    "content": "Today's selection covers 116 articles from 9 trusted sources, including 79 on Artificial Intelligence and 16 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Interpol Leverages Global System to Curtail Fraud Payments\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, SecurityWeek, Dark Reading, BleepingComputer and others\n• **Fresh Content**: 67 articles published in the last 24 hours",
+    "generated": "2026-07-31T13:58:01.389Z",
     "stats": {
-      "totalArticles": 108,
+      "totalArticles": 116,
       "aiArticles": 79,
-      "fraudArticles": 14,
+      "fraudArticles": 16,
       "sources": 9,
-      "todayCount": 59
+      "todayCount": 67
     }
   },
   "top": [
@@ -27,9 +27,20 @@
       "description": "The disclosure followed OpenAI’s report last week that its own artificial intelligence had hacked into the network of an online library.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 31 Jul 2026 01:10:12 +0000",
+      "pubDate": "Fri, 31 Jul 2026 07:02:03 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-31T13:41:17.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -39,28 +50,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Thu, 30 Jul 2026 22:27:24 +0000",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "description": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendo...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 30 Jul 2026 20:57:25 -0400",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 30 Jul 2026 07:23:11 GMT",
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
@@ -77,71 +66,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+      "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+      "description": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. \nThe post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organization...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 09:39:57 +0000",
       "category": "ai",
       "score": 94,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-30T22:29:45.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The loss of Situational Awareness",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "description": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious i...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-30T20:46:25.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
-      "category": "ai",
-      "score": 92,
       "imageUrl": null
     },
     {
@@ -154,6 +86,30 @@
       "category": "ai",
       "score": 91.5,
       "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-30T22:29:45.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The loss of Situational Awareness",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "description": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious i...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-30T20:46:25.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
     },
     {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
@@ -162,6 +118,17 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-30T17:18:45.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "description": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendo...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 30 Jul 2026 20:57:25 -0400",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -178,6 +145,50 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
       "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
       "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
@@ -189,23 +200,23 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
-      "category": "ai",
+      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
+      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
+      "description": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 31 Jul 2026 13:30:00 GMT",
+      "category": "fraud",
       "score": 86.5,
       "imageUrl": null
     },
     {
-      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-      "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-      "description": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 30 Jul 2026 07:23:11 GMT",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -244,23 +255,45 @@
       "imageUrl": null
     },
     {
-      "title": "Amazon and Apple just told us more about their AI plans - here are 3 things we learned",
-      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "description": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
+      "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
+      "link": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
+      "description": "“It just seems like the temperature is rising on Silicon Valley.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 11:00:03 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
-      "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
-      "description": "Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.",
+      "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
+      "link": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
+      "description": "The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 31 Jul 2026 02:20:58 +0000",
+      "pubDate": "Fri, 31 Jul 2026 09:05:03 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "We All Do Errands. Noah Blau Films Them.",
+      "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+      "description": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 11:55:26 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+      "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+      "description": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 09:03:59 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -354,47 +387,14 @@
       "imageUrl": null
     },
     {
-      "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
-      "link": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
-      "description": "As fears spread over a possible artificial intelligence bubble, some tech investors say: Bring it on.",
+      "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
+      "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
+      "description": "Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 21:30:12 +0000",
+      "pubDate": "Fri, 31 Jul 2026 02:20:58 +0000",
       "category": "ai",
       "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
-      "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
-      "description": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 19:53:44 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "category": "fraud",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-      "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-      "description": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files.\nThe post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 11:16:23 +0000",
-      "category": "fraud",
-      "score": 81,
       "imageUrl": null
     },
     {
@@ -409,25 +409,58 @@
       "imageUrl": null
     },
     {
-      "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
-      "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
-      "description": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 11:03:50 +0000",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "description": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-      "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-      "description": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.",
+      "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
+      "link": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
+      "description": "As fears spread over a possible artificial intelligence bubble, some tech investors say: Bring it on.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 09:03:08 +0000",
+      "pubDate": "Thu, 30 Jul 2026 21:30:12 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
+      "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
+      "description": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 19:53:44 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+      "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+      "description": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.\nThe post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 10:28:45 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+      "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+      "description": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.\nThe post EU to Crack Down o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 10:00:00 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -442,6 +475,17 @@
       "imageUrl": null
     },
     {
+      "title": "CareCloud Data Breach Impacts Over 350,000",
+      "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+      "description": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment.\nThe post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 07:51:43 +0000",
+      "category": "fraud",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "AI Harnesses Burst With Potential Exploit Opps",
       "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
       "description": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
@@ -449,7 +493,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 30 Jul 2026 19:40:40 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -460,7 +504,18 @@
       "domain": "theverge.com",
       "pubDate": "2026-07-30T18:43:26.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-30T16:33:32.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -471,7 +526,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 30 Jul 2026 18:28:30 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -481,50 +536,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 30 Jul 2026 18:01:31 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-30T16:33:32.000Z",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -560,6 +571,39 @@
       "pubDate": "Thu, 30 Jul 2026 11:12:25 -0400",
       "category": "both",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -618,50 +662,6 @@
       "imageUrl": null
     },
     {
-      "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-      "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-      "description": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane.\nThe post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Discern Security Raises $13 Million in Series A Funding",
-      "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-      "description": "The company will invest in accelerating the development and adoption of its agentic platform.\nThe post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-      "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
-      "description": "The Series B funding round brings the total raised by Onyx Security to $153 million. \nThe post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 12:29:03 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
-      "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
-      "description": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains.\nThe post ‘DangleGeddon’: AI Could Weaponize For...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 12:15:24 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
       "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
       "description": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
@@ -684,23 +684,23 @@
       "imageUrl": null
     },
     {
-      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-      "description": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Fri, 31 Jul 2026 00:42:48 GMT",
-      "category": "general",
+      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
+      "category": "ai",
       "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 28 Jul 2026 07:10:37 GMT",
+      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "description": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -714,6 +714,28 @@
       "pubDate": "Tue, 28 Jul 2026 17:00:06 +0000",
       "category": "ai",
       "score": 74.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+      "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+      "description": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.\nThe post Critical Code Execution Vulnerability Patched in TeamCity  appeared firs...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 06:50:30 +0000",
+      "category": "fraud",
+      "score": 74,
+      "imageUrl": null
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "category": "fraud",
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -761,12 +783,23 @@
       "imageUrl": null
     },
     {
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
+      "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+      "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+      "description": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 11:03:50 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+      "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+      "description": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 09:03:08 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -791,6 +824,28 @@
       "pubDate": "Wed, 29 Jul 2026 23:17:34 +0000",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How police are trying to divert teen hackers away from crime",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "description": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 31 Jul 2026 00:42:48 GMT",
+      "category": "general",
+      "score": 70.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+      "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+      "description": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.\nThe post Critical Flaw Led to Azure Cosmos DB Pwnage appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 09:04:02 +0000",
+      "category": "general",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -827,14 +882,47 @@
       "imageUrl": null
     },
     {
-      "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
-      "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-      "description": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.\nThe post Bank of America to Acquire Cybersecurity Firm MDSec appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 21:02:21 +0000",
+      "title": "What You Need to Know About Installing Plug-In Solar Panels",
+      "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html",
+      "description": "You can now buy panels that plug into electrical outlets, but there are some important safety issues to consider when picking and installing a system.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 09:02:28 +0000",
       "category": "general",
-      "score": 68,
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+      "link": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+      "description": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 11:17:26 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
+      "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "description": "Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 09:00:48 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
+      "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
+      "description": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 13:03:42 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -856,17 +944,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-07-29T21:48:07.000Z",
       "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-29T12:00:00.000Z",
-      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -915,25 +992,14 @@
       "imageUrl": null
     },
     {
-      "title": "India wants to join the strawberry superpowers",
-      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 30 Jul 2026 22:04:09 GMT",
+      "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
+      "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
+      "description": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.\nThe post Bank of America to Acquire Cybersecurity Firm MDSec appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 30 Jul 2026 21:02:21 +0000",
       "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
-      "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
-      "description": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 20:51:03 +0000",
-      "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -948,12 +1014,56 @@
       "imageUrl": null
     },
     {
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "description": "The Delete Request and Opt-out Platform (DROP) launches Aug. 1 and hundreds of thousands of California residents already registered. Other states could follow if the process goes smoothly.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 31 Jul 2026 13:19:36 GMT",
+      "category": "general",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
+      "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
+      "description": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 31 Jul 2026 13:00:00 GMT",
+      "category": "general",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "India wants to join the strawberry superpowers",
+      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 30 Jul 2026 22:04:09 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
       "link": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
       "description": "The outage meant Xbox users had trouble signing into their accounts, seeing their game library and launching games",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 30 Jul 2026 14:53:20 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
+      "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
+      "description": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 20:51:03 +0000",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -977,29 +1087,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 30 Jul 2026 21:16:13 GMT",
       "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
-      "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
-      "description": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.\nThe post CISA Urges Water Sector to Protect OT After Coo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 22:18:36 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-      "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-      "description": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.\nThe post...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 19:10:26 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1025,12 +1113,23 @@
       "imageUrl": null
     },
     {
-      "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-      "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-      "description": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities.\nThe post Cantina Emerges From Stealth With $8 Million in Funding appear...",
+      "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
+      "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
+      "description": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.\nThe post CISA Urges Water Sector to Protect OT After Coo...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "pubDate": "Thu, 30 Jul 2026 22:18:36 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
+      "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
+      "description": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.\nThe post...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 30 Jul 2026 19:10:26 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1043,6 +1142,17 @@
       "domain": "arstechnica.com",
       "pubDate": "Wed, 29 Jul 2026 22:07:06 +0000",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -1091,17 +1201,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "description": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 12:35:43 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
       "link": "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html",
       "description": "CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.",
@@ -1132,17 +1231,6 @@
       "pubDate": "Wed, 29 Jul 2026 13:54:05 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 12:30:00 GMT",
-      "category": "ai",
-      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -1219,9 +1307,20 @@
       "description": "The disclosure followed OpenAI’s report last week that its own artificial intelligence had hacked into the network of an online library.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 31 Jul 2026 01:10:12 +0000",
+      "pubDate": "Fri, 31 Jul 2026 07:02:03 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-31T13:41:17.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -1231,28 +1330,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Thu, 30 Jul 2026 22:27:24 +0000",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "description": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendo...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 30 Jul 2026 20:57:25 -0400",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 30 Jul 2026 07:23:11 GMT",
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
@@ -1269,69 +1346,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+      "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+      "description": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. \nThe post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organization...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 09:39:57 +0000",
       "category": "ai",
       "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-30T22:29:45.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The loss of Situational Awareness",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "description": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious i...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-30T20:46:25.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
-      "category": "ai",
-      "score": 92,
       "imageUrl": null
     },
     {
@@ -1346,12 +1368,45 @@
       "imageUrl": null
     },
     {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-30T22:29:45.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The loss of Situational Awareness",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "description": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious i...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-30T20:46:25.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
       "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
       "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-07-30T17:18:45.000Z",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "description": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendo...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 30 Jul 2026 20:57:25 -0400",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -1368,6 +1423,50 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
       "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
       "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
@@ -1379,23 +1478,23 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
-      "category": "ai",
+      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
+      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
+      "description": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 31 Jul 2026 13:30:00 GMT",
+      "category": "fraud",
       "score": 86.5,
       "imageUrl": null
     },
     {
-      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-      "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-      "description": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 30 Jul 2026 07:23:11 GMT",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -1434,23 +1533,45 @@
       "imageUrl": null
     },
     {
-      "title": "Amazon and Apple just told us more about their AI plans - here are 3 things we learned",
-      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "description": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
+      "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
+      "link": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
+      "description": "“It just seems like the temperature is rising on Silicon Valley.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 11:00:03 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
-      "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
-      "description": "Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.",
+      "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
+      "link": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
+      "description": "The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 31 Jul 2026 02:20:58 +0000",
+      "pubDate": "Fri, 31 Jul 2026 09:05:03 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "We All Do Errands. Noah Blau Films Them.",
+      "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+      "description": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 11:55:26 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+      "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+      "description": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 09:03:59 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -1544,47 +1665,14 @@
       "imageUrl": null
     },
     {
-      "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
-      "link": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
-      "description": "As fears spread over a possible artificial intelligence bubble, some tech investors say: Bring it on.",
+      "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
+      "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
+      "description": "Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 21:30:12 +0000",
+      "pubDate": "Fri, 31 Jul 2026 02:20:58 +0000",
       "category": "ai",
       "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
-      "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
-      "description": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 19:53:44 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "category": "fraud",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-      "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-      "description": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files.\nThe post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 11:16:23 +0000",
-      "category": "fraud",
-      "score": 81,
       "imageUrl": null
     },
     {
@@ -1599,25 +1687,58 @@
       "imageUrl": null
     },
     {
-      "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
-      "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
-      "description": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 11:03:50 +0000",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "description": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-      "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-      "description": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.",
+      "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
+      "link": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
+      "description": "As fears spread over a possible artificial intelligence bubble, some tech investors say: Bring it on.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 09:03:08 +0000",
+      "pubDate": "Thu, 30 Jul 2026 21:30:12 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
+      "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
+      "description": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 19:53:44 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+      "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+      "description": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.\nThe post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 10:28:45 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+      "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+      "description": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.\nThe post EU to Crack Down o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 10:00:00 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1632,6 +1753,17 @@
       "imageUrl": null
     },
     {
+      "title": "CareCloud Data Breach Impacts Over 350,000",
+      "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+      "description": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment.\nThe post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 07:51:43 +0000",
+      "category": "fraud",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "AI Harnesses Burst With Potential Exploit Opps",
       "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
       "description": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
@@ -1639,7 +1771,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 30 Jul 2026 19:40:40 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1650,7 +1782,18 @@
       "domain": "theverge.com",
       "pubDate": "2026-07-30T18:43:26.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-07-30T16:33:32.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1661,7 +1804,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 30 Jul 2026 18:28:30 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1671,50 +1814,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 30 Jul 2026 18:01:31 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-30T16:33:32.000Z",
       "category": "ai",
       "score": 75.6,
       "imageUrl": null
@@ -1750,6 +1849,39 @@
       "pubDate": "Thu, 30 Jul 2026 11:12:25 -0400",
       "category": "both",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1808,50 +1940,6 @@
       "imageUrl": null
     },
     {
-      "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-      "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-      "description": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane.\nThe post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Discern Security Raises $13 Million in Series A Funding",
-      "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-      "description": "The company will invest in accelerating the development and adoption of its agentic platform.\nThe post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-      "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
-      "description": "The Series B funding round brings the total raised by Onyx Security to $153 million. \nThe post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 12:29:03 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
-      "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
-      "description": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains.\nThe post ‘DangleGeddon’: AI Could Weaponize For...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 12:15:24 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
       "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
       "description": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
@@ -1874,23 +1962,23 @@
       "imageUrl": null
     },
     {
-      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-      "description": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Fri, 31 Jul 2026 00:42:48 GMT",
-      "category": "general",
+      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
+      "category": "ai",
       "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 28 Jul 2026 07:10:37 GMT",
+      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "description": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 29 Jul 2026 13:46:29 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -1904,6 +1992,28 @@
       "pubDate": "Tue, 28 Jul 2026 17:00:06 +0000",
       "category": "ai",
       "score": 74.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+      "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+      "description": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.\nThe post Critical Code Execution Vulnerability Patched in TeamCity  appeared firs...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 06:50:30 +0000",
+      "category": "fraud",
+      "score": 74,
+      "imageUrl": null
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "category": "fraud",
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -1951,12 +2061,23 @@
       "imageUrl": null
     },
     {
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
+      "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+      "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+      "description": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 11:03:50 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+      "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+      "description": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 09:03:08 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1981,6 +2102,28 @@
       "pubDate": "Wed, 29 Jul 2026 23:17:34 +0000",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How police are trying to divert teen hackers away from crime",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "description": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 31 Jul 2026 00:42:48 GMT",
+      "category": "general",
+      "score": 70.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+      "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+      "description": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.\nThe post Critical Flaw Led to Azure Cosmos DB Pwnage appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 31 Jul 2026 09:04:02 +0000",
+      "category": "general",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -2017,14 +2160,47 @@
       "imageUrl": null
     },
     {
-      "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
-      "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-      "description": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.\nThe post Bank of America to Acquire Cybersecurity Firm MDSec appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 21:02:21 +0000",
+      "title": "What You Need to Know About Installing Plug-In Solar Panels",
+      "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html",
+      "description": "You can now buy panels that plug into electrical outlets, but there are some important safety issues to consider when picking and installing a system.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 09:02:28 +0000",
       "category": "general",
-      "score": 68,
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+      "link": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+      "description": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 11:17:26 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
+      "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "description": "Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 09:00:48 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
+      "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
+      "description": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 31 Jul 2026 13:03:42 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -2046,17 +2222,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-07-29T21:48:07.000Z",
       "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, lik...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-07-29T12:00:00.000Z",
-      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -2105,25 +2270,14 @@
       "imageUrl": null
     },
     {
-      "title": "India wants to join the strawberry superpowers",
-      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 30 Jul 2026 22:04:09 GMT",
+      "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
+      "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
+      "description": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.\nThe post Bank of America to Acquire Cybersecurity Firm MDSec appeared first...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 30 Jul 2026 21:02:21 +0000",
       "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
-      "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
-      "description": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 30 Jul 2026 20:51:03 +0000",
-      "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -2138,12 +2292,56 @@
       "imageUrl": null
     },
     {
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "description": "The Delete Request and Opt-out Platform (DROP) launches Aug. 1 and hundreds of thousands of California residents already registered. Other states could follow if the process goes smoothly.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 31 Jul 2026 13:19:36 GMT",
+      "category": "general",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
+      "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
+      "description": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 31 Jul 2026 13:00:00 GMT",
+      "category": "general",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "India wants to join the strawberry superpowers",
+      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 30 Jul 2026 22:04:09 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
       "link": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
       "description": "The outage meant Xbox users had trouble signing into their accounts, seeing their game library and launching games",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 30 Jul 2026 14:53:20 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
+      "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
+      "description": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 30 Jul 2026 20:51:03 +0000",
       "category": "general",
       "score": 64.5,
       "imageUrl": null
@@ -2167,29 +2365,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 30 Jul 2026 21:16:13 GMT",
       "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
-      "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
-      "description": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.\nThe post CISA Urges Water Sector to Protect OT After Coo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 22:18:36 +0000",
-      "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-      "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-      "description": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.\nThe post...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 19:10:26 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -2215,12 +2391,23 @@
       "imageUrl": null
     },
     {
-      "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-      "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-      "description": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities.\nThe post Cantina Emerges From Stealth With $8 Million in Funding appear...",
+      "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
+      "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
+      "description": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.\nThe post CISA Urges Water Sector to Protect OT After Coo...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "pubDate": "Thu, 30 Jul 2026 22:18:36 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
+      "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
+      "description": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.\nThe post...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 30 Jul 2026 19:10:26 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -2233,6 +2420,17 @@
       "domain": "arstechnica.com",
       "pubDate": "Wed, 29 Jul 2026 22:07:06 +0000",
       "category": "general",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 29 Jul 2026 11:35:35 GMT",
+      "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
@@ -2281,17 +2479,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "description": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 28 Jul 2026 12:35:43 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
       "link": "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html",
       "description": "CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.",
@@ -2322,17 +2509,6 @@
       "pubDate": "Wed, 29 Jul 2026 13:54:05 -0400",
       "category": "general",
       "score": 58.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 28 Jul 2026 12:30:00 GMT",
-      "category": "ai",
-      "score": 56.5,
       "imageUrl": null
     },
     {
