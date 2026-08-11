@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-08-11T16:54:58.116Z",
+    "generated": "2026-08-11T20:39:06.991Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 73,
+    "totalArticles": 79,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 73 articles from 8 trusted sources, including 46 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, TechCrunch, SecurityWeek, BleepingComputer and others\n• **Fresh Content**: 51 articles published in the last 24 hours",
-    "generated": "2026-08-11T16:54:58.116Z",
+    "content": "Today's selection covers 79 articles from 8 trusted sources, including 51 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Brad Lightcap, a Top OpenAI Executive, Steps Down\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts\n• **Threat Landscape**: Today's coverage highlights ransomware, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, TechCrunch, SecurityWeek, BleepingComputer and others\n• **Fresh Content**: 59 articles published in the last 24 hours",
+    "generated": "2026-08-11T20:39:06.991Z",
     "stats": {
-      "totalArticles": 73,
-      "aiArticles": 46,
-      "fraudArticles": 15,
+      "totalArticles": 79,
+      "aiArticles": 51,
+      "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 51
+      "todayCount": 59
     }
   },
   "top": [
+    {
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+      "link": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+      "description": "In OpenAI’s latest exit, Brad Lightcap, a longtime leader at the artificial intelligence company, said he was leaving to start a new venture.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 18:52:32 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
     {
       "title": "His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company",
       "link": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html",
@@ -29,7 +40,29 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 11 Aug 2026 13:50:25 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "description": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T19:41:42.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "description": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told col...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T17:50:01.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -44,6 +77,41 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "Google’s Gemini app surges to one billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "Claude will apply invisible watermarks to AI text and images",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
       "description": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded...",
@@ -51,7 +119,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-11T12:22:20.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -62,7 +130,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-11T11:00:00.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -73,7 +141,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -85,30 +153,6 @@
       "pubDate": "Tue, 11 Aug 2026 09:45:05 +0000",
       "category": "ai",
       "score": 92,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "description": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400",
-      "category": "fraud",
-      "score": 91.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "description": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 15:24:40 -0400",
-      "category": "ai",
-      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -134,14 +178,14 @@
       "imageUrl": null
     },
     {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
-      "category": "ai",
-      "score": 90,
+      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+      "description": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400",
+      "category": "fraud",
+      "score": 89.6,
       "imageUrl": null
     },
     {
@@ -167,39 +211,6 @@
       "imageUrl": null
     },
     {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
-      "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-      "description": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 11 Aug 2026 13:23:37 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
       "description": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
@@ -211,69 +222,58 @@
       "imageUrl": null
     },
     {
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-10T15:19:05.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "What happens to Bose when headphones become AI?",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose.\nYou certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-10T14:00:00.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-      "description": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypas...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 10:01:11 -0400",
-      "category": "fraud",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-      "description": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 10 Aug 2026 17:09:20 GMT",
-      "category": "fraud",
-      "score": 82.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "description": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 10 Aug 2026 15:24:40 -0400",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
     },
     {
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "description": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 13:42:00 -0400",
-      "category": "fraud",
-      "score": 81.6,
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+      "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+      "description": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 13:23:37 +0000",
+      "category": "ai",
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -288,23 +288,12 @@
       "imageUrl": null
     },
     {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "description": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T13:27:20.000Z",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T13:00:00.000Z",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "description": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 14:34:23 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -321,25 +310,14 @@
       "imageUrl": null
     },
     {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "description": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and c...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 09:15:24 -0400",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -349,6 +327,17 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+      "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "description": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.\nThe post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 18:46:07 +0000",
       "category": "ai",
       "score": 79,
       "imageUrl": null
@@ -376,36 +365,36 @@
       "imageUrl": null
     },
     {
-      "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
-      "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
-      "description": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.\nThe post US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 14:03:32 +0000",
-      "category": "ai",
-      "score": 79,
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "description": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T13:27:20.000Z",
+      "category": "both",
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
-      "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
-      "description": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.\nThe post Corma Raises $60 Million for Defensive Cybersecurity AI Model appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 12:01:46 +0000",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T13:00:00.000Z",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
-      "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-      "description": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.\nThe post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Acti...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 11:15:15 +0000",
-      "category": "ai",
-      "score": 79,
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "description": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and c...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 09:15:24 -0400",
+      "category": "both",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -420,6 +409,39 @@
       "imageUrl": null
     },
     {
+      "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
+      "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
+      "description": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.\nThe post US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 14:03:32 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
+      "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
+      "description": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.\nThe post Corma Raises $60 Million for Defensive Cybersecurity AI Model appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 12:01:46 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+      "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
+      "description": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.\nThe post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Acti...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 11:15:15 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
       "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
       "description": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.\nThe post Hacker Conversations: Marcus Hutchins and the J...",
@@ -431,12 +453,12 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "description": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 07:03:01 -0400",
+      "pubDate": "Tue, 11 Aug 2026 15:45:31 -0400",
       "category": "fraud",
       "score": 76.6,
       "imageUrl": null
@@ -459,17 +481,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Mon, 10 Aug 2026 21:34:38 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
-      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-      "description": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 10 Aug 2026 17:56:34 GMT",
       "category": "ai",
       "score": 76.5,
       "imageUrl": null
@@ -519,25 +530,25 @@
       "imageUrl": null
     },
     {
-      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-      "description": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 10:34:32 -0400",
+      "pubDate": "Tue, 11 Aug 2026 07:03:01 -0400",
       "category": "fraud",
-      "score": 73.6,
+      "score": 74.6,
       "imageUrl": null
     },
     {
-      "title": "Member of The Com sent to prison for blackmail, sextortion",
-      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-      "description": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 08:56:28 -0400",
+      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+      "description": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 10 Aug 2026 17:09:20 GMT",
       "category": "fraud",
-      "score": 73.6,
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -552,6 +563,39 @@
       "imageUrl": null
     },
     {
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "description": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400",
+      "category": "general",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "The AI safety test is becoming a safety risk",
       "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with...",
@@ -563,14 +607,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "description": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
+      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
+      "description": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 10 Aug 2026 17:56:34 GMT",
       "category": "ai",
-      "score": 70,
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -585,25 +629,36 @@
       "imageUrl": null
     },
     {
-      "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
-      "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-      "description": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 11 Aug 2026 13:12:48 +0000",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
+      "description": "For years, schools have posted photos of their pupils online. But could they be misused?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 11 Aug 2026 19:30:00 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow tha...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-10T11:00:00.000Z",
-      "category": "ai",
-      "score": 67.6,
+      "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
+      "link": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+      "description": "The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 19:59:44 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
+      "link": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
+      "description": "The Instagram account advertises itself as resurfacing lost dating service videotapes from the 1980s. Social media users have been genuinely touched.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 18:29:41 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -640,14 +695,47 @@
       "imageUrl": null
     },
     {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "description": "The AI-focused hedge fund is still making some big bets.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "category": "ai",
-      "score": 67,
+      "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
+      "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+      "description": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 13:12:48 +0000",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "description": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs point...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T17:00:00.000Z",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "description": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 14:26:03 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "description": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 13:38:42 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -658,7 +746,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Tue, 11 Aug 2026 11:30:08 +0000",
       "category": "general",
-      "score": 65.5,
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -669,7 +757,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 11 Aug 2026 09:20:28 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -680,29 +768,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400",
       "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
-      "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
-      "description": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 20:37:37 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
-      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-      "description": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 18:00:55 +0000",
-      "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -712,17 +778,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Tue, 11 Aug 2026 14:14:32 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
-      "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
-      "description": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.\nThe post Mozilla Issues New Firefox GPG Key Following Exposure appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 06:16:01 +0000",
       "category": "general",
       "score": 62,
       "imageUrl": null
@@ -739,14 +794,25 @@
       "imageUrl": null
     },
     {
-      "title": "LexisNexis shuts down services after suspicious activity on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-      "description": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 08:11:52 -0400",
+      "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+      "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "description": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 20:37:37 +0000",
       "category": "general",
-      "score": 58.6,
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
+      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "description": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 18:00:55 +0000",
+      "category": "general",
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -772,17 +838,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
-      "link": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
-      "description": "VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 09:00:29 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
       "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
       "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
@@ -791,6 +846,17 @@
       "pubDate": "Mon, 10 Aug 2026 13:38:33 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -829,6 +895,17 @@
   ],
   "all": [
     {
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+      "link": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+      "description": "In OpenAI’s latest exit, Brad Lightcap, a longtime leader at the artificial intelligence company, said he was leaving to start a new venture.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 18:52:32 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
       "title": "His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company",
       "link": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html",
       "description": "A co-founder of xAI is going all in on building open-source artificial intelligence so that “anyone can control and shape A.I. for their own needs.”",
@@ -836,7 +913,29 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 11 Aug 2026 13:50:25 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "description": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T19:41:42.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "description": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told col...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T17:50:01.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -851,6 +950,39 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Gemini app surges to one billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "Claude will apply invisible watermarks to AI text and images",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
       "description": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded...",
@@ -858,7 +990,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-11T12:22:20.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -869,7 +1001,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-11T11:00:00.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -880,7 +1012,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -892,28 +1024,6 @@
       "pubDate": "Tue, 11 Aug 2026 09:45:05 +0000",
       "category": "ai",
       "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "description": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400",
-      "category": "fraud",
-      "score": 91.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "description": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 15:24:40 -0400",
-      "category": "ai",
-      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -939,14 +1049,14 @@
       "imageUrl": null
     },
     {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
-      "category": "ai",
-      "score": 90,
+      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+      "description": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400",
+      "category": "fraud",
+      "score": 89.6,
       "imageUrl": null
     },
     {
@@ -972,39 +1082,6 @@
       "imageUrl": null
     },
     {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
-      "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-      "description": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 11 Aug 2026 13:23:37 +0000",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
       "description": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
@@ -1016,69 +1093,58 @@
       "imageUrl": null
     },
     {
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-10T15:19:05.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "What happens to Bose when headphones become AI?",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose.\nYou certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-10T14:00:00.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-      "description": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypas...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 10:01:11 -0400",
-      "category": "fraud",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-      "description": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 10 Aug 2026 17:09:20 GMT",
-      "category": "fraud",
-      "score": 82.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "description": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 10 Aug 2026 15:24:40 -0400",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
     },
     {
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "description": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 13:42:00 -0400",
-      "category": "fraud",
-      "score": 81.6,
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+      "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+      "description": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 13:23:37 +0000",
+      "category": "ai",
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1093,23 +1159,12 @@
       "imageUrl": null
     },
     {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "description": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T13:27:20.000Z",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T13:00:00.000Z",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "description": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 14:34:23 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -1126,25 +1181,14 @@
       "imageUrl": null
     },
     {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "description": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and c...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 09:15:24 -0400",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
       "category": "ai",
-      "score": 79.5,
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1154,6 +1198,17 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+      "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "description": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.\nThe post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared f...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 18:46:07 +0000",
       "category": "ai",
       "score": 79,
       "imageUrl": null
@@ -1181,36 +1236,36 @@
       "imageUrl": null
     },
     {
-      "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
-      "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
-      "description": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.\nThe post US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 14:03:32 +0000",
-      "category": "ai",
-      "score": 79,
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "description": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T13:27:20.000Z",
+      "category": "both",
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
-      "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
-      "description": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.\nThe post Corma Raises $60 Million for Defensive Cybersecurity AI Model appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 12:01:46 +0000",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T13:00:00.000Z",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
-      "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-      "description": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.\nThe post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Acti...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 11:15:15 +0000",
-      "category": "ai",
-      "score": 79,
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "description": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and c...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 09:15:24 -0400",
+      "category": "both",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1225,6 +1280,39 @@
       "imageUrl": null
     },
     {
+      "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
+      "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
+      "description": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.\nThe post US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 14:03:32 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
+      "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
+      "description": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.\nThe post Corma Raises $60 Million for Defensive Cybersecurity AI Model appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 12:01:46 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+      "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
+      "description": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.\nThe post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Acti...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 11 Aug 2026 11:15:15 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
       "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
       "description": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.\nThe post Hacker Conversations: Marcus Hutchins and the J...",
@@ -1236,12 +1324,12 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "description": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 07:03:01 -0400",
+      "pubDate": "Tue, 11 Aug 2026 15:45:31 -0400",
       "category": "fraud",
       "score": 76.6,
       "imageUrl": null
@@ -1264,17 +1352,6 @@
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Mon, 10 Aug 2026 21:34:38 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
-      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-      "description": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 10 Aug 2026 17:56:34 GMT",
       "category": "ai",
       "score": 76.5,
       "imageUrl": null
@@ -1324,25 +1401,25 @@
       "imageUrl": null
     },
     {
-      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-      "description": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 10:34:32 -0400",
+      "pubDate": "Tue, 11 Aug 2026 07:03:01 -0400",
       "category": "fraud",
-      "score": 73.6,
+      "score": 74.6,
       "imageUrl": null
     },
     {
-      "title": "Member of The Com sent to prison for blackmail, sextortion",
-      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-      "description": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 08:56:28 -0400",
+      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+      "description": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 10 Aug 2026 17:09:20 GMT",
       "category": "fraud",
-      "score": 73.6,
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1357,6 +1434,39 @@
       "imageUrl": null
     },
     {
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "description": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400",
+      "category": "general",
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "The AI safety test is becoming a safety risk",
       "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with...",
@@ -1368,14 +1478,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "description": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
+      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
+      "description": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 10 Aug 2026 17:56:34 GMT",
       "category": "ai",
-      "score": 70,
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1390,25 +1500,36 @@
       "imageUrl": null
     },
     {
-      "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
-      "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-      "description": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 11 Aug 2026 13:12:48 +0000",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
+      "description": "For years, schools have posted photos of their pupils online. But could they be misused?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 11 Aug 2026 19:30:00 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow tha...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-10T11:00:00.000Z",
-      "category": "ai",
-      "score": 67.6,
+      "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
+      "link": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+      "description": "The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 19:59:44 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
+      "link": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
+      "description": "The Instagram account advertises itself as resurfacing lost dating service videotapes from the 1980s. Social media users have been genuinely touched.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 18:29:41 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1445,14 +1566,47 @@
       "imageUrl": null
     },
     {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "description": "The AI-focused hedge fund is still making some big bets.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "category": "ai",
-      "score": 67,
+      "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
+      "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+      "description": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 13:12:48 +0000",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "description": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs point...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T17:00:00.000Z",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "description": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 14:26:03 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "description": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 13:38:42 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1463,7 +1617,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Tue, 11 Aug 2026 11:30:08 +0000",
       "category": "general",
-      "score": 65.5,
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -1474,7 +1628,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 11 Aug 2026 09:20:28 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1485,29 +1639,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400",
       "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
-      "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
-      "description": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 20:37:37 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
-      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-      "description": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 18:00:55 +0000",
-      "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1517,17 +1649,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Tue, 11 Aug 2026 14:14:32 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
-      "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
-      "description": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.\nThe post Mozilla Issues New Firefox GPG Key Following Exposure appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 06:16:01 +0000",
       "category": "general",
       "score": 62,
       "imageUrl": null
@@ -1544,14 +1665,25 @@
       "imageUrl": null
     },
     {
-      "title": "LexisNexis shuts down services after suspicious activity on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-      "description": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 10 Aug 2026 08:11:52 -0400",
+      "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+      "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "description": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 20:37:37 +0000",
       "category": "general",
-      "score": 58.6,
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
+      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "description": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 18:00:55 +0000",
+      "category": "general",
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -1577,17 +1709,6 @@
       "imageUrl": null
     },
     {
-      "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
-      "link": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
-      "description": "VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 09:00:29 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
       "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
       "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
@@ -1596,6 +1717,17 @@
       "pubDate": "Mon, 10 Aug 2026 13:38:33 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
