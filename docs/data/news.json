@@ -1,35 +1,57 @@
 {
   "metadata": {
-    "generated": "2026-08-12T09:07:50.462Z",
+    "generated": "2026-08-12T13:01:32.483Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 85,
+    "totalArticles": 87,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 85 articles from 9 trusted sources, including 51 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Brad Lightcap, a Top OpenAI Executive, Steps Down\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts\n• **Threat Landscape**: Today's coverage highlights ransomware, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, TechCrunch, BleepingComputer, Dark Reading and others\n• **Fresh Content**: 60 articles published in the last 24 hours",
-    "generated": "2026-08-12T09:07:50.462Z",
+    "content": "Today's selection covers 87 articles from 9 trusted sources, including 51 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts\n• **Threat Landscape**: Today's coverage highlights ransomware, scams, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, SecurityWeek, TechCrunch, BleepingComputer and others\n• **Fresh Content**: 56 articles published in the last 24 hours",
+    "generated": "2026-08-12T13:01:32.483Z",
     "stats": {
-      "totalArticles": 85,
+      "totalArticles": 87,
       "aiArticles": 51,
-      "fraudArticles": 13,
+      "fraudArticles": 11,
       "sources": 9,
-      "todayCount": 60
+      "todayCount": 56
     }
   },
   "top": [
     {
-      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
-      "link": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
-      "description": "Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.",
+      "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+      "link": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
+      "description": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 11 Aug 2026 22:07:23 +0000",
+      "pubDate": "Wed, 12 Aug 2026 12:26:07 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-12T12:09:34.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "description": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independen...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-12T11:58:54.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -44,6 +66,30 @@
       "imageUrl": null
     },
     {
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+      "link": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+      "description": "Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 22:07:23 +0000",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+      "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+      "description": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.\nThe post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 09:55:45 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
       "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
       "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
       "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an...",
@@ -51,7 +97,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-12T00:39:26.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -86,30 +132,6 @@
       "category": "fraud",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "description": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T12:22:20.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "description": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's bee...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T11:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
     },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
@@ -134,25 +156,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "description": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...",
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "description": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400",
+      "pubDate": "Wed, 12 Aug 2026 08:25:37 -0400",
       "category": "fraud",
-      "score": 87.6,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -163,18 +174,18 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 11 Aug 2026 21:16:25 GMT",
       "category": "fraud",
-      "score": 84.5,
+      "score": 82.5,
       "imageUrl": null
     },
     {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 18:15:22 -0400",
-      "category": "fraud",
-      "score": 83.6,
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -211,56 +222,34 @@
       "imageUrl": null
     },
     {
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 18:15:22 -0400",
+      "category": "fraud",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+      "description": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency and team spirit are key factors.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 12 Aug 2026 12:41:03 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
       "title": "Tokenomics: Why making AI pay is tricky",
       "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
       "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 11 Aug 2026 23:03:52 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 12 Aug 2026 00:46:43 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploite...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 11 Aug 2026 21:28:35 +0000",
-      "category": "ai",
-      "score": 80.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -277,6 +266,17 @@
       "imageUrl": null
     },
     {
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 12 Aug 2026 00:46:43 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
       "description": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
@@ -285,6 +285,17 @@
       "pubDate": "Tue, 11 Aug 2026 15:54:35 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "WhatsApp Unveils New Scam Alert Feature",
+      "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+      "description": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.\nThe post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 13:00:00 +0000",
+      "category": "fraud",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -299,25 +310,14 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
-      "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
-      "description": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.\nThe post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 12 Aug 2026 05:10:47 +0000",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploite...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 11 Aug 2026 21:28:35 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
-      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-      "description": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 11 Aug 2026 21:42:34 GMT",
-      "category": "ai",
-      "score": 78.5,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -343,12 +343,12 @@
       "imageUrl": null
     },
     {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+      "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+      "description": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.\nThe post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 05:10:47 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -361,6 +361,17 @@
       "domain": "arstechnica.com",
       "pubDate": "Tue, 11 Aug 2026 20:59:52 +0000",
       "category": "both",
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "description": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 11 Aug 2026 21:42:34 GMT",
+      "category": "ai",
       "score": 76.5,
       "imageUrl": null
     },
@@ -383,17 +394,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-11T13:27:20.000Z",
       "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T13:00:00.000Z",
-      "category": "ai",
       "score": 75.6,
       "imageUrl": null
     },
@@ -431,14 +431,14 @@
       "imageUrl": null
     },
     {
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "description": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 05:47:06 -0400",
-      "category": "both",
-      "score": 75.6,
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -486,28 +486,6 @@
       "imageUrl": null
     },
     {
-      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-      "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-      "description": "The security defects could be exploited for arbitrary code execution and denial-of-service.\nThe post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 16:50:19 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
-      "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
-      "description": "Organizations are rushing to implement AI without fully grasping where its legal protections begin and end.\nThe post The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
       "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
       "description": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
@@ -516,6 +494,17 @@
       "pubDate": "Mon, 10 Aug 2026 17:09:20 GMT",
       "category": "fraud",
       "score": 74.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -530,25 +519,25 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 07:03:01 -0400",
-      "category": "fraud",
-      "score": 72.6,
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
+      "category": "ai",
+      "score": 71.5,
       "imageUrl": null
     },
     {
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "description": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.\nThe post Zoom Patches Zero-Click Code Execution Vulnerability appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 15:49:53 +0000",
-      "category": "fraud",
-      "score": 72,
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "description": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 12 Aug 2026 06:15:22 -0400",
+      "category": "general",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -629,6 +618,17 @@
       "imageUrl": null
     },
     {
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T13:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
       "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
@@ -651,17 +651,6 @@
       "imageUrl": null
     },
     {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "description": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
@@ -670,6 +659,17 @@
       "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400",
       "category": "general",
       "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "description": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 12 Aug 2026 07:21:42 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -717,6 +717,28 @@
       "imageUrl": null
     },
     {
+      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+      "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+      "description": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.\nThe post Ceva Logistics Operations Disrupted by Cyberattack appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 11:37:28 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+      "description": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.\nThe post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnera...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 10:55:04 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
       "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
       "description": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products.\nThe post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared fi...",
@@ -739,17 +761,6 @@
       "imageUrl": null
     },
     {
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 12 Aug 2026 00:08:40 +0000",
-      "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
       "description": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
@@ -761,12 +772,12 @@
       "imageUrl": null
     },
     {
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "description": "Why passkey apps treat Windows differently than other operating systems.",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
-      "pubDate": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "pubDate": "Wed, 12 Aug 2026 00:08:40 +0000",
       "category": "general",
       "score": 61.5,
       "imageUrl": null
@@ -827,28 +838,6 @@
       "imageUrl": null
     },
     {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "description": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
-      "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-      "description": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.\nThe post SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 14:14:32 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
       "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
       "description": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
@@ -893,17 +882,6 @@
       "imageUrl": null
     },
     {
-      "title": "Can A.I. Get You Where You Want to Go for Less?",
-      "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-      "description": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 11:24:08 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
       "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
       "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
@@ -912,6 +890,17 @@
       "pubDate": "Mon, 10 Aug 2026 13:38:33 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -926,6 +915,17 @@
       "imageUrl": null
     },
     {
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "description": "Why passkey apps treat Windows differently than other operating systems.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "category": "general",
+      "score": 53.5,
+      "imageUrl": null
+    },
+    {
       "title": "Sherlock Holmes Was the 'OG' Social Engineer",
       "link": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
       "description": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
@@ -937,12 +937,34 @@
       "imageUrl": null
     },
     {
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "description": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
       "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
       "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
       "description": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 10 Aug 2026 09:02:19 +0000",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Can A.I. Get You Where You Want to Go for Less?",
+      "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+      "description": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 11:24:08 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -961,14 +983,36 @@
   ],
   "all": [
     {
-      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
-      "link": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
-      "description": "Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.",
+      "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+      "link": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
+      "description": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 11 Aug 2026 22:07:23 +0000",
+      "pubDate": "Wed, 12 Aug 2026 12:26:07 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-12T12:09:34.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "description": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independen...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-12T11:58:54.000Z",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -983,6 +1027,28 @@
       "imageUrl": null
     },
     {
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+      "link": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+      "description": "Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 11 Aug 2026 22:07:23 +0000",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+      "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+      "description": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.\nThe post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 09:55:45 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
       "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
       "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an...",
@@ -990,7 +1056,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-12T00:39:26.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1027,28 +1093,6 @@
       "imageUrl": null
     },
     {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "description": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T12:22:20.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "description": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's bee...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T11:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
@@ -1071,25 +1115,14 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "description": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...",
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "description": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400",
+      "pubDate": "Wed, 12 Aug 2026 08:25:37 -0400",
       "category": "fraud",
-      "score": 87.6,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1100,18 +1133,18 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 11 Aug 2026 21:16:25 GMT",
       "category": "fraud",
-      "score": 84.5,
+      "score": 82.5,
       "imageUrl": null
     },
     {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 18:15:22 -0400",
-      "category": "fraud",
-      "score": 83.6,
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1148,56 +1181,34 @@
       "imageUrl": null
     },
     {
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 18:15:22 -0400",
+      "category": "fraud",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+      "description": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency and team spirit are key factors.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 12 Aug 2026 12:41:03 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
       "title": "Tokenomics: Why making AI pay is tricky",
       "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
       "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 11 Aug 2026 23:03:52 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 12 Aug 2026 00:46:43 +0000",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploite...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 11 Aug 2026 21:28:35 +0000",
-      "category": "ai",
-      "score": 80.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -1214,6 +1225,17 @@
       "imageUrl": null
     },
     {
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "description": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 12 Aug 2026 00:46:43 +0000",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
       "description": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
@@ -1222,6 +1244,17 @@
       "pubDate": "Tue, 11 Aug 2026 15:54:35 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "WhatsApp Unveils New Scam Alert Feature",
+      "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+      "description": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.\nThe post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 13:00:00 +0000",
+      "category": "fraud",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1236,25 +1269,14 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
-      "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
-      "description": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.\nThe post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 12 Aug 2026 05:10:47 +0000",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploite...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 11 Aug 2026 21:28:35 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
-      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-      "description": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 11 Aug 2026 21:42:34 GMT",
-      "category": "ai",
-      "score": 78.5,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -1280,12 +1302,12 @@
       "imageUrl": null
     },
     {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+      "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+      "description": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.\nThe post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 05:10:47 +0000",
       "category": "ai",
       "score": 77,
       "imageUrl": null
@@ -1298,6 +1320,17 @@
       "domain": "arstechnica.com",
       "pubDate": "Tue, 11 Aug 2026 20:59:52 +0000",
       "category": "both",
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "description": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 11 Aug 2026 21:42:34 GMT",
+      "category": "ai",
       "score": 76.5,
       "imageUrl": null
     },
@@ -1320,17 +1353,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-11T13:27:20.000Z",
       "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-11T13:00:00.000Z",
-      "category": "ai",
       "score": 75.6,
       "imageUrl": null
     },
@@ -1368,14 +1390,14 @@
       "imageUrl": null
     },
     {
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "description": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 05:47:06 -0400",
-      "category": "both",
-      "score": 75.6,
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1423,28 +1445,6 @@
       "imageUrl": null
     },
     {
-      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-      "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-      "description": "The security defects could be exploited for arbitrary code execution and denial-of-service.\nThe post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 16:50:19 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
-      "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
-      "description": "Organizations are rushing to implement AI without fully grasping where its legal protections begin and end.\nThe post The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
       "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
       "description": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
@@ -1453,6 +1453,17 @@
       "pubDate": "Mon, 10 Aug 2026 17:09:20 GMT",
       "category": "fraud",
       "score": 74.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "category": "ai",
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -1467,25 +1478,25 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 07:03:01 -0400",
-      "category": "fraud",
-      "score": 72.6,
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
+      "category": "ai",
+      "score": 71.5,
       "imageUrl": null
     },
     {
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "description": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.\nThe post Zoom Patches Zero-Click Code Execution Vulnerability appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 15:49:53 +0000",
-      "category": "fraud",
-      "score": 72,
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "description": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 12 Aug 2026 06:15:22 -0400",
+      "category": "general",
+      "score": 70.6,
       "imageUrl": null
     },
     {
@@ -1566,6 +1577,17 @@
       "imageUrl": null
     },
     {
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-11T13:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
       "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
@@ -1588,17 +1610,6 @@
       "imageUrl": null
     },
     {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "description": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
@@ -1607,6 +1618,17 @@
       "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400",
       "category": "general",
       "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "description": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 12 Aug 2026 07:21:42 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1654,6 +1676,28 @@
       "imageUrl": null
     },
     {
+      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+      "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+      "description": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.\nThe post Ceva Logistics Operations Disrupted by Cyberattack appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 11:37:28 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+      "description": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.\nThe post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnera...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 12 Aug 2026 10:55:04 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
       "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
       "description": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products.\nThe post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared fi...",
@@ -1676,17 +1720,6 @@
       "imageUrl": null
     },
     {
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 12 Aug 2026 00:08:40 +0000",
-      "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
       "description": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
@@ -1698,12 +1731,12 @@
       "imageUrl": null
     },
     {
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "description": "Why passkey apps treat Windows differently than other operating systems.",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
       "source": "Ars Technica",
       "domain": "arstechnica.com",
-      "pubDate": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "pubDate": "Wed, 12 Aug 2026 00:08:40 +0000",
       "category": "general",
       "score": 61.5,
       "imageUrl": null
@@ -1764,28 +1797,6 @@
       "imageUrl": null
     },
     {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "description": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
-      "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-      "description": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.\nThe post SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 11 Aug 2026 14:14:32 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
       "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
       "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
       "description": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
@@ -1830,17 +1841,6 @@
       "imageUrl": null
     },
     {
-      "title": "Can A.I. Get You Where You Want to Go for Less?",
-      "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-      "description": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 10 Aug 2026 11:24:08 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
       "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
       "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
@@ -1849,6 +1849,17 @@
       "pubDate": "Mon, 10 Aug 2026 13:38:33 +0000",
       "category": "general",
       "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1863,6 +1874,17 @@
       "imageUrl": null
     },
     {
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "description": "Why passkey apps treat Windows differently than other operating systems.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "category": "general",
+      "score": 53.5,
+      "imageUrl": null
+    },
+    {
       "title": "Sherlock Holmes Was the 'OG' Social Engineer",
       "link": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
       "description": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
@@ -1874,12 +1896,34 @@
       "imageUrl": null
     },
     {
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "description": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
       "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
       "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
       "description": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 10 Aug 2026 09:02:19 +0000",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Can A.I. Get You Where You Want to Go for Less?",
+      "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+      "description": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 10 Aug 2026 11:24:08 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
