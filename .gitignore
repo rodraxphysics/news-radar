@@ -27,3 +27,9 @@ build/
 
 # Keep data file (needed for initial deploy)
 # !docs/data/news.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
