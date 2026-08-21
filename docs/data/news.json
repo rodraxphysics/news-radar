@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-08-21T12:39:28.067Z",
+    "generated": "2026-08-21T16:29:01.753Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 99,
+    "totalArticles": 98,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 99 articles from 8 trusted sources, including 62 on Artificial Intelligence and 22 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Hackers abuse FTP server banners to deliver new Windows malware\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, Ars Technica, Dark Reading, The Verge, TechCrunch and others\n• **Fresh Content**: 45 articles published in the last 24 hours",
-    "generated": "2026-08-21T12:39:28.067Z",
+    "content": "Today's selection covers 98 articles from 8 trusted sources, including 65 on Artificial Intelligence and 21 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Hackers abuse FTP server banners to deliver new Windows malware\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, Dark Reading, SecurityWeek, TechCrunch, BleepingComputer and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
+    "generated": "2026-08-21T16:29:01.753Z",
     "stats": {
-      "totalArticles": 99,
-      "aiArticles": 62,
-      "fraudArticles": 22,
+      "totalArticles": 98,
+      "aiArticles": 65,
+      "fraudArticles": 21,
       "sources": 8,
-      "todayCount": 45
+      "todayCount": 49
     }
   },
   "top": [
@@ -33,14 +33,36 @@
       "imageUrl": null
     },
     {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+      "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "description": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 15:15:45 +0000",
       "category": "ai",
-      "score": 91.5,
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Adds Controls That Should've Been There Already",
+      "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+      "description": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 21 Aug 2026 13:30:00 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+      "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+      "description": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.\nThe post Encrypted Prompts Bypass A...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 14:34:05 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -52,28 +74,6 @@
       "pubDate": "Thu, 20 Aug 2026 20:42:18 GMT",
       "category": "ai",
       "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "description": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-20T15:45:55.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-20T14:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -101,7 +101,7 @@
       "imageUrl": null
     },
     {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "source": "TechCrunch",
@@ -141,18 +141,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 21 Aug 2026 06:10:42 -0400",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
       "imageUrl": null
     },
     {
-      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-      "description": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.\nThe post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 21 Aug 2026 07:25:50 +0000",
-      "category": "fraud",
-      "score": 85,
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -164,6 +164,61 @@
       "pubDate": "Wed, 19 Aug 2026 20:32:09 GMT",
       "category": "fraud",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+      "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+      "description": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 15:02:14 +0000",
+      "category": "fraud",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+      "link": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+      "description": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 16:20:31 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "description": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.\nThe post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 07:25:50 +0000",
+      "category": "fraud",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "description": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-20T15:45:55.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-20T14:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -196,28 +251,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-19T17:00:00.000Z",
       "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-      "description": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 19 Aug 2026 20:20:55 -0400",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "description": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decrypti...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 19 Aug 2026 16:59:58 -0400",
-      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -255,25 +288,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "description": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-21T13:37:52.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "description": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 10:54:49 -0400",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "description": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 10:00:10 -0400",
+      "category": "both",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -282,9 +326,53 @@
       "description": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 20 Aug 2026 19:57:52 +0000",
+      "pubDate": "Thu, 20 Aug 2026 19:57:53 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "description": "There's about to be a big fight to secure access to space.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+      "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+      "description": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.\nThe post In Other News: Zombie Card Attack,...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 15:11:16 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+      "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+      "description": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked.\nThe post New Phishing Toolkit Uses Pa...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 14:22:06 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -295,7 +383,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 21 Aug 2026 09:23:18 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -306,7 +394,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 21 Aug 2026 08:41:06 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -376,28 +464,6 @@
       "imageUrl": null
     },
     {
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "description": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 20 Aug 2026 14:59:22 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "description": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 20 Aug 2026 13:30:00 GMT",
-      "category": "both",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "description": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak y...",
@@ -415,17 +481,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "description": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detec...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400",
       "category": "both",
       "score": 75.6,
       "imageUrl": null
@@ -475,50 +530,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "description": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.\nThe post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first o...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 14:50:49 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
-      "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-      "description": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it.\nThe post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 14:30:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-      "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-      "description": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.\nThe post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 13:16:35 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI slows down training after its AI carried out hack",
       "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
       "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
@@ -530,36 +541,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
-      "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
-      "description": "The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 18 Aug 2026 14:14:55 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Blackout That Could Devastate America",
-      "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
-      "description": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 18 Aug 2026 13:20:38 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Monzo says issue with card payments and transfers now resolved",
-      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "description": "The digital bank said all of its services were now \"back up and running\"",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 19 Aug 2026 16:04:16 GMT",
-      "category": "ai",
-      "score": 71.5,
+      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
+      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+      "description": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities.\nThe post Microsoft Patches Exploited Entra ID Vulnerability appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 08:12:19 +0000",
+      "category": "fraud",
+      "score": 74,
       "imageUrl": null
     },
     {
@@ -585,17 +574,6 @@
       "imageUrl": null
     },
     {
-      "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
-      "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
-      "description": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 19 Aug 2026 16:50:35 +0000",
-      "category": "fraud",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
       "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
       "description": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
@@ -607,14 +585,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-18T19:28:30.000Z",
-      "category": "ai",
-      "score": 70.6,
+      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+      "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+      "description": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks.\nThe p...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 16:27:52 +0000",
+      "category": "general",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -626,6 +604,28 @@
       "pubDate": "Fri, 21 Aug 2026 12:26:07 +0000",
       "category": "general",
       "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "description": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 20 Aug 2026 14:59:22 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "description": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 20 Aug 2026 13:30:00 GMT",
+      "category": "both",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -651,17 +651,6 @@
       "imageUrl": null
     },
     {
-      "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
-      "link": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
-      "description": "Americans say they hate prying cameras. But they can’t look away.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 21 Aug 2026 09:02:32 +0000",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "Google Gemini is getting a dedicated student hub",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,...",
@@ -669,6 +658,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-19T19:00:00.000Z",
       "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "description": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detec...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400",
+      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -692,6 +692,17 @@
       "pubDate": "Thu, 20 Aug 2026 06:02:02 -0400",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -728,25 +739,69 @@
       "imageUrl": null
     },
     {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "description": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 20 Aug 2026 10:39:48 -0400",
+      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+      "description": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.\nThe post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 20 Aug 2026 14:50:49 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
+      "link": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+      "description": "Americans say they hate prying cameras. But they can’t look away.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 09:02:32 +0000",
       "category": "general",
-      "score": 66.6,
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "description": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 21 Aug 2026 13:11:35 +0000",
+      "category": "general",
+      "score": 65.5,
       "imageUrl": null
     },
     {
       "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "description": "Government agencies with smaller budgets need support — and here's how you can help.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
       "category": "general",
       "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "description": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "description": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 09:39:35 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -805,39 +860,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Rolls Out 22 Fresh Security Patches",
-      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "description": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.\nThe post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 21 Aug 2026 08:12:19 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-      "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-      "description": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.\nThe post MLflow Vulnerability Exploited for Cloud Credential Theft appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 12:05:55 +0000",
-      "category": "fraud",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "description": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "category": "fraud",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia’s new financial strategy does not compute",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "description": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\t\n\nApril - 1805\nNapoleon is...",
@@ -871,14 +893,14 @@
       "imageUrl": null
     },
     {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
-      "category": "general",
-      "score": 60,
+      "title": "Monzo says issue with card payments and transfers now resolved",
+      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+      "description": "The digital bank said all of its services were now \"back up and running\"",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 19 Aug 2026 16:04:16 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -926,14 +948,14 @@
       "imageUrl": null
     },
     {
-      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "description": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.\nThe post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeare...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 12:24:53 +0000",
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "description": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 20 Aug 2026 10:39:48 -0400",
       "category": "general",
-      "score": 58,
+      "score": 58.6,
       "imageUrl": null
     },
     {
@@ -981,34 +1003,12 @@
       "imageUrl": null
     },
     {
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "description": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
       "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
       "description": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 20 Aug 2026 09:44:04 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
-      "description": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 19 Aug 2026 16:14:46 GMT",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -1025,17 +1025,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Removes Some Fees for App Developers in European Union",
-      "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
-      "description": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 19 Aug 2026 14:49:24 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z...",
@@ -1047,25 +1036,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "description": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 20 Aug 2026 02:51:03 -0400",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
       "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "description": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 19 Aug 2026 16:53:38 -0400",
-      "category": "general",
-      "score": 52.6,
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -1080,12 +1058,34 @@
       "imageUrl": null
     },
     {
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+      "description": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 19 Aug 2026 16:14:46 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
       "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Removes Some Fees for App Developers in European Union",
+      "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+      "description": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 19 Aug 2026 14:49:24 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1099,17 +1099,6 @@
       "pubDate": "Tue, 18 Aug 2026 21:53:48 +0000",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     }
   ],
@@ -1126,14 +1115,36 @@
       "imageUrl": null
     },
     {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+      "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "description": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 15:15:45 +0000",
       "category": "ai",
-      "score": 91.5,
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Adds Controls That Should've Been There Already",
+      "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+      "description": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 21 Aug 2026 13:30:00 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+      "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+      "description": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.\nThe post Encrypted Prompts Bypass A...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 14:34:05 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1145,28 +1156,6 @@
       "pubDate": "Thu, 20 Aug 2026 20:42:18 GMT",
       "category": "ai",
       "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "description": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-20T15:45:55.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-20T14:00:00.000Z",
-      "category": "ai",
-      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1192,7 +1181,7 @@
       "imageUrl": null
     },
     {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "source": "TechCrunch",
@@ -1232,18 +1221,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 21 Aug 2026 06:10:42 -0400",
       "category": "fraud",
-      "score": 85.6,
+      "score": 83.6,
       "imageUrl": null
     },
     {
-      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-      "description": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.\nThe post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 21 Aug 2026 07:25:50 +0000",
-      "category": "fraud",
-      "score": 85,
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "category": "ai",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -1255,6 +1244,61 @@
       "pubDate": "Wed, 19 Aug 2026 20:32:09 GMT",
       "category": "fraud",
       "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+      "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+      "description": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 15:02:14 +0000",
+      "category": "fraud",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+      "link": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+      "description": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 16:20:31 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "description": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.\nThe post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 07:25:50 +0000",
+      "category": "fraud",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "description": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-20T15:45:55.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-20T14:00:00.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1287,28 +1331,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-19T17:00:00.000Z",
       "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-      "description": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 19 Aug 2026 20:20:55 -0400",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "description": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decrypti...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 19 Aug 2026 16:59:58 -0400",
-      "category": "fraud",
       "score": 82.6,
       "imageUrl": null
     },
@@ -1346,25 +1368,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "description": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-08-21T13:37:52.000Z",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
       "imageUrl": null
     },
     {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "description": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 10:54:49 -0400",
       "category": "ai",
-      "score": 82,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "description": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 10:00:10 -0400",
+      "category": "both",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -1373,9 +1406,53 @@
       "description": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 20 Aug 2026 19:57:52 +0000",
+      "pubDate": "Thu, 20 Aug 2026 19:57:53 +0000",
       "category": "ai",
       "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "description": "There's about to be a big fight to secure access to space.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+      "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+      "description": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.\nThe post In Other News: Zombie Card Attack,...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 15:11:16 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+      "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+      "description": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked.\nThe post New Phishing Toolkit Uses Pa...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 14:22:06 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1386,7 +1463,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 21 Aug 2026 09:23:18 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1397,7 +1474,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 21 Aug 2026 08:41:06 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1467,28 +1544,6 @@
       "imageUrl": null
     },
     {
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "description": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 20 Aug 2026 14:59:22 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "description": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 20 Aug 2026 13:30:00 GMT",
-      "category": "both",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "description": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak y...",
@@ -1506,17 +1561,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "description": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detec...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400",
       "category": "both",
       "score": 75.6,
       "imageUrl": null
@@ -1566,50 +1610,6 @@
       "imageUrl": null
     },
     {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "description": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.\nThe post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first o...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 14:50:49 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
-      "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-      "description": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it.\nThe post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on Secu...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 14:30:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-      "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-      "description": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.\nThe post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared firs...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 13:16:35 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI slows down training after its AI carried out hack",
       "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
       "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
@@ -1621,36 +1621,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
-      "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
-      "description": "The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 18 Aug 2026 14:14:55 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Blackout That Could Devastate America",
-      "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
-      "description": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 18 Aug 2026 13:20:38 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Monzo says issue with card payments and transfers now resolved",
-      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "description": "The digital bank said all of its services were now \"back up and running\"",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 19 Aug 2026 16:04:16 GMT",
-      "category": "ai",
-      "score": 71.5,
+      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
+      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+      "description": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities.\nThe post Microsoft Patches Exploited Entra ID Vulnerability appea...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 08:12:19 +0000",
+      "category": "fraud",
+      "score": 74,
       "imageUrl": null
     },
     {
@@ -1676,17 +1654,6 @@
       "imageUrl": null
     },
     {
-      "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
-      "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
-      "description": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 19 Aug 2026 16:50:35 +0000",
-      "category": "fraud",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
       "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
       "description": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
@@ -1698,14 +1665,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-08-18T19:28:30.000Z",
-      "category": "ai",
-      "score": 70.6,
+      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+      "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+      "description": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks.\nThe p...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 21 Aug 2026 16:27:52 +0000",
+      "category": "general",
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -1717,6 +1684,28 @@
       "pubDate": "Fri, 21 Aug 2026 12:26:07 +0000",
       "category": "general",
       "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "description": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 20 Aug 2026 14:59:22 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "description": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 20 Aug 2026 13:30:00 GMT",
+      "category": "both",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1742,17 +1731,6 @@
       "imageUrl": null
     },
     {
-      "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
-      "link": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
-      "description": "Americans say they hate prying cameras. But they can’t look away.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 21 Aug 2026 09:02:32 +0000",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "Google Gemini is getting a dedicated student hub",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,...",
@@ -1760,6 +1738,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-08-19T19:00:00.000Z",
       "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "description": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detec...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400",
+      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -1783,6 +1772,17 @@
       "pubDate": "Thu, 20 Aug 2026 06:02:02 -0400",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1819,25 +1819,69 @@
       "imageUrl": null
     },
     {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "description": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 20 Aug 2026 10:39:48 -0400",
+      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+      "description": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.\nThe post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 20 Aug 2026 14:50:49 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
+      "link": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+      "description": "Americans say they hate prying cameras. But they can’t look away.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 21 Aug 2026 09:02:32 +0000",
       "category": "general",
-      "score": 66.6,
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "description": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 21 Aug 2026 13:11:35 +0000",
+      "category": "general",
+      "score": 65.5,
       "imageUrl": null
     },
     {
       "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "description": "Government agencies with smaller budgets need support — and here's how you can help.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
       "category": "general",
       "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "description": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "description": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 21 Aug 2026 09:39:35 -0400",
+      "category": "general",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1896,39 +1940,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Rolls Out 22 Fresh Security Patches",
-      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "description": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.\nThe post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 21 Aug 2026 08:12:19 +0000",
-      "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-      "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-      "description": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.\nThe post MLflow Vulnerability Exploited for Cloud Credential Theft appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 12:05:55 +0000",
-      "category": "fraud",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "description": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "category": "fraud",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia’s new financial strategy does not compute",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "description": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\t\n\nApril - 1805\nNapoleon is...",
@@ -1962,14 +1973,14 @@
       "imageUrl": null
     },
     {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
-      "category": "general",
-      "score": 60,
+      "title": "Monzo says issue with card payments and transfers now resolved",
+      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+      "description": "The digital bank said all of its services were now \"back up and running\"",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 19 Aug 2026 16:04:16 GMT",
+      "category": "ai",
+      "score": 59.5,
       "imageUrl": null
     },
     {
@@ -2017,14 +2028,14 @@
       "imageUrl": null
     },
     {
-      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "description": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.\nThe post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeare...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 20 Aug 2026 12:24:53 +0000",
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "description": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 20 Aug 2026 10:39:48 -0400",
       "category": "general",
-      "score": 58,
+      "score": 58.6,
       "imageUrl": null
     },
     {
@@ -2072,34 +2083,12 @@
       "imageUrl": null
     },
     {
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "description": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "category": "fraud",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
       "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
       "description": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 20 Aug 2026 09:44:04 GMT",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
-      "description": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 19 Aug 2026 16:14:46 GMT",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -2116,17 +2105,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Removes Some Fees for App Developers in European Union",
-      "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
-      "description": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 19 Aug 2026 14:49:24 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z...",
@@ -2138,25 +2116,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "description": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 20 Aug 2026 02:51:03 -0400",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
       "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "description": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 19 Aug 2026 16:53:38 -0400",
-      "category": "general",
-      "score": 52.6,
+      "score": 52,
       "imageUrl": null
     },
     {
@@ -2171,12 +2138,34 @@
       "imageUrl": null
     },
     {
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+      "description": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 19 Aug 2026 16:14:46 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
       "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Removes Some Fees for App Developers in European Union",
+      "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+      "description": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 19 Aug 2026 14:49:24 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -2190,17 +2179,6 @@
       "pubDate": "Tue, 18 Aug 2026 21:53:48 +0000",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     }
   ]
