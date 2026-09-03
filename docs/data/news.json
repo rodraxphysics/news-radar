@@ -1,33 +1,66 @@
 {
   "metadata": {
-    "generated": "2026-09-03T15:44:45.911Z",
+    "generated": "2026-09-03T19:04:32.961Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 101,
+    "totalArticles": 100,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 101 articles from 9 trusted sources, including 67 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Nvidia is buying Hugging Face for almost $13 billion\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: US charges Russian for infecting 80,000 freelancers with malware\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, NY Times Tech, TechCrunch, BBC Technology and others\n• **Fresh Content**: 58 articles published in the last 24 hours",
-    "generated": "2026-09-03T15:44:45.911Z",
+    "content": "Today's selection covers 100 articles from 9 trusted sources, including 66 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI’s next big AI model has ‘entered the AGI era’\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Your Employee’s Password Appeared in an Infostealer Log. Now What?\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, scams\n• **Source Diversity**: Articles sourced from The Verge, BleepingComputer, TechCrunch, BBC Technology, NY Times Tech and others\n• **Fresh Content**: 53 articles published in the last 24 hours",
+    "generated": "2026-09-03T19:04:32.961Z",
     "stats": {
-      "totalArticles": 101,
-      "aiArticles": 67,
-      "fraudArticles": 17,
+      "totalArticles": 100,
+      "aiArticles": 66,
+      "fraudArticles": 15,
       "sources": 9,
-      "todayCount": 58
+      "todayCount": 53
     }
   },
   "top": [
     {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A...",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use....",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-03T12:12:06.000Z",
+      "pubDate": "2026-09-03T18:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live,...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T15:35:14.000Z",
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
@@ -52,72 +85,61 @@
       "pubDate": "Thu, 03 Sep 2026 11:02:52 -0400",
       "category": "ai",
       "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-      "link": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
-      "description": "The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 18:48:37 +0000",
-      "category": "ai",
-      "score": 94.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "description": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior mo...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex t...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T20:11:40.000Z",
-      "category": "ai",
-      "score": 90.6,
       "imageUrl": null
     }
   ],
   "more": [
     {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T16:40:50.000Z",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
       "category": "ai",
-      "score": 90.6,
+      "score": 94,
       "imageUrl": null
     },
     {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T16:12:25.000Z",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
       "category": "ai",
-      "score": 90.6,
+      "score": 94,
       "imageUrl": null
     },
     {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds...",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-02T15:47:03.000Z",
+      "pubDate": "2026-09-03T12:12:06.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex t...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-02T20:11:40.000Z",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -134,25 +156,14 @@
       "imageUrl": null
     },
     {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 03 Sep 2026 16:32:05 GMT",
       "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
-      "category": "ai",
-      "score": 90,
+      "score": 89.5,
       "imageUrl": null
     },
     {
@@ -167,14 +178,14 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+      "link": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+      "description": "The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 02 Sep 2026 18:48:37 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -189,25 +200,69 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "description": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported...",
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+      "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+      "description": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 03 Sep 2026 18:52:11 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "category": "ai",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-02T14:35:03.000Z",
+      "pubDate": "2026-09-02T16:40:50.000Z",
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
     },
     {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "description": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400",
-      "category": "fraud",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-02T16:12:25.000Z",
+      "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -219,28 +274,6 @@
       "pubDate": "Wed, 02 Sep 2026 12:09:42 +0000",
       "category": "ai",
       "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
-      "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
-      "description": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 03 Sep 2026 09:02:51 +0000",
-      "category": "ai",
-      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -343,14 +376,25 @@
       "imageUrl": null
     },
     {
-      "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
-      "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
-      "description": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 17:29:04 +0000",
-      "category": "fraud",
-      "score": 79.5,
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -365,6 +409,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "description": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 03 Sep 2026 04:55:25 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
       "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
       "description": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.\nThe post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWee...",
@@ -372,7 +427,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 03 Sep 2026 12:17:30 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -383,7 +438,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 03 Sep 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -394,18 +449,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 03 Sep 2026 10:30:00 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "description": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 03 Sep 2026 04:55:25 -0400",
-      "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -442,7 +486,7 @@
       "imageUrl": null
     },
     {
-      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+      "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
       "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
       "description": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
       "source": "Dark Reading",
@@ -464,61 +508,6 @@
       "imageUrl": null
     },
     {
-      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-      "description": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 02 Sep 2026 16:51:21 GMT",
-      "category": "both",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T17:52:56.000Z",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
       "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
       "description": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.\nThe post OpenLeash Adds a Human Check to Risky AI Agent...",
@@ -530,23 +519,12 @@
       "imageUrl": null
     },
     {
-      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-      "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-      "description": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.\nThe post UK Moves to Block High-Risk...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 02 Sep 2026 15:45:08 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
       "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
       "description": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 03 Sep 2026 14:03:49 +0000",
+      "pubDate": "Thu, 03 Sep 2026 18:38:57 +0000",
       "category": "general",
       "score": 74.5,
       "imageUrl": null
@@ -574,34 +552,12 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "description": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
       "description": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Mon, 31 Aug 2026 21:08:46 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "AI Model Rules Are Not Security Controls",
-      "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-      "description": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 31 Aug 2026 17:34:26 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -651,25 +607,36 @@
       "imageUrl": null
     },
     {
-      "title": "153 Million Driver License Images Offered on Dark Web",
-      "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-      "description": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.\nThe post 153 Million Driver License Images Offered on Dark Web appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 03 Sep 2026 10:54:18 +0000",
-      "category": "general",
-      "score": 70,
+      "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
+      "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
+      "description": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 02 Sep 2026 17:29:04 +0000",
+      "category": "fraud",
+      "score": 71.5,
       "imageUrl": null
     },
     {
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "description": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.\nThe post Over 3 Million WordPress Sites Affected by Migration Plugin Vulne...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 03 Sep 2026 10:40:00 +0000",
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "description": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400",
       "category": "general",
-      "score": 70,
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
+      "description": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 02 Sep 2026 16:51:21 GMT",
+      "category": "both",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -728,6 +695,17 @@
       "imageUrl": null
     },
     {
+      "title": "Data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 03 Sep 2026 18:32:03 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
       "link": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
       "description": "After finding antitrust violations, federal courts have been reluctant to impose harsh sanctions. They fear meddling in markets where technology is racing ahead.",
@@ -739,24 +717,46 @@
       "imageUrl": null
     },
     {
-      "title": "NYC bans AI use for students until they reach high school",
-      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "description": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T14:30:00.000Z",
-      "category": "ai",
-      "score": 67.6,
+      "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
+      "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
+      "description": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 03 Sep 2026 18:29:58 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchang...",
+      "title": "153 Million Driver License Images Offered on Dark Web",
+      "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+      "description": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.\nThe post 153 Million Driver License Images Offered on Dark Web appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 03 Sep 2026 10:54:18 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
+      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+      "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+      "description": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.\nThe post Over 3 Million WordPress Sites Affected by Migration Plugin Vulne...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 03 Sep 2026 10:40:00 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-01T22:50:29.000Z",
-      "category": "ai",
+      "pubDate": "2026-09-02T17:52:56.000Z",
+      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -780,6 +780,39 @@
       "pubDate": "Wed, 02 Sep 2026 20:43:59 GMT",
       "category": "general",
       "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+      "category": "both",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
+      "category": "both",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -816,45 +849,12 @@
       "imageUrl": null
     },
     {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "category": "both",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+      "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+      "description": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.\nThe post UK Moves to Block High-Risk...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 02 Sep 2026 15:45:08 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -882,17 +882,6 @@
       "imageUrl": null
     },
     {
-      "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
-      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-      "description": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "category": "general",
-      "score": 65.5,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
       "description": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
@@ -904,6 +893,28 @@
       "imageUrl": null
     },
     {
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "description": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
+      "category": "fraud",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
+      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+      "description": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "category": "general",
+      "score": 63.5,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft says KB5120998 Windows update resets desktop settings",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
       "description": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
@@ -911,7 +922,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 03 Sep 2026 08:16:32 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -922,40 +933,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 03 Sep 2026 07:02:22 -0400",
       "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber to cut over 3,000 jobs in major global restructuring",
-      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 02 Sep 2026 16:51:49 GMT",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
-      "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
-      "description": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 20:56:22 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
-      "link": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
-      "description": "The layoffs affect about 3,300 workers, as Chief Executive Dara Khosrowshahi bets on a “leaner organization.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 17:47:50 +0000",
-      "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1047,6 +1025,28 @@
       "imageUrl": null
     },
     {
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 02 Sep 2026 16:51:49 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
+      "link": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
+      "description": "The layoffs affect about 3,300 workers, as Chief Executive Dara Khosrowshahi bets on a “leaner organization.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 02 Sep 2026 17:47:50 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "Get to Know Your Phone’s Built-In Emergency Kit",
       "link": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
       "description": "In times of natural disasters and other dangers, special features tucked away on your iPhone or Android device could help make a difference.",
@@ -1122,27 +1122,49 @@
       "category": "general",
       "score": 44.5,
       "imageUrl": null
-    },
-    {
-      "title": "Think twice before installing this device promising free movies",
-      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "description": "In exchange for free stuff, devices make home connections part of a proxy network.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 31 Aug 2026 16:33:38 +0000",
-      "category": "general",
-      "score": 41.5,
-      "imageUrl": null
     }
   ],
   "all": [
     {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A...",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use....",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-03T12:12:06.000Z",
+      "pubDate": "2026-09-03T18:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live,...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T15:35:14.000Z",
       "category": "ai",
       "score": 94.6,
       "imageUrl": null
@@ -1170,25 +1192,47 @@
       "imageUrl": null
     },
     {
-      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-      "link": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
-      "description": "The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 18:48:37 +0000",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
       "category": "ai",
-      "score": 94.5,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
       "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "description": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior mo...",
+      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
       "category": "ai",
       "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-03T12:12:06.000Z",
+      "category": "ai",
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1198,39 +1242,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-09-02T20:11:40.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T16:40:50.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T16:12:25.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T15:47:03.000Z",
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
@@ -1247,25 +1258,14 @@
       "imageUrl": null
     },
     {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 03 Sep 2026 16:32:05 GMT",
       "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
-      "category": "ai",
-      "score": 90,
+      "score": 89.5,
       "imageUrl": null
     },
     {
@@ -1280,14 +1280,14 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+      "link": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+      "description": "The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 02 Sep 2026 18:48:37 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -1302,25 +1302,69 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "description": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported...",
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+      "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+      "description": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 03 Sep 2026 18:52:11 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "category": "ai",
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-02T14:35:03.000Z",
+      "pubDate": "2026-09-02T16:40:50.000Z",
       "category": "ai",
       "score": 82.6,
       "imageUrl": null
     },
     {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "description": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400",
-      "category": "fraud",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-02T16:12:25.000Z",
+      "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1332,28 +1376,6 @@
       "pubDate": "Wed, 02 Sep 2026 12:09:42 +0000",
       "category": "ai",
       "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
-      "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
-      "description": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 03 Sep 2026 09:02:51 +0000",
-      "category": "ai",
-      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1456,14 +1478,25 @@
       "imageUrl": null
     },
     {
-      "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
-      "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
-      "description": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 17:29:04 +0000",
-      "category": "fraud",
-      "score": 79.5,
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1478,6 +1511,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "description": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 03 Sep 2026 04:55:25 -0400",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
       "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
       "description": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.\nThe post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWee...",
@@ -1485,7 +1529,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 03 Sep 2026 12:17:30 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1496,7 +1540,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 03 Sep 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1507,18 +1551,7 @@
       "domain": "securityweek.com",
       "pubDate": "Thu, 03 Sep 2026 10:30:00 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "description": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 03 Sep 2026 04:55:25 -0400",
-      "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1555,7 +1588,7 @@
       "imageUrl": null
     },
     {
-      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+      "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
       "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
       "description": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
       "source": "Dark Reading",
@@ -1577,61 +1610,6 @@
       "imageUrl": null
     },
     {
-      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-      "description": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 02 Sep 2026 16:51:21 GMT",
-      "category": "both",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T17:52:56.000Z",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
-      "category": "both",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
       "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
       "description": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.\nThe post OpenLeash Adds a Human Check to Risky AI Agent...",
@@ -1643,23 +1621,12 @@
       "imageUrl": null
     },
     {
-      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-      "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-      "description": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.\nThe post UK Moves to Block High-Risk...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 02 Sep 2026 15:45:08 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
       "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
       "description": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 03 Sep 2026 14:03:49 +0000",
+      "pubDate": "Thu, 03 Sep 2026 18:38:57 +0000",
       "category": "general",
       "score": 74.5,
       "imageUrl": null
@@ -1687,34 +1654,12 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "description": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
       "description": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Mon, 31 Aug 2026 21:08:46 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "AI Model Rules Are Not Security Controls",
-      "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-      "description": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 31 Aug 2026 17:34:26 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1764,25 +1709,36 @@
       "imageUrl": null
     },
     {
-      "title": "153 Million Driver License Images Offered on Dark Web",
-      "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-      "description": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.\nThe post 153 Million Driver License Images Offered on Dark Web appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 03 Sep 2026 10:54:18 +0000",
-      "category": "general",
-      "score": 70,
+      "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
+      "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
+      "description": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 02 Sep 2026 17:29:04 +0000",
+      "category": "fraud",
+      "score": 71.5,
       "imageUrl": null
     },
     {
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "description": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.\nThe post Over 3 Million WordPress Sites Affected by Migration Plugin Vulne...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 03 Sep 2026 10:40:00 +0000",
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "description": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400",
       "category": "general",
-      "score": 70,
+      "score": 70.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
+      "description": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 02 Sep 2026 16:51:21 GMT",
+      "category": "both",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1841,6 +1797,17 @@
       "imageUrl": null
     },
     {
+      "title": "Data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 03 Sep 2026 18:32:03 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
       "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
       "link": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
       "description": "After finding antitrust violations, federal courts have been reluctant to impose harsh sanctions. They fear meddling in markets where technology is racing ahead.",
@@ -1852,24 +1819,46 @@
       "imageUrl": null
     },
     {
-      "title": "NYC bans AI use for students until they reach high school",
-      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "description": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-02T14:30:00.000Z",
-      "category": "ai",
-      "score": 67.6,
+      "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
+      "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
+      "description": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 03 Sep 2026 18:29:58 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchang...",
+      "title": "153 Million Driver License Images Offered on Dark Web",
+      "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+      "description": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.\nThe post 153 Million Driver License Images Offered on Dark Web appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 03 Sep 2026 10:54:18 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
+      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+      "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+      "description": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.\nThe post Over 3 Million WordPress Sites Affected by Migration Plugin Vulne...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 03 Sep 2026 10:40:00 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-01T22:50:29.000Z",
-      "category": "ai",
+      "pubDate": "2026-09-02T17:52:56.000Z",
+      "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
@@ -1893,6 +1882,39 @@
       "pubDate": "Wed, 02 Sep 2026 20:43:59 GMT",
       "category": "general",
       "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+      "category": "both",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
+      "category": "both",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1929,45 +1951,12 @@
       "imageUrl": null
     },
     {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "category": "both",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+      "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+      "description": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.\nThe post UK Moves to Block High-Risk...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 02 Sep 2026 15:45:08 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
@@ -1995,17 +1984,6 @@
       "imageUrl": null
     },
     {
-      "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
-      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-      "description": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "category": "general",
-      "score": 65.5,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
       "description": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
@@ -2017,6 +1995,28 @@
       "imageUrl": null
     },
     {
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "description": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
+      "category": "fraud",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
+      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+      "description": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "category": "general",
+      "score": 63.5,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft says KB5120998 Windows update resets desktop settings",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
       "description": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
@@ -2024,7 +2024,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 03 Sep 2026 08:16:32 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -2035,40 +2035,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Thu, 03 Sep 2026 07:02:22 -0400",
       "category": "general",
-      "score": 64.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber to cut over 3,000 jobs in major global restructuring",
-      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 02 Sep 2026 16:51:49 GMT",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
-      "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
-      "description": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 20:56:22 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
-      "link": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
-      "description": "The layoffs affect about 3,300 workers, as Chief Executive Dara Khosrowshahi bets on a “leaner organization.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 02 Sep 2026 17:47:50 +0000",
-      "category": "general",
-      "score": 64.5,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -2160,6 +2127,28 @@
       "imageUrl": null
     },
     {
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 02 Sep 2026 16:51:49 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
+      "link": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
+      "description": "The layoffs affect about 3,300 workers, as Chief Executive Dara Khosrowshahi bets on a “leaner organization.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 02 Sep 2026 17:47:50 +0000",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "Get to Know Your Phone’s Built-In Emergency Kit",
       "link": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
       "description": "In times of natural disasters and other dangers, special features tucked away on your iPhone or Android device could help make a difference.",
@@ -2234,17 +2223,6 @@
       "pubDate": "Mon, 31 Aug 2026 21:28:49 GMT",
       "category": "general",
       "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Think twice before installing this device promising free movies",
-      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "description": "In exchange for free stuff, devices make home connections part of a proxy network.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 31 Aug 2026 16:33:38 +0000",
-      "category": "general",
-      "score": 41.5,
       "imageUrl": null
     }
   ]
