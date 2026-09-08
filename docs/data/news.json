@@ -1,37 +1,26 @@
 {
   "metadata": {
-    "generated": "2026-09-07T22:28:58.510Z",
+    "generated": "2026-09-08T02:58:39.487Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 41,
+    "totalArticles": 38,
     "sources": 7,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 41 articles from 7 trusted sources, including 25 on Artificial Intelligence and 7 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI chief scientist warns no-one is prepared for consequences of AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, BleepingComputer, SecurityWeek, The Verge and others\n• **Fresh Content**: 24 articles published in the last 24 hours",
-    "generated": "2026-09-07T22:28:58.510Z",
+    "content": "Today's selection covers 38 articles from 7 trusted sources, including 23 on Artificial Intelligence and 7 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Early Data Indicates an A.I.-Generated Drug Could Slow Aging\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches\n• **Source Diversity**: Articles sourced from NY Times Tech, BBC Technology, BleepingComputer, SecurityWeek, The Verge and others\n• **Fresh Content**: 23 articles published in the last 24 hours",
+    "generated": "2026-09-08T02:58:39.487Z",
     "stats": {
-      "totalArticles": 41,
-      "aiArticles": 25,
+      "totalArticles": 38,
+      "aiArticles": 23,
       "fraudArticles": 7,
       "sources": 7,
-      "todayCount": 24
+      "todayCount": 23
     }
   },
   "top": [
-    {
-      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 07 Sep 2026 12:22:07 GMT",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
     {
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
       "link": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
@@ -44,6 +33,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 07 Sep 2026 12:22:07 GMT",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
       "title": "ChatGPT can now connect to your personal apps to mimic writing style",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
       "description": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
@@ -51,7 +51,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 06:36:37 -0400",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -62,9 +62,33 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 07 Sep 2026 12:03:04 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
       "imageUrl": null
     },
+    {
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 07 Sep 2026 23:05:12 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "description": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 08 Sep 2026 01:54:45 +0000",
+      "category": "fraud",
+      "score": 83.5,
+      "imageUrl": null
+    }
+  ],
+  "more": [
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
@@ -73,7 +97,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-06T23:36:04.000Z",
       "category": "ai",
-      "score": 90.6,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -84,11 +108,9 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sun, 06 Sep 2026 21:15:43 -0400",
       "category": "ai",
-      "score": 90.6,
+      "score": 82.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -101,34 +123,12 @@
       "imageUrl": null
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 07 Sep 2026 11:30:27 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -156,14 +156,14 @@
       "imageUrl": null
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 07 Sep 2026 11:30:27 GMT",
       "category": "ai",
-      "score": 79,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -178,6 +178,17 @@
       "imageUrl": null
     },
     {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "Mathspace discloses data breach affecting over 1 million people",
       "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
       "description": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting syst...",
@@ -185,7 +196,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 09:05:11 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -196,7 +207,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 08:16:32 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -207,7 +218,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 06:32:40 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -218,7 +229,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 07 Sep 2026 11:45:48 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -229,18 +240,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 12:50:29 -0400",
       "category": "fraud",
-      "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
-      "link": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
-      "description": "Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 05 Sep 2026 00:18:57 +0000",
-      "category": "ai",
-      "score": 74.5,
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -263,17 +263,6 @@
       "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400",
       "category": "fraud",
       "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "description": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 06 Sep 2026 10:45:11 +0000",
-      "category": "fraud",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -310,6 +299,17 @@
       "imageUrl": null
     },
     {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Hikers rescued after using Google Gemini for planning",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
       "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -332,36 +332,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-      "description": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.\nThe post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 07 Sep 2026 12:15:57 +0000",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "description": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 08 Sep 2026 02:44:03 +0000",
       "category": "general",
-      "score": 68,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-      "description": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.\nThe post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 07 Sep 2026 11:58:37 +0000",
-      "category": "general",
-      "score": 68,
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -387,36 +365,25 @@
       "imageUrl": null
     },
     {
-      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-      "description": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 07 Sep 2026 12:20:03 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Generation That’s Never Had to Say ‘Hello?’",
-      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
-      "description": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 07 Sep 2026 02:40:54 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-      "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-      "description": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.\nThe post North Korean Hackers Deploy New Linux Espionage Too...",
+      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+      "description": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.\nThe post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 07 Sep 2026 12:12:08 +0000",
+      "pubDate": "Mon, 07 Sep 2026 12:15:57 +0000",
       "category": "general",
-      "score": 62,
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "description": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.\nThe post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 07 Sep 2026 11:58:37 +0000",
+      "category": "general",
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -431,14 +398,25 @@
       "imageUrl": null
     },
     {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "category": "ai",
-      "score": 55,
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+      "description": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.\nThe post North Korean Hackers Deploy New Linux Espionage Too...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 07 Sep 2026 12:12:08 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "The Generation That’s Never Had to Say ‘Hello?’",
+      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
+      "description": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 07 Sep 2026 02:40:54 +0000",
+      "category": "general",
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -450,17 +428,6 @@
       "pubDate": "Sat, 05 Sep 2026 13:00:28 +0000",
       "category": "fraud",
       "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
-      "description": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 05 Sep 2026 01:00:18 GMT",
-      "category": "general",
-      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -477,17 +444,6 @@
   ],
   "all": [
     {
-      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 07 Sep 2026 12:22:07 GMT",
-      "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
       "link": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
       "description": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
@@ -499,6 +455,17 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 07 Sep 2026 12:22:07 GMT",
+      "category": "ai",
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
       "title": "ChatGPT can now connect to your personal apps to mimic writing style",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
       "description": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
@@ -506,7 +473,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 06:36:37 -0400",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -517,7 +484,29 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 07 Sep 2026 12:03:04 +0000",
       "category": "ai",
-      "score": 92,
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 07 Sep 2026 23:05:12 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "description": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 08 Sep 2026 01:54:45 +0000",
+      "category": "fraud",
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -528,7 +517,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-06T23:36:04.000Z",
       "category": "ai",
-      "score": 90.6,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -539,7 +528,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Sun, 06 Sep 2026 21:15:43 -0400",
       "category": "ai",
-      "score": 90.6,
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -554,34 +543,12 @@
       "imageUrl": null
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "category": "ai",
-      "score": 81.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 07 Sep 2026 11:30:27 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -609,14 +576,14 @@
       "imageUrl": null
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 07 Sep 2026 11:30:27 GMT",
       "category": "ai",
-      "score": 79,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -631,6 +598,17 @@
       "imageUrl": null
     },
     {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
       "title": "Mathspace discloses data breach affecting over 1 million people",
       "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
       "description": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting syst...",
@@ -638,7 +616,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 09:05:11 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -649,7 +627,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 08:16:32 -0400",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -660,7 +638,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 06:32:40 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -671,7 +649,7 @@
       "domain": "securityweek.com",
       "pubDate": "Mon, 07 Sep 2026 11:45:48 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -682,18 +660,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Mon, 07 Sep 2026 12:50:29 -0400",
       "category": "fraud",
-      "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
-      "link": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
-      "description": "Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 05 Sep 2026 00:18:57 +0000",
-      "category": "ai",
-      "score": 74.5,
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -716,17 +683,6 @@
       "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400",
       "category": "fraud",
       "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "description": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 06 Sep 2026 10:45:11 +0000",
-      "category": "fraud",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -763,6 +719,17 @@
       "imageUrl": null
     },
     {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "category": "ai",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Hikers rescued after using Google Gemini for planning",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
       "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -785,36 +752,14 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "category": "ai",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-      "description": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.\nThe post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 07 Sep 2026 12:15:57 +0000",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "description": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 08 Sep 2026 02:44:03 +0000",
       "category": "general",
-      "score": 68,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-      "description": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.\nThe post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 07 Sep 2026 11:58:37 +0000",
-      "category": "general",
-      "score": 68,
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -840,36 +785,25 @@
       "imageUrl": null
     },
     {
-      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-      "description": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 07 Sep 2026 12:20:03 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Generation That’s Never Had to Say ‘Hello?’",
-      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
-      "description": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 07 Sep 2026 02:40:54 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-      "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-      "description": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.\nThe post North Korean Hackers Deploy New Linux Espionage Too...",
+      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+      "description": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.\nThe post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 07 Sep 2026 12:12:08 +0000",
+      "pubDate": "Mon, 07 Sep 2026 12:15:57 +0000",
       "category": "general",
-      "score": 62,
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "description": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.\nThe post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 07 Sep 2026 11:58:37 +0000",
+      "category": "general",
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -884,14 +818,25 @@
       "imageUrl": null
     },
     {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "category": "ai",
-      "score": 55,
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+      "description": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.\nThe post North Korean Hackers Deploy New Linux Espionage Too...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Mon, 07 Sep 2026 12:12:08 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "The Generation That’s Never Had to Say ‘Hello?’",
+      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
+      "description": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 07 Sep 2026 02:40:54 +0000",
+      "category": "general",
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -903,17 +848,6 @@
       "pubDate": "Sat, 05 Sep 2026 13:00:28 +0000",
       "category": "fraud",
       "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
-      "description": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 05 Sep 2026 01:00:18 GMT",
-      "category": "general",
-      "score": 44.5,
       "imageUrl": null
     },
     {
