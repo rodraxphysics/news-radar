@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2026-09-11T15:49:59.244Z",
+    "generated": "2026-09-11T18:57:51.513Z",
     "timezone": "UTC",
     "windowDays": 3,
     "totalArticles": 100,
@@ -10,14 +10,14 @@
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 100 articles from 9 trusted sources, including 68 on Artificial Intelligence and 14 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: UK government rejects 'kill switch' idea for dangerous AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, BleepingComputer, SecurityWeek, TechCrunch, NY Times Tech and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
-    "generated": "2026-09-11T15:49:59.244Z",
+    "content": "Today's selection covers 100 articles from 9 trusted sources, including 68 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: UK government rejects 'kill switch' idea for dangerous AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Passkey-themed phishing attacks lead to Microsoft 365 data theft\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, Dark Reading, The Verge, BleepingComputer, TechCrunch and others\n• **Fresh Content**: 54 articles published in the last 24 hours",
+    "generated": "2026-09-11T18:57:51.513Z",
     "stats": {
       "totalArticles": 100,
       "aiArticles": 68,
-      "fraudArticles": 14,
+      "fraudArticles": 17,
       "sources": 9,
-      "todayCount": 49
+      "todayCount": 54
     }
   },
   "top": [
@@ -44,6 +44,39 @@
       "imageUrl": null
     },
     {
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+      "description": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 15:48:27 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a str...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-11T16:09:14.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "description": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
       "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
       "description": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponi...",
@@ -52,6 +85,30 @@
       "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400",
       "category": "ai",
       "score": 94.6,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "description": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -77,6 +134,17 @@
       "imageUrl": null
     },
     {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "description": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hos...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400",
+      "category": "fraud",
+      "score": 91.6,
+      "imageUrl": null
+    },
+    {
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "description": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
@@ -86,9 +154,7 @@
       "category": "fraud",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
@@ -107,17 +173,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -145,17 +200,6 @@
       "imageUrl": null
     },
     {
-      "title": "Does this AI comic make you laugh?",
-      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-      "description": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 11 Sep 2026 12:49:30 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
       "link": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
       "description": "The state was the first to pass a law banning Kalshi and Polymarket. A lawsuit filed by a federal agency may set a precedent on who gets to regulate them.",
@@ -163,28 +207,6 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 11 Sep 2026 14:35:45 +0000",
       "category": "fraud",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Mic Is On. So Is Live Auto-Tune.",
-      "link": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
-      "description": "As audiences demand perfection from live performances, pitch correction technology has become an increasingly common way for singers to deliver.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 11 Sep 2026 11:21:16 +0000",
-      "category": "fraud",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Could A.I. Really Kill All Humans?",
-      "link": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
-      "description": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 11 Sep 2026 10:34:43 +0000",
-      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -222,6 +244,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
@@ -233,14 +266,14 @@
       "imageUrl": null
     },
     {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 16:05:35 +0000",
+      "title": "Does this AI comic make you laugh?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
+      "description": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 11 Sep 2026 12:49:30 GMT",
       "category": "ai",
-      "score": 82,
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -255,6 +288,28 @@
       "imageUrl": null
     },
     {
+      "title": "The Mic Is On. So Is Live Auto-Tune.",
+      "link": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
+      "description": "As audiences demand perfection from live performances, pitch correction technology has become an increasingly common way for singers to deliver.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 11 Sep 2026 11:21:16 +0000",
+      "category": "fraud",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Could A.I. Really Kill All Humans?",
+      "link": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
+      "description": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 11 Sep 2026 10:34:43 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -263,6 +318,28 @@
       "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
       "category": "ai",
       "score": 81,
+      "imageUrl": null
+    },
+    {
+      "title": "Why AI Is So Good at Scamming Humans",
+      "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+      "description": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 18:14:06 GMT",
+      "category": "both",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI Governance Can't Wait",
+      "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+      "description": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 17:10:56 GMT",
+      "category": "ai",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -299,17 +376,6 @@
       "imageUrl": null
     },
     {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "description": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 11 Sep 2026 07:15:22 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "description": "In a new report, the A.I. start-up added that it could not determine whether the research was legitimate or nefarious, leading the company to shut down the work.",
@@ -321,36 +387,25 @@
       "imageUrl": null
     },
     {
-      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-      "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-      "description": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking.\nThe post Trezor Says 347,000 Users Received Phishing Emails...",
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "description": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.\nThe post Phishing Research Challenges Conventional Security Awareness...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 12:48:04 +0000",
-      "category": "both",
+      "pubDate": "Fri, 11 Sep 2026 17:23:36 +0000",
+      "category": "fraud",
       "score": 79,
       "imageUrl": null
     },
     {
-      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-      "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-      "description": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.\nThe post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appear...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 11:29:09 +0000",
-      "category": "both",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
-      "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
-      "description": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.\nThe post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 10:56:16 +0000",
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "description": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 07:15:22 -0400",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -376,14 +431,36 @@
       "imageUrl": null
     },
     {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "description": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 11 Sep 2026 02:48:37 -0400",
+      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+      "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+      "description": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking.\nThe post Trezor Says 347,000 Users Received Phishing Emails...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 12:48:04 +0000",
       "category": "both",
-      "score": 77.6,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+      "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+      "description": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.\nThe post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appear...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 11:29:09 +0000",
+      "category": "both",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+      "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+      "description": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.\nThe post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 10:56:16 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -431,6 +508,17 @@
       "imageUrl": null
     },
     {
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+      "description": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server.\nThe post GitLab Vulnerability Exploited One Day After Disclosure appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 16:11:08 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can descr...",
@@ -453,6 +541,17 @@
       "imageUrl": null
     },
     {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "description": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 02:48:37 -0400",
+      "category": "both",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "September Windows Server updates break Remote Desktop Services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
       "description": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and,...",
@@ -464,34 +563,12 @@
       "imageUrl": null
     },
     {
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
       "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -574,17 +651,6 @@
       "imageUrl": null
     },
     {
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "description": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.\nThe post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 11:10:02 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
@@ -629,6 +695,17 @@
       "imageUrl": null
     },
     {
+      "title": "Check Point Patches Critical VPN Vulnerabilities",
+      "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+      "description": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.\nThe post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 11:10:02 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
       "title": "Meta’s Muse AI works and creeps me out",
       "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
       "description": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company...",
@@ -651,12 +728,12 @@
       "imageUrl": null
     },
     {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "description": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-09T20:44:43.000Z",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -673,14 +750,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "description": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -750,28 +827,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "description": "The company also argued that its on-device models offer consumers more privacy.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "The Ezra Klein Show: The A.I. Revolt Is Here",
       "link": "https://www.nytimes.com/2026/09/11/podcasts/hardfork-ezra-klein-jasmine-sun.html",
       "description": "The A.I. giants weren’t prepared for this.",
@@ -783,34 +838,12 @@
       "imageUrl": null
     },
     {
-      "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-      "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-      "description": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board.\nThe post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 10 Sep 2026 20:30:44 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-      "description": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa.\nThe post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 10 Sep 2026 16:14:58 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+      "description": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 18:44:03 GMT",
       "category": "general",
       "score": 65.5,
       "imageUrl": null
@@ -827,17 +860,6 @@
       "imageUrl": null
     },
     {
-      "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
-      "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
-      "description": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 10 Sep 2026 17:20:51 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
       "title": "California’s Governor Signs Landmark Online Child Safety Bills",
       "link": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
       "description": "Gov. Gavin Newsom signed a bill that prohibits social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
@@ -849,23 +871,23 @@
       "imageUrl": null
     },
     {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "category": "general",
+      "score": 63.5,
+      "imageUrl": null
+    },
+    {
       "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
       "description": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 08 Sep 2026 21:03:46 GMT",
-      "category": "fraud",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-      "description": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 08 Sep 2026 17:25:37 GMT",
       "category": "fraud",
       "score": 62.5,
       "imageUrl": null
@@ -937,17 +959,6 @@
       "imageUrl": null
     },
     {
-      "title": "New law to force tech firms to stop children taking or sharing nude images",
-      "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-      "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 08 Sep 2026 16:48:29 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
       "description": "Scammers demand money from Instagram users over fake copyright claims.",
@@ -966,17 +977,6 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 08 Sep 2026 19:00:03 +0000",
       "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
-      "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-      "description": "An attack discovered by A.I. researchers could have compromised hundreds of millions of devices within hours, experts said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 08 Sep 2026 16:50:25 +0000",
-      "category": "both",
       "score": 59.5,
       "imageUrl": null
     },
@@ -1025,25 +1025,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
+      "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
+      "description": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 10 Sep 2026 17:20:51 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
     {
-      "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
-      "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
-      "description": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 09 Sep 2026 16:39:27 +0000",
-      "category": "general",
-      "score": 56.5,
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1058,34 +1058,12 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "description": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 10 Sep 2026 07:14:28 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
       "title": "Maven Robotics wants to steal your robot deployment deal",
       "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "description": "The update uses Apple Intelligence to make better sense of your health data.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
@@ -1102,6 +1080,17 @@
       "imageUrl": null
     },
     {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
       "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
       "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
@@ -1113,14 +1102,25 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
-      "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-      "description": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+      "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
+      "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+      "description": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 08 Sep 2026 16:03:26 +0000",
+      "pubDate": "Wed, 09 Sep 2026 16:39:27 +0000",
       "category": "general",
       "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "description": "The update uses Apple Intelligence to make better sense of your health data.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
+      "category": "general",
+      "score": 40,
       "imageUrl": null
     }
   ],
@@ -1148,6 +1148,39 @@
       "imageUrl": null
     },
     {
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+      "description": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 15:48:27 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a str...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-11T16:09:14.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "description": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
       "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
       "description": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponi...",
@@ -1156,6 +1189,28 @@
       "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400",
       "category": "ai",
       "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "description": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1178,6 +1233,17 @@
       "pubDate": "Fri, 11 Sep 2026 08:47:07 +0000",
       "category": "ai",
       "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "description": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hos...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400",
+      "category": "fraud",
+      "score": 91.6,
       "imageUrl": null
     },
     {
@@ -1214,17 +1280,6 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
       "link": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
       "description": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.",
@@ -1247,17 +1302,6 @@
       "imageUrl": null
     },
     {
-      "title": "Does this AI comic make you laugh?",
-      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-      "description": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Fri, 11 Sep 2026 12:49:30 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
       "link": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
       "description": "The state was the first to pass a law banning Kalshi and Polymarket. A lawsuit filed by a federal agency may set a precedent on who gets to regulate them.",
@@ -1265,28 +1309,6 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 11 Sep 2026 14:35:45 +0000",
       "category": "fraud",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Mic Is On. So Is Live Auto-Tune.",
-      "link": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
-      "description": "As audiences demand perfection from live performances, pitch correction technology has become an increasingly common way for singers to deliver.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 11 Sep 2026 11:21:16 +0000",
-      "category": "fraud",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Could A.I. Really Kill All Humans?",
-      "link": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
-      "description": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 11 Sep 2026 10:34:43 +0000",
-      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -1324,6 +1346,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
@@ -1335,14 +1368,14 @@
       "imageUrl": null
     },
     {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 16:05:35 +0000",
+      "title": "Does this AI comic make you laugh?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
+      "description": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Fri, 11 Sep 2026 12:49:30 GMT",
       "category": "ai",
-      "score": 82,
+      "score": 81.5,
       "imageUrl": null
     },
     {
@@ -1357,6 +1390,28 @@
       "imageUrl": null
     },
     {
+      "title": "The Mic Is On. So Is Live Auto-Tune.",
+      "link": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
+      "description": "As audiences demand perfection from live performances, pitch correction technology has become an increasingly common way for singers to deliver.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 11 Sep 2026 11:21:16 +0000",
+      "category": "fraud",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Could A.I. Really Kill All Humans?",
+      "link": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
+      "description": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 11 Sep 2026 10:34:43 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -1365,6 +1420,28 @@
       "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
       "category": "ai",
       "score": 81,
+      "imageUrl": null
+    },
+    {
+      "title": "Why AI Is So Good at Scamming Humans",
+      "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+      "description": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 18:14:06 GMT",
+      "category": "both",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI Governance Can't Wait",
+      "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+      "description": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 17:10:56 GMT",
+      "category": "ai",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -1401,17 +1478,6 @@
       "imageUrl": null
     },
     {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "description": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 11 Sep 2026 07:15:22 -0400",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
       "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "description": "In a new report, the A.I. start-up added that it could not determine whether the research was legitimate or nefarious, leading the company to shut down the work.",
@@ -1423,36 +1489,25 @@
       "imageUrl": null
     },
     {
-      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-      "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-      "description": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking.\nThe post Trezor Says 347,000 Users Received Phishing Emails...",
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "description": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.\nThe post Phishing Research Challenges Conventional Security Awareness...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 12:48:04 +0000",
-      "category": "both",
+      "pubDate": "Fri, 11 Sep 2026 17:23:36 +0000",
+      "category": "fraud",
       "score": 79,
       "imageUrl": null
     },
     {
-      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-      "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-      "description": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.\nThe post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appear...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 11:29:09 +0000",
-      "category": "both",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
-      "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
-      "description": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.\nThe post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 10:56:16 +0000",
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "description": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 07:15:22 -0400",
       "category": "ai",
-      "score": 79,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1478,14 +1533,36 @@
       "imageUrl": null
     },
     {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "description": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 11 Sep 2026 02:48:37 -0400",
+      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+      "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+      "description": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking.\nThe post Trezor Says 347,000 Users Received Phishing Emails...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 12:48:04 +0000",
       "category": "both",
-      "score": 77.6,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+      "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+      "description": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.\nThe post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appear...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 11:29:09 +0000",
+      "category": "both",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+      "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+      "description": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.\nThe post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 10:56:16 +0000",
+      "category": "ai",
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1533,6 +1610,17 @@
       "imageUrl": null
     },
     {
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+      "description": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server.\nThe post GitLab Vulnerability Exploited One Day After Disclosure appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 16:11:08 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can descr...",
@@ -1555,6 +1643,17 @@
       "imageUrl": null
     },
     {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "description": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 11 Sep 2026 02:48:37 -0400",
+      "category": "both",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "September Windows Server updates break Remote Desktop Services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
       "description": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and,...",
@@ -1566,34 +1665,12 @@
       "imageUrl": null
     },
     {
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
       "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1676,17 +1753,6 @@
       "imageUrl": null
     },
     {
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "description": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.\nThe post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 11 Sep 2026 11:10:02 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
@@ -1731,6 +1797,17 @@
       "imageUrl": null
     },
     {
+      "title": "Check Point Patches Critical VPN Vulnerabilities",
+      "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+      "description": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.\nThe post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 11 Sep 2026 11:10:02 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
       "title": "Meta’s Muse AI works and creeps me out",
       "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
       "description": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company...",
@@ -1753,12 +1830,12 @@
       "imageUrl": null
     },
     {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "description": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-09T20:44:43.000Z",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -1775,14 +1852,14 @@
       "imageUrl": null
     },
     {
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "description": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1852,28 +1929,6 @@
       "imageUrl": null
     },
     {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "description": "The company also argued that its on-device models offer consumers more privacy.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "The Ezra Klein Show: The A.I. Revolt Is Here",
       "link": "https://www.nytimes.com/2026/09/11/podcasts/hardfork-ezra-klein-jasmine-sun.html",
       "description": "The A.I. giants weren’t prepared for this.",
@@ -1885,34 +1940,12 @@
       "imageUrl": null
     },
     {
-      "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-      "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-      "description": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board.\nThe post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 10 Sep 2026 20:30:44 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-      "description": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa.\nThe post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 10 Sep 2026 16:14:58 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+      "description": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 11 Sep 2026 18:44:03 GMT",
       "category": "general",
       "score": 65.5,
       "imageUrl": null
@@ -1929,17 +1962,6 @@
       "imageUrl": null
     },
     {
-      "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
-      "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
-      "description": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 10 Sep 2026 17:20:51 +0000",
-      "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
       "title": "California’s Governor Signs Landmark Online Child Safety Bills",
       "link": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
       "description": "Gov. Gavin Newsom signed a bill that prohibits social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
@@ -1951,23 +1973,23 @@
       "imageUrl": null
     },
     {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "category": "general",
+      "score": 63.5,
+      "imageUrl": null
+    },
+    {
       "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
       "description": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 08 Sep 2026 21:03:46 GMT",
-      "category": "fraud",
-      "score": 62.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-      "description": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 08 Sep 2026 17:25:37 GMT",
       "category": "fraud",
       "score": 62.5,
       "imageUrl": null
@@ -2039,17 +2061,6 @@
       "imageUrl": null
     },
     {
-      "title": "New law to force tech firms to stop children taking or sharing nude images",
-      "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-      "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 08 Sep 2026 16:48:29 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
       "description": "Scammers demand money from Instagram users over fake copyright claims.",
@@ -2068,17 +2079,6 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 08 Sep 2026 19:00:03 +0000",
       "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
-      "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-      "description": "An attack discovered by A.I. researchers could have compromised hundreds of millions of devices within hours, experts said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 08 Sep 2026 16:50:25 +0000",
-      "category": "both",
       "score": 59.5,
       "imageUrl": null
     },
@@ -2127,25 +2127,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
+      "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
+      "description": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 10 Sep 2026 17:20:51 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
     {
-      "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
-      "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
-      "description": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 09 Sep 2026 16:39:27 +0000",
-      "category": "general",
-      "score": 56.5,
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -2160,34 +2160,12 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "description": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 10 Sep 2026 07:14:28 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
       "title": "Maven Robotics wants to steal your robot deployment deal",
       "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "description": "The update uses Apple Intelligence to make better sense of your health data.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
@@ -2204,6 +2182,17 @@
       "imageUrl": null
     },
     {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
       "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
       "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
@@ -2215,14 +2204,25 @@
       "imageUrl": null
     },
     {
-      "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
-      "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-      "description": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+      "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
+      "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+      "description": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 08 Sep 2026 16:03:26 +0000",
+      "pubDate": "Wed, 09 Sep 2026 16:39:27 +0000",
       "category": "general",
       "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "description": "The update uses Apple Intelligence to make better sense of your health data.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
+      "category": "general",
+      "score": 40,
       "imageUrl": null
     }
   ]
