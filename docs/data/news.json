@@ -1,26 +1,37 @@
 {
   "metadata": {
-    "generated": "2026-09-15T16:12:15.948Z",
+    "generated": "2026-09-15T22:42:18.292Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 79,
+    "totalArticles": 83,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 79 articles from 8 trusted sources, including 60 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Gates Foundation Pledges $1 Billion to Combat A.I. Inequality\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: CISA: Critical VMware RCE flaw now exploited by ransomware gangs\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, BleepingComputer, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 53 articles published in the last 24 hours",
-    "generated": "2026-09-15T16:12:15.948Z",
+    "content": "Today's selection covers 83 articles from 8 trusted sources, including 62 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Nvidia boss says AI 'doesn't need new laws' as safety concerns grow\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, Dark Reading, TechCrunch, The Verge and others\n• **Fresh Content**: 52 articles published in the last 24 hours",
+    "generated": "2026-09-15T22:42:18.292Z",
     "stats": {
-      "totalArticles": 79,
-      "aiArticles": 60,
-      "fraudArticles": 10,
+      "totalArticles": 83,
+      "aiArticles": 62,
+      "fraudArticles": 12,
       "sources": 8,
-      "todayCount": 53
+      "todayCount": 52
     }
   },
   "top": [
+    {
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 15 Sep 2026 22:13:10 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
     {
       "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
       "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
@@ -29,7 +40,18 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 15 Sep 2026 14:11:17 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "description": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI\nAt this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstru...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 15 Sep 2026 19:27:19 GMT",
+      "category": "both",
+      "score": 95.5,
       "imageUrl": null
     },
     {
@@ -40,9 +62,33 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 15 Sep 2026 09:02:21 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    }
+  ],
+  "more": [
     {
       "title": "This doorbell camera lets a human security guard watch your front door",
       "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
@@ -51,7 +97,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-15T13:36:45.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -62,7 +108,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 08:16:32 -0400",
       "category": "fraud",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -73,7 +119,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -84,11 +130,9 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
       "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
@@ -97,40 +141,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 12:42:32 +0000",
       "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "description": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and mo...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
-      "category": "fraud",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "description": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 14 Sep 2026 16:41:10 GMT",
-      "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
-      "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
-      "description": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people.\nThe post 240,000 Hit by Data Breach at Japan’s Digital Agency appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 15 Sep 2026 11:45:31 +0000",
-      "category": "fraud",
-      "score": 91,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -145,36 +156,25 @@
       "imageUrl": null
     },
     {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-14T21:21:42.000Z",
-      "category": "ai",
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "description": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and mo...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
+      "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
     {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "description": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-14T20:03:37.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "category": "ai",
-      "score": 90,
+      "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+      "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+      "description": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people.\nThe post 240,000 Hit by Data Breach at Japan’s Digital Agency appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 15 Sep 2026 11:45:31 +0000",
+      "category": "fraud",
+      "score": 89,
       "imageUrl": null
     },
     {
@@ -184,17 +184,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 14 Sep 2026 03:12:45 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-      "description": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 14 Sep 2026 14:43:54 +0000",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -211,6 +200,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+      "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "description": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 14 Sep 2026 14:43:54 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
       "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
       "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
       "description": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
@@ -222,6 +222,72 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+      "description": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 14 Sep 2026 16:41:10 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+      "description": "What should children learn in a world transformed by artificial intelligence?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 15 Sep 2026 19:30:00 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+      "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+      "description": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 22:17:56 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+      "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+      "description": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 20:06:21 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
+      "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
+      "description": "Federal prosecutors said proceeds from the sale of Iranian oil flowed through Binance, the world’s largest crypto exchange, to finance terrorism.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 17:29:37 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Simulated Fruit Fly Brain Did Not Write This Article",
+      "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
+      "description": "But models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 22:00:06 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
       "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
       "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
@@ -229,7 +295,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -240,7 +306,29 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 15:45:13 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-14T21:21:42.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "description": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-14T20:03:37.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -255,14 +343,14 @@
       "imageUrl": null
     },
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-13T19:41:48.000Z",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -277,25 +365,14 @@
       "imageUrl": null
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "category": "ai",
-      "score": 81,
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "description": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 15 Sep 2026 16:45:37 GMT",
+      "category": "fraud",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -321,6 +398,72 @@
       "imageUrl": null
     },
     {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "description": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 16:34:15 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 17:42:59 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+      "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+      "description": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.\nThe post Microsoft Commits to Sweeping AI Privacy Rules for St...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 15 Sep 2026 20:24:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
       "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
       "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles...",
@@ -328,7 +471,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-15T15:00:00.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -339,7 +482,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 11:00:00 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -350,18 +493,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 09:45:54 -0400",
       "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
-      "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
-      "description": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 14 Sep 2026 16:42:19 +0000",
-      "category": "ai",
-      "score": 79.5,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -372,7 +504,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -383,7 +515,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 14:42:37 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -394,7 +526,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 16:00:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -405,7 +537,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 15:30:24 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -416,7 +548,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 13:33:58 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "description": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400",
+      "category": "fraud",
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -427,7 +570,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 04:40:20 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -438,7 +581,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 03:31:09 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -449,29 +592,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 09:40:25 +0000",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-      "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-      "description": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.\nThe post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 15 Sep 2026 09:09:00 +0000",
-      "category": "fraud",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-      "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-      "description": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.\nThe post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Ex...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 15 Sep 2026 05:18:51 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -482,117 +603,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 10:45:10 -0400",
       "category": "fraud",
-      "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
-      "description": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 14 Sep 2026 21:37:28 GMT",
-      "category": "both",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
-      "description": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 14 Sep 2026 20:19:22 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "description": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 16:52:18 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "description": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "description": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 12:15:58 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "category": "ai",
-      "score": 75,
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -607,36 +618,25 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
       "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
       "description": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 15 Sep 2026 13:33:58 +0000",
+      "pubDate": "Tue, 15 Sep 2026 21:46:04 +0000",
       "category": "general",
       "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "description": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria,...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 10:01:11 -0400",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
       "category": "ai",
-      "score": 73.6,
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -662,113 +662,135 @@
       "imageUrl": null
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+      "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+      "description": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 14 Sep 2026 16:42:19 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
     },
     {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib...",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-12T21:41:36.000Z",
+      "pubDate": "2026-09-13T19:41:48.000Z",
       "category": "ai",
       "score": 70.6,
       "imageUrl": null
     },
     {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "description": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-12T21:16:28.000Z",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
       "category": "ai",
-      "score": 70.6,
+      "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-12T16:23:40.000Z",
-      "category": "ai",
-      "score": 70.6,
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "description": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 14 Sep 2026 21:37:28 GMT",
+      "category": "both",
+      "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "description": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show...",
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "description": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 14 Sep 2026 20:19:22 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "description": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 08:15:23 -0400",
+      "pubDate": "Mon, 14 Sep 2026 16:52:18 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "description": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400",
       "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "description": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 14:30:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
+      "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400",
+      "category": "fraud",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "description": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 15 Sep 2026 20:16:00 GMT",
       "category": "general",
-      "score": 66.6,
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -783,14 +805,25 @@
       "imageUrl": null
     },
     {
-      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 14 Sep 2026 17:05:31 GMT",
+      "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+      "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+      "description": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today.\nThe post “We Think the Security Control Is...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 15 Sep 2026 19:30:00 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "description": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 12:40:14 -0400",
+      "category": "general",
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -801,7 +834,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 14:30:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -812,7 +845,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -823,7 +856,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 11:06:11 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -838,45 +871,56 @@
       "imageUrl": null
     },
     {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
+      "category": "general",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 14 Sep 2026 17:05:31 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
       "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
-      "link": "https://www.nytimes.com/2026/09/12/technology/ai-safeguards.html",
-      "description": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 12 Sep 2026 16:18:06 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investor...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
@@ -895,6 +939,17 @@
   ],
   "all": [
     {
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 15 Sep 2026 22:13:10 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
       "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
       "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
       "description": "Bill Gates, the foundation’s chairman, has been vocal about the dangers of artificial intelligence. The donation will be invested in A.I. projects to bridge social inequalities.",
@@ -902,7 +957,18 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 15 Sep 2026 14:11:17 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "description": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI\nAt this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstru...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 15 Sep 2026 19:27:19 GMT",
+      "category": "both",
+      "score": 95.5,
       "imageUrl": null
     },
     {
@@ -913,7 +979,29 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 15 Sep 2026 09:02:21 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -924,7 +1012,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-15T13:36:45.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -935,7 +1023,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 08:16:32 -0400",
       "category": "fraud",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -946,7 +1034,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -957,7 +1045,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -968,40 +1056,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 12:42:32 +0000",
       "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "description": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and mo...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
-      "category": "fraud",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "description": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 14 Sep 2026 16:41:10 GMT",
-      "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
-      "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
-      "description": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people.\nThe post 240,000 Hit by Data Breach at Japan’s Digital Agency appeared first on Security...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 15 Sep 2026 11:45:31 +0000",
-      "category": "fraud",
-      "score": 91,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1016,36 +1071,25 @@
       "imageUrl": null
     },
     {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-14T21:21:42.000Z",
-      "category": "ai",
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "description": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and mo...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
+      "category": "fraud",
       "score": 90.6,
       "imageUrl": null
     },
     {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "description": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-14T20:03:37.000Z",
-      "category": "ai",
-      "score": 90.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "category": "ai",
-      "score": 90,
+      "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+      "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+      "description": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people.\nThe post 240,000 Hit by Data Breach at Japan’s Digital Agency appeared first on Security...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 15 Sep 2026 11:45:31 +0000",
+      "category": "fraud",
+      "score": 89,
       "imageUrl": null
     },
     {
@@ -1055,17 +1099,6 @@
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 14 Sep 2026 03:12:45 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-      "description": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 14 Sep 2026 14:43:54 +0000",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -1082,6 +1115,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+      "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "description": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 14 Sep 2026 14:43:54 +0000",
+      "category": "ai",
+      "score": 86.5,
+      "imageUrl": null
+    },
+    {
       "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
       "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
       "description": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
@@ -1093,6 +1137,72 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+      "description": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 14 Sep 2026 16:41:10 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+      "description": "What should children learn in a world transformed by artificial intelligence?",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 15 Sep 2026 19:30:00 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+      "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+      "description": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 22:17:56 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+      "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+      "description": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 20:06:21 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
+      "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
+      "description": "Federal prosecutors said proceeds from the sale of Iranian oil flowed through Binance, the world’s largest crypto exchange, to finance terrorism.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 17:29:37 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google’s Simulated Fruit Fly Brain Did Not Write This Article",
+      "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
+      "description": "But models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 15 Sep 2026 22:00:06 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
       "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
       "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
@@ -1100,7 +1210,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 83,
       "imageUrl": null
     },
     {
@@ -1111,7 +1221,29 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 15:45:13 +0000",
       "category": "ai",
-      "score": 85,
+      "score": 83,
+      "imageUrl": null
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-14T21:21:42.000Z",
+      "category": "ai",
+      "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "description": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-14T20:03:37.000Z",
+      "category": "ai",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1126,14 +1258,14 @@
       "imageUrl": null
     },
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-13T19:41:48.000Z",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1148,25 +1280,14 @@
       "imageUrl": null
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "category": "ai",
-      "score": 82,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "category": "ai",
-      "score": 81,
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "description": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 15 Sep 2026 16:45:37 GMT",
+      "category": "fraud",
+      "score": 80.5,
       "imageUrl": null
     },
     {
@@ -1192,6 +1313,72 @@
       "imageUrl": null
     },
     {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "description": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 16:34:15 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
+      "category": "both",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 17:42:59 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+      "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+      "description": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.\nThe post Microsoft Commits to Sweeping AI Privacy Rules for St...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 15 Sep 2026 20:24:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
       "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
       "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
       "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles...",
@@ -1199,7 +1386,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-15T15:00:00.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1210,7 +1397,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 11:00:00 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1221,18 +1408,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 09:45:54 -0400",
       "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
-      "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
-      "description": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 14 Sep 2026 16:42:19 +0000",
-      "category": "ai",
-      "score": 79.5,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1243,7 +1419,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1254,7 +1430,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 14:42:37 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1265,7 +1441,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 16:00:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1276,7 +1452,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 15:30:24 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1287,7 +1463,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 13:33:58 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "description": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400",
+      "category": "fraud",
+      "score": 76.6,
       "imageUrl": null
     },
     {
@@ -1298,7 +1485,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 04:40:20 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1309,7 +1496,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 03:31:09 -0400",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1320,29 +1507,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 09:40:25 +0000",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-      "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-      "description": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.\nThe post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on Sec...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 15 Sep 2026 09:09:00 +0000",
-      "category": "fraud",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-      "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-      "description": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.\nThe post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Ex...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 15 Sep 2026 05:18:51 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1353,117 +1518,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 15 Sep 2026 10:45:10 -0400",
       "category": "fraud",
-      "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
-      "description": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 14 Sep 2026 21:37:28 GMT",
-      "category": "both",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
-      "description": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 14 Sep 2026 20:19:22 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "description": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 16:52:18 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "description": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400",
-      "category": "both",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "description": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 12:15:58 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "category": "ai",
-      "score": 75,
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -1478,36 +1533,25 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
       "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
       "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
       "description": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 15 Sep 2026 13:33:58 +0000",
+      "pubDate": "Tue, 15 Sep 2026 21:46:04 +0000",
       "category": "general",
       "score": 74.5,
       "imageUrl": null
     },
     {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "description": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria,...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 10:01:11 -0400",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
       "category": "ai",
-      "score": 73.6,
+      "score": 73,
       "imageUrl": null
     },
     {
@@ -1533,113 +1577,135 @@
       "imageUrl": null
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+      "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+      "description": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 14 Sep 2026 16:42:19 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
     },
     {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib...",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-12T21:41:36.000Z",
+      "pubDate": "2026-09-13T19:41:48.000Z",
       "category": "ai",
       "score": 70.6,
       "imageUrl": null
     },
     {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "description": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-12T21:16:28.000Z",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
       "category": "ai",
-      "score": 70.6,
+      "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-12T16:23:40.000Z",
-      "category": "ai",
-      "score": 70.6,
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "description": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 14 Sep 2026 21:37:28 GMT",
+      "category": "both",
+      "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "description": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show...",
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "description": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 14 Sep 2026 20:19:22 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "description": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 08:15:23 -0400",
+      "pubDate": "Mon, 14 Sep 2026 16:52:18 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "description": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400",
       "category": "both",
       "score": 67.6,
       "imageUrl": null
     },
     {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "description": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 14:30:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
+      "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400",
+      "category": "fraud",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "description": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 15 Sep 2026 20:16:00 GMT",
       "category": "general",
-      "score": 66.6,
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -1654,14 +1720,25 @@
       "imageUrl": null
     },
     {
-      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 14 Sep 2026 17:05:31 GMT",
+      "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+      "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+      "description": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today.\nThe post “We Think the Security Control Is...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 15 Sep 2026 19:30:00 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "description": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 15 Sep 2026 12:40:14 -0400",
+      "category": "general",
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1672,7 +1749,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 14:30:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1683,7 +1760,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1694,7 +1771,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 15 Sep 2026 11:06:11 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1709,45 +1786,56 @@
       "imageUrl": null
     },
     {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
+      "category": "general",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Mon, 14 Sep 2026 17:05:31 GMT",
+      "category": "general",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
       "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
       "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
-      "link": "https://www.nytimes.com/2026/09/12/technology/ai-safeguards.html",
-      "description": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 12 Sep 2026 16:18:06 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investor...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
