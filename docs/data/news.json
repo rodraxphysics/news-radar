@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-09-18T03:06:43.916Z",
+    "generated": "2026-09-18T08:43:56.063Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 93,
+    "totalArticles": 95,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 93 articles from 9 trusted sources, including 68 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Microsoft AI CEO says AI threats are real, and Anthropic is making it worse\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, BBC Technology, TechCrunch, The Verge, BleepingComputer and others\n• **Fresh Content**: 54 articles published in the last 24 hours",
-    "generated": "2026-09-18T03:06:43.916Z",
+    "content": "Today's selection covers 95 articles from 9 trusted sources, including 70 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Microsoft AI CEO says AI threats are real, and Anthropic is making it worse\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, BBC Technology, TechCrunch, Ars Technica, The Verge and others\n• **Fresh Content**: 52 articles published in the last 24 hours",
+    "generated": "2026-09-18T08:43:56.063Z",
     "stats": {
-      "totalArticles": 93,
-      "aiArticles": 68,
+      "totalArticles": 95,
+      "aiArticles": 70,
       "fraudArticles": 13,
       "sources": 9,
-      "todayCount": 54
+      "todayCount": 52
     }
   },
   "top": [
@@ -29,7 +29,7 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 18 Sep 2026 01:12:52 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -39,17 +39,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "category": "ai",
-      "score": 94.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
@@ -73,7 +62,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -84,7 +73,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "description": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "category": "ai",
+      "score": 91.5,
       "imageUrl": null
     }
   ],
@@ -97,7 +97,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-17T19:28:24.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -108,73 +108,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-17T18:58:05.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Is the AI safety debate about safety or control?",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-      "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-      "description": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.\nThe post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Trainin...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 15:45:29 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -200,12 +134,78 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "description": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 13:38:33 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+      "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+      "description": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.\nThe post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Trainin...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 17 Sep 2026 15:45:29 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -219,6 +219,17 @@
       "pubDate": "Thu, 17 Sep 2026 14:06:14 +0000",
       "category": "ai",
       "score": 87,
+      "imageUrl": null
+    },
+    {
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "category": "ai",
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -266,17 +277,6 @@
       "imageUrl": null
     },
     {
-      "title": "The virtual worlds where robots are trained",
-      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
       "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
       "description": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar t...",
@@ -321,12 +321,12 @@
       "imageUrl": null
     },
     {
-      "title": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
-      "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
-      "description": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 15:34:59 +0000",
+      "title": "The virtual worlds where robots are trained",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -343,13 +343,24 @@
       "imageUrl": null
     },
     {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "description": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "description": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "description": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "category": "both",
+      "pubDate": "Fri, 18 Sep 2026 03:35:31 -0400",
+      "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
@@ -360,6 +371,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
+      "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+      "description": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 17 Sep 2026 15:34:59 +0000",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -376,6 +398,28 @@
       "imageUrl": null
     },
     {
+      "title": "MIND Secures $72 Million for AI-Powered DLP",
+      "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+      "description": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets.\nThe post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 07:25:27 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "description": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "description": "The round values the data center giant at $30.9 billion.",
@@ -383,7 +427,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -394,62 +438,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [......",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
-      "category": "both",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
-      "category": "ai",
       "score": 77,
       "imageUrl": null
     },
     {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Even the king of England has his hesitations about AI",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
-      "category": "ai",
-      "score": 77,
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "description": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.\nThe post Critical Orkes Conductor Vulnerability Exploited in Attack...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 08:42:18 +0000",
+      "category": "fraud",
+      "score": 76,
       "imageUrl": null
     },
     {
@@ -460,6 +460,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-17T14:00:00.000Z",
       "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
+      "category": "both",
       "score": 75.6,
       "imageUrl": null
     },
@@ -497,14 +508,47 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "description": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 04:24:48 -0400",
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -514,28 +558,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 13:46:16 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -558,17 +580,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Thu, 17 Sep 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-      "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-      "description": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks.\nThe post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 07:41:29 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -604,28 +615,6 @@
       "pubDate": "2026-09-16T17:20:29.000Z",
       "category": "ai",
       "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "description": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 03:20:54 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "description": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 17 Sep 2026 21:23:50 GMT",
-      "category": "general",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -684,6 +673,28 @@
       "imageUrl": null
     },
     {
+      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+      "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+      "description": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges.\nThe post Check Point, Kaspersky, Tanium Patch Produc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 07:14:04 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "description": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 17 Sep 2026 21:23:50 GMT",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
       "description": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
@@ -728,6 +739,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "description": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 04:24:48 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
       "description": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain c...",
@@ -761,14 +783,25 @@
       "imageUrl": null
     },
     {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "description": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400",
-      "category": "both",
-      "score": 67.6,
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -816,6 +849,17 @@
       "imageUrl": null
     },
     {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "description": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 03:20:54 -0400",
+      "category": "fraud",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "4 Strategies to Battle ‘Techflation’",
       "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
       "description": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
@@ -834,18 +878,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 17 Sep 2026 19:15:38 GMT",
       "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "description": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.\nThe post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Boar...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 17:09:40 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -871,23 +904,12 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-      "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "description": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution.  \nThe post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared...",
+      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+      "description": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.\nThe post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Boar...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 12:17:40 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
-      "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-      "description": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.\nThe post CISA Releases Cyber Decoy Guidance to Strengthen Critical...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 07:53:43 +0000",
+      "pubDate": "Thu, 17 Sep 2026 17:09:40 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1003,17 +1025,6 @@
       "imageUrl": null
     },
     {
-      "title": "Age Limits for Social Media Outlined by European Union",
-      "link": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
-      "description": "A proposed law would bar children under 13 from using social media across the 27-nation bloc.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 16 Sep 2026 08:20:37 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
       "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
       "description": "Group plans to be largely out of commission for several weeks.",
@@ -1033,6 +1044,17 @@
       "pubDate": "Tue, 15 Sep 2026 21:46:04 +0000",
       "category": "general",
       "score": 50.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Age Limits for Social Media Outlined by European Union",
+      "link": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
+      "description": "A proposed law would bar children under 13 from using social media across the 27-nation bloc.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 16 Sep 2026 08:20:37 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
@@ -1056,7 +1078,7 @@
       "domain": "nytimes.com",
       "pubDate": "Fri, 18 Sep 2026 01:12:52 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1066,17 +1088,6 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "category": "ai",
-      "score": 94.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
@@ -1100,7 +1111,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1111,7 +1122,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "description": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "category": "ai",
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -1122,7 +1144,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-17T19:28:24.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1133,73 +1155,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-17T18:58:05.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Is the AI safety debate about safety or control?",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-      "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-      "description": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.\nThe post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Trainin...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 15:45:29 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1225,12 +1181,78 @@
       "imageUrl": null
     },
     {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
+      "category": "ai",
+      "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "description": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 13:38:33 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+      "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+      "description": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.\nThe post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Trainin...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 17 Sep 2026 15:45:29 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -1244,6 +1266,17 @@
       "pubDate": "Thu, 17 Sep 2026 14:06:14 +0000",
       "category": "ai",
       "score": 87,
+      "imageUrl": null
+    },
+    {
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "category": "ai",
+      "score": 86.5,
       "imageUrl": null
     },
     {
@@ -1291,17 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "The virtual worlds where robots are trained",
-      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
       "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
       "description": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar t...",
@@ -1346,12 +1368,12 @@
       "imageUrl": null
     },
     {
-      "title": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
-      "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
-      "description": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 15:34:59 +0000",
+      "title": "The virtual worlds where robots are trained",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
       "category": "ai",
       "score": 81.5,
       "imageUrl": null
@@ -1368,13 +1390,24 @@
       "imageUrl": null
     },
     {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "description": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "description": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "description": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "category": "both",
+      "pubDate": "Fri, 18 Sep 2026 03:35:31 -0400",
+      "category": "ai",
       "score": 79.6,
       "imageUrl": null
     },
@@ -1385,6 +1418,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
+      "title": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
+      "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+      "description": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 17 Sep 2026 15:34:59 +0000",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
@@ -1401,6 +1445,28 @@
       "imageUrl": null
     },
     {
+      "title": "MIND Secures $72 Million for AI-Powered DLP",
+      "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+      "description": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets.\nThe post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 07:25:27 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "description": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400",
+      "category": "both",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "description": "The round values the data center giant at $30.9 billion.",
@@ -1408,7 +1474,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1419,62 +1485,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [......",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
-      "category": "both",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
-      "category": "ai",
       "score": 77,
       "imageUrl": null
     },
     {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Even the king of England has his hesitations about AI",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
-      "category": "ai",
-      "score": 77,
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "description": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.\nThe post Critical Orkes Conductor Vulnerability Exploited in Attack...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 08:42:18 +0000",
+      "category": "fraud",
+      "score": 76,
       "imageUrl": null
     },
     {
@@ -1485,6 +1507,17 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-17T14:00:00.000Z",
       "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
+      "category": "both",
       "score": 75.6,
       "imageUrl": null
     },
@@ -1522,14 +1555,47 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "description": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 04:24:48 -0400",
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1539,28 +1605,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 17 Sep 2026 13:46:16 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1583,17 +1627,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Thu, 17 Sep 2026 13:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-      "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-      "description": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks.\nThe post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 07:41:29 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1629,28 +1662,6 @@
       "pubDate": "2026-09-16T17:20:29.000Z",
       "category": "ai",
       "score": 73.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "description": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 03:20:54 -0400",
-      "category": "fraud",
-      "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "description": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 17 Sep 2026 21:23:50 GMT",
-      "category": "general",
-      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -1709,6 +1720,28 @@
       "imageUrl": null
     },
     {
+      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+      "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+      "description": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges.\nThe post Check Point, Kaspersky, Tanium Patch Produc...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 07:14:04 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "description": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 17 Sep 2026 21:23:50 GMT",
+      "category": "general",
+      "score": 69.5,
+      "imageUrl": null
+    },
+    {
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
       "description": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
@@ -1753,6 +1786,17 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "description": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 04:24:48 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
       "description": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain c...",
@@ -1786,14 +1830,25 @@
       "imageUrl": null
     },
     {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "description": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400",
-      "category": "both",
-      "score": 67.6,
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "category": "ai",
+      "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1841,6 +1896,17 @@
       "imageUrl": null
     },
     {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "description": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 17 Sep 2026 03:20:54 -0400",
+      "category": "fraud",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
       "title": "4 Strategies to Battle ‘Techflation’",
       "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
       "description": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
@@ -1859,18 +1925,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 17 Sep 2026 19:15:38 GMT",
       "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "description": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.\nThe post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Boar...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 17:09:40 +0000",
-      "category": "general",
-      "score": 62,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1896,23 +1951,12 @@
       "imageUrl": null
     },
     {
-      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-      "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "description": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution.  \nThe post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared...",
+      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+      "description": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.\nThe post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Boar...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 12:17:40 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
-      "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-      "description": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.\nThe post CISA Releases Cyber Decoy Guidance to Strengthen Critical...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 07:53:43 +0000",
+      "pubDate": "Thu, 17 Sep 2026 17:09:40 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -2028,17 +2072,6 @@
       "imageUrl": null
     },
     {
-      "title": "Age Limits for Social Media Outlined by European Union",
-      "link": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
-      "description": "A proposed law would bar children under 13 from using social media across the 27-nation bloc.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 16 Sep 2026 08:20:37 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
       "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
       "description": "Group plans to be largely out of commission for several weeks.",
@@ -2058,6 +2091,17 @@
       "pubDate": "Tue, 15 Sep 2026 21:46:04 +0000",
       "category": "general",
       "score": 50.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Age Limits for Social Media Outlined by European Union",
+      "link": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
+      "description": "A proposed law would bar children under 13 from using social media across the 27-nation bloc.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 16 Sep 2026 08:20:37 +0000",
+      "category": "general",
+      "score": 44.5,
       "imageUrl": null
     },
     {
