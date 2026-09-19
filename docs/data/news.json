@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-09-19T08:30:19.492Z",
+    "generated": "2026-09-19T15:19:43.385Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 98,
+    "totalArticles": 95,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 98 articles from 9 trusted sources, including 65 on Artificial Intelligence and 10 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Google's Gemini AI hacked three companies in security test\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, The Verge, TechCrunch, SecurityWeek and others\n• **Fresh Content**: 54 articles published in the last 24 hours",
-    "generated": "2026-09-19T08:30:19.492Z",
+    "content": "Today's selection covers 95 articles from 9 trusted sources, including 62 on Artificial Intelligence and 11 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Google's Gemini AI hacked three companies in security test\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Gyazo server flaw exploited to steal 23.6 million user records\n• **Threat Landscape**: Today's coverage highlights ransomware, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, The Verge, BleepingComputer, NY Times Tech, TechCrunch and others\n• **Fresh Content**: 44 articles published in the last 24 hours",
+    "generated": "2026-09-19T15:19:43.385Z",
     "stats": {
-      "totalArticles": 98,
-      "aiArticles": 65,
-      "fraudArticles": 10,
+      "totalArticles": 95,
+      "aiArticles": 62,
+      "fraudArticles": 11,
       "sources": 9,
-      "todayCount": 54
+      "todayCount": 44
     }
   },
   "top": [
@@ -27,9 +27,42 @@
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
+      "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-19T14:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI regulation smackdown isn’t over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-19T13:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "description": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. Th...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -40,9 +73,22 @@
       "domain": "nytimes.com",
       "pubDate": "Sat, 19 Sep 2026 00:31:38 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    }
+  ],
+  "more": [
     {
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
@@ -51,29 +97,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-18T21:07:24.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -86,9 +110,7 @@
       "category": "ai",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "What Hollywood thinks about existential AI warnings",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
@@ -109,6 +131,28 @@
       "pubDate": "2026-09-18T15:30:16.000Z",
       "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -145,39 +189,6 @@
       "imageUrl": null
     },
     {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-      "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-      "description": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.\nThe post In Other News: Rans...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 14:25:00 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-      "description": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. \nThe post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 12:45:24 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
       "description": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
@@ -189,45 +200,12 @@
       "imageUrl": null
     },
     {
-      "title": "23 Million User Records Compromised in Gyazo Data Breach",
-      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-      "description": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.\nThe post 23 Million User Records Compromised in Gyazo Data Breach  appeared fir...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 11:38:40 +0000",
-      "category": "fraud",
-      "score": 87,
-      "imageUrl": null
-    },
-    {
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
       "link": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
       "description": "Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 18 Sep 2026 01:12:52 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
-      "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
-      "description": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 09:00:08 +0000",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -266,17 +244,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. \nIt should come...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-17T14:00:00.000Z",
-      "category": "both",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI details more cases of AI agents taking unauthorized actions",
       "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
       "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l...",
@@ -288,25 +255,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their...",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
     },
     {
-      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 19 Sep 2026 00:23:01 +0000",
+      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
+      "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+      "description": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.\nThe post In Other News: Rans...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 14:25:00 +0000",
+      "category": "fraud",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+      "description": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. \nThe post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 12:45:24 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -332,69 +310,69 @@
       "imageUrl": null
     },
     {
-      "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
-      "link": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
-      "description": "Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "description": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "description": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "description": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses call...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 18 Sep 2026 14:23:19 +0000",
+      "pubDate": "Sat, 19 Sep 2026 00:23:01 +0000",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
-      "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
-      "description": "The countries, along with Israeli firms, combined Chinese open-source A.I. models and A.I. agents for the campaigns, foreshadowing future online manipulation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 18 Sep 2026 14:20:10 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
-      "link": "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html",
-      "description": "“It has been one of the fastest, most sudden shifts I’ve experienced.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 18 Sep 2026 11:00:04 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "category": "ai",
-      "score": 77,
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "category": "ai",
-      "score": 77,
+      "title": "23 Million User Records Compromised in Gyazo Data Breach",
+      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+      "description": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.\nThe post 23 Million User Records Compromised in Gyazo Data Breach  appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 11:38:40 +0000",
+      "category": "fraud",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -431,36 +409,36 @@
       "imageUrl": null
     },
     {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-18T11:00:00.000Z",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "description": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400",
-      "category": "both",
-      "score": 75.6,
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "description": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold S...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 10:00:10 -0400",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -497,25 +475,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
-      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
-      "description": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.\nThe post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 10:57:03 +0000",
+      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-      "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-      "description": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.\nThe post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 09:46:57 +0000",
-      "category": "both",
-      "score": 75,
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -541,12 +508,12 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 16 Sep 2026 10:02:05 GMT",
+      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+      "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "description": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 17 Sep 2026 09:00:08 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -574,17 +541,6 @@
       "imageUrl": null
     },
     {
-      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-      "description": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.\nThe post Critical Orkes Conductor Vulnerability Exploited in Attack...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 08:42:18 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
       "title": "[Virtual Event] Cybersecurity Outlook 2027",
       "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "description": "",
@@ -607,12 +563,34 @@
       "imageUrl": null
     },
     {
-      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-      "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
+      "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
+      "link": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
+      "description": "Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 18 Sep 2026 14:23:19 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
+      "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+      "description": "The countries, along with Israeli firms, combined Chinese open-source A.I. models and A.I. agents for the campaigns, foreshadowing future online manipulation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 18 Sep 2026 14:20:10 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
+      "link": "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html",
+      "description": "“It has been one of the fastest, most sudden shifts I’ve experienced.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 18 Sep 2026 11:00:04 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -629,17 +607,6 @@
       "imageUrl": null
     },
     {
-      "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
-      "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
-      "description": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 14:57:37 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
       "description": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
@@ -651,12 +618,45 @@
       "imageUrl": null
     },
     {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "description": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew\t\n\nPew Research has published a new global survey that sheds light...",
+      "title": "4 Strategies to Battle ‘Techflation’",
+      "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
+      "description": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 19 Sep 2026 09:22:45 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-17T14:00:00.000Z",
+      "pubDate": "2026-09-18T11:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "description": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400",
+      "category": "both",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "description": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold S...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 10:00:10 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -695,46 +695,24 @@
       "imageUrl": null
     },
     {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "description": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400",
+      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+      "description": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.\nThe post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 10:57:03 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "description": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "description": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "description": "The round values the data center giant at $30.9 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
-      "category": "ai",
+      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+      "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "description": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.\nThe post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWee...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 09:46:57 +0000",
+      "category": "both",
       "score": 67,
       "imageUrl": null
     },
@@ -750,17 +728,6 @@
       "imageUrl": null
     },
     {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "description": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400",
-      "category": "general",
-      "score": 66.6,
-      "imageUrl": null
-    },
-    {
       "title": "Would Australians support a smart glasses ban?",
       "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
       "description": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
@@ -768,7 +735,7 @@
       "domain": "bbc.com",
       "pubDate": "Fri, 18 Sep 2026 23:15:10 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -779,7 +746,7 @@
       "domain": "bbc.com",
       "pubDate": "Sat, 19 Sep 2026 01:00:00 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -816,14 +783,25 @@
       "imageUrl": null
     },
     {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+      "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+      "description": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.\nThe post TigerByte Cyber Emerges From Stealth With $3 Million in...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 19 Sep 2026 14:30:00 +0000",
       "category": "general",
-      "score": 62,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "description": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.\nThe post Critical Orkes Conductor Vulnerability Exploited in Attack...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 08:42:18 +0000",
+      "category": "fraud",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -849,36 +827,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "description": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 09:58:40 -0400",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
       "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "description": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 09:10:19 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "description": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400",
-      "category": "general",
-      "score": 60.6,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -888,39 +844,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
-      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
-      "description": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.\nThe post NightmareStresser DDoS Service Disrupted in International Operation appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 10:12:33 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -937,23 +860,23 @@
       "imageUrl": null
     },
     {
-      "title": "How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations",
-      "link": "https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html",
-      "description": "Generic questions get generic answers, experts say, so to avoid mediocre recommendations, you’ll need to write smarter prompts. Follow these tips.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 16 Sep 2026 09:02:18 +0000",
+      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+      "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
     {
-      "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
-      "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
-      "description": "Models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
+      "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
+      "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
+      "description": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 16 Sep 2026 13:37:35 +0000",
+      "pubDate": "Thu, 17 Sep 2026 14:57:37 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -966,6 +889,17 @@
       "domain": "krebsonsecurity.com",
       "pubDate": "Wed, 16 Sep 2026 18:14:22 +0000",
       "category": "ai",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "description": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400",
+      "category": "general",
       "score": 58.6,
       "imageUrl": null
     },
@@ -1003,17 +937,6 @@
       "imageUrl": null
     },
     {
-      "title": "4 Strategies to Battle ‘Techflation’",
-      "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
-      "description": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 14:27:16 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
       "description": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
@@ -1025,23 +948,67 @@
       "imageUrl": null
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "description": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "description": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400",
+      "pubDate": "Fri, 18 Sep 2026 09:58:40 -0400",
       "category": "general",
       "score": 52.6,
       "imageUrl": null
     },
     {
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "description": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.\nThe post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Boar...",
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "description": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 09:10:19 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "description": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+      "description": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.\nThe post NightmareStresser DDoS Service Disrupted in International Operation appeared...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 17:09:40 +0000",
+      "pubDate": "Fri, 18 Sep 2026 10:12:33 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
@@ -1109,9 +1076,42 @@
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
+      "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT",
       "category": "ai",
       "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-19T14:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI regulation smackdown isn’t over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-19T13:00:00.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "description": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. Th...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "category": "ai",
+      "score": 94.6,
       "imageUrl": null
     },
     {
@@ -1122,7 +1122,18 @@
       "domain": "nytimes.com",
       "pubDate": "Sat, 19 Sep 2026 00:31:38 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
+      "imageUrl": null
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1133,29 +1144,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-18T21:07:24.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1192,6 +1181,28 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
       "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
@@ -1225,39 +1236,6 @@
       "imageUrl": null
     },
     {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-      "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-      "description": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.\nThe post In Other News: Rans...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 14:25:00 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-      "description": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. \nThe post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 12:45:24 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
       "description": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
@@ -1269,45 +1247,12 @@
       "imageUrl": null
     },
     {
-      "title": "23 Million User Records Compromised in Gyazo Data Breach",
-      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-      "description": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.\nThe post 23 Million User Records Compromised in Gyazo Data Breach  appeared fir...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 11:38:40 +0000",
-      "category": "fraud",
-      "score": 87,
-      "imageUrl": null
-    },
-    {
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
       "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
       "link": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
       "description": "Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Fri, 18 Sep 2026 01:12:52 +0000",
-      "category": "ai",
-      "score": 86.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
-      "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
-      "description": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 09:00:08 +0000",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
@@ -1346,17 +1291,6 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. \nIt should come...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-17T14:00:00.000Z",
-      "category": "both",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "OpenAI details more cases of AI agents taking unauthorized actions",
       "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
       "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l...",
@@ -1368,25 +1302,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their...",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
       "category": "ai",
       "score": 82,
       "imageUrl": null
     },
     {
-      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sat, 19 Sep 2026 00:23:01 +0000",
+      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
+      "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+      "description": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.\nThe post In Other News: Rans...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 14:25:00 +0000",
+      "category": "fraud",
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+      "description": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. \nThe post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on Secur...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 12:45:24 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1412,69 +1357,69 @@
       "imageUrl": null
     },
     {
-      "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
-      "link": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
-      "description": "Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "description": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "description": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service....",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400",
+      "category": "fraud",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "description": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses call...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 18 Sep 2026 14:23:19 +0000",
+      "pubDate": "Sat, 19 Sep 2026 00:23:01 +0000",
       "category": "ai",
       "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
-      "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
-      "description": "The countries, along with Israeli firms, combined Chinese open-source A.I. models and A.I. agents for the campaigns, foreshadowing future online manipulation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 18 Sep 2026 14:20:10 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
-      "link": "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html",
-      "description": "“It has been one of the fastest, most sudden shifts I’ve experienced.”",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Fri, 18 Sep 2026 11:00:04 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "category": "ai",
-      "score": 77,
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "category": "both",
+      "score": 79,
       "imageUrl": null
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "category": "ai",
-      "score": 77,
+      "title": "23 Million User Records Compromised in Gyazo Data Breach",
+      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+      "description": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.\nThe post 23 Million User Records Compromised in Gyazo Data Breach  appeared fir...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 11:38:40 +0000",
+      "category": "fraud",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1511,36 +1456,36 @@
       "imageUrl": null
     },
     {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-18T11:00:00.000Z",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "description": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400",
-      "category": "both",
-      "score": 75.6,
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "description": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold S...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 10:00:10 -0400",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
       "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1577,25 +1522,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
-      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
-      "description": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.\nThe post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products a...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 10:57:03 +0000",
+      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-      "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-      "description": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.\nThe post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 09:46:57 +0000",
-      "category": "both",
-      "score": 75,
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1621,12 +1555,12 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 16 Sep 2026 10:02:05 GMT",
+      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+      "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "description": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 17 Sep 2026 09:00:08 +0000",
       "category": "ai",
       "score": 74.5,
       "imageUrl": null
@@ -1654,17 +1588,6 @@
       "imageUrl": null
     },
     {
-      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-      "description": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.\nThe post Critical Orkes Conductor Vulnerability Exploited in Attack...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 08:42:18 +0000",
-      "category": "fraud",
-      "score": 72,
-      "imageUrl": null
-    },
-    {
       "title": "[Virtual Event] Cybersecurity Outlook 2027",
       "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "description": "",
@@ -1687,12 +1610,34 @@
       "imageUrl": null
     },
     {
-      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-      "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
+      "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
+      "link": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
+      "description": "Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 18 Sep 2026 14:23:19 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
+      "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+      "description": "The countries, along with Israeli firms, combined Chinese open-source A.I. models and A.I. agents for the campaigns, foreshadowing future online manipulation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 18 Sep 2026 14:20:10 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
+      "link": "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html",
+      "description": "“It has been one of the fastest, most sudden shifts I’ve experienced.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 18 Sep 2026 11:00:04 +0000",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1709,17 +1654,6 @@
       "imageUrl": null
     },
     {
-      "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
-      "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
-      "description": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 14:57:37 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
       "description": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
@@ -1731,12 +1665,45 @@
       "imageUrl": null
     },
     {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "description": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew\t\n\nPew Research has published a new global survey that sheds light...",
+      "title": "4 Strategies to Battle ‘Techflation’",
+      "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
+      "description": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sat, 19 Sep 2026 09:22:45 +0000",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai...",
       "source": "The Verge",
       "domain": "theverge.com",
-      "pubDate": "2026-09-17T14:00:00.000Z",
+      "pubDate": "2026-09-18T11:00:00.000Z",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "description": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400",
+      "category": "both",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "description": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold S...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 10:00:10 -0400",
       "category": "ai",
       "score": 67.6,
       "imageUrl": null
@@ -1775,46 +1742,24 @@
       "imageUrl": null
     },
     {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "description": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400",
+      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+      "description": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.\nThe post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 10:57:03 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "description": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "description": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "category": "fraud",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "description": "The round values the data center giant at $30.9 billion.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
-      "category": "ai",
+      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+      "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "description": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.\nThe post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWee...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 09:46:57 +0000",
+      "category": "both",
       "score": 67,
       "imageUrl": null
     },
@@ -1830,17 +1775,6 @@
       "imageUrl": null
     },
     {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "description": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400",
-      "category": "general",
-      "score": 66.6,
-      "imageUrl": null
-    },
-    {
       "title": "Would Australians support a smart glasses ban?",
       "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
       "description": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
@@ -1848,7 +1782,7 @@
       "domain": "bbc.com",
       "pubDate": "Fri, 18 Sep 2026 23:15:10 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1859,7 +1793,7 @@
       "domain": "bbc.com",
       "pubDate": "Sat, 19 Sep 2026 01:00:00 GMT",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1896,14 +1830,25 @@
       "imageUrl": null
     },
     {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+      "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+      "description": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.\nThe post TigerByte Cyber Emerges From Stealth With $3 Million in...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Sat, 19 Sep 2026 14:30:00 +0000",
       "category": "general",
-      "score": 62,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "description": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.\nThe post Critical Orkes Conductor Vulnerability Exploited in Attack...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 18 Sep 2026 08:42:18 +0000",
+      "category": "fraud",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1929,36 +1874,14 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "description": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 09:58:40 -0400",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
       "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "description": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 09:10:19 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "description": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400",
-      "category": "general",
-      "score": 60.6,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1968,39 +1891,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
-      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
-      "description": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.\nThe post NightmareStresser DDoS Service Disrupted in International Operation appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Fri, 18 Sep 2026 10:12:33 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -2017,23 +1907,23 @@
       "imageUrl": null
     },
     {
-      "title": "How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations",
-      "link": "https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html",
-      "description": "Generic questions get generic answers, experts say, so to avoid mediocre recommendations, you’ll need to write smarter prompts. Follow these tips.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 16 Sep 2026 09:02:18 +0000",
+      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+      "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
     },
     {
-      "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
-      "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
-      "description": "Models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
+      "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
+      "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
+      "description": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 16 Sep 2026 13:37:35 +0000",
+      "pubDate": "Thu, 17 Sep 2026 14:57:37 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -2046,6 +1936,17 @@
       "domain": "krebsonsecurity.com",
       "pubDate": "Wed, 16 Sep 2026 18:14:22 +0000",
       "category": "ai",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "description": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400",
+      "category": "general",
       "score": 58.6,
       "imageUrl": null
     },
@@ -2083,17 +1984,6 @@
       "imageUrl": null
     },
     {
-      "title": "4 Strategies to Battle ‘Techflation’",
-      "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
-      "description": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 17 Sep 2026 14:27:16 +0000",
-      "category": "general",
-      "score": 56.5,
-      "imageUrl": null
-    },
-    {
       "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
       "description": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
@@ -2105,23 +1995,67 @@
       "imageUrl": null
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "description": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "description": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400",
+      "pubDate": "Fri, 18 Sep 2026 09:58:40 -0400",
       "category": "general",
       "score": 52.6,
       "imageUrl": null
     },
     {
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "description": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.\nThe post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Boar...",
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "description": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 09:10:19 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "description": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
+      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+      "description": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.\nThe post NightmareStresser DDoS Service Disrupted in International Operation appeared...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Thu, 17 Sep 2026 17:09:40 +0000",
+      "pubDate": "Fri, 18 Sep 2026 10:12:33 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
