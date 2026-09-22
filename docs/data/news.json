@@ -1,57 +1,158 @@
 {
   "metadata": {
-    "generated": "2026-09-22T16:14:22.126Z",
+    "generated": "2026-09-22T22:43:09.940Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 76,
+    "totalArticles": 86,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 76 articles from 8 trusted sources, including 43 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: What to Know About Recent A.I. Hacks\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Cybercriminals Are Hiding New Malware in Torrents for Popular Films\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, The Verge, TechCrunch, Dark Reading, SecurityWeek and others\n• **Fresh Content**: 49 articles published in the last 24 hours",
-    "generated": "2026-09-22T16:14:22.126Z",
+    "content": "Today's selection covers 86 articles from 8 trusted sources, including 56 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: A new skyline of data centres is rising from the rolling plains of rural China\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Microsoft Disrupts EvilTokens Device Code Phishing Service\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, Dark Reading, The Verge, BleepingComputer and others\n• **Fresh Content**: 60 articles published in the last 24 hours",
+    "generated": "2026-09-22T22:43:09.940Z",
     "stats": {
-      "totalArticles": 76,
-      "aiArticles": 43,
+      "totalArticles": 86,
+      "aiArticles": 56,
       "fraudArticles": 13,
       "sources": 8,
-      "todayCount": 49
+      "todayCount": 60
     }
   },
   "top": [
     {
-      "title": "What to Know About Recent A.I. Hacks",
+      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "description": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 22:04:31 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 22:03:48 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+      "link": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+      "description": "The company released a cheaper, faster model that it said was the strongest performer on its most rigorous internal safety tests to date.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 18:06:39 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "description": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 21:12:37 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+      "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+      "description": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 17:12:26 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agenti...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-22T20:52:40.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    }
+  ],
+  "more": [
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "description": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
       "link": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
       "description": "OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Tue, 22 Sep 2026 09:03:32 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
-      "title": "Trump says US is officially renaming AI ‘super intelligence’",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will lau...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-22T16:34:08.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "description": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-22T16:30:00.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "description": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial i...",
+      "description": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renam...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-09-22T16:01:10.000Z",
       "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 b...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 94,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -62,7 +163,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -73,7 +185,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -84,53 +196,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 21 Sep 2026 21:39:59 GMT",
       "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    }
-  ],
-  "more": [
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-      "description": "Victims have been identified in Africa, including in Kenya and Uganda.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 21 Sep 2026 19:11:26 GMT",
-      "category": "fraud",
-      "score": 88.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "category": "ai",
-      "score": 87,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -145,12 +211,45 @@
       "imageUrl": null
     },
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
+      "description": "China is competing with the United States and other nations to develop AI.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+      "link": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "description": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 18:37:12 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
       "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
       "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 15:35:32 +0000",
+      "pubDate": "Tue, 22 Sep 2026 18:47:52 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The A.I. Party House Where Networking Has a Dark Side",
+      "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 20:03:47 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -178,14 +277,25 @@
       "imageUrl": null
     },
     {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-20T18:50:18.000Z",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -200,6 +310,50 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "description": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "description": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 20:02:02 GMT",
+      "category": "both",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+      "description": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 17:32:49 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "description": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 21 Sep 2026 19:11:26 GMT",
+      "category": "fraud",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
       "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
       "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
       "description": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches.\nThe post Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers appeared firs...",
@@ -207,7 +361,73 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 11:55:20 +0000",
       "category": "fraud",
-      "score": 82,
+      "score": 80,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "description": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and jo...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "description": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monit...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 13:17:41 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -218,7 +438,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 22 Sep 2026 04:53:09 -0400",
       "category": "fraud",
-      "score": 80.6,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -229,7 +449,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
       "category": "ai",
-      "score": 80.5,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -240,7 +460,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-22T11:53:58.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -251,29 +471,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 21 Sep 2026 18:10:37 +0000",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
       "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
-      "link": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
-      "description": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 21 Sep 2026 16:53:07 +0000",
-      "category": "ai",
-      "score": 79.5,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -284,7 +493,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -295,7 +504,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -306,7 +515,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 14:29:34 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -317,84 +526,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 11:33:59 +0000",
       "category": "fraud",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-      "description": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign.\nThe post Japan Dismantles First North Korean Laptop Farm as US and Allies De...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 22 Sep 2026 08:37:06 +0000",
-      "category": "ai",
       "score": 77,
       "imageUrl": null
     },
     {
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "description": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400",
+      "pubDate": "Tue, 22 Sep 2026 16:35:24 -0400",
       "category": "fraud",
       "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 21 Sep 2026 22:24:38 +0000",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-      "description": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 21 Sep 2026 20:07:56 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws req...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-21T20:29:45.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "description": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 14:23:11 -0400",
-      "category": "ai",
-      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -409,12 +552,12 @@
       "imageUrl": null
     },
     {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+      "description": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign.\nThe post Japan Dismantles First North Korean Laptop Farm as US and Allies De...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 22 Sep 2026 08:37:06 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -431,36 +574,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "description": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.\nThe post Google Hit With $463 Million Fine fo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 21 Sep 2026 17:19:53 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
-      "link": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
-      "description": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 20 Sep 2026 09:01:40 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 16:12:17 -0400",
+      "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400",
       "category": "fraud",
-      "score": 72.6,
+      "score": 74.6,
+      "imageUrl": null
+    },
+    {
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400",
+      "category": "fraud",
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -475,14 +607,58 @@
       "imageUrl": null
     },
     {
-      "title": "The A.I. Party House Where Networking Has a Dark Side",
-      "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-      "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
+      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+      "link": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "description": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 21 Sep 2026 15:37:40 +0000",
+      "pubDate": "Mon, 21 Sep 2026 16:53:07 +0000",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 21 Sep 2026 18:10:37 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "description": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 21 Sep 2026 20:07:56 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "link": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "description": "Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 19:24:41 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -493,62 +669,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 13:26:51 +0000",
       "category": "general",
-      "score": 70,
+      "score": 68,
       "imageUrl": null
     },
     {
-      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-      "description": "The bug lets attackers automatically install and preview themes and could lead to remote code execution.\nThe post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 22 Sep 2026 10:22:27 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
-      "category": "general",
-      "score": 68.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 22 Sep 2026 14:51:39 GMT",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
-      "link": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "description": "Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 15:55:03 +0000",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-      "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
-      "description": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 15:14:57 +0000",
-      "category": "general",
-      "score": 68.5,
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws req...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-21T20:29:45.000Z",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -574,36 +706,36 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "description": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 10:42:37 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "description": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what c...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 10:02:12 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "description": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 09:16:20 -0400",
+      "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "description": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 21 Sep 2026 14:23:11 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -618,36 +750,102 @@
       "imageUrl": null
     },
     {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 14:15:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "description": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
-      "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-      "description": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.\nThe post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appe...",
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "description": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.\nThe post Google Hit With $463 Million Fine fo...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 21 Sep 2026 15:46:58 +0000",
+      "pubDate": "Mon, 21 Sep 2026 17:19:53 +0000",
       "category": "fraud",
       "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
+      "category": "general",
+      "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 14:51:39 GMT",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+      "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+      "description": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 16:33:29 +0000",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "description": "The bug lets attackers automatically install and preview themes and could lead to remote code execution.\nThe post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 22 Sep 2026 10:22:27 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "description": "The English hospitals recovered patient care data only.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 22 Sep 2026 16:55:40 +0000",
+      "category": "general",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "description": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 17:45:45 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "description": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 m...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 17:40:37 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 21 Sep 2026 16:12:17 -0400",
+      "category": "fraud",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -658,7 +856,7 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 22 Sep 2026 09:01:28 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -669,7 +867,18 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 22 Sep 2026 09:00:22 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+      "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+      "description": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data.\nThe post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 22 Sep 2026 17:58:00 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -680,7 +889,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 22 Sep 2026 11:00:00 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -691,7 +900,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -702,7 +911,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -713,40 +922,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 12:24:30 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "description": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than i...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 20 Sep 2026 10:11:21 -0400",
-      "category": "fraud",
-      "score": 61.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "description": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 13:54:49 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "category": "general",
-      "score": 60,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -772,78 +948,12 @@
       "imageUrl": null
     },
     {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "description": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-20T15:39:22.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "description": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were alw...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-20T12:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google fined €403 million over location data privacy violations",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "description": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 11:41:22 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "description": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 07:45:54 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "description": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 20 Sep 2026 21:41:08 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 20 Sep 2026 20:29:07 +0000",
+      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
@@ -862,36 +972,135 @@
   ],
   "all": [
     {
-      "title": "What to Know About Recent A.I. Hacks",
+      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "description": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 22:04:31 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 22:03:48 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+      "link": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+      "description": "The company released a cheaper, faster model that it said was the strongest performer on its most rigorous internal safety tests to date.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 18:06:39 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "description": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 21:12:37 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+      "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+      "description": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 17:12:26 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agenti...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-22T20:52:40.000Z",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "description": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400",
+      "category": "ai",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
+      "title": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
       "link": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
       "description": "OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Tue, 22 Sep 2026 09:03:32 +0000",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
     },
     {
-      "title": "Trump says US is officially renaming AI ‘super intelligence’",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will lau...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-22T16:34:08.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "description": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-22T16:30:00.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "description": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial i...",
+      "description": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renam...",
       "source": "The Verge",
       "domain": "theverge.com",
       "pubDate": "2026-09-22T16:01:10.000Z",
       "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 b...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 94,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -902,7 +1111,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
+      "imageUrl": null
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -913,7 +1133,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -924,51 +1144,7 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 21 Sep 2026 21:39:59 GMT",
       "category": "ai",
-      "score": 91.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-      "description": "Victims have been identified in Africa, including in Kenya and Uganda.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 21 Sep 2026 19:11:26 GMT",
-      "category": "fraud",
-      "score": 88.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "category": "ai",
-      "score": 87,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -983,12 +1159,45 @@
       "imageUrl": null
     },
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
+      "description": "China is competing with the United States and other nations to develop AI.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+      "link": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "description": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 18:37:12 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
       "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
       "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 15:35:32 +0000",
+      "pubDate": "Tue, 22 Sep 2026 18:47:52 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The A.I. Party House Where Networking Has a Dark Side",
+      "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 20:03:47 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
@@ -1016,14 +1225,25 @@
       "imageUrl": null
     },
     {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-20T18:50:18.000Z",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 82,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1038,6 +1258,50 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "description": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "description": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 20:02:02 GMT",
+      "category": "both",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+      "description": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 22 Sep 2026 17:32:49 GMT",
+      "category": "ai",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "description": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 21 Sep 2026 19:11:26 GMT",
+      "category": "fraud",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
       "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
       "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
       "description": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches.\nThe post Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers appeared firs...",
@@ -1045,7 +1309,73 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 11:55:20 +0000",
       "category": "fraud",
-      "score": 82,
+      "score": 80,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "description": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and jo...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "description": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monit...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 13:17:41 -0400",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1056,7 +1386,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 22 Sep 2026 04:53:09 -0400",
       "category": "fraud",
-      "score": 80.6,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -1067,7 +1397,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
       "category": "ai",
-      "score": 80.5,
+      "score": 78.5,
       "imageUrl": null
     },
     {
@@ -1078,7 +1408,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-22T11:53:58.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1089,29 +1419,18 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400",
       "category": "fraud",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
-      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 21 Sep 2026 18:10:37 +0000",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
       "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
-      "link": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
-      "description": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 21 Sep 2026 16:53:07 +0000",
-      "category": "ai",
-      "score": 79.5,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1122,7 +1441,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1133,7 +1452,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1144,7 +1463,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 14:29:34 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1155,84 +1474,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 11:33:59 +0000",
       "category": "fraud",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-      "description": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign.\nThe post Japan Dismantles First North Korean Laptop Farm as US and Allies De...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 22 Sep 2026 08:37:06 +0000",
-      "category": "ai",
       "score": 77,
       "imageUrl": null
     },
     {
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "description": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400",
+      "pubDate": "Tue, 22 Sep 2026 16:35:24 -0400",
       "category": "fraud",
       "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Mon, 21 Sep 2026 22:24:38 +0000",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-      "description": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Mon, 21 Sep 2026 20:07:56 GMT",
-      "category": "ai",
-      "score": 76.5,
-      "imageUrl": null
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws req...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-21T20:29:45.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400",
-      "category": "fraud",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "description": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 14:23:11 -0400",
-      "category": "ai",
-      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1247,12 +1500,12 @@
       "imageUrl": null
     },
     {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+      "description": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign.\nThe post Japan Dismantles First North Korean Laptop Farm as US and Allies De...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 22 Sep 2026 08:37:06 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1269,36 +1522,25 @@
       "imageUrl": null
     },
     {
-      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "description": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.\nThe post Google Hit With $463 Million Fine fo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Mon, 21 Sep 2026 17:19:53 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
-      "link": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
-      "description": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Sun, 20 Sep 2026 09:01:40 +0000",
-      "category": "ai",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 16:12:17 -0400",
+      "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400",
       "category": "fraud",
-      "score": 72.6,
+      "score": 74.6,
+      "imageUrl": null
+    },
+    {
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400",
+      "category": "fraud",
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -1313,14 +1555,58 @@
       "imageUrl": null
     },
     {
-      "title": "The A.I. Party House Where Networking Has a Dark Side",
-      "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-      "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
+      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+      "link": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "description": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Mon, 21 Sep 2026 15:37:40 +0000",
+      "pubDate": "Mon, 21 Sep 2026 16:53:07 +0000",
       "category": "ai",
       "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "description": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 21 Sep 2026 18:10:37 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "description": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Mon, 21 Sep 2026 20:07:56 GMT",
+      "category": "ai",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "link": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "description": "Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 19:24:41 +0000",
+      "category": "general",
+      "score": 68.5,
       "imageUrl": null
     },
     {
@@ -1331,62 +1617,18 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 13:26:51 +0000",
       "category": "general",
-      "score": 70,
+      "score": 68,
       "imageUrl": null
     },
     {
-      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-      "description": "The bug lets attackers automatically install and preview themes and could lead to remote code execution.\nThe post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 22 Sep 2026 10:22:27 +0000",
-      "category": "general",
-      "score": 70,
-      "imageUrl": null
-    },
-    {
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
-      "category": "general",
-      "score": 68.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 22 Sep 2026 14:51:39 GMT",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
-      "link": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "description": "Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 15:55:03 +0000",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-      "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
-      "description": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 15:14:57 +0000",
-      "category": "general",
-      "score": 68.5,
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws req...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-21T20:29:45.000Z",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1412,36 +1654,36 @@
       "imageUrl": null
     },
     {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "description": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into...",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 10:42:37 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "description": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what c...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 10:02:12 -0400",
-      "category": "ai",
-      "score": 67.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "description": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 09:16:20 -0400",
+      "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "description": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 21 Sep 2026 14:23:11 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1456,36 +1698,102 @@
       "imageUrl": null
     },
     {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 14:15:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "description": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
-      "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-      "description": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.\nThe post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appe...",
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "description": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.\nThe post Google Hit With $463 Million Fine fo...",
       "source": "SecurityWeek",
       "domain": "securityweek.com",
-      "pubDate": "Mon, 21 Sep 2026 15:46:58 +0000",
+      "pubDate": "Mon, 21 Sep 2026 17:19:53 +0000",
       "category": "fraud",
       "score": 67,
+      "imageUrl": null
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
+      "category": "general",
+      "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 14:51:39 GMT",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+      "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+      "description": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 22 Sep 2026 16:33:29 +0000",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "description": "The bug lets attackers automatically install and preview themes and could lead to remote code execution.\nThe post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 22 Sep 2026 10:22:27 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "description": "The English hospitals recovered patient care data only.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 22 Sep 2026 16:55:40 +0000",
+      "category": "general",
+      "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "description": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 17:45:45 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "description": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 m...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 22 Sep 2026 17:40:37 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 21 Sep 2026 16:12:17 -0400",
+      "category": "fraud",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -1496,7 +1804,7 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 22 Sep 2026 09:01:28 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1507,7 +1815,18 @@
       "domain": "nytimes.com",
       "pubDate": "Tue, 22 Sep 2026 09:00:22 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+      "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+      "description": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data.\nThe post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 22 Sep 2026 17:58:00 +0000",
+      "category": "general",
+      "score": 64,
       "imageUrl": null
     },
     {
@@ -1518,7 +1837,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 22 Sep 2026 11:00:00 -0400",
       "category": "general",
-      "score": 64.6,
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1529,7 +1848,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1540,7 +1859,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1551,40 +1870,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 22 Sep 2026 12:24:30 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "description": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than i...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sun, 20 Sep 2026 10:11:21 -0400",
-      "category": "fraud",
-      "score": 61.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "description": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 13:54:49 -0400",
-      "category": "general",
-      "score": 60.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "category": "general",
-      "score": 60,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1610,78 +1896,12 @@
       "imageUrl": null
     },
     {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "description": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-20T15:39:22.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "description": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were alw...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-20T12:00:00.000Z",
-      "category": "ai",
-      "score": 55.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google fined €403 million over location data privacy violations",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "description": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 11:41:22 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "description": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 21 Sep 2026 07:45:54 -0400",
-      "category": "general",
-      "score": 52.6,
-      "imageUrl": null
-    },
-    {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "description": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 20 Sep 2026 21:41:08 +0000",
-      "category": "general",
-      "score": 52,
-      "imageUrl": null
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Sun, 20 Sep 2026 20:29:07 +0000",
+      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
       "category": "general",
       "score": 52,
       "imageUrl": null
