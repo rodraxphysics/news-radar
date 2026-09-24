@@ -1,28 +1,39 @@
 {
   "metadata": {
-    "generated": "2026-09-23T22:40:24.098Z",
+    "generated": "2026-09-24T03:03:56.370Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 99,
+    "totalArticles": 101,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 99 articles from 8 trusted sources, including 65 on Artificial Intelligence and 12 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI and Anthropic bosses push UN for global terms on AI\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, malware\n• **Source Diversity**: Articles sourced from BBC Technology, The Verge, TechCrunch, Dark Reading, SecurityWeek and others\n• **Fresh Content**: 58 articles published in the last 24 hours",
-    "generated": "2026-09-23T22:40:24.098Z",
+    "content": "Today's selection covers 101 articles from 8 trusted sources, including 66 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI agent 'infiltrated' Australian government website, PM says\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ryuk ransomware member sentenced to 24 months in prison\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, TechCrunch, The Verge, Dark Reading and others\n• **Fresh Content**: 64 articles published in the last 24 hours",
+    "generated": "2026-09-24T03:03:56.370Z",
     "stats": {
-      "totalArticles": 99,
-      "aiArticles": 65,
-      "fraudArticles": 12,
+      "totalArticles": 101,
+      "aiArticles": 66,
+      "fraudArticles": 13,
       "sources": 8,
-      "todayCount": 58
+      "todayCount": 64
     }
   },
   "top": [
     {
-      "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 24 Sep 2026 02:23:54 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
       "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "source": "BBC Technology",
@@ -33,12 +44,34 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 22:23:28 GMT",
+      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+      "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+      "description": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 24 Sep 2026 02:50:25 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
+      "link": "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html",
+      "description": "Artificial intelligence again dominated the company’s annual developer conference, as Mark Zuckerberg doubled down on how the technology can empower people.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 24 Sep 2026 00:16:28 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+      "description": "Sam Altman of OpenAI and Dario Amodei of Anthropic told the Security Council that international cooperation was needed to ensure that A.I. remains under human control.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 23:54:20 +0000",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
@@ -51,20 +84,11 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT",
       "category": "ai",
-      "score": 96.5,
+      "score": 94.5,
       "imageUrl": null
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T18:00:00.000Z",
-      "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Anthropic says its biology lab has already found something big",
       "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
@@ -77,6 +101,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "ChatGPT mobile app gets voice-based agentic features",
       "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
@@ -84,11 +119,9 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Even Americans who use AI every day are worried about it",
       "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
@@ -97,7 +130,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -108,51 +141,7 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 23 Sep 2026 14:47:09 GMT",
       "category": "ai",
-      "score": 93.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "description": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge\t\n\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the cr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T11:02:39.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "description": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.\nThe post AI-Powered Phishing Platform EvilTokens Disrupted b...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 11:23:30 +0000",
-      "category": "fraud",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "description": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the co...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T00:17:17.000Z",
-      "category": "ai",
-      "score": 90.6,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -164,6 +153,28 @@
       "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
       "category": "fraud",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+      "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+      "description": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.\nThe post AI-Powered Phishing Platform EvilTokens Disrupted b...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 11:23:30 +0000",
+      "category": "fraud",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -200,17 +211,6 @@
       "imageUrl": null
     },
     {
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "description": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but Yo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T14:30:00.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
       "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "description": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
@@ -233,80 +233,25 @@
       "imageUrl": null
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
       "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
       "description": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 22:37:04 +0000",
+      "pubDate": "Thu, 24 Sep 2026 01:17:17 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
-      "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
-      "description": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
+      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 17:42:39 +0000",
-      "category": "both",
+      "pubDate": "Wed, 23 Sep 2026 23:38:55 +0000",
+      "category": "ai",
       "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agenti...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-22T20:52:40.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will lau...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-22T16:34:08.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of i...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
-      "category": "fraud",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "description": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400",
-      "category": "ai",
-      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -321,36 +266,80 @@
       "imageUrl": null
     },
     {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
+      "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
+      "description": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 17:42:39 +0000",
+      "category": "both",
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of i...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
+      "category": "fraud",
+      "score": 80.6,
       "imageUrl": null
     },
     {
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "description": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 23 Sep 2026 20:53:38 GMT",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentat...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-24T00:15:20.000Z",
       "category": "ai",
-      "score": 80.5,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Muse is coming to Meta smart glasses",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "description": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T23:40:56.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "description": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\t\n\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It'...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T23:37:17.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "description": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways.\nMuse agents are getting their own email a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T23:19:42.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "description": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates f...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T22:45:00.000Z",
+      "category": "both",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -365,23 +354,12 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "description": "An adorable little bear that wants to help you buy things.\t\n\nModern life comes with an unending, auto-populating to-do list. \nIt never ceases to amaze me how I can be doing nothing at all, minding my...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T19:00:00.000Z",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Data centers are black boxes, but California wants to change that",
-      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. \nAs...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T18:22:57.000Z",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "description": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into exec...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -398,36 +376,69 @@
       "imageUrl": null
     },
     {
-      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 03:16:08 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
       "category": "ai",
       "score": 79,
       "imageUrl": null
     },
     {
-      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
       "category": "ai",
       "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "description": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 23 Sep 2026 20:53:38 GMT",
+      "category": "ai",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "description": "An adorable little bear that wants to help you buy things.\t\n\nModern life comes with an unending, auto-populating to-do list. \nIt never ceases to amaze me how I can be doing nothing at all, minding my...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T19:00:00.000Z",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. \nAs...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T18:22:57.000Z",
+      "category": "ai",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -453,14 +464,14 @@
       "imageUrl": null
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explai...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
       "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -475,14 +486,25 @@
       "imageUrl": null
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
       "category": "ai",
       "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explai...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -493,7 +515,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -504,29 +537,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
-      "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
-      "description": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.\nThe post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 12:17:28 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
-      "category": "fraud",
-      "score": 76.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -541,12 +552,12 @@
       "imageUrl": null
     },
     {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
+      "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
+      "description": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.\nThe post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 12:17:28 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -571,6 +582,17 @@
       "pubDate": "Wed, 23 Sep 2026 10:00:00 +0000",
       "category": "ai",
       "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
+      "category": "fraud",
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -651,17 +673,6 @@
       "imageUrl": null
     },
     {
-      "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
-      "link": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
-      "description": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 18:37:12 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "The A.I. Party House Where Networking Has a Dark Side",
       "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
       "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
@@ -670,39 +681,6 @@
       "pubDate": "Tue, 22 Sep 2026 20:03:48 +0000",
       "category": "ai",
       "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
-      "description": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 01:35:56 GMT",
-      "category": "general",
-      "score": 70.5,
-      "imageUrl": null
-    },
-    {
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "description": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400",
-      "category": "general",
-      "score": 68.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
-      "category": "general",
-      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -761,36 +739,14 @@
       "imageUrl": null
     },
     {
-      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 20:05:46 +0000",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
       "category": "general",
       "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "description": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "category": "general",
-      "score": 68,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "description": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.\nThe post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 11:40:59 +0000",
-      "category": "general",
-      "score": 68,
       "imageUrl": null
     },
     {
@@ -802,6 +758,17 @@
       "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
       "category": "ai",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -838,14 +805,25 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "category": "ai",
-      "score": 67,
+      "title": "InfraTrust report warns network management systems under attack",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "description": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400",
+      "category": "general",
+      "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
+      "category": "general",
+      "score": 66.6,
       "imageUrl": null
     },
     {
@@ -855,6 +833,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 23 Sep 2026 15:56:44 GMT",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
+      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 20:05:46 +0000",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
@@ -871,6 +860,28 @@
       "imageUrl": null
     },
     {
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "description": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+      "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "description": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.\nThe post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 11:40:59 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
       "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
       "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
       "description": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.\nThe post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek...",
@@ -879,17 +890,6 @@
       "pubDate": "Wed, 23 Sep 2026 08:33:06 +0000",
       "category": "general",
       "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
-      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-      "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 23 Sep 2026 21:03:01 GMT",
-      "category": "general",
-      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -915,25 +915,14 @@
       "imageUrl": null
     },
     {
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-      "description": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 22 Sep 2026 23:03:48 GMT",
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 23 Sep 2026 21:03:01 GMT",
       "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
-      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
-      "category": "general",
-      "score": 64,
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -948,6 +937,28 @@
       "imageUrl": null
     },
     {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "description": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 01:35:56 GMT",
+      "category": "general",
+      "score": 62.5,
+      "imageUrl": null
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
+      "category": "general",
+      "score": 62,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft: September Windows updates break Always On VPN connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
       "description": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
@@ -955,7 +966,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 07:18:13 -0400",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -966,7 +977,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 14:00:00 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1032,6 +1043,17 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 21 Sep 2026 20:07:56 GMT",
       "category": "ai",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "description": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 23:03:48 GMT",
+      "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
@@ -1115,7 +1137,18 @@
   ],
   "all": [
     {
-      "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 24 Sep 2026 02:23:54 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
       "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "source": "BBC Technology",
@@ -1126,12 +1159,34 @@
       "imageUrl": null
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 22:23:28 GMT",
+      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+      "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+      "description": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 24 Sep 2026 02:50:25 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
+      "link": "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html",
+      "description": "Artificial intelligence again dominated the company’s annual developer conference, as Mark Zuckerberg doubled down on how the technology can empower people.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 24 Sep 2026 00:16:28 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+      "description": "Sam Altman of OpenAI and Dario Amodei of Anthropic told the Security Council that international cooperation was needed to ensure that A.I. remains under human control.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 23:54:20 +0000",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
@@ -1144,18 +1199,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT",
       "category": "ai",
-      "score": 96.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T18:00:00.000Z",
-      "category": "ai",
-      "score": 94.6,
+      "score": 94.5,
       "imageUrl": null
     },
     {
@@ -1170,6 +1214,17 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "category": "ai",
+      "score": 92.6,
+      "imageUrl": null
+    },
+    {
       "title": "ChatGPT mobile app gets voice-based agentic features",
       "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
@@ -1177,7 +1232,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1188,7 +1243,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1199,51 +1254,7 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 23 Sep 2026 14:47:09 GMT",
       "category": "ai",
-      "score": 93.5,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "description": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge\t\n\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the cr...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T11:02:39.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "description": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.\nThe post AI-Powered Phishing Platform EvilTokens Disrupted b...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 11:23:30 +0000",
-      "category": "fraud",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "description": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the co...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T00:17:17.000Z",
-      "category": "ai",
-      "score": 90.6,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -1255,6 +1266,28 @@
       "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
       "category": "fraud",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+      "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+      "description": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.\nThe post AI-Powered Phishing Platform EvilTokens Disrupted b...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 11:23:30 +0000",
+      "category": "fraud",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1291,17 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "description": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but Yo...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T14:30:00.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
       "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "description": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
@@ -1324,80 +1346,25 @@
       "imageUrl": null
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "category": "ai",
-      "score": 83.5,
-      "imageUrl": null
-    },
-    {
       "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
       "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
       "description": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 22:37:04 +0000",
+      "pubDate": "Thu, 24 Sep 2026 01:17:17 +0000",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
-      "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
-      "description": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
+      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 17:42:39 +0000",
-      "category": "both",
+      "pubDate": "Wed, 23 Sep 2026 23:38:55 +0000",
+      "category": "ai",
       "score": 83.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agenti...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-22T20:52:40.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will lau...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-22T16:34:08.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of i...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
-      "category": "fraud",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "description": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400",
-      "category": "ai",
-      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1412,36 +1379,80 @@
       "imageUrl": null
     },
     {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
+      "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
+      "description": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 17:42:39 +0000",
+      "category": "both",
+      "score": 81.5,
       "imageUrl": null
     },
     {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 82,
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of i...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
+      "category": "fraud",
+      "score": 80.6,
       "imageUrl": null
     },
     {
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "description": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 23 Sep 2026 20:53:38 GMT",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentat...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-24T00:15:20.000Z",
       "category": "ai",
-      "score": 80.5,
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Muse is coming to Meta smart glasses",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "description": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T23:40:56.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "description": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\t\n\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It'...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T23:37:17.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "description": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways.\nMuse agents are getting their own email a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T23:19:42.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "description": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates f...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T22:45:00.000Z",
+      "category": "both",
+      "score": 79.6,
       "imageUrl": null
     },
     {
@@ -1456,23 +1467,12 @@
       "imageUrl": null
     },
     {
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "description": "An adorable little bear that wants to help you buy things.\t\n\nModern life comes with an unending, auto-populating to-do list. \nIt never ceases to amaze me how I can be doing nothing at all, minding my...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T19:00:00.000Z",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Data centers are black boxes, but California wants to change that",
-      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. \nAs...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T18:22:57.000Z",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "description": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into exec...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
       "category": "ai",
       "score": 79.6,
       "imageUrl": null
@@ -1489,36 +1489,69 @@
       "imageUrl": null
     },
     {
-      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 03:16:08 +0000",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass...",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
       "category": "ai",
       "score": 79,
       "imageUrl": null
     },
     {
-      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
       "category": "ai",
       "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "description": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 23 Sep 2026 20:53:38 GMT",
+      "category": "ai",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "description": "An adorable little bear that wants to help you buy things.\t\n\nModern life comes with an unending, auto-populating to-do list. \nIt never ceases to amaze me how I can be doing nothing at all, minding my...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T19:00:00.000Z",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. \nAs...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T18:22:57.000Z",
+      "category": "ai",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1544,14 +1577,14 @@
       "imageUrl": null
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explai...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
       "category": "ai",
-      "score": 77.6,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1566,14 +1599,25 @@
       "imageUrl": null
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
       "category": "ai",
       "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explai...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1584,7 +1628,18 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1595,29 +1650,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
-      "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
-      "description": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.\nThe post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 12:17:28 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
-      "category": "fraud",
-      "score": 76.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1632,12 +1665,12 @@
       "imageUrl": null
     },
     {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
+      "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
+      "description": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.\nThe post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 12:17:28 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1662,6 +1695,17 @@
       "pubDate": "Wed, 23 Sep 2026 10:00:00 +0000",
       "category": "ai",
       "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
+      "category": "fraud",
+      "score": 74.6,
       "imageUrl": null
     },
     {
@@ -1742,17 +1786,6 @@
       "imageUrl": null
     },
     {
-      "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
-      "link": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
-      "description": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 22 Sep 2026 18:37:12 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
       "title": "The A.I. Party House Where Networking Has a Dark Side",
       "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
       "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
@@ -1761,39 +1794,6 @@
       "pubDate": "Tue, 22 Sep 2026 20:03:48 +0000",
       "category": "ai",
       "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
-      "description": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 01:35:56 GMT",
-      "category": "general",
-      "score": 70.5,
-      "imageUrl": null
-    },
-    {
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "description": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400",
-      "category": "general",
-      "score": 68.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
-      "category": "general",
-      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -1852,36 +1852,14 @@
       "imageUrl": null
     },
     {
-      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 20:05:46 +0000",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
       "category": "general",
       "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "description": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "category": "general",
-      "score": 68,
-      "imageUrl": null
-    },
-    {
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "description": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.\nThe post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 11:40:59 +0000",
-      "category": "general",
-      "score": 68,
       "imageUrl": null
     },
     {
@@ -1893,6 +1871,17 @@
       "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
       "category": "ai",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "category": "ai",
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1929,14 +1918,25 @@
       "imageUrl": null
     },
     {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "category": "ai",
-      "score": 67,
+      "title": "InfraTrust report warns network management systems under attack",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "description": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400",
+      "category": "general",
+      "score": 66.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
+      "category": "general",
+      "score": 66.6,
       "imageUrl": null
     },
     {
@@ -1946,6 +1946,17 @@
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Wed, 23 Sep 2026 15:56:44 GMT",
+      "category": "general",
+      "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
+      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 20:05:46 +0000",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
@@ -1962,6 +1973,28 @@
       "imageUrl": null
     },
     {
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "description": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
+      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+      "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "description": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.\nThe post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 11:40:59 +0000",
+      "category": "general",
+      "score": 66,
+      "imageUrl": null
+    },
+    {
       "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
       "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
       "description": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.\nThe post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek...",
@@ -1970,17 +2003,6 @@
       "pubDate": "Wed, 23 Sep 2026 08:33:06 +0000",
       "category": "general",
       "score": 66,
-      "imageUrl": null
-    },
-    {
-      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
-      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-      "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 23 Sep 2026 21:03:01 GMT",
-      "category": "general",
-      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -2006,25 +2028,14 @@
       "imageUrl": null
     },
     {
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-      "description": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 22 Sep 2026 23:03:48 GMT",
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 23 Sep 2026 21:03:01 GMT",
       "category": "general",
-      "score": 64.5,
-      "imageUrl": null
-    },
-    {
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
-      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
-      "category": "general",
-      "score": 64,
+      "score": 63.5,
       "imageUrl": null
     },
     {
@@ -2039,6 +2050,28 @@
       "imageUrl": null
     },
     {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "description": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 01:35:56 GMT",
+      "category": "general",
+      "score": 62.5,
+      "imageUrl": null
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
+      "category": "general",
+      "score": 62,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft: September Windows updates break Always On VPN connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
       "description": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
@@ -2046,7 +2079,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 07:18:13 -0400",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -2057,7 +2090,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 14:00:00 +0000",
       "category": "general",
-      "score": 62,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -2123,6 +2156,17 @@
       "domain": "darkreading.com",
       "pubDate": "Mon, 21 Sep 2026 20:07:56 GMT",
       "category": "ai",
+      "score": 56.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "description": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 22 Sep 2026 23:03:48 GMT",
+      "category": "general",
       "score": 56.5,
       "imageUrl": null
     },
