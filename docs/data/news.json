@@ -1,33 +1,44 @@
 {
   "metadata": {
-    "generated": "2026-09-24T03:03:56.370Z",
+    "generated": "2026-09-24T08:59:01.264Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 101,
+    "totalArticles": 104,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 101 articles from 8 trusted sources, including 66 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: OpenAI agent 'infiltrated' Australian government website, PM says\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Ryuk ransomware member sentenced to 24 months in prison\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, TechCrunch, The Verge, Dark Reading and others\n• **Fresh Content**: 64 articles published in the last 24 hours",
-    "generated": "2026-09-24T03:03:56.370Z",
+    "content": "Today's selection covers 104 articles from 8 trusted sources, including 67 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Rogue OpenAI agent 'infiltrated' Australian government website in world first\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, malware\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, TechCrunch, Dark Reading, The Verge and others\n• **Fresh Content**: 65 articles published in the last 24 hours",
+    "generated": "2026-09-24T08:59:01.263Z",
     "stats": {
-      "totalArticles": 101,
-      "aiArticles": 66,
-      "fraudArticles": 13,
+      "totalArticles": 104,
+      "aiArticles": 67,
+      "fraudArticles": 15,
       "sources": 8,
-      "todayCount": 64
+      "todayCount": 65
     }
   },
   "top": [
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 24 Sep 2026 02:23:54 GMT",
+      "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "What you need to know about the OpenAI Australian government hack",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 24 Sep 2026 05:18:26 GMT",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
@@ -40,7 +51,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 23 Sep 2026 22:35:14 GMT",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -51,7 +62,7 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 24 Sep 2026 02:50:25 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -62,7 +73,7 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 24 Sep 2026 00:16:28 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -73,9 +84,11 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 23 Sep 2026 23:54:20 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "OpenAI gives cyber defence tools to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
@@ -86,9 +99,7 @@
       "category": "ai",
       "score": 94.5,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Anthropic says its biology lab has already found something big",
       "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
@@ -96,39 +107,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
-      "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T18:00:00.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Even Americans who use AI every day are worried about it",
-      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
       "category": "ai",
       "score": 92,
       "imageUrl": null
@@ -145,14 +123,36 @@
       "imageUrl": null
     },
     {
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "description": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
-      "category": "fraud",
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -211,6 +211,17 @@
       "imageUrl": null
     },
     {
+      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+      "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "description": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.\nThe post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 24 Sep 2026 08:38:29 +0000",
+      "category": "fraud",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
       "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "description": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
@@ -233,25 +244,25 @@
       "imageUrl": null
     },
     {
-      "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
-      "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
-      "description": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
+      "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+      "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+      "description": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 24 Sep 2026 01:17:17 +0000",
-      "category": "ai",
+      "pubDate": "Thu, 24 Sep 2026 03:53:54 +0000",
+      "category": "fraud",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 23:38:55 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "description": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
+      "category": "fraud",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -266,6 +277,39 @@
       "imageUrl": null
     },
     {
+      "title": "FBI investigates claim by hackers they stole data on all agency staff",
+      "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+      "description": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 21:30:22 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
+      "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
+      "description": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 24 Sep 2026 01:17:17 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 23:38:55 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
       "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
       "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
       "description": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
@@ -273,7 +317,7 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 23 Sep 2026 17:42:39 +0000",
       "category": "both",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -284,7 +328,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
       "category": "fraud",
-      "score": 80.6,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -295,7 +339,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-24T00:15:20.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -306,7 +350,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T23:40:56.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -317,7 +361,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T23:37:17.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -328,7 +372,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T23:19:42.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -339,7 +383,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T22:45:00.000Z",
       "category": "both",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -350,7 +394,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T22:30:00.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -361,7 +405,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -372,7 +416,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 17:25:13 -0400",
       "category": "both",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -383,7 +427,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -394,7 +438,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -405,7 +449,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -416,7 +460,18 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 23 Sep 2026 20:53:38 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+      "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+      "description": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.\nThe post Critical WordPress Vulnerability Exploited Immediately After Disclosure...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 24 Sep 2026 07:12:26 +0000",
+      "category": "fraud",
+      "score": 76,
       "imageUrl": null
     },
     {
@@ -427,7 +482,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T19:00:00.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -438,7 +493,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T18:22:57.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -449,7 +504,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T16:23:05.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -460,40 +515,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400",
       "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "YouTube Music gets more conversational with new AI features",
-      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -505,6 +527,28 @@
       "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
       "category": "ai",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -541,12 +585,12 @@
       "imageUrl": null
     },
     {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -592,29 +636,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
       "category": "fraud",
-      "score": 74.6,
-      "imageUrl": null
-    },
-    {
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
-      "category": "fraud",
       "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "description": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.\nThe post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 07:34:18 +0000",
-      "category": "fraud",
-      "score": 72,
       "imageUrl": null
     },
     {
@@ -739,25 +761,14 @@
       "imageUrl": null
     },
     {
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "description": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and jo...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -827,34 +838,12 @@
       "imageUrl": null
     },
     {
-      "title": "Pornhub investigated over its age checks",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
-      "description": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 15:56:44 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 20:05:46 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
-      "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
-      "description": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 15:18:21 +0000",
+      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
@@ -882,17 +871,6 @@
       "imageUrl": null
     },
     {
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "description": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.\nThe post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 08:33:06 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
       "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
       "description": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
@@ -901,6 +879,28 @@
       "pubDate": "Tue, 22 Sep 2026 19:59:24 GMT",
       "category": "fraud",
       "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "description": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 24 Sep 2026 04:14:47 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
+      "category": "fraud",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -915,23 +915,45 @@
       "imageUrl": null
     },
     {
+      "title": "Pornhub investigated over its age checks",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+      "description": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 15:56:44 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
+      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 20:05:47 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
+      "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+      "description": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 15:18:21 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
       "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
       "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Wed, 23 Sep 2026 21:03:01 GMT",
-      "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "description": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 23 Sep 2026 16:01:00 GMT",
       "category": "general",
       "score": 63.5,
       "imageUrl": null
@@ -948,14 +970,14 @@
       "imageUrl": null
     },
     {
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
-      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
+      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
+      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
+      "description": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 23 Sep 2026 16:01:00 GMT",
       "category": "general",
-      "score": 62,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -976,6 +998,17 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1137,12 +1170,23 @@
   ],
   "all": [
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 24 Sep 2026 02:23:54 GMT",
+      "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "What you need to know about the OpenAI Australian government hack",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 24 Sep 2026 05:18:26 GMT",
       "category": "ai",
       "score": 98.5,
       "imageUrl": null
@@ -1155,7 +1199,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 23 Sep 2026 22:35:14 GMT",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1166,7 +1210,7 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 24 Sep 2026 02:50:25 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1177,7 +1221,7 @@
       "domain": "nytimes.com",
       "pubDate": "Thu, 24 Sep 2026 00:16:28 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1188,7 +1232,7 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 23 Sep 2026 23:54:20 +0000",
       "category": "ai",
-      "score": 98.5,
+      "score": 96.5,
       "imageUrl": null
     },
     {
@@ -1210,39 +1254,6 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
       "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-09-23T18:00:00.000Z",
-      "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "Even Americans who use AI every day are worried about it",
-      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
-      "category": "ai",
       "score": 92,
       "imageUrl": null
     },
@@ -1258,14 +1269,36 @@
       "imageUrl": null
     },
     {
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "description": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
-      "category": "fraud",
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "category": "ai",
       "score": 90.6,
+      "imageUrl": null
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "category": "ai",
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1324,6 +1357,17 @@
       "imageUrl": null
     },
     {
+      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+      "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "description": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.\nThe post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 24 Sep 2026 08:38:29 +0000",
+      "category": "fraud",
+      "score": 85,
+      "imageUrl": null
+    },
+    {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
       "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "description": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
@@ -1346,25 +1390,25 @@
       "imageUrl": null
     },
     {
-      "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
-      "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
-      "description": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
+      "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+      "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+      "description": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Thu, 24 Sep 2026 01:17:17 +0000",
-      "category": "ai",
+      "pubDate": "Thu, 24 Sep 2026 03:53:54 +0000",
+      "category": "fraud",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 23:38:55 +0000",
-      "category": "ai",
-      "score": 83.5,
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "description": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
+      "category": "fraud",
+      "score": 82.6,
       "imageUrl": null
     },
     {
@@ -1379,6 +1423,39 @@
       "imageUrl": null
     },
     {
+      "title": "FBI investigates claim by hackers they stole data on all agency staff",
+      "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+      "description": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 21:30:22 GMT",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
+      "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
+      "description": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 24 Sep 2026 01:17:17 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+      "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+      "description": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversatio...",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 23:38:55 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
       "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
       "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
       "description": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
@@ -1386,7 +1463,7 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 23 Sep 2026 17:42:39 +0000",
       "category": "both",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1397,7 +1474,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
       "category": "fraud",
-      "score": 80.6,
+      "score": 78.6,
       "imageUrl": null
     },
     {
@@ -1408,7 +1485,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-24T00:15:20.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1419,7 +1496,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T23:40:56.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1430,7 +1507,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T23:37:17.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1441,7 +1518,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T23:19:42.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1452,7 +1529,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T22:45:00.000Z",
       "category": "both",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1463,7 +1540,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T22:30:00.000Z",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1474,7 +1551,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
       "category": "ai",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1485,7 +1562,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 17:25:13 -0400",
       "category": "both",
-      "score": 79.6,
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1496,7 +1573,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1507,7 +1584,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1518,7 +1595,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1529,7 +1606,18 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 23 Sep 2026 20:53:38 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+      "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+      "description": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.\nThe post Critical WordPress Vulnerability Exploited Immediately After Disclosure...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 24 Sep 2026 07:12:26 +0000",
+      "category": "fraud",
+      "score": 76,
       "imageUrl": null
     },
     {
@@ -1540,7 +1628,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T19:00:00.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1551,7 +1639,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T18:22:57.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1562,7 +1650,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-09-23T16:23:05.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1573,40 +1661,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400",
       "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "YouTube Music gets more conversational with new AI features",
-      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
-      "category": "ai",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1618,6 +1673,28 @@
       "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
       "category": "ai",
       "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
+      "category": "ai",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1654,12 +1731,12 @@
       "imageUrl": null
     },
     {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.\nThe post Worries About an AI Internet Takeover Gain New Urgency Among Doo...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 18:05:58 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1705,29 +1782,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
       "category": "fraud",
-      "score": 74.6,
-      "imageUrl": null
-    },
-    {
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
-      "category": "fraud",
       "score": 72.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "description": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.\nThe post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 07:34:18 +0000",
-      "category": "fraud",
-      "score": 72,
       "imageUrl": null
     },
     {
@@ -1852,25 +1907,14 @@
       "imageUrl": null
     },
     {
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "description": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and jo...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1940,34 +1984,12 @@
       "imageUrl": null
     },
     {
-      "title": "Pornhub investigated over its age checks",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
-      "description": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 23 Sep 2026 15:56:44 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 20:05:46 +0000",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
-      "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
-      "description": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 23 Sep 2026 15:18:21 +0000",
+      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
@@ -1995,17 +2017,6 @@
       "imageUrl": null
     },
     {
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "description": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.\nThe post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 08:33:06 +0000",
-      "category": "general",
-      "score": 66,
-      "imageUrl": null
-    },
-    {
       "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
       "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
       "description": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
@@ -2014,6 +2025,28 @@
       "pubDate": "Tue, 22 Sep 2026 19:59:24 GMT",
       "category": "fraud",
       "score": 65.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "description": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 24 Sep 2026 04:14:47 -0400",
+      "category": "general",
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
+      "category": "fraud",
+      "score": 64.6,
       "imageUrl": null
     },
     {
@@ -2028,23 +2061,45 @@
       "imageUrl": null
     },
     {
+      "title": "Pornhub investigated over its age checks",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+      "description": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 23 Sep 2026 15:56:44 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
+      "description": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 20:05:47 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
+      "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+      "description": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 23 Sep 2026 15:18:21 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
       "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
       "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Wed, 23 Sep 2026 21:03:01 GMT",
-      "category": "general",
-      "score": 63.5,
-      "imageUrl": null
-    },
-    {
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "description": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 23 Sep 2026 16:01:00 GMT",
       "category": "general",
       "score": 63.5,
       "imageUrl": null
@@ -2061,14 +2116,14 @@
       "imageUrl": null
     },
     {
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
-      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
+      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
+      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
+      "description": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 23 Sep 2026 16:01:00 GMT",
       "category": "general",
-      "score": 62,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -2089,6 +2144,17 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 60,
+      "imageUrl": null
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.\nThe post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Deco...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 23 Sep 2026 19:32:49 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
