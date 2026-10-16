@@ -1,46 +1,68 @@
 {
   "metadata": {
-    "generated": "2026-10-16T08:43:59.070Z",
+    "generated": "2026-10-16T16:02:29.241Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 97,
+    "totalArticles": 99,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 97 articles from 9 trusted sources, including 56 on Artificial Intelligence and 18 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: AI giant Anthropic woos potential investors ahead of stock market debut\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, NY Times Tech, Dark Reading, The Verge, BleepingComputer and others\n• **Fresh Content**: 53 articles published in the last 24 hours",
-    "generated": "2026-10-16T08:43:59.070Z",
+    "content": "Today's selection covers 99 articles from 9 trusted sources, including 56 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Employees using personal ChatGPT at work? Here's what IT admins need to do\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BleepingComputer, TechCrunch, SecurityWeek, Dark Reading, The Verge and others\n• **Fresh Content**: 51 articles published in the last 24 hours",
+    "generated": "2026-10-16T16:02:29.241Z",
     "stats": {
-      "totalArticles": 97,
+      "totalArticles": 99,
       "aiArticles": 56,
-      "fraudArticles": 18,
+      "fraudArticles": 17,
       "sources": 9,
-      "todayCount": 53
+      "todayCount": 51
     }
   },
   "top": [
     {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 11:34:55 GMT",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "description": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investi...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 09:50:59 -0400",
       "category": "ai",
-      "score": 94.5,
+      "score": 94.6,
       "imageUrl": null
     },
     {
-      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-      "description": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 15 Oct 2026 14:51:19 +0000",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "description": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
       "category": "ai",
-      "score": 94.5,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "description": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack.\nThe post In Other News: ICS...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 14:09:51 +0000",
+      "category": "fraud",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+      "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "description": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report.\nThe post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 10:32:11 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -51,7 +73,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 15 Oct 2026 21:55:07 GMT",
       "category": "fraud",
-      "score": 93.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -62,9 +84,11 @@
       "domain": "theverge.com",
       "pubDate": "2026-10-15T22:43:23.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Trump posts AI-edited photo to brag about White House restoration work",
       "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
@@ -73,22 +97,9 @@
       "domain": "theverge.com",
       "pubDate": "2026-10-15T21:09:33.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "description": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental mus...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T14:00:00.000Z",
-      "category": "both",
       "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
       "title": "Android gets AI defenses against messaging scams, fake calls",
       "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
@@ -112,69 +123,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "CikaBika Bot RAT Uses Discord for C&C",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "description": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities.\nThe post CikaBika Bot RAT Uses Discord for C&C appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 11:25:58 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "description": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T14:30:00.000Z",
-      "category": "ai",
-      "score": 87.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
+      "pubDate": "Thu, 15 Oct 2026 11:34:55 GMT",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
     },
     {
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, dark...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Wed, 14 Oct 2026 14:22:49 +0000",
-      "category": "fraud",
-      "score": 85.6,
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "description": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 15 Oct 2026 14:51:19 +0000",
+      "category": "ai",
+      "score": 86.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "description": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-16T15:00:00.000Z",
       "category": "ai",
-      "score": 83.5,
+      "score": 85.6,
       "imageUrl": null
     },
     {
@@ -200,13 +178,13 @@
       "imageUrl": null
     },
     {
-      "title": "Snapchat and Instagram grooming becoming 'easier'",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
-      "description": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "description": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Fri, 16 Oct 2026 05:12:48 GMT",
-      "category": "fraud",
+      "pubDate": "Fri, 16 Oct 2026 15:31:33 GMT",
+      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -222,13 +200,13 @@
       "imageUrl": null
     },
     {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "category": "fraud",
+      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "category": "ai",
       "score": 82,
       "imageUrl": null
     },
@@ -244,14 +222,102 @@
       "imageUrl": null
     },
     {
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "description": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "title": "Snapchat and Instagram grooming becoming 'easier'",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
+      "description": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 14:25:48 GMT",
+      "pubDate": "Fri, 16 Oct 2026 05:12:48 GMT",
+      "category": "fraud",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "description": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 16 Oct 2026 14:00:00 GMT",
+      "category": "fraud",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "description": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 16 Oct 2026 13:00:00 GMT",
       "category": "ai",
-      "score": 79.5,
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab....",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-16T14:02:40.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "description": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-15T14:30:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "description": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 08:01:29 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -262,39 +328,6 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 16 Oct 2026 07:12:51 +0000",
       "category": "fraud",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI....",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T22:35:55.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T21:39:52.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
-      "category": "ai",
       "score": 77,
       "imageUrl": null
     },
@@ -307,6 +340,39 @@
       "pubDate": "Thu, 15 Oct 2026 20:43:20 GMT",
       "category": "ai",
       "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "description": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts.\nThe post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 10:53:22 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI....",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-15T22:35:55.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The tech backlash is now in theaters",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-15T21:39:52.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -343,17 +409,6 @@
       "imageUrl": null
     },
     {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "description": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T14:03:42.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
       "description": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
@@ -365,36 +420,14 @@
       "imageUrl": null
     },
     {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "description": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
-      "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -431,28 +464,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Context Is King in the Fight Against Modern Cyberattacks",
       "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
       "description": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate.\nThe post Context Is King in the Fight Against Modern Cyberattacks appear...",
@@ -475,47 +486,14 @@
       "imageUrl": null
     },
     {
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "description": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.\nThe post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "description": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility.\nThe post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 12:50:42 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-      "description": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT.\nThe post Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 10:15:32 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
-      "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
-      "description": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised.\nThe post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 09:55:19 +0000",
-      "category": "fraud",
-      "score": 75,
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -530,14 +508,14 @@
       "imageUrl": null
     },
     {
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "description": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 15 Oct 2026 15:17:18 GMT",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, dark...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Wed, 14 Oct 2026 14:22:49 +0000",
       "category": "fraud",
-      "score": 73.5,
+      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -552,12 +530,34 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic Finds Ingredients for Future AI Worms",
       "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
       "description": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 13 Oct 2026 20:35:23 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "description": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 15 Oct 2026 14:25:48 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -592,18 +592,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 16 Oct 2026 02:18:08 -0400",
       "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-      "description": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 15 Oct 2026 22:10:08 GMT",
-      "category": "general",
-      "score": 69.5,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -618,14 +607,58 @@
       "imageUrl": null
     },
     {
-      "title": "Russian Influence Operation Widely Targets Latin America",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-      "description": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "category": "ai",
+      "title": "Why No One Can Look Away From Elizabeth Holmes",
+      "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "description": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 16 Oct 2026 13:00:28 +0000",
+      "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+      "description": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover.\nThe post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWee...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 09:54:34 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
+      "title": "Is AI pentesting as good as a human pentester?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "description": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -640,36 +673,36 @@
       "imageUrl": null
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "description": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 14 Oct 2026 15:41:43 -0400",
-      "category": "ai",
-      "score": 67.6,
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "description": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 15 Oct 2026 22:10:08 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "description": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 14 Oct 2026 13:46:50 -0400",
+      "title": "AI agents are coming to Rivian’s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "description": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 14 Oct 2026 13:29:14 -0400",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -706,69 +739,14 @@
       "imageUrl": null
     },
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
+      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
+      "description": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.\nThe post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
       "category": "ai",
       "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-      "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 23:27:57 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Living with a stink? Technology might help",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
-      "category": "general",
-      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -777,9 +755,20 @@
       "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 16 Oct 2026 02:34:29 +0000",
+      "pubDate": "Fri, 16 Oct 2026 09:04:12 +0000",
       "category": "general",
       "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+      "description": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 15 Oct 2026 15:17:18 GMT",
+      "category": "fraud",
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -794,14 +783,25 @@
       "imageUrl": null
     },
     {
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "description": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 16 Oct 2026 03:37:35 -0400",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 15 Oct 2026 23:27:57 GMT",
       "category": "general",
-      "score": 64.6,
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
+      "category": "general",
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -816,14 +816,47 @@
       "imageUrl": null
     },
     {
-      "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
-      "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
-      "description": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 15 Oct 2026 10:52:08 +0000",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "description": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week.\nThe post BAE Systems Security Incident Stalls Notices From US B...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 11:46:40 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "description": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 04:44:22 -0400",
+      "category": "general",
+      "score": 62.6,
+      "imageUrl": null
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "description": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 03:37:35 -0400",
+      "category": "general",
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -834,18 +867,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 16 Oct 2026 07:55:06 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
-      "category": "general",
-      "score": 60.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -855,17 +877,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -904,17 +915,6 @@
       "imageUrl": null
     },
     {
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "description": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 13 Oct 2026 09:34:43 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
       "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
       "description": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate.",
@@ -937,14 +937,14 @@
       "imageUrl": null
     },
     {
-      "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
-      "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
-      "description": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope.\nThe post CISO Conversations: James Robinson – Many Jobs, One Journe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 08:26:40 +0000",
-      "category": "general",
-      "score": 58,
+      "title": "Russian Influence Operation Widely Targets Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+      "description": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
+      "category": "ai",
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -970,12 +970,12 @@
       "imageUrl": null
     },
     {
-      "title": "Rogue A.I. Agents from China Chatted with Researchers",
-      "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-      "description": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.",
+      "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
+      "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+      "description": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 14 Oct 2026 15:21:46 +0000",
+      "pubDate": "Thu, 15 Oct 2026 10:52:08 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -1003,6 +1003,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
       "title": "Figma announces new features to define how agents work on its platform",
       "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "description": "Figma is also releasing its code layers feature in open beta.",
@@ -1025,23 +1047,23 @@
       "imageUrl": null
     },
     {
-      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "description": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 13 Oct 2026 15:59:07 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
       "description": "The plan for an orbiting data centre involves linking satellites around Earth.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 13 Oct 2026 19:45:00 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rogue A.I. Agents from China Chatted with Researchers",
+      "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+      "description": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 14 Oct 2026 15:21:46 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1093,25 +1115,47 @@
   ],
   "all": [
     {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 11:34:55 GMT",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "description": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investi...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 09:50:59 -0400",
       "category": "ai",
-      "score": 94.5,
+      "score": 94.6,
       "imageUrl": null
     },
     {
-      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-      "description": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 15 Oct 2026 14:51:19 +0000",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "description": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
       "category": "ai",
-      "score": 94.5,
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "description": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack.\nThe post In Other News: ICS...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 14:09:51 +0000",
+      "category": "fraud",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+      "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "description": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report.\nThe post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Fi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 10:32:11 +0000",
+      "category": "ai",
+      "score": 94,
       "imageUrl": null
     },
     {
@@ -1122,7 +1166,7 @@
       "domain": "darkreading.com",
       "pubDate": "Thu, 15 Oct 2026 21:55:07 GMT",
       "category": "fraud",
-      "score": 93.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -1133,7 +1177,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-10-15T22:43:23.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1144,17 +1188,6 @@
       "domain": "theverge.com",
       "pubDate": "2026-10-15T21:09:33.000Z",
       "category": "ai",
-      "score": 92.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "description": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental mus...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T14:00:00.000Z",
-      "category": "both",
       "score": 90.6,
       "imageUrl": null
     },
@@ -1181,69 +1214,36 @@
       "imageUrl": null
     },
     {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "category": "ai",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "CikaBika Bot RAT Uses Discord for C&C",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "description": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities.\nThe post CikaBika Bot RAT Uses Discord for C&C appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 11:25:58 +0000",
-      "category": "fraud",
-      "score": 90,
-      "imageUrl": null
-    },
-    {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "description": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T14:30:00.000Z",
-      "category": "ai",
-      "score": 87.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
+      "pubDate": "Thu, 15 Oct 2026 11:34:55 GMT",
       "category": "ai",
       "score": 86.5,
       "imageUrl": null
     },
     {
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, dark...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Wed, 14 Oct 2026 14:22:49 +0000",
-      "category": "fraud",
-      "score": 85.6,
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "description": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 15 Oct 2026 14:51:19 +0000",
+      "category": "ai",
+      "score": 86.5,
       "imageUrl": null
     },
     {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "description": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-16T15:00:00.000Z",
       "category": "ai",
-      "score": 83.5,
+      "score": 85.6,
       "imageUrl": null
     },
     {
@@ -1269,13 +1269,13 @@
       "imageUrl": null
     },
     {
-      "title": "Snapchat and Instagram grooming becoming 'easier'",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
-      "description": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "description": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Fri, 16 Oct 2026 05:12:48 GMT",
-      "category": "fraud",
+      "pubDate": "Fri, 16 Oct 2026 15:31:33 GMT",
+      "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
@@ -1291,13 +1291,13 @@
       "imageUrl": null
     },
     {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "category": "fraud",
+      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "category": "ai",
       "score": 82,
       "imageUrl": null
     },
@@ -1313,14 +1313,102 @@
       "imageUrl": null
     },
     {
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "description": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "title": "Snapchat and Instagram grooming becoming 'easier'",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
+      "description": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 14:25:48 GMT",
+      "pubDate": "Fri, 16 Oct 2026 05:12:48 GMT",
+      "category": "fraud",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "description": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 16 Oct 2026 14:00:00 GMT",
+      "category": "fraud",
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "description": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Fri, 16 Oct 2026 13:00:00 GMT",
       "category": "ai",
-      "score": 79.5,
+      "score": 80.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab....",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-16T14:02:40.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "description": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-15T14:30:00.000Z",
+      "category": "ai",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "description": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 08:01:29 -0400",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "category": "ai",
+      "score": 79,
+      "imageUrl": null
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
+      "category": "ai",
+      "score": 79,
       "imageUrl": null
     },
     {
@@ -1331,39 +1419,6 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 16 Oct 2026 07:12:51 +0000",
       "category": "fraud",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI....",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T22:35:55.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T21:39:52.000Z",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
-      "category": "ai",
       "score": 77,
       "imageUrl": null
     },
@@ -1376,6 +1431,39 @@
       "pubDate": "Thu, 15 Oct 2026 20:43:20 GMT",
       "category": "ai",
       "score": 76.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "description": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts.\nThe post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first o...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 10:53:22 +0000",
+      "category": "fraud",
+      "score": 76,
+      "imageUrl": null
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI....",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-15T22:35:55.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The tech backlash is now in theaters",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-10-15T21:39:52.000Z",
+      "category": "ai",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1412,17 +1500,6 @@
       "imageUrl": null
     },
     {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "description": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-10-15T14:03:42.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
       "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
       "description": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
@@ -1434,36 +1511,14 @@
       "imageUrl": null
     },
     {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "description": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
       "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
-      "category": "ai",
-      "score": 75.6,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1500,28 +1555,6 @@
       "imageUrl": null
     },
     {
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
       "title": "Context Is King in the Fight Against Modern Cyberattacks",
       "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
       "description": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate.\nThe post Context Is King in the Fight Against Modern Cyberattacks appear...",
@@ -1544,47 +1577,14 @@
       "imageUrl": null
     },
     {
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "description": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.\nThe post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
       "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "description": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility.\nThe post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared f...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 12:50:42 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-      "description": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT.\nThe post Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies appeared first on Securit...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 10:15:32 +0000",
-      "category": "fraud",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
-      "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
-      "description": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised.\nThe post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 09:55:19 +0000",
-      "category": "fraud",
-      "score": 75,
+      "score": 74.5,
       "imageUrl": null
     },
     {
@@ -1599,14 +1599,14 @@
       "imageUrl": null
     },
     {
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "description": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 15 Oct 2026 15:17:18 GMT",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, dark...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Wed, 14 Oct 2026 14:22:49 +0000",
       "category": "fraud",
-      "score": 73.5,
+      "score": 73.6,
       "imageUrl": null
     },
     {
@@ -1621,12 +1621,34 @@
       "imageUrl": null
     },
     {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
       "title": "Anthropic Finds Ingredients for Future AI Worms",
       "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
       "description": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
       "source": "Dark Reading",
       "domain": "darkreading.com",
       "pubDate": "Tue, 13 Oct 2026 20:35:23 GMT",
+      "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "description": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 15 Oct 2026 14:25:48 GMT",
       "category": "ai",
       "score": 71.5,
       "imageUrl": null
@@ -1661,18 +1683,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Fri, 16 Oct 2026 02:18:08 -0400",
       "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-      "description": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Thu, 15 Oct 2026 22:10:08 GMT",
-      "category": "general",
-      "score": 69.5,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -1687,14 +1698,58 @@
       "imageUrl": null
     },
     {
-      "title": "Russian Influence Operation Widely Targets Latin America",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-      "description": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "category": "ai",
+      "title": "Why No One Can Look Away From Elizabeth Holmes",
+      "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "description": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Fri, 16 Oct 2026 13:00:28 +0000",
+      "category": "general",
       "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+      "description": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover.\nThe post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWee...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 09:54:34 +0000",
+      "category": "general",
+      "score": 68,
+      "imageUrl": null
+    },
+    {
+      "title": "Is AI pentesting as good as a human pentester?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "description": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
+      "category": "ai",
+      "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
+      "category": "ai",
+      "score": 67.6,
       "imageUrl": null
     },
     {
@@ -1709,36 +1764,36 @@
       "imageUrl": null
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "description": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 14 Oct 2026 15:41:43 -0400",
-      "category": "ai",
-      "score": 67.6,
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "description": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 15 Oct 2026 22:10:08 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "description": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 14 Oct 2026 13:46:50 -0400",
+      "title": "AI agents are coming to Rivian’s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "description": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 14 Oct 2026 13:29:14 -0400",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
       "category": "ai",
-      "score": 67.6,
+      "score": 67,
       "imageUrl": null
     },
     {
@@ -1775,69 +1830,14 @@
       "imageUrl": null
     },
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
+      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
+      "description": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.\nThe post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
       "category": "ai",
       "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-      "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 23:27:57 GMT",
-      "category": "general",
-      "score": 66.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Living with a stink? Technology might help",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
-      "category": "general",
-      "score": 66.5,
       "imageUrl": null
     },
     {
@@ -1846,9 +1846,20 @@
       "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Fri, 16 Oct 2026 02:34:29 +0000",
+      "pubDate": "Fri, 16 Oct 2026 09:04:12 +0000",
       "category": "general",
       "score": 66.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+      "description": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Thu, 15 Oct 2026 15:17:18 GMT",
+      "category": "fraud",
+      "score": 65.5,
       "imageUrl": null
     },
     {
@@ -1863,14 +1874,25 @@
       "imageUrl": null
     },
     {
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "description": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Fri, 16 Oct 2026 03:37:35 -0400",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 15 Oct 2026 23:27:57 GMT",
       "category": "general",
-      "score": 64.6,
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
+      "category": "general",
+      "score": 64.5,
       "imageUrl": null
     },
     {
@@ -1885,14 +1907,47 @@
       "imageUrl": null
     },
     {
-      "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
-      "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
-      "description": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 15 Oct 2026 10:52:08 +0000",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
       "category": "general",
-      "score": 64.5,
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "description": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week.\nThe post BAE Systems Security Incident Stalls Notices From US B...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Fri, 16 Oct 2026 11:46:40 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "description": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 04:44:22 -0400",
+      "category": "general",
+      "score": 62.6,
+      "imageUrl": null
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "description": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Fri, 16 Oct 2026 03:37:35 -0400",
+      "category": "general",
+      "score": 62.6,
       "imageUrl": null
     },
     {
@@ -1903,18 +1958,7 @@
       "domain": "securityweek.com",
       "pubDate": "Fri, 16 Oct 2026 07:55:06 +0000",
       "category": "general",
-      "score": 64,
-      "imageUrl": null
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
-      "category": "general",
-      "score": 60.6,
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1924,17 +1968,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1973,17 +2006,6 @@
       "imageUrl": null
     },
     {
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "description": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 13 Oct 2026 09:34:43 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
       "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
       "description": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate.",
@@ -2006,14 +2028,14 @@
       "imageUrl": null
     },
     {
-      "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
-      "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
-      "description": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope.\nThe post CISO Conversations: James Robinson – Many Jobs, One Journe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Thu, 15 Oct 2026 08:26:40 +0000",
-      "category": "general",
-      "score": 58,
+      "title": "Russian Influence Operation Widely Targets Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+      "description": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
+      "category": "ai",
+      "score": 56.5,
       "imageUrl": null
     },
     {
@@ -2039,12 +2061,12 @@
       "imageUrl": null
     },
     {
-      "title": "Rogue A.I. Agents from China Chatted with Researchers",
-      "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-      "description": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.",
+      "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
+      "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+      "description": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Wed, 14 Oct 2026 15:21:46 +0000",
+      "pubDate": "Thu, 15 Oct 2026 10:52:08 +0000",
       "category": "general",
       "score": 56.5,
       "imageUrl": null
@@ -2072,6 +2094,28 @@
       "imageUrl": null
     },
     {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
+      "category": "general",
+      "score": 52.6,
+      "imageUrl": null
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
+      "category": "general",
+      "score": 52,
+      "imageUrl": null
+    },
+    {
       "title": "Figma announces new features to define how agents work on its platform",
       "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "description": "Figma is also releasing its code layers feature in open beta.",
@@ -2094,23 +2138,23 @@
       "imageUrl": null
     },
     {
-      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "description": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 13 Oct 2026 15:59:07 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
       "description": "The plan for an orbiting data centre involves linking satellites around Earth.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Tue, 13 Oct 2026 19:45:00 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Rogue A.I. Agents from China Chatted with Researchers",
+      "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+      "description": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 14 Oct 2026 15:21:46 +0000",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
