@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "generated": "2026-10-24T22:13:39.121Z",
+    "generated": "2026-10-25T03:07:11.342Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 91,
+    "totalArticles": 86,
     "sources": 8,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 91 articles from 8 trusted sources, including 62 on Artificial Intelligence and 14 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Pennsylvania will require labels on AI-generated ads\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Trust Is Not What It Seems — And Fraudsters Are Counting on It\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from The Verge, TechCrunch, Dark Reading, SecurityWeek, BBC Technology and others\n• **Fresh Content**: 9 articles published in the last 24 hours",
-    "generated": "2026-10-24T22:13:39.121Z",
+    "content": "Today's selection covers 86 articles from 8 trusted sources, including 58 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Pennsylvania will require labels on AI-generated ads\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Trust Is Not What It Seems — And Fraudsters Are Counting on It\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from The Verge, TechCrunch, Dark Reading, NY Times Tech, SecurityWeek and others\n• **Fresh Content**: 8 articles published in the last 24 hours",
+    "generated": "2026-10-25T03:07:11.342Z",
     "stats": {
-      "totalArticles": 91,
-      "aiArticles": 62,
-      "fraudArticles": 14,
+      "totalArticles": 86,
+      "aiArticles": 58,
+      "fraudArticles": 13,
       "sources": 8,
-      "todayCount": 9
+      "todayCount": 8
     }
   },
   "top": [
@@ -29,7 +29,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-10-24T18:32:21.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -40,7 +40,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -50,17 +50,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -77,6 +66,17 @@
       "imageUrl": null
     },
     {
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "description": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 25 Oct 2026 00:10:07 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
       "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment...",
@@ -89,6 +89,17 @@
     }
   ],
   "more": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "category": "ai",
+      "score": 82,
+      "imageUrl": null
+    },
     {
       "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
       "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
@@ -112,28 +123,6 @@
       "imageUrl": null
     },
     {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
       "title": "Block’s new voice model sounds eerily human",
       "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "description": "Block said that the voice model can run locally on a MacBook M4 Max",
@@ -145,6 +134,17 @@
       "imageUrl": null
     },
     {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -152,7 +152,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -163,17 +163,6 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 23 Oct 2026 13:30:00 GMT",
       "category": "fraud",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
-      "link": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-      "description": "The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 21 Oct 2026 22:45:12 +0000",
-      "category": "ai",
       "score": 74.5,
       "imageUrl": null
     },
@@ -197,6 +186,17 @@
       "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
       "category": "ai",
       "score": 73,
+      "imageUrl": null
+    },
+    {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
+      "category": "ai",
+      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -387,17 +387,6 @@
       "imageUrl": null
     },
     {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
       "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
       "description": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.\nThe post In Other News: Tor Exit Relays Hi...",
@@ -508,28 +497,6 @@
       "imageUrl": null
     },
     {
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 21 Oct 2026 23:06:37 GMT",
-      "category": "fraud",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 21 Oct 2026 23:04:03 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
       "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
       "description": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
@@ -541,45 +508,12 @@
       "imageUrl": null
     },
     {
-      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
-      "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-      "description": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 22 Oct 2026 01:21:13 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
       "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
       "description": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint ma...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Thu, 22 Oct 2026 14:51:58 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
-      "link": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
-      "description": "The spending has hurt the Silicon Valley giant’s cash flow, which turned negative. Meta said it would issue a new class of stock to help it raise more money.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 21 Oct 2026 22:42:40 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
-      "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-      "description": "The penalty, one of the largest levied against a tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 21 Oct 2026 22:57:53 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -780,6 +714,17 @@
       "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400",
       "category": "both",
       "score": 55.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
@@ -1034,7 +979,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-10-24T18:32:21.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1045,7 +990,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
       "category": "ai",
-      "score": 94,
+      "score": 92,
       "imageUrl": null
     },
     {
@@ -1055,17 +1000,6 @@
       "source": "TechCrunch",
       "domain": "techcrunch.com",
       "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
       "category": "ai",
       "score": 90,
       "imageUrl": null
@@ -1082,6 +1016,17 @@
       "imageUrl": null
     },
     {
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "description": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Sun, 25 Oct 2026 00:10:07 +0000",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
       "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment...",
@@ -1090,6 +1035,17 @@
       "pubDate": "2026-10-23T21:11:07.000Z",
       "category": "ai",
       "score": 82.6,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "category": "ai",
+      "score": 82,
       "imageUrl": null
     },
     {
@@ -1115,28 +1071,6 @@
       "imageUrl": null
     },
     {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
-      "category": "ai",
-      "score": 79.5,
-      "imageUrl": null
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
-      "category": "ai",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
       "title": "Block’s new voice model sounds eerily human",
       "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "description": "Block said that the voice model can run locally on a MacBook M4 Max",
@@ -1148,6 +1082,17 @@
       "imageUrl": null
     },
     {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -1155,7 +1100,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1166,17 +1111,6 @@
       "domain": "darkreading.com",
       "pubDate": "Fri, 23 Oct 2026 13:30:00 GMT",
       "category": "fraud",
-      "score": 74.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
-      "link": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-      "description": "The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 21 Oct 2026 22:45:12 +0000",
-      "category": "ai",
       "score": 74.5,
       "imageUrl": null
     },
@@ -1200,6 +1134,17 @@
       "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
       "category": "ai",
       "score": 73,
+      "imageUrl": null
+    },
+    {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
+      "category": "ai",
+      "score": 71.5,
       "imageUrl": null
     },
     {
@@ -1390,17 +1335,6 @@
       "imageUrl": null
     },
     {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
       "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
       "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
       "description": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.\nThe post In Other News: Tor Exit Relays Hi...",
@@ -1511,28 +1445,6 @@
       "imageUrl": null
     },
     {
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 21 Oct 2026 23:06:37 GMT",
-      "category": "fraud",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 21 Oct 2026 23:04:03 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
       "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
       "description": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
@@ -1544,45 +1456,12 @@
       "imageUrl": null
     },
     {
-      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
-      "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-      "description": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Thu, 22 Oct 2026 01:21:13 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
       "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
       "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
       "description": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint ma...",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Thu, 22 Oct 2026 14:51:58 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
-      "link": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
-      "description": "The spending has hurt the Silicon Valley giant’s cash flow, which turned negative. Meta said it would issue a new class of stock to help it raise more money.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 21 Oct 2026 22:42:40 +0000",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
-      "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-      "description": "The penalty, one of the largest levied against a tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 21 Oct 2026 22:57:53 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1783,6 +1662,17 @@
       "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400",
       "category": "both",
       "score": 55.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "category": "ai",
+      "score": 55,
       "imageUrl": null
     },
     {
