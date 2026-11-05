@@ -1,26 +1,48 @@
 {
   "metadata": {
-    "generated": "2026-11-05T00:42:46.188Z",
+    "generated": "2026-11-05T11:50:21.306Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 93,
+    "totalArticles": 95,
     "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 93 articles from 9 trusted sources, including 62 on Artificial Intelligence and 15 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Critical Rails Bug Threatens to Derail Vulnerable Servers\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Vercel rolls out new protection against stolen session cookie attacks\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from Dark Reading, The Verge, TechCrunch, BBC Technology, NY Times Tech and others\n• **Fresh Content**: 54 articles published in the last 24 hours",
-    "generated": "2026-11-05T00:42:46.188Z",
+    "content": "Today's selection covers 95 articles from 9 trusted sources, including 64 on Artificial Intelligence and 17 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Big Tech’s big AI buildout will not end until someone stops it\n• **Threat Landscape**: Today's coverage highlights phishing, data breaches, malware\n• **Source Diversity**: Articles sourced from NY Times Tech, SecurityWeek, Dark Reading, The Verge, TechCrunch and others\n• **Fresh Content**: 56 articles published in the last 24 hours",
+    "generated": "2026-11-05T11:50:21.306Z",
     "stats": {
-      "totalArticles": 93,
-      "aiArticles": 62,
-      "fraudArticles": 15,
+      "totalArticles": 95,
+      "aiArticles": 64,
+      "fraudArticles": 17,
       "sources": 9,
-      "todayCount": 54
+      "todayCount": 56
     }
   },
   "top": [
+    {
+      "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+      "description": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 05 Nov 2026 10:00:24 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+      "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+      "description": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.\nThe post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Re...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 10:02:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
     {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
       "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -29,7 +51,7 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 04 Nov 2026 21:48:18 GMT",
       "category": "ai",
-      "score": 95.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -40,18 +62,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T20:23:24.000Z",
       "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
-      "category": "ai",
-      "score": 94,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -62,7 +73,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T18:00:00.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -73,9 +84,11 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T15:58:45.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
@@ -84,20 +97,18 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T14:46:01.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
-      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-      "description": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum Yub...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 04 Nov 2026 01:05:40 GMT",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
       "category": "ai",
-      "score": 91.5,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -123,25 +134,25 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT",
+      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
+      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
+      "description": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum Yub...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 04 Nov 2026 01:05:40 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "description": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 03 Nov 2026 13:51:04 -0500",
+      "title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+      "link": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
+      "description": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 05 Nov 2026 10:03:28 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -156,6 +167,39 @@
       "imageUrl": null
     },
     {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts war...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
+      "category": "ai",
+      "score": 80.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "description": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-05T10:45:00.000Z",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "description": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
@@ -163,7 +207,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 04 Nov 2026 16:26:15 GMT",
       "category": "ai",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -174,127 +218,28 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 04 Nov 2026 18:12:27 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-04T22:42:15.000Z",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pa...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-04T21:45:00.000Z",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "description": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+      "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+      "description": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI.\nThe post CISO Conversations: Ryan Davis – The Unknown Is Where Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 11:00:00 +0000",
       "category": "both",
       "score": 79,
       "imageUrl": null
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+      "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+      "description": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine.\nThe post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Hol...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 10:37:13 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "category": "both",
       "score": 79,
       "imageUrl": null
     },
@@ -310,6 +255,39 @@
       "imageUrl": null
     },
     {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-04T22:42:15.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pa...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-04T21:45:00.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
       "description": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper...",
@@ -317,7 +295,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T18:26:07.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -328,7 +306,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T18:00:00.000Z",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -339,7 +317,29 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T16:05:39.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
+      "category": "both",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "description": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500",
+      "category": "both",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -350,7 +350,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -361,7 +361,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -372,7 +372,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 10:00:10 -0500",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -383,7 +383,84 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 08:13:20 -0500",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "category": "both",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
+      "category": "both",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -394,7 +471,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -405,7 +482,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -416,7 +493,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 14:34:44 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -427,7 +504,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 14:24:54 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -438,7 +515,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 14:09:20 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -448,61 +525,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 12:43:20 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "description": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [......",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500",
-      "category": "fraud",
-      "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "description": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images\t\n\nSearch queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-04T12:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
-      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
-      "description": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions.\nThe post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 10:54:48 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
-      "link": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
-      "description": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers.\nThe post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 10:36:32 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
-      "link": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-      "description": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US.\nThe post North Korea Launches Missiles Toward the Sea as Py...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 09:23:22 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -552,25 +574,14 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 04 Nov 2026 22:26:49 +0000",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "description": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 03 Nov 2026 11:10:37 GMT",
-      "category": "ai",
-      "score": 71.5,
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "description": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500",
+      "category": "fraud",
+      "score": 72.6,
       "imageUrl": null
     },
     {
@@ -607,36 +618,14 @@
       "imageUrl": null
     },
     {
-      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
-      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 03 Nov 2026 08:45:20 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Int...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 03 Nov 2026 02:24:31 +0000",
-      "category": "both",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-      "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-      "description": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 04 Nov 2026 16:24:08 GMT",
+      "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+      "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+      "description": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests.\nThe post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 10:56:41 +0000",
       "category": "general",
-      "score": 69.5,
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -673,17 +662,6 @@
       "imageUrl": null
     },
     {
-      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
-      "link": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
-      "description": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 04 Nov 2026 19:53:16 +0000",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "Binance says fake job interview led to $6.3 billion crypto heist",
       "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "description": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure...",
@@ -692,6 +670,28 @@
       "pubDate": "Tue, 03 Nov 2026 15:05:50 -0500",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Wed, 04 Nov 2026 22:26:49 +0000",
+      "category": "general",
+      "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "description": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 04 Nov 2026 16:24:08 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
@@ -739,36 +739,47 @@
       "imageUrl": null
     },
     {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+      "description": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions.\nThe post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 04 Nov 2026 10:54:48 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "description": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
+      "pubDate": "Thu, 05 Nov 2026 04:18:29 -0500",
       "category": "general",
-      "score": 66.6,
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "link": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "description": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 04 Nov 2026 19:53:16 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "category": "general",
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -779,7 +790,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Wed, 04 Nov 2026 21:38:49 +0000",
       "category": "general",
-      "score": 65.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -790,7 +801,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Wed, 04 Nov 2026 16:06:03 +0000",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -801,7 +812,7 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 04 Nov 2026 14:17:00 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -812,7 +823,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 11:00:18 -0500",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -823,7 +834,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 09:42:25 -0500",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -834,18 +845,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-      "description": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 04 Nov 2026 02:00:00 GMT",
-      "category": "general",
-      "score": 61.5,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -855,28 +855,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 12:27:58 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
-      "link": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
-      "description": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues.\nThe post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 10:38:46 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
-      "link": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
-      "description": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff.\nThe post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 M...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 08:27:05 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -893,12 +871,34 @@
       "imageUrl": null
     },
     {
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "description": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Nov 2026 11:10:37 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
       "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
       "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
       "description": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Nov 2026 23:41:51 +0000",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 03 Nov 2026 08:45:20 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -912,6 +912,28 @@
       "pubDate": "Mon, 02 Nov 2026 18:48:04 +0000",
       "category": "ai",
       "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Int...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 03 Nov 2026 02:24:31 +0000",
+      "category": "both",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
+      "category": "general",
+      "score": 58.6,
       "imageUrl": null
     },
     {
@@ -959,14 +981,14 @@
       "imageUrl": null
     },
     {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT",
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "description": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 04 Nov 2026 02:00:00 GMT",
       "category": "general",
-      "score": 56.5,
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -1003,23 +1025,23 @@
       "imageUrl": null
     },
     {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 02 Nov 2026 07:42:33 GMT",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
@@ -1049,6 +1071,28 @@
   ],
   "all": [
     {
+      "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+      "description": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 05 Nov 2026 10:00:24 +0000",
+      "category": "ai",
+      "score": 98.5,
+      "imageUrl": null
+    },
+    {
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+      "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+      "description": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.\nThe post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Re...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 10:02:00 +0000",
+      "category": "ai",
+      "score": 94,
+      "imageUrl": null
+    },
+    {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
       "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
       "description": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
@@ -1056,7 +1100,7 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 04 Nov 2026 21:48:18 GMT",
       "category": "ai",
-      "score": 95.5,
+      "score": 91.5,
       "imageUrl": null
     },
     {
@@ -1067,18 +1111,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T20:23:24.000Z",
       "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
-      "category": "ai",
-      "score": 94,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1089,7 +1122,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T18:00:00.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1100,7 +1133,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T15:58:45.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
@@ -1111,18 +1144,18 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T14:46:01.000Z",
       "category": "ai",
-      "score": 92.6,
+      "score": 90.6,
       "imageUrl": null
     },
     {
-      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-      "description": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum Yub...",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 04 Nov 2026 01:05:40 GMT",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
       "category": "ai",
-      "score": 91.5,
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1148,25 +1181,25 @@
       "imageUrl": null
     },
     {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT",
+      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
+      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
+      "description": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum Yub...",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 04 Nov 2026 01:05:40 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "description": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 03 Nov 2026 13:51:04 -0500",
+      "title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+      "link": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
+      "description": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Thu, 05 Nov 2026 10:03:28 +0000",
       "category": "ai",
-      "score": 82.6,
+      "score": 83.5,
       "imageUrl": null
     },
     {
@@ -1181,6 +1214,39 @@
       "imageUrl": null
     },
     {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts war...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
+      "category": "ai",
+      "score": 80.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "description": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-05T10:45:00.000Z",
+      "category": "both",
+      "score": 79.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT",
+      "category": "ai",
+      "score": 79.5,
+      "imageUrl": null
+    },
+    {
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "description": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
@@ -1188,7 +1254,7 @@
       "domain": "bbc.com",
       "pubDate": "Wed, 04 Nov 2026 16:26:15 GMT",
       "category": "ai",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1199,127 +1265,28 @@
       "domain": "nytimes.com",
       "pubDate": "Wed, 04 Nov 2026 18:12:27 +0000",
       "category": "ai",
-      "score": 81.5,
+      "score": 79.5,
       "imageUrl": null
     },
     {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-04T22:42:15.000Z",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pa...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-04T21:45:00.000Z",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "description": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500",
-      "category": "both",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-      "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+      "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+      "description": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI.\nThe post CISO Conversations: Ryan Davis – The Unknown Is Where Sec...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 11:00:00 +0000",
       "category": "both",
       "score": 79,
       "imageUrl": null
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+      "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+      "description": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine.\nThe post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Hol...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 10:37:13 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "category": "both",
       "score": 79,
       "imageUrl": null
     },
@@ -1335,6 +1302,39 @@
       "imageUrl": null
     },
     {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "category": "ai",
+      "score": 77,
+      "imageUrl": null
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-04T22:42:15.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pa...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-04T21:45:00.000Z",
+      "category": "ai",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
       "description": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper...",
@@ -1342,7 +1342,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T18:26:07.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1353,7 +1353,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T18:00:00.000Z",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1364,7 +1364,29 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-04T16:05:39.000Z",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
+      "category": "both",
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "description": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500",
+      "category": "both",
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1375,7 +1397,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1386,7 +1408,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1397,7 +1419,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 10:00:10 -0500",
       "category": "both",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1408,7 +1430,84 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 08:13:20 -0500",
       "category": "fraud",
-      "score": 77.6,
+      "score": 75.6,
+      "imageUrl": null
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "category": "both",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
+      "category": "both",
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1419,7 +1518,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1430,7 +1529,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1441,7 +1540,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 14:34:44 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1452,7 +1551,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 14:24:54 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1463,7 +1562,7 @@
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 14:09:20 +0000",
       "category": "ai",
-      "score": 77,
+      "score": 75,
       "imageUrl": null
     },
     {
@@ -1473,61 +1572,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 12:43:20 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "description": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [......",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500",
-      "category": "fraud",
-      "score": 76.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "description": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images\t\n\nSearch queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-04T12:00:00.000Z",
-      "category": "ai",
-      "score": 75.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
-      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
-      "description": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions.\nThe post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appe...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 10:54:48 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
-      "link": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
-      "description": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers.\nThe post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 10:36:32 +0000",
-      "category": "ai",
-      "score": 75,
-      "imageUrl": null
-    },
-    {
-      "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
-      "link": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-      "description": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US.\nThe post North Korea Launches Missiles Toward the Sea as Py...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 09:23:22 +0000",
       "category": "ai",
       "score": 75,
       "imageUrl": null
@@ -1577,25 +1621,14 @@
       "imageUrl": null
     },
     {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Wed, 04 Nov 2026 22:26:49 +0000",
-      "category": "general",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "description": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 03 Nov 2026 11:10:37 GMT",
-      "category": "ai",
-      "score": 71.5,
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "description": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [......",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500",
+      "category": "fraud",
+      "score": 72.6,
       "imageUrl": null
     },
     {
@@ -1632,36 +1665,14 @@
       "imageUrl": null
     },
     {
-      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
-      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 03 Nov 2026 08:45:20 +0000",
-      "category": "ai",
-      "score": 71.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Int...",
-      "source": "Krebs on Security",
-      "domain": "krebsonsecurity.com",
-      "pubDate": "Tue, 03 Nov 2026 02:24:31 +0000",
-      "category": "both",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-      "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-      "description": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 04 Nov 2026 16:24:08 GMT",
+      "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+      "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+      "description": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests.\nThe post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Thu, 05 Nov 2026 10:56:41 +0000",
       "category": "general",
-      "score": 69.5,
+      "score": 70,
       "imageUrl": null
     },
     {
@@ -1698,17 +1709,6 @@
       "imageUrl": null
     },
     {
-      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
-      "link": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
-      "description": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Wed, 04 Nov 2026 19:53:16 +0000",
-      "category": "general",
-      "score": 68.5,
-      "imageUrl": null
-    },
-    {
       "title": "Binance says fake job interview led to $6.3 billion crypto heist",
       "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "description": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure...",
@@ -1717,6 +1717,28 @@
       "pubDate": "Tue, 03 Nov 2026 15:05:50 -0500",
       "category": "fraud",
       "score": 67.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Wed, 04 Nov 2026 22:26:49 +0000",
+      "category": "general",
+      "score": 67.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "description": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 04 Nov 2026 16:24:08 GMT",
+      "category": "general",
+      "score": 67.5,
       "imageUrl": null
     },
     {
@@ -1764,36 +1786,47 @@
       "imageUrl": null
     },
     {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+      "description": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions.\nThe post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appe...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 04 Nov 2026 10:54:48 +0000",
       "category": "ai",
       "score": 67,
       "imageUrl": null
     },
     {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
-      "category": "ai",
-      "score": 67,
-      "imageUrl": null
-    },
-    {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "description": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
-      "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
+      "pubDate": "Thu, 05 Nov 2026 04:18:29 -0500",
       "category": "general",
-      "score": 66.6,
+      "score": 64.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "link": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "description": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Wed, 04 Nov 2026 19:53:16 +0000",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "category": "general",
+      "score": 62,
       "imageUrl": null
     },
     {
@@ -1804,7 +1837,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Wed, 04 Nov 2026 21:38:49 +0000",
       "category": "general",
-      "score": 65.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1815,7 +1848,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Wed, 04 Nov 2026 16:06:03 +0000",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1826,7 +1859,7 @@
       "domain": "darkreading.com",
       "pubDate": "Wed, 04 Nov 2026 14:17:00 GMT",
       "category": "general",
-      "score": 63.5,
+      "score": 61.5,
       "imageUrl": null
     },
     {
@@ -1837,7 +1870,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 11:00:18 -0500",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1848,7 +1881,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Wed, 04 Nov 2026 09:42:25 -0500",
       "category": "general",
-      "score": 62.6,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1859,18 +1892,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
       "category": "general",
-      "score": 62,
-      "imageUrl": null
-    },
-    {
-      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-      "description": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Wed, 04 Nov 2026 02:00:00 GMT",
-      "category": "general",
-      "score": 61.5,
+      "score": 60,
       "imageUrl": null
     },
     {
@@ -1880,28 +1902,6 @@
       "source": "SecurityWeek",
       "domain": "securityweek.com",
       "pubDate": "Wed, 04 Nov 2026 12:27:58 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
-      "link": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
-      "description": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues.\nThe post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on Secur...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 10:38:46 +0000",
-      "category": "general",
-      "score": 60,
-      "imageUrl": null
-    },
-    {
-      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
-      "link": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
-      "description": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff.\nThe post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 M...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Wed, 04 Nov 2026 08:27:05 +0000",
       "category": "general",
       "score": 60,
       "imageUrl": null
@@ -1918,12 +1918,34 @@
       "imageUrl": null
     },
     {
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "description": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Nov 2026 11:10:37 GMT",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
       "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
       "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
       "description": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
       "pubDate": "Mon, 02 Nov 2026 23:41:51 +0000",
+      "category": "ai",
+      "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 03 Nov 2026 08:45:20 +0000",
       "category": "ai",
       "score": 59.5,
       "imageUrl": null
@@ -1937,6 +1959,28 @@
       "pubDate": "Mon, 02 Nov 2026 18:48:04 +0000",
       "category": "ai",
       "score": 59.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Int...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Tue, 03 Nov 2026 02:24:31 +0000",
+      "category": "both",
+      "score": 58.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
+      "category": "general",
+      "score": 58.6,
       "imageUrl": null
     },
     {
@@ -1984,14 +2028,14 @@
       "imageUrl": null
     },
     {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT",
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "description": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Wed, 04 Nov 2026 02:00:00 GMT",
       "category": "general",
-      "score": 56.5,
+      "score": 53.5,
       "imageUrl": null
     },
     {
@@ -2028,23 +2072,23 @@
       "imageUrl": null
     },
     {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT",
+      "category": "general",
+      "score": 44.5,
+      "imageUrl": null
+    },
+    {
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
       "source": "BBC Technology",
       "domain": "bbc.com",
       "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT",
-      "category": "general",
-      "score": 44.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 02 Nov 2026 07:42:33 GMT",
       "category": "general",
       "score": 44.5,
       "imageUrl": null
