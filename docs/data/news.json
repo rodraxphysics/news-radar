@@ -1,26 +1,48 @@
 {
   "metadata": {
-    "generated": "2026-11-17T23:18:43.569Z",
+    "generated": "2026-11-18T05:50:48.418Z",
     "timezone": "UTC",
     "windowDays": 3,
-    "totalArticles": 93,
-    "sources": 8,
+    "totalArticles": 94,
+    "sources": 9,
     "hasNewsAPI": false,
     "hasOpenAI": false
   },
   "summary": {
     "type": "extractive",
-    "content": "Today's selection covers 93 articles from 8 trusted sources, including 65 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Cursor Traces Malicious Claude Code Extension to Third-Party Breach\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Optimizely Vulnerability Exploited to Serve Malware on Major Websites\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from Dark Reading, The Verge, TechCrunch, SecurityWeek, BBC Technology and others\n• **Fresh Content**: 67 articles published in the last 24 hours",
-    "generated": "2026-11-17T23:18:43.569Z",
+    "content": "Today's selection covers 94 articles from 9 trusted sources, including 62 on Artificial Intelligence and 13 on Fraud/Cybersecurity.\n\n• **AI Spotlight**: Nvidia says it won't reinstate Huang as firm reports bumper results\n• **Companies in Focus**: Coverage includes developments from OpenAI, Google, Anthropic\n• **Security Alert**: Attackers Used Optimizely to A/B Test Malware on Top Websites\n• **Threat Landscape**: Today's coverage highlights ransomware, phishing, data breaches\n• **Source Diversity**: Articles sourced from BBC Technology, Krebs on Security, Dark Reading, The Verge, TechCrunch and others\n• **Fresh Content**: 69 articles published in the last 24 hours",
+    "generated": "2026-11-18T05:50:48.418Z",
     "stats": {
-      "totalArticles": 93,
-      "aiArticles": 65,
+      "totalArticles": 94,
+      "aiArticles": 62,
       "fraudArticles": 13,
-      "sources": 8,
-      "todayCount": 67
+      "sources": 9,
+      "todayCount": 69
     }
   },
   "top": [
+    {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
     {
       "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
       "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
@@ -29,7 +51,18 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 17 Nov 2026 18:38:37 GMT",
       "category": "ai",
-      "score": 95.5,
+      "score": 93.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "description": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-17T23:41:18.000Z",
+      "category": "ai",
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -40,7 +73,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-17T21:00:55.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -51,31 +84,11 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-17T18:58:01.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
-    },
-    {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
-      "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-      "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-      "description": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards.\nThe post California Sues OpenAI, Seeking Court-Order...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 92,
-      "imageUrl": null
-    },
+    }
+  ],
+  "more": [
     {
       "title": "US government confirms investigation into tech firm Megaspeed",
       "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
@@ -86,18 +99,27 @@
       "category": "ai",
       "score": 91.5,
       "imageUrl": null
-    }
-  ],
-  "more": [
+    },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
       "category": "ai",
-      "score": 91.5,
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+      "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+      "description": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards.\nThe post California Sues OpenAI, Seeking Court-Order...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -106,31 +128,9 @@
       "description": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Nov 2026 19:55:48 +0000",
+      "pubDate": "Tue, 17 Nov 2026 23:48:31 +0000",
       "category": "ai",
-      "score": 89.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-      "description": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA.\nThe post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 10:22:20 +0000",
-      "category": "fraud",
-      "score": 87,
-      "imageUrl": null
-    },
-    {
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 17 Nov 2026 22:32:16 +0000",
-      "category": "fraud",
-      "score": 86.5,
+      "score": 87.5,
       "imageUrl": null
     },
     {
@@ -156,14 +156,14 @@
       "imageUrl": null
     },
     {
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "description": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 16 Nov 2026 04:02:59 +0000",
-      "category": "ai",
-      "score": 86.5,
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 17 Nov 2026 22:32:16 +0000",
+      "category": "fraud",
+      "score": 84.5,
       "imageUrl": null
     },
     {
@@ -174,7 +174,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-17T21:40:59.000Z",
       "category": "ai",
-      "score": 85.6,
+      "score": 83.6,
       "imageUrl": null
     },
     {
@@ -184,50 +184,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500",
-      "category": "ai",
-      "score": 85.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "description": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-17T16:19:03.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.\n\"S...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-17T16:09:57.000Z",
       "category": "ai",
       "score": 83.6,
       "imageUrl": null
@@ -255,45 +211,56 @@
       "imageUrl": null
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 01:47:57 GMT",
+      "pubDate": "Wed, 18 Nov 2026 05:33:13 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-      "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-      "description": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Nov 2026 21:39:25 +0000",
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "description": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Nov 2026 05:10:02 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:05:30 +0000",
+      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
       "category": "ai",
       "score": 83,
       "imageUrl": null
     },
     {
-      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-      "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-      "description": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion.\nThe post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:51:54 +0000",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
       "category": "ai",
       "score": 83,
       "imageUrl": null
@@ -321,17 +288,6 @@
       "imageUrl": null
     },
     {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electric...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-16T20:27:58.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
       "description": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to p...",
@@ -343,80 +299,47 @@
       "imageUrl": null
     },
     {
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "description": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing vis...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
-      "category": "fraud",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-17T16:19:03.000Z",
+      "category": "ai",
       "score": 81.6,
       "imageUrl": null
     },
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.\n\"S...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-17T16:09:57.000Z",
+      "category": "ai",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+      "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+      "description": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Nov 2026 23:17:38 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+      "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+      "description": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion.\nThe post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:51:54 +0000",
       "category": "ai",
       "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "description": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Nov 2026 22:34:22 GMT",
-      "category": "fraud",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-      "description": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Nov 2026 20:58:13 GMT",
-      "category": "both",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "description": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "description": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affec...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "description": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 23:25:53 GMT",
-      "category": "ai",
-      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -431,14 +354,47 @@
       "imageUrl": null
     },
     {
-      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-      "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-      "description": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Nov 2026 02:15:57 +0000",
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "description": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Nov 2026 22:34:22 GMT",
       "category": "fraud",
-      "score": 79.5,
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "description": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Nov 2026 20:58:13 GMT",
+      "category": "both",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "description": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "description": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affec...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500",
+      "category": "ai",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -449,7 +405,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 22:29:05 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -460,7 +416,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 21:34:50 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -471,7 +427,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 19:32:11 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -482,7 +438,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 19:02:20 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -493,7 +449,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 18:48:23 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -504,7 +460,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 18:10:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -515,18 +471,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 18:04:16 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -537,7 +482,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Nov 2026 18:16:17 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -548,7 +493,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Tue, 17 Nov 2026 14:00:29 +0000",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -559,7 +504,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 17 Nov 2026 13:12:56 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -570,7 +515,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -581,117 +526,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500",
       "category": "both",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "description": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:26:46 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-      "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-      "description": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.\nThe post Market Research Giant Ipsos Investigating Breach of Internal System  appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 14:55:30 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-      "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-      "description": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.\nThe post Fandango Warns Ticket Buyers of Payment Card D...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 14:14:24 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-      "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-      "description": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.\nThe post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-      "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-      "description": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files.\nThe post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 13:24:43 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Access Dental Management Data Breach Impacts Over 340,000",
-      "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-      "description": "Hackers breached Access Dental’s network and stole personal, health, and insurance information.\nThe post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:59:04 +0000",
-      "category": "fraud",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -728,13 +563,123 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "description": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 23:03:39 GMT",
-      "category": "general",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "description": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 14:26:46 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+      "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+      "description": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.\nThe post Market Research Giant Ipsos Investigating Breach of Internal System  appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 14:55:30 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+      "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+      "description": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.\nThe post Fandango Warns Ticket Buyers of Payment Card D...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 14:14:24 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+      "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+      "description": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.\nThe post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+      "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
+      "description": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files.\nThe post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 13:24:43 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Access Dental Management Data Breach Impacts Over 340,000",
+      "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+      "description": "Hackers breached Access Dental’s network and stole personal, health, and insurance information.\nThe post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:59:04 +0000",
+      "category": "fraud",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "description": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 16 Nov 2026 04:02:59 +0000",
+      "category": "ai",
       "score": 74.5,
       "imageUrl": null
     },
@@ -750,13 +695,35 @@
       "imageUrl": null
     },
     {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "description": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing vis...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
+      "category": "fraud",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "description": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 03:04:01 GMT",
+      "pubDate": "Mon, 16 Nov 2026 23:25:53 GMT",
       "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+      "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "description": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Nov 2026 02:15:57 +0000",
+      "category": "fraud",
       "score": 71.5,
       "imageUrl": null
     },
@@ -772,6 +739,28 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Nov 2026 01:44:21 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
       "description": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, includin...",
@@ -779,7 +768,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 18:04:21 -0500",
       "category": "general",
-      "score": 70.6,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -790,7 +779,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 16:27:17 -0500",
       "category": "general",
-      "score": 70.6,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -801,18 +790,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500",
       "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
-      "category": "general",
-      "score": 70,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -838,34 +816,45 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
-      "description": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 20:30:00 GMT",
+      "pubDate": "Wed, 18 Nov 2026 03:07:22 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Nov 2026 00:00:24 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 16:44:15 +0000",
+      "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000",
       "category": "general",
       "score": 68,
       "imageUrl": null
     },
     {
-      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-      "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-      "description": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild.\nThe post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:28:45 +0000",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
       "category": "general",
       "score": 68,
       "imageUrl": null
@@ -893,36 +882,36 @@
       "imageUrl": null
     },
     {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "description": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 14:25:45 GMT",
+      "pubDate": "Tue, 17 Nov 2026 20:30:00 GMT",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
     },
     {
-      "title": "NHS data contract to stay with Palantir until 2029",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 12:00:12 GMT",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 16:44:15 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 11:49:01 GMT",
+      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+      "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+      "description": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild.\nThe post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:28:45 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -937,6 +926,39 @@
       "imageUrl": null
     },
     {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 14:25:45 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "NHS data contract to stay with Palantir until 2029",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+      "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 12:00:12 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 11:49:01 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
       "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
       "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
@@ -948,6 +970,17 @@
       "imageUrl": null
     },
     {
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "description": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency.\nThe post Classified Communications Network at the National Security Agency Goes Down, Def...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Nov 2026 02:15:07 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
       "description": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
@@ -955,29 +988,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 13:34:22 GMT",
-      "category": "general",
-      "score": 56.5,
+      "score": 60.6,
       "imageUrl": null
     },
     {
@@ -1049,6 +1060,28 @@
   ],
   "all": [
     {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT",
+      "category": "ai",
+      "score": 95.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps...",
+      "source": "Krebs on Security",
+      "domain": "krebsonsecurity.com",
+      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "category": "fraud",
+      "score": 94.6,
+      "imageUrl": null
+    },
+    {
       "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
       "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
       "description": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
@@ -1056,7 +1089,18 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 17 Nov 2026 18:38:37 GMT",
       "category": "ai",
-      "score": 95.5,
+      "score": 93.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "description": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-17T23:41:18.000Z",
+      "category": "ai",
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1067,7 +1111,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-17T21:00:55.000Z",
       "category": "ai",
-      "score": 94.6,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1078,29 +1122,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-17T18:58:01.000Z",
       "category": "ai",
-      "score": 94.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
-      "category": "ai",
-      "score": 94,
-      "imageUrl": null
-    },
-    {
-      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-      "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-      "description": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards.\nThe post California Sues OpenAI, Seeking Court-Order...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "category": "ai",
-      "score": 92,
+      "score": 92.6,
       "imageUrl": null
     },
     {
@@ -1115,14 +1137,25 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
       "category": "ai",
-      "score": 91.5,
+      "score": 90,
+      "imageUrl": null
+    },
+    {
+      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+      "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+      "description": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards.\nThe post California Sues OpenAI, Seeking Court-Order...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "category": "ai",
+      "score": 90,
       "imageUrl": null
     },
     {
@@ -1131,31 +1164,9 @@
       "description": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
       "source": "NY Times Tech",
       "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Nov 2026 19:55:48 +0000",
+      "pubDate": "Tue, 17 Nov 2026 23:48:31 +0000",
       "category": "ai",
-      "score": 89.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-      "description": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA.\nThe post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWee...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 10:22:20 +0000",
-      "category": "fraud",
-      "score": 87,
-      "imageUrl": null
-    },
-    {
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "source": "Ars Technica",
-      "domain": "arstechnica.com",
-      "pubDate": "Tue, 17 Nov 2026 22:32:16 +0000",
-      "category": "fraud",
-      "score": 86.5,
+      "score": 87.5,
       "imageUrl": null
     },
     {
@@ -1181,14 +1192,14 @@
       "imageUrl": null
     },
     {
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "description": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Mon, 16 Nov 2026 04:02:59 +0000",
-      "category": "ai",
-      "score": 86.5,
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "source": "Ars Technica",
+      "domain": "arstechnica.com",
+      "pubDate": "Tue, 17 Nov 2026 22:32:16 +0000",
+      "category": "fraud",
+      "score": 84.5,
       "imageUrl": null
     },
     {
@@ -1199,7 +1210,7 @@
       "domain": "theverge.com",
       "pubDate": "2026-11-17T21:40:59.000Z",
       "category": "ai",
-      "score": 85.6,
+      "score": 83.6,
       "imageUrl": null
     },
     {
@@ -1209,50 +1220,6 @@
       "source": "BleepingComputer",
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500",
-      "category": "ai",
-      "score": 85.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "description": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
-      "category": "ai",
-      "score": 85,
-      "imageUrl": null
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-17T16:19:03.000Z",
-      "category": "ai",
-      "score": 83.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.\n\"S...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-17T16:09:57.000Z",
       "category": "ai",
       "score": 83.6,
       "imageUrl": null
@@ -1280,45 +1247,56 @@
       "imageUrl": null
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 01:47:57 GMT",
+      "pubDate": "Wed, 18 Nov 2026 05:33:13 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-      "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-      "description": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Nov 2026 21:39:25 +0000",
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "description": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Nov 2026 05:10:02 GMT",
       "category": "ai",
       "score": 83.5,
       "imageUrl": null
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "category": "ai",
+      "score": 83.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:05:30 +0000",
+      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
       "category": "ai",
       "score": 83,
       "imageUrl": null
     },
     {
-      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-      "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-      "description": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion.\nThe post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity ap...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:51:54 +0000",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
       "category": "ai",
       "score": 83,
       "imageUrl": null
@@ -1346,17 +1324,6 @@
       "imageUrl": null
     },
     {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electric...",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "pubDate": "2026-11-16T20:27:58.000Z",
-      "category": "ai",
-      "score": 82.6,
-      "imageUrl": null
-    },
-    {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
       "description": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to p...",
@@ -1368,80 +1335,47 @@
       "imageUrl": null
     },
     {
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "description": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing vis...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
-      "category": "fraud",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-17T16:19:03.000Z",
+      "category": "ai",
       "score": 81.6,
       "imageUrl": null
     },
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.\n\"S...",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "pubDate": "2026-11-17T16:09:57.000Z",
+      "category": "ai",
+      "score": 81.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+      "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+      "description": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Nov 2026 23:17:38 +0000",
+      "category": "ai",
+      "score": 81.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+      "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+      "description": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion.\nThe post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity ap...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:51:54 +0000",
       "category": "ai",
       "score": 81,
-      "imageUrl": null
-    },
-    {
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "description": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Nov 2026 22:34:22 GMT",
-      "category": "fraud",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-      "description": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
-      "source": "Dark Reading",
-      "domain": "darkreading.com",
-      "pubDate": "Tue, 17 Nov 2026 20:58:13 GMT",
-      "category": "both",
-      "score": 80.5,
-      "imageUrl": null
-    },
-    {
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "description": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "description": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affec...",
-      "source": "BleepingComputer",
-      "domain": "bleepingcomputer.com",
-      "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500",
-      "category": "ai",
-      "score": 79.6,
-      "imageUrl": null
-    },
-    {
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "description": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 23:25:53 GMT",
-      "category": "ai",
-      "score": 79.5,
       "imageUrl": null
     },
     {
@@ -1456,14 +1390,47 @@
       "imageUrl": null
     },
     {
-      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-      "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-      "description": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
-      "source": "NY Times Tech",
-      "domain": "nytimes.com",
-      "pubDate": "Tue, 17 Nov 2026 02:15:57 +0000",
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "description": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Nov 2026 22:34:22 GMT",
       "category": "fraud",
-      "score": 79.5,
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "description": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+      "source": "Dark Reading",
+      "domain": "darkreading.com",
+      "pubDate": "Tue, 17 Nov 2026 20:58:13 GMT",
+      "category": "both",
+      "score": 78.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "description": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500",
+      "category": "ai",
+      "score": 77.6,
+      "imageUrl": null
+    },
+    {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "description": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affec...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500",
+      "category": "ai",
+      "score": 77.6,
       "imageUrl": null
     },
     {
@@ -1474,7 +1441,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 22:29:05 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1485,7 +1452,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 21:34:50 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1496,7 +1463,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 19:32:11 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1507,7 +1474,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 19:02:20 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1518,7 +1485,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 18:48:23 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1529,7 +1496,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 18:10:00 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1540,18 +1507,7 @@
       "domain": "techcrunch.com",
       "pubDate": "Tue, 17 Nov 2026 18:04:16 +0000",
       "category": "ai",
-      "score": 79,
-      "imageUrl": null
-    },
-    {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1562,7 +1518,7 @@
       "domain": "securityweek.com",
       "pubDate": "Tue, 17 Nov 2026 18:16:17 +0000",
       "category": "ai",
-      "score": 79,
+      "score": 77,
       "imageUrl": null
     },
     {
@@ -1573,7 +1529,7 @@
       "domain": "arstechnica.com",
       "pubDate": "Tue, 17 Nov 2026 14:00:29 +0000",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1584,7 +1540,7 @@
       "domain": "darkreading.com",
       "pubDate": "Tue, 17 Nov 2026 13:12:56 GMT",
       "category": "ai",
-      "score": 78.5,
+      "score": 76.5,
       "imageUrl": null
     },
     {
@@ -1595,7 +1551,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500",
       "category": "ai",
-      "score": 77.6,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1606,117 +1562,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500",
       "category": "both",
-      "score": 77.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "description": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:26:46 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in...",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-      "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-      "description": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.\nThe post Market Research Giant Ipsos Investigating Breach of Internal System  appeared...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 14:55:30 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-      "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-      "description": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.\nThe post Fandango Warns Ticket Buyers of Payment Card D...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 14:14:24 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-      "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-      "description": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.\nThe post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-      "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-      "description": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files.\nThe post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on Securi...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 13:24:43 +0000",
-      "category": "ai",
-      "score": 77,
-      "imageUrl": null
-    },
-    {
-      "title": "Access Dental Management Data Breach Impacts Over 340,000",
-      "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-      "description": "Hackers breached Access Dental’s network and stole personal, health, and insurance information.\nThe post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:59:04 +0000",
-      "category": "fraud",
-      "score": 77,
+      "score": 75.6,
       "imageUrl": null
     },
     {
@@ -1753,13 +1599,123 @@
       "imageUrl": null
     },
     {
-      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "description": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 23:03:39 GMT",
-      "category": "general",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "description": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 14:26:46 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+      "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+      "description": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.\nThe post Market Research Giant Ipsos Investigating Breach of Internal System  appeared...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 14:55:30 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+      "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+      "description": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.\nThe post Fandango Warns Ticket Buyers of Payment Card D...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 14:14:24 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+      "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+      "description": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.\nThe post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+      "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
+      "description": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files.\nThe post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on Securi...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 13:24:43 +0000",
+      "category": "ai",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Access Dental Management Data Breach Impacts Over 340,000",
+      "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+      "description": "Hackers breached Access Dental’s network and stole personal, health, and insurance information.\nThe post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:59:04 +0000",
+      "category": "fraud",
+      "score": 75,
+      "imageUrl": null
+    },
+    {
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "description": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Mon, 16 Nov 2026 04:02:59 +0000",
+      "category": "ai",
       "score": 74.5,
       "imageUrl": null
     },
@@ -1775,13 +1731,35 @@
       "imageUrl": null
     },
     {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "description": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing vis...",
+      "source": "BleepingComputer",
+      "domain": "bleepingcomputer.com",
+      "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
+      "category": "fraud",
+      "score": 73.6,
+      "imageUrl": null
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "description": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 03:04:01 GMT",
+      "pubDate": "Mon, 16 Nov 2026 23:25:53 GMT",
       "category": "ai",
+      "score": 71.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+      "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "description": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+      "source": "NY Times Tech",
+      "domain": "nytimes.com",
+      "pubDate": "Tue, 17 Nov 2026 02:15:57 +0000",
+      "category": "fraud",
       "score": 71.5,
       "imageUrl": null
     },
@@ -1797,6 +1775,28 @@
       "imageUrl": null
     },
     {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Nov 2026 01:44:21 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
+      "category": "general",
+      "score": 70,
+      "imageUrl": null
+    },
+    {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
       "description": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, includin...",
@@ -1804,7 +1804,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 18:04:21 -0500",
       "category": "general",
-      "score": 70.6,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -1815,7 +1815,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 16:27:17 -0500",
       "category": "general",
-      "score": 70.6,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -1826,18 +1826,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500",
       "category": "general",
-      "score": 70.6,
-      "imageUrl": null
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "source": "TechCrunch",
-      "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
-      "category": "general",
-      "score": 70,
+      "score": 68.6,
       "imageUrl": null
     },
     {
@@ -1863,34 +1852,45 @@
       "imageUrl": null
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
-      "description": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 20:30:00 GMT",
+      "pubDate": "Wed, 18 Nov 2026 03:07:22 GMT",
       "category": "general",
       "score": 68.5,
       "imageUrl": null
     },
     {
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Wed, 18 Nov 2026 00:00:24 GMT",
+      "category": "general",
+      "score": 68.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
       "source": "TechCrunch",
       "domain": "techcrunch.com",
-      "pubDate": "Tue, 17 Nov 2026 16:44:15 +0000",
+      "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000",
       "category": "general",
       "score": 68,
       "imageUrl": null
     },
     {
-      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-      "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-      "description": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild.\nThe post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityW...",
-      "source": "SecurityWeek",
-      "domain": "securityweek.com",
-      "pubDate": "Tue, 17 Nov 2026 12:28:45 +0000",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
       "category": "general",
       "score": 68,
       "imageUrl": null
@@ -1918,36 +1918,36 @@
       "imageUrl": null
     },
     {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "description": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "source": "BBC Technology",
       "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 14:25:45 GMT",
+      "pubDate": "Tue, 17 Nov 2026 20:30:00 GMT",
       "category": "general",
       "score": 66.5,
       "imageUrl": null
     },
     {
-      "title": "NHS data contract to stay with Palantir until 2029",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 12:00:12 GMT",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "pubDate": "Tue, 17 Nov 2026 16:44:15 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Tue, 17 Nov 2026 11:49:01 GMT",
+      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+      "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+      "description": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild.\nThe post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityW...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Tue, 17 Nov 2026 12:28:45 +0000",
       "category": "general",
-      "score": 66.5,
+      "score": 66,
       "imageUrl": null
     },
     {
@@ -1962,6 +1962,39 @@
       "imageUrl": null
     },
     {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 14:25:45 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "NHS data contract to stay with Palantir until 2029",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+      "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 12:00:12 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "source": "BBC Technology",
+      "domain": "bbc.com",
+      "pubDate": "Tue, 17 Nov 2026 11:49:01 GMT",
+      "category": "general",
+      "score": 64.5,
+      "imageUrl": null
+    },
+    {
       "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
       "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
       "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
@@ -1973,6 +2006,17 @@
       "imageUrl": null
     },
     {
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "description": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency.\nThe post Classified Communications Network at the National Security Agency Goes Down, Def...",
+      "source": "SecurityWeek",
+      "domain": "securityweek.com",
+      "pubDate": "Wed, 18 Nov 2026 02:15:07 +0000",
+      "category": "general",
+      "score": 64,
+      "imageUrl": null
+    },
+    {
       "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
       "description": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
@@ -1980,29 +2024,7 @@
       "domain": "bleepingcomputer.com",
       "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500",
       "category": "general",
-      "score": 62.6,
-      "imageUrl": null
-    },
-    {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "category": "ai",
-      "score": 59.5,
-      "imageUrl": null
-    },
-    {
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "source": "BBC Technology",
-      "domain": "bbc.com",
-      "pubDate": "Mon, 16 Nov 2026 13:34:22 GMT",
-      "category": "general",
-      "score": 56.5,
+      "score": 60.6,
       "imageUrl": null
     },
     {
